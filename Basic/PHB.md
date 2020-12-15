@@ -185,7 +185,7 @@ Knowledge represents your ability to recall important events, the names and deta
 
 ### Lore (INT)
 
-Although most worldy facts can be recalled using the knowledge skill, everything else can be recalled with the lore skill. This means obscure cults and religions, secret organizations and their leaders, the occult, monsters, or magical artifacts.
+Although most worldy facts can be recalled using the knowledge skill, everything else can be recalled with the lore skill. This means obscure cults and religions, secret organizations and their leaders, the occult, monsters, or magical artifacts. This skill can also be used to perform research on a topic you are not knowledgeable in, assuming you have access to research materials.
 
 ### Medicine (INT)
 
@@ -205,23 +205,31 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 # Combat Skills
 
-Although combat skills are advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with a skill required to use that weapon (normally Dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally Strength or Dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
 
-#### Finesse (Dex)
+#### Finesse (DEX)
 
-Combat with small or fine weapons. This skill is dedicated utilizing fast attacks to constantly threaten opponents and find openings to attack weak spots.
+Combat with small or precise weapons. This skill is dedicated utilizing fast attacks to constantly threaten opponents and find openings to attack weak spots.
 
-#### Martial (Dex)
+#### Martial (DEX)
 
-Heavy weapons require more dedicated combat expertise. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
+Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
 
-#### Ranged (Dex)
+#### Ranged (DEX)
 
-Ranged combat includes the use of all weapons that fire projectiles, such as bows and guns. It also includes the ability to throw projectile weapons.
+Ranged combat includes the use of all weapons that fire projectiles, such as bows and guns, and throwing projectile weapons.
 
-#### Unarmed (Dex)
+#### Unarmed (DEX)
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
+
+# Languages
+
+When characters are created they are considered native speakers of their starting langauges. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as dice steps. Languages as skills are associated with your Intelligence.
+
+Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
+
+The availability of languages to your character are determined by the genre or setting that you are in. If you're not playing in a modern or historic genre, usually there is a "common" language that all races speak, and languages for every race. In the fantasy genre it is common for most monstrous creatures to also share an "undercommon" language between them.
 
 # Playing the Game
 
@@ -268,3 +276,23 @@ Sometimes multiple players will want to perform the same type of action. If the 
 Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
 
 For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+
+# Resting
+
+At some point during an adventure you may find yourself low on your resources (Health, Endurance, Stamina, and Mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
+
+##### Table: Rest Recovery Rates
+| Resource | Short Rest | Long Rest |
+|:-|:-:|:-:|
+| Health | None | 1 |
+| Endurance | Half | All |
+| Stamina | Roll STR or DEX, halved | Roll STR or DEX |
+| Mana | Roll INT or RES, halved | Roll INT or RES |
+
+#### Short Rest
+
+Short resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
+
+#### Long Rest
+
+A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
