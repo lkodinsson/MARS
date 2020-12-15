@@ -2,6 +2,8 @@
 
 MARS features many similarities to other role-playing game systems. You will control a character that has several numerical and abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
 
+If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
+
 ### Stats
 
 Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by dice, and represent how well a character can perform universal tasks. Secondary stats are represented by either dice or numbers, and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
@@ -107,7 +109,7 @@ Deflection is the capacity to shrug off incoming attacks and abilities before th
 
 ### Evasion (EVA)
 
-Evasion is your ability to quickly avoid danger, rather than relying on Deflection to take hits.
+Evasion is your ability to quickly avoid danger, rather than relying on deflection to take hits.
 
 ### Fortitude (FORT)
 
@@ -205,7 +207,7 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 # Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally strength or dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
 
 ### Finesse (DEX)
 
@@ -263,6 +265,10 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 32 | Improbable |
 | 40 | Impossible |
 
+### Skill Duration
+
+While most basic skills and actions can be performed in a matter of a couple seconds, advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. As such, some actions may even take several hours.
+
 ### Advantage & Disadvantage
 
 Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll an additional time (for every degree of advantage you have) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst. Paired instances of advantage and disadvantage cancel each other out.
@@ -276,26 +282,6 @@ Sometimes multiple players will want to perform the same type of action. If the 
 Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
 
 For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
-
-# Resting
-
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
-
-##### Table: Rest Recovery Rates
-| Resource | Short Rest | Long Rest |
-|:-|:-:|:-:|
-| Health | None | 1 |
-| Endurance | Half | All |
-| Stamina | Roll STR or DEX, halved | Roll STR or DEX |
-| Mana | Roll INT or RES, halved | Roll INT or RES |
-
-### Short Rest
-
-Short resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
-
-### Long Rest
-
-A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
 
 # Encounters
 
@@ -322,12 +308,132 @@ Each round represents about six seconds in the game world, meaning there are 10 
 
 When the rules refer to a *full round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
 
+### Complex Challenges
+
+Some encounters are considered complex challenges: there is a limited amount of time to complete them, or a series of skill checks are required to overcome them. In these encounters the exact duration of a player's turn is abstract and non-specific. Since players will usually be performing skill checks, the average duration of a turn is the average time it takes to perform all of the player's skill checks and minor actions (assuming they all take about the same amount of time).
+
+Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while player characters must suffer damage before becoming unconscious or even killed.
+
 ### Actions
 
-During an encounter, any actions that you take uses a portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
+During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
 
 Since a turn is six seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
 
 Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
 
 Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be stopped at any point in their duration, so long as it is your turn.
+
+In addition to the following basic actions, characters may perform maneuvers or cast spells with an action speed specified by those actions.
+
+#### Attack
+
+**Action Speed:** Swift
+
+Make an attack on a target with one of your wielded weapons or with your bare hands.
+
+When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazes deal half damage, and criticals deal bonus damage as specified by that weapon.
+
+Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are considered attacks made on your next turn (such as by a readied action).
+
+Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be adjacent to that enemy to perform these types of attacks.
+
+#### Block
+
+**Stamina Cost:** 1
+
+**Action Speed:** Reaction
+
+Use a wielded item with the block feature to block an attack, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead.
+
+#### Brandish
+
+**Action Speed:** Free
+
+Choose which of your items you are wielding in your hands. This can be items from your inventory, or items found in your immediate area.
+
+#### Evade
+
+**Stamina Cost:** 1
+
+**Action Speed:** Reaction
+
+Roll your evasion to defend against an attack instead of using your deflection. After you evade, you may move a distance up to half your speed.
+
+#### Interact
+
+**Action Speed:** Variable
+
+This action covers most basic actions, like opening doors, activating wielded items, or using objects in the immediate ara. Unless an object specifies, or a task requires an extended amount of time to perform, this action is usually considered a swift action.
+
+#### Move
+
+**Stamina Cost:** 0 or 1
+
+**Action Speed:** Swift
+
+Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
+
+#### Parry
+
+**Stamina Cost:** 1
+
+**Action Speed:** Reaction
+
+Use a wielded item with the parry feature to block an attack, adding its parry value to your deflection. While parrying, attacks made against you that result in a graze are instead considered a success.
+
+#### Ready
+
+**Action Speed:** Standard
+
+Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice. For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action.
+
+#### Seek Cover
+
+**Action Speed:** Swift
+
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While provided cover, you gain advantage to deflection and evasion until your next turn.
+
+#### Use Skill
+
+**Action Speed:** Variable
+
+Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenges. As some skills may take more than a few minutes, this means that most characters who attempt to use advanced skills during a combat encounter may effectively find themselves removed from combat (unless they leave their attempt as incomplete).
+
+# Damage
+
+When a character is hit by an attack, trap, or any means, they will take damage. Any damage that a character takes is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the dying condition.
+
+Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
+
+# Conditions
+
+Conditions are effects that apply to characters or objects. The duration of the following effects are generally considered permanent unless specified by the circumstance which provides these effects to an object or character.
+
+#### Blinded
+
+Blinded characters that rely on vision suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items.
+
+#### Broken
+
+Broken is a condition that applies to objects and items rather than characters. Broken items are still technically usable items that are not completely destroyed. Any attempts to use items that are broken are done so with disadvantage. If the contextual use of that item does not make sense to be given disadvantage, but they still have some degree of a numerical property, halve the value of that property (such as blocking with a broken shield).
+
+# Resting
+
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
+
+##### Table: Rest Recovery Rates
+| Resource | Short Rest | Long Rest |
+|:-|:-:|:-:|
+| Health | None | 1 |
+| Endurance | Half | All |
+| Stamina | Roll STR or DEX, halved | Roll STR or DEX |
+| Mana | Roll INT or RES, halved | Roll INT or RES |
+
+### Short Rest
+
+Short resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
+
+### Long Rest
+
+A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
