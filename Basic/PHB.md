@@ -25,6 +25,7 @@ Each character has four Primary Stats that are used to derive other stats and ab
 ##### Table: Primary Stat Steps
 | Dice Step | Step Name |
 |:-:|:-|
+| - | Nonexistent |
 | 1d4 | Fragile |
 | 1d6 | Weak |
 | 1d8 | Below Average |
@@ -70,7 +71,7 @@ The first four secondary stats (health, endurance, stamina, and mana) are also c
 | Fortitude (FORT) | STR + RES |
 | Willpower (WILL) | INT + RES |
 
-For example: if you have a Strength of 1d12, then you have a maximum Strength of 12 and therefore 12 Health.
+For example: if you have a strength of 1d12, then you have a maximum strength of 12 and therefore 12 health.
 
 ### Health (HP)
 
@@ -201,3 +202,69 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 ### Wild Empathy (RES)
 
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use the charisma skill to persuade someone.
+
+# Combat Skills
+
+Although combat skills are advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with a skill required to use that weapon (normally Dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
+
+#### Finesse (Dex)
+
+Combat with small or fine weapons. This skill is dedicated utilizing fast attacks to constantly threaten opponents and find openings to attack weak spots.
+
+#### Martial (Dex)
+
+Heavy weapons require more dedicated combat expertise. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
+
+#### Ranged (Dex)
+
+Ranged combat includes the use of all weapons that fire projectiles, such as bows and guns. It also includes the ability to throw projectile weapons.
+
+#### Unarmed (Dex)
+
+Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
+
+# Playing the Game
+
+Typically game sessions run as follows: the Game Master describes the scene, then the players describe their actions and the game progresses. Through the act of description and exposition, your characters and the world they inhabit become alive.
+
+It is important to focus on describing what it is your character does, rather than declaring the exact game action your character takes. It is up to the Game Master to decide what actual game action you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
+
+While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Your Game Master is responsible for deciding the results of your actions. It is also important to note that you should only need to roll dice to determine the success of your actions when the outcome of that action is uncertain, or failure carries potential consequence.
+
+### Skill Checks
+
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The resulting roll of any skill check is determined by its relationship to the difficulty value. This can result in multiple degrees of success or failure.
+
+For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of 1d12, and an athletics of 1d4, you will roll 1d12+1d4. If you were not trained in athletics you would still at least roll your strength.
+
+Generally if you roll less than the difficulty, you fail, and succeed if you roll higher than the difficulty. If you tie with the difficulty, you partially succeed (also known as a *graze*). In circumstances like this you generally succeed at reduced effectiveness, or with some degree of consequence. Success and failure can be made better or worse if you roll exceptionally high or low. If you roll half of the difficulty or less, you *critically fail* (also known as a *fumble*). If you roll double the difficulty or more, you *critically succeed*. These success categories apply to any comparison of a dice roll to either a difficulty value, or against another dice roll. Comparing dice rolls from skill checks against one another is called an *opposed check*, where one is trying to succeed over the other.
+
+### Challenge Difficulty
+
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *Easy* to *Challenging* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
+
+##### Table: Challenge Difficulties
+| Difficulty Value | Difficulty Name |
+|:-:|:-|
+| 5 | Easy |
+| 7 | Moderate |
+| 10 | Hard |
+| 14 | Challenging |
+| 19 | Ambitious |
+| 25 | Absurd |
+| 32 | Improbable |
+| 40 | Impossible |
+
+### Advantage & Disadvantage
+
+Occasionally, circumstance and clever roleplaying will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll an additional time (for every degree of advantage you have) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst. Paired instances of advantage and disadvantage cancel each other out.
+
+### Group Actions
+
+Sometimes multiple players will want to perform the same type of action. If the circumstances (and the Game Master) determine it to be reasonable for multiple players to work together, then they will all roll the same skill check for that action, but only the best result will be used. A player can only assist in a task only if they are at least trained in that skill.
+
+### Talents & Special Abilities
+
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
+
+For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
