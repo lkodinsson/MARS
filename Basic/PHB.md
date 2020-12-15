@@ -318,14 +318,16 @@ When it comes time to *roll for initiative* each player will simply roll their i
 
 ### Rounds
 
-Each round represents about three seconds in the game world, meaning there are 20 rounds in a minute. A round normally allows each character involved in an encounter to take actions. Each round’s activity begins with the character with the highest initiative result and then proceeds in order from the next highest to the lowest. When a character's turn comes up in the initiative sequence, that character performs up to their entire round's worth of actions.
+Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. Each round’s activity begins with the character with the highest initiative result and then proceeds in order from the next highest to the lowest. When a character's turn comes up in the initiative sequence, that character performs up to their entire round's worth of actions.
 
 When the rules refer to a *full round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
 
 ### Actions
 
-During an encounter, any actions that you take use a portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
+During an encounter, any actions that you take uses a portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
 
-Since a turn is three seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each three, two, and one seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
+Since a turn is six seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
 
-Reactions are also one second long, but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses one second worth of time from your next turn and you cannot use a reaction again until your next turn begins.
+Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
+
+Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be stopped at any point in their duration, so long as it is your turn.
