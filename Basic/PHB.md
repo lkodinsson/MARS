@@ -265,7 +265,7 @@ Various challenges will come at various difficulties. These difficulties are rep
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance and clever roleplaying will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll an additional time (for every degree of advantage you have) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst. Paired instances of advantage and disadvantage cancel each other out.
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll an additional time (for every degree of advantage you have) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst. Paired instances of advantage and disadvantage cancel each other out.
 
 ### Group Actions
 
@@ -296,3 +296,36 @@ Short resting involves relaxation for an extended period of about four hours. Sl
 ### Long Rest
 
 A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
+
+# Encounters
+
+Encounters are time-sensitive scenarios where each action you take matters. Encounters typically begin in a few different ways:
+
+* If two or more characters or creatures intend to perform actions that oppose each other (combat and non-combat).
+* When a character is aware of a potential danger, and intends to be deliberate and calculating with their actions.
+* When there is limited time to overcome a complex challenge.
+
+Encounters from start to end follow this sequence:
+
+1. All characters roll initiative.
+2. If it is combat, determine which characters are aware of their opponents. If these characters are aware of their opponents, but not the other way around, they can act during a surprise round.
+3. Characters who are not surprised take turns in initiative order during the surprise round.
+4. After the surprise round (if any), all characters take turns in initiative order during regular rounds. This repeats until the encounter ends.
+
+### Initiative
+
+When it comes time to *roll for initiative* each player will simply roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. Break ties by rolling opposed initiative checks.
+
+### Rounds
+
+Each round represents about three seconds in the game world, meaning there are 20 rounds in a minute. A round normally allows each character involved in an encounter to take actions. Each round’s activity begins with the character with the highest initiative result and then proceeds in order from the next highest to the lowest. When a character's turn comes up in the initiative sequence, that character performs up to their entire round's worth of actions.
+
+When the rules refer to a *full round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
+
+### Actions
+
+During an encounter, any actions that you take use a portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
+
+Since a turn is three seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each three, two, and one seconds respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
+
+Reactions are also one second long, but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses one second worth of time from your next turn and you cannot use a reaction again until your next turn begins.
