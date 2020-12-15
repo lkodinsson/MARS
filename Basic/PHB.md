@@ -205,7 +205,7 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 # Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally Strength or Dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally strength or dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
 
 ### Finesse (DEX)
 
@@ -249,7 +249,7 @@ Generally if you roll less than the difficulty, you fail, and succeed if you rol
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *Easy* to *Challenging* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *challenging* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
 
 ##### Table: Challenge Difficulties
 | Difficulty Value | Difficulty Name |
@@ -279,7 +279,7 @@ For example: You might say, *"I jump across the pit,"* and you would need to rol
 
 # Resting
 
-At some point during an adventure you may find yourself low on your resources (Health, Endurance, Stamina, and Mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
 
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Long Rest |
