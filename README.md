@@ -1,2 +1,3 @@
-# MARS
-Modular Adventure Roleplaying System
+# Introduction
+
+The **Modular Adventure Role-playing System** or **MARS** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle. One player (the *Game Master* or GM) describes the events that occur, while the other players (the *characters*) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Like other roleplaying games that use dice, many of the rules outlined will use [common dice notation](https://en.wikipedia.org/wiki/Dice_notation).
