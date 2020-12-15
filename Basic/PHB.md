@@ -207,19 +207,19 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally Strength or Dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
 
-#### Finesse (DEX)
+### Finesse (DEX)
 
 Combat with small or precise weapons. This skill is dedicated utilizing fast attacks to constantly threaten opponents and find openings to attack weak spots.
 
-#### Martial (DEX)
+### Martial (DEX)
 
 Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
 
-#### Ranged (DEX)
+### Ranged (DEX)
 
 Ranged combat includes the use of all weapons that fire projectiles, such as bows and guns, and throwing projectile weapons.
 
-#### Unarmed (DEX)
+### Unarmed (DEX)
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
 
@@ -289,10 +289,10 @@ At some point during an adventure you may find yourself low on your resources (H
 | Stamina | Roll STR or DEX, halved | Roll STR or DEX |
 | Mana | Roll INT or RES, halved | Roll INT or RES |
 
-#### Short Rest
+### Short Rest
 
 Short resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
 
-#### Long Rest
+### Long Rest
 
 A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
