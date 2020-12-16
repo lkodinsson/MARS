@@ -22,7 +22,7 @@ Traits are unique abilities that usually only belong to a single character. Typi
 
 # Primary Stats
 
-Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *Strength*, *Intelligence*, *Dexterity*, and *Resolve*. All primary stats are represented by dice ranging in value from 1d4 to 1d12. Values beyond 1d12 include additional dice. These values are called dice steps, and for primary stats, these steps range from 1d4 to 2d10.
+Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by dice ranging in value from 1d4 to 1d12. Values beyond 1d12 include additional dice. These values are called dice steps, and for primary stats, these steps range from 1d4 to 2d10.
 
 ##### Table: Primary Stat Steps
 | Dice Step | Step Name |
@@ -175,7 +175,7 @@ You’re skilled in concealing yourself effectively in different environments. Y
 
 # Advanced Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are seven core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *performance*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills.
+Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are seven core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *performance*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
 
 ### Contacts (RES)
 
@@ -265,6 +265,8 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 32 | Improbable |
 | 40 | Impossible |
 
+Sometimes you will need to make a *general check* with a stat or skill. When doing so, you must beat a difficulty value equal to seven plus twice the number of dice you are rolling. For example: If you need to make a general fortitude check with a fortitude of 1d10+1d12, you will need to beat a difficulty of seven plus four (for two dice).
+
 ### Skill Duration
 
 While most basic skills and actions can be performed in a matter of a couple seconds, advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. As such, some actions may even take several hours.
@@ -336,7 +338,7 @@ When making an attack, first roll your appropriate combat skill to hit your targ
 
 Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are considered attacks made on your next turn (such as by a readied action).
 
-Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be adjacent to that enemy to perform these types of attacks.
+Attacks against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
 
 #### Block
 
@@ -351,6 +353,12 @@ Use a wielded item with the block feature to block an attack, adding its block v
 **Action Speed:** Free
 
 Choose which of your items you are wielding in your hands. This can be items from your inventory, or items found in your immediate area.
+
+#### Drop Prone
+
+**Action Speed:** Free
+
+You become prone, providingan advantage to deflection and evasion against ranged attacks, but a disadvantage to deflection against melee attacks.
 
 #### Evade
 
@@ -370,7 +378,7 @@ This action covers most basic actions, like opening doors, activating wielded it
 
 **Stamina Cost:** 0 or 1
 
-**Action Speed:** Swift
+**Action Speed:** Swift or Free
 
 Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
 
@@ -392,7 +400,7 @@ Declare any standard, swift, or free action to use as a reaction given a specifi
 
 **Action Speed:** Swift
 
-If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While provided cover, you gain advantage to deflection and evasion until your next turn.
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be concealed from ranged attackers until your next turn, gaining advantage to deflection and evasion.
 
 #### Use Skill
 
@@ -402,21 +410,115 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or any means, they will take damage. Any damage that a character takes is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the dying condition.
+When a character is hit by an attack, trap, or any means, they will take damage. Any damage that a character takes is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the unconscious and dying conditions. If that character was reduced to zero health by a critical hit, then that character is killed immediately, instead of being given the dying condition. Attacks made by weapons with the nonlethal feature do not normally cause a creature to be given the dying condition, unless additional attacks are persisted on that unconscious character.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
 # Conditions
 
-Conditions are effects that apply to characters or objects. The duration of the following effects are generally considered permanent unless specified by the circumstance which provides these effects to an object or character.
+Conditions are effects that apply to characters or objects. The duration of the following effects are considered permanent unless specified by the circumstance which provides these effects to an object or character. Most effects are normally temporary.
 
 #### Blinded
 
-Blinded characters that rely on vision suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items.
+Blinded characters suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items. In addition to this, all normal terrain is considered difficult terrain, reducing movement speed by half.
 
 #### Broken
 
 Broken is a condition that applies to objects and items rather than characters. Broken items are still technically usable items that are not completely destroyed. Any attempts to use items that are broken are done so with disadvantage. If the contextual use of that item does not make sense to be given disadvantage, but they still have some degree of a numerical property, halve the value of that property (such as blocking with a broken shield).
+
+#### Charmed
+
+Charmed characters are encouraged to help and assist those who they have charmed them (such as giving them information and not attacking them), but will not perform any actions that would cause them to intentionally harm their allies. The charmed character does not easily recognize their actions taken while charmed as being influenced until a time well later when retrospect might cause them to question their actions, but it is not guaranteed.
+
+#### Clumsy
+
+Clumsly characters have difficulty making precise actions, and suffer a disadvantage to all dexterity rolls.
+
+#### Concealed
+
+Concealed characters are partially hidden from enemies and have an advantage to stealth checks, deflection, and evasion.
+
+#### Confused
+
+#### Controlled
+
+Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off.
+
+#### Dazed
+
+#### Disabled
+
+#### Diseased
+
+#### Distracted
+
+#### Drained
+
+#### Dying
+
+#### Encumbered
+
+#### Enfeebled
+
+Enfeebled characters have difficulty using their muscles, and suffer a disadvantage to all strength rolls.
+
+#### Entangled
+
+#### Exhausted
+
+#### Fatigued
+
+#### Frightened
+
+#### Grappled
+
+#### Immobilized
+
+Immobilized characters cannot move.
+
+#### Invisible
+
+Invisible characters cannot be seen, or targeted. Stealth checks are made automatically with a critical success. If an invisible character interacts with objects or makes any noises they are considered to be concealed for the purposes of detecting their location and making attacks on them. Additionally, if an invisible character performs any actions that make it directly apparent where their location is (such as attacking an enemy or getting covered in a powder) they lose invisibility.
+
+#### Paralyzed
+
+Paralyzed characters cannot perform any actions.
+
+#### Pinned
+
+#### Poisoned
+
+#### Prone
+
+Prone characters are either kneeling or laying down on the ground. They get an advantage to deflection and evasion against ranged attacks, but a disadvantage to deflection against melee attacks.
+
+#### Quickened
+
+Quickened characters get a +2 to hit with attacks, and can make an additional swift action on each of their turns.
+
+#### Shaken
+
+Shaken characters have difficulty commiting to their goals, and suffer a disadvantage to all resolve rolls.
+
+#### Sickened
+
+Sickened characters get –1 to all of their rolls.
+
+#### Slowed
+
+Slowed characters get a –2 to hit with attacks, and lose a swift action on each of their turns.
+
+#### Stunned
+
+At the start of each turn that a character is stunned they must make a general fortitude check with disadvantage. If they succeed, they are no longer stunned. Otherwise, they lose their current turn. If they graze, they are no longer stunned but may only perform one swift action on their turn.
+
+#### Stupefied
+
+Stupefied characters have difficulty utilizing their mind, and suffer a disadvantage to all intelligence rolls.
+
+#### Unconscious
+
+Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual.
 
 # Resting
 
