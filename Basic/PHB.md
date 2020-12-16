@@ -410,7 +410,7 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or any means, they will take damage. Any damage that a character takes is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the unconscious and dying conditions. If that character was reduced to zero health by a critical hit, then that character is killed immediately, instead of being given the dying condition. Attacks made by weapons with the nonlethal feature do not normally cause a creature to be given the dying condition, unless additional attacks are persisted on that unconscious character.
+When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the dying condition. If that character was reduced to zero health by a critical hit, then that character is killed immediately, instead of being given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. Additional unarmed attacks that are persisted on that character as they are unconscious will give them the dying condition.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
@@ -432,7 +432,7 @@ Charmed characters are encouraged to help and assist those who they have charmed
 
 #### Clumsy
 
-Clumsly characters have difficulty making precise actions, and suffer a disadvantage to all dexterity rolls.
+Clumsly characters get a disadvantage to all dexterity rolls.
 
 #### Concealed
 
@@ -442,7 +442,7 @@ Concealed characters are partially hidden from enemies and have an advantage to 
 
 #### Controlled
 
-Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off. If the controller harms the controlled character, the control is automatically broken.
+Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off. If the controller harms the controlled character, the control is automatically broken. The controlled condition overrides the charmed condition.
 
 #### Crippled
 
@@ -462,13 +462,17 @@ Diseased characters get a disadvantage to fortitude and are treated as sickened 
 
 #### Dying
 
+When a character is given the dying condition they are also given the unconscious condition. At the start of each turn that a character is dying, they must make a general fortitude check. If that character succeeds three times, they stabilize and lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters are set to one health.
+
+If a dying character has any health restored to them they automatically stabilize, but remain unconscious.
+
 #### Encumbered
 
 Encumberd characters move at half speed and get a disadvantage to strength and dexterity rolls.
 
 #### Enfeebled
 
-Enfeebled characters have difficulty using their muscles, and suffer a disadvantage to all strength rolls.
+Enfeebled characters get a disadvantage to all strength rolls.
 
 #### Entangled
 
@@ -479,6 +483,8 @@ Entangled characters are considered immobilized, but may spend a swift action to
 #### Fatigued
 
 #### Frightened
+
+Frightened characters get a disadvantage to all resolve rolls. When characters first become frightened they become paralyzed for one round, then they must retreat from the source of their fear if possible. The frightened condition overrides the shaken condition.
 
 #### Grappled
 
@@ -508,7 +514,7 @@ Quickened characters get a +2 to hit with attacks, and can make an additional sw
 
 #### Shaken
 
-Shaken characters have difficulty commiting to their goals, and suffer a disadvantage to all resolve rolls.
+Shaken characters get a disadvantage to all resolve rolls. If a character is given the shaken condition while already shaken, they become frightened instead.
 
 #### Sickened
 
@@ -524,7 +530,7 @@ At the start of each turn that a character is stunned they must make a general f
 
 #### Stupefied
 
-Stupefied characters have difficulty utilizing their mind, and suffer a disadvantage to all intelligence rolls.
+Stupefied characters get a disadvantage to all intelligence rolls.
 
 #### Unconscious
 
@@ -532,7 +538,7 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 
 # Resting
 
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover an amount of your spent resources.
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
 
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Long Rest |
