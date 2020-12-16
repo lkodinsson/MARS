@@ -428,7 +428,7 @@ Broken is a condition that applies to objects and items rather than characters. 
 
 #### Charmed
 
-Charmed characters are encouraged to help and assist those who they have charmed them (such as giving them information and not attacking them), but will not perform any actions that would cause them to intentionally harm their allies. The charmed character does not easily recognize their actions taken while charmed as being influenced until a time well later when retrospect might cause them to question their actions, but it is not guaranteed.
+Charmed characters are encouraged to help and assist those who they have charmed them (such as giving them information and not attacking them), but will not perform any actions that would cause them to intentionally harm their allies. The charmed character does not easily recognize their actions taken while charmed as being influenced until a time well later when retrospect might cause them to question their actions, but it is not guaranteed. If the charmer harms the charmed character, the charm is automatically broken.
 
 #### Clumsy
 
@@ -442,13 +442,19 @@ Concealed characters are partially hidden from enemies and have an advantage to 
 
 #### Controlled
 
-Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off.
+Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off. If the controller harms the controlled character, the control is automatically broken.
+
+#### Crippled
+
+Crippled characters move at half speed.
 
 #### Dazed
 
 #### Disabled
 
 #### Diseased
+
+Diseased characters get a disadvantage to fortitude and are treated as sickened and poisoned.
 
 #### Distracted
 
@@ -458,11 +464,15 @@ Controlled characters will perform any actions given to them by those who contro
 
 #### Encumbered
 
+Encumberd characters move at half speed and get a disadvantage to strength and dexterity rolls.
+
 #### Enfeebled
 
 Enfeebled characters have difficulty using their muscles, and suffer a disadvantage to all strength rolls.
 
 #### Entangled
+
+Entangled characters are considered immobilized, but may spend a swift action to break free for a turn. During this turn the entangled character is treated as though they are encumbered. If that character is already encumbered, then they cannot break free.
 
 #### Exhausted
 
@@ -484,9 +494,9 @@ Invisible characters cannot be seen, or targeted. Stealth checks are made automa
 
 Paralyzed characters cannot perform any actions.
 
-#### Pinned
-
 #### Poisoned
+
+Every day that a character is poisoned they lose 1 health. Poisoned characters do not restore health while resting.
 
 #### Prone
 
@@ -494,7 +504,7 @@ Prone characters are either kneeling or laying down on the ground. They get an a
 
 #### Quickened
 
-Quickened characters get a +2 to hit with attacks, and can make an additional swift action on each of their turns.
+Quickened characters get a +2 to hit with attacks, and can make an additional swift action on each of their turns. Quickened and slowed cancel each other out.
 
 #### Shaken
 
@@ -506,7 +516,7 @@ Sickened characters get –1 to all of their rolls.
 
 #### Slowed
 
-Slowed characters get a –2 to hit with attacks, and lose a swift action on each of their turns.
+Slowed characters get a –2 to hit with attacks, lose one swift action on their turns. Slowed and quickened cancel each other out.
 
 #### Stunned
 
