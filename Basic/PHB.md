@@ -265,7 +265,7 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 32 | Improbable |
 | 40 | Impossible |
 
-Sometimes you will need to make a *general check* with a stat or skill. When doing so, you must beat a difficulty value equal to seven plus twice the number of dice you are rolling. For example: If you need to make a general fortitude check with a fortitude of 1d10+1d12, you will need to beat a difficulty of seven plus four (for two dice).
+Sometimes you will need to make a *general check* with a stat or skill. When doing so, you must beat a difficulty value equal to four plus twice the number of dice you are rolling. For example: If you need to make a general fortitude check with a fortitude of 1d10+1d12, you will need to beat a difficulty of seven plus four (for two dice).
 
 ### Skill Duration
 
