@@ -265,8 +265,6 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 32 | Improbable |
 | 40 | Impossible |
 
-Sometimes you will need to make a *general check* with a stat or skill. When doing so, you must beat a difficulty value equal to that skill minus one. For example: If you need to make a general fortitude check with a fortitude of 1d10+1d12, you will need to beat a difficulty of 1d10+1d12-1.
-
 ### Skill Duration
 
 While most basic skills and actions can be performed in a matter of a couple seconds, advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. As such, some actions may even take several hours.
@@ -382,6 +380,8 @@ This action covers most basic actions, like opening doors, activating wielded it
 
 Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
 
+If the terrain you are moving over is rough or difficult to navigate, then you can only move half as far over that terrain.
+
 #### Parry
 
 **Stamina Cost:** 1
@@ -414,123 +414,33 @@ When a character is hit by an attack, trap, or any means, they will take damage.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
-# Conditions
+# Effects
 
-Conditions are effects that apply to characters or objects. The duration of the following effects are considered permanent unless specified by the circumstance which provides these effects to an object or character. Most effects are normally temporary.
+The duration of the following effects are considered permanent unless specified by the circumstance which provides these effects to an object or character. Most effects are normally temporary.
 
-#### Blinded
+#### Blind
 
-Blinded characters suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items. In addition to this, all normal terrain is considered difficult terrain, reducing movement speed by half.
+Blinded characters suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items. In addition to this, all terrain is difficult to move across.
 
-#### Broken
+#### Debilitation
 
-Broken is a condition that applies to objects and items rather than characters. Broken items are still technically usable items that are not completely destroyed. Any attempts to use items that are broken are done so with disadvantage. If the contextual use of that item does not make sense to be given disadvantage, but they still have some degree of a numerical property, halve the value of that property (such as blocking with a broken shield).
-
-#### Charmed
-
-Charmed characters are encouraged to help and assist those who they have charmed them (such as giving them information and not attacking them), but will not perform any actions that would cause them to intentionally harm their allies. The charmed character does not easily recognize their actions taken while charmed as being influenced until a time well later when retrospect might cause them to question their actions, but it is not guaranteed. If the charmer harms the charmed character, the charm is automatically broken.
-
-#### Clumsy
-
-Clumsly characters get a disadvantage to all dexterity rolls.
-
-#### Concealed
-
-Concealed characters are partially hidden from enemies and have an advantage to stealth checks, deflection, and evasion.
-
-#### Confused
-
-#### Controlled
-
-Controlled characters will perform any actions given to them by those who control them. The controlled character easily recognizes their actions taken while controlled as being influenced immediately after the effect wears off. If the controller harms the controlled character, the control is automatically broken. The controlled condition overrides the charmed condition.
-
-#### Crippled
-
-Crippled characters move at half speed.
-
-#### Dazed
-
-#### Disabled
-
-#### Diseased
-
-Diseased characters get a disadvantage to fortitude and are treated as sickened and poisoned.
-
-#### Distracted
-
-#### Drained
+A debilitation is an effect that applies to one of your stats. Debilitated stats when rolled are made with a disadvantage. Multiple debilitations to the same stat do not stack.
 
 #### Dying
 
-When a character is given the dying condition they are also given the unconscious condition. At the start of each turn that a character is dying, they must make a general fortitude check. If that character succeeds three times, they stabilize and lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters are set to one health.
+When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty of 1d12 plus their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
-If a dying character has any health restored to them they automatically stabilize, but remain unconscious.
+#### Enhancement
 
-#### Encumbered
-
-Encumberd characters move at half speed and get a disadvantage to strength and dexterity rolls.
-
-#### Enfeebled
-
-Enfeebled characters get a disadvantage to all strength rolls.
-
-#### Entangled
-
-Entangled characters are considered immobilized, but may spend a swift action to break free for a turn. During this turn the entangled character is treated as though they are encumbered. If that character is already encumbered, then they cannot break free.
-
-#### Exhausted
-
-#### Fatigued
-
-#### Frightened
-
-Frightened characters get a disadvantage to all resolve rolls. When characters first become frightened they become paralyzed for one round, then they must retreat from the source of their fear if possible. The frightened condition overrides the shaken condition.
-
-#### Grappled
-
-#### Immobilized
-
-Immobilized characters cannot move.
-
-#### Invisible
-
-Invisible characters cannot be seen, or targeted. Stealth checks are made automatically with a critical success. If an invisible character interacts with objects or makes any noises they are considered to be concealed for the purposes of detecting their location and making attacks on them. Additionally, if an invisible character performs any actions that make it directly apparent where their location is (such as attacking an enemy or getting covered in a powder) they lose invisibility.
-
-#### Paralyzed
-
-Paralyzed characters cannot perform any actions.
-
-#### Poisoned
-
-Every day that a character is poisoned they lose 1 health. Poisoned characters do not restore health while resting.
+An enhancement is an effect that applies to one of your stats. Enhanced stats when rolled are made with an advantage. Multiple enhancements to the same stat do not stack.
 
 #### Prone
 
-Prone characters are either kneeling or laying down on the ground. They get an advantage to deflection and evasion against ranged attacks, but a disadvantage to deflection against melee attacks.
+Prone characters are either kneeling or laying down on the ground. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage.
 
-#### Quickened
+#### Sickness
 
-Quickened characters get a +2 to hit with attacks, and can make an additional swift action on each of their turns. Quickened and slowed cancel each other out.
-
-#### Shaken
-
-Shaken characters get a disadvantage to all resolve rolls. If a character is given the shaken condition while already shaken, they become frightened instead.
-
-#### Sickened
-
-Sickened characters get –1 to all of their rolls.
-
-#### Slowed
-
-Slowed characters get a –2 to hit with attacks, lose one swift action on their turns. Slowed and quickened cancel each other out.
-
-#### Stunned
-
-At the start of each turn that a character is stunned they must make a general fortitude check with disadvantage. If they succeed, they are no longer stunned. Otherwise, they lose their current turn. If they graze, they are no longer stunned but may only perform one swift action on their turn.
-
-#### Stupefied
-
-Stupefied characters get a disadvantage to all intelligence rolls.
+Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that you are sick you lose health equal to half this sickness value.
 
 #### Unconscious
 
