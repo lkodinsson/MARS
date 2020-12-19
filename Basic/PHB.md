@@ -500,3 +500,39 @@ Traits are unique abilities that only you possess. This part of character creati
 ### Starting Stats
 
 After choosing your race, background, archetype, and trait, you will need to decide what you starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
+
+# Advancing a Character
+
+As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs.
+
+##### Table: Primary Stat Steps & Cost
+| Step Cost | Total Cost | Dice Step | Step Name |
+|:-:|:-:|:-:|:-|
+| - | - | - | Nonexistent |
+| 4 | 4 | 1d4 | Fragile |
+| 6 | 10 | 1d6 | Weak |
+| 8 | 18 | 1d8 | Below Average |
+| 10 | 28 | 1d10 | Average |
+| 12 | 40 | 1d12 | Above Average |
+| 14 | 54 | 1d10+1d4 | Great |
+| 16 | 70 | 1d10+1d6 | Superb |
+| 18 | 88 | 1d10+1d8 | Powerful |
+| 20 | 108 | 2d10 | Epic |
+
+Although you do not spend experience to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
+
+##### Table: Skill Steps & Cost
+| Step Cost | Total Cost | Dice Step | Step Name |
+|:-:|:-:|:-:|:-|
+| - | - | - | Untrained |
+| 2<sup>1</sup> | 2 | 1d4 | Trained |
+| 3 | 5 | 1d6 | Adept |
+| 4 | 9 | 1d8 | Practiced |
+| 5 | 14 | 1d10 | Proficient |
+| 6 | 20 | 1d12 | Exceptional |
+| 7 | 27 | 1d10+1d4 | Disciplined |
+| 8 | 35 | 1d10+1d6 | Accomplished |
+| 9 | 44 | 1d10+1d8 | Expert |
+| 10 | 54 | 2d10 | Master |
+
+<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
