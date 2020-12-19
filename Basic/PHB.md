@@ -125,7 +125,18 @@ Your speed is a measurement of your average walking distance over three seconds,
 
 ### Size (SZ)
 
-Size is measured in size categories. Most characters will be considered medium-sized, which provides no modifiers to your other stats. Certain genres and settings may provide you with additional racial options that exist in different size categories.
+Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres and settings may provide you with additional racial options that exist in different size categories. Your size may provide you with modifiers to some of your other stats.
+
+##### Table: Size & Size Modifiers
+| Size | Avg. Height | Avg. Weight | Strength | Dexterity |
+|:-|:-:|:-:|:-:|:-:|
+| Tiny | ½~¾m | 5~15kg | -2 | +2 |
+| Very Small | ¾~1m | 15~30kg | -1 | +1 |
+| Small | 1~1½m | 30~60kg | -1 | +1 |
+| Medium | 1½~2m | 40~90kg | - | - |
+| Large | 2~2½m | 60~150kg | +1 | -1 |
+| Very Large | 2½~3m | 90~250kg | +2 | -1 |
+| Huge | 3~4m | 150~500kg | +4 | -2 |
 
 # Skills
 
@@ -267,7 +278,7 @@ Various challenges will come at various difficulties. These difficulties are rep
 
 ### Skill Duration
 
-While most basic skills and actions can be performed in a matter of a couple seconds, advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. As such, some actions may even take several hours.
+While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. Some actions may even take several hours.
 
 ### Advantage & Disadvantage
 
@@ -336,7 +347,7 @@ When making an attack, first roll your appropriate combat skill to hit your targ
 
 Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are considered attacks made on your next turn (such as by a readied action).
 
-Attacks against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
+Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
 
 #### Block
 
@@ -356,7 +367,7 @@ Choose which of your items you are wielding in your hands. This can be items fro
 
 **Action Speed:** Free
 
-You become prone, providingan advantage to deflection and evasion against ranged attacks, but a disadvantage to deflection against melee attacks.
+You become prone. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage.
 
 #### Evade
 
@@ -400,7 +411,7 @@ Declare any standard, swift, or free action to use as a reaction given a specifi
 
 **Action Speed:** Swift
 
-If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be concealed from ranged attackers until your next turn, gaining advantage to deflection and evasion.
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged attacks and spells made against your deflection and evasion.
 
 #### Use Skill
 
@@ -410,7 +421,7 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero health, that character is given the dying condition. If that character was reduced to zero health by a critical hit, then that character is killed immediately, instead of being given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. Additional unarmed attacks that are persisted on that character as they are unconscious will give them the dying condition.
+When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero or less health, that character is given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. If nonlethal attacks bring a character to negative ten or less health, then they get the dying condition.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
@@ -465,3 +476,27 @@ Short resting involves relaxation for an extended period of about four hours. Sl
 ### Long Rest
 
 A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
+
+# Creating a Character
+
+The process of creating a character is a series of small steps. A character is made up of a few aspects: *race*, *background*, *archetype*, and *trait*.
+
+### Race
+
+It is not guaranteed that a genre or setting has a multitude of racial options, but usually Humans are an available option. Regardless, the race you pick will provide bonuses to your primary stats, provide you with racial ability (or two), and determine your starting speed and size.
+
+### Background
+
+Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
+
+### Archetype
+
+Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
+
+### Trait
+
+Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. Typically they provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
+
+### Starting Stats
+
+After choosing your race, background, archetype, and trait, you will need to decide what you starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
