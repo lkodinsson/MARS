@@ -38,6 +38,8 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 ## Halflings
 
+Halfling are a lot like any other folk, but they mostly keep to their own communities. They care more for food, drink, and entertainment more than the dramatic affairs of others. Even so, they are not shy to gossip about strangers passing through their parts of the world, as anything can be made into a good story, even rumors about what would be nothing at all.
+
 **Stats** Halflings get +2 Dexterity, +1 Resolve, and –1 Strength.
 
 **Gold-hearted** Halflings are brave when it really matters. They get an advantage to willpower checks to resist fear. Additionally, they get +2 to charisma checks when using the Inspirational Charisma talent to assist and inspire someone.
