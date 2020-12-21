@@ -13,7 +13,7 @@
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
-| [Magical Luck](#magical-luck) | 8, 12, 16 | RES 11+, Sleight |
+| [Magical Luck](#magical-luck) | 8, 12, 16 | DEX 11+, INT 11+, Sleight |
 | [Meditative Rest](#meditative-rest) | 10 | RES 11+ |
 | [Mobility](#mobility) | 10 | STR 13+, Athletics |
 | [Latent Trait](#latent-trait) | 12 | - |
@@ -129,7 +129,7 @@ Your speed is increased by 1m, and your second move action each turn does not co
 
 **Cost:** Variable
 
-**Requirements:** Max Resolve 11+, Trained in Sleight
+**Requirements:** Max Dexterity 11+, Max Intelligence 11+, Trained in Sleight
 
 You may spend 3 mana to gain an advantage on your next roll (in reality or in fiction). This ability can be used a number of times based on its advancement. One use is restored after a short rest, and all uses are restored after a long rest.
 
