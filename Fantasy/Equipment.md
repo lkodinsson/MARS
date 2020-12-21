@@ -228,7 +228,7 @@ Weapons and armour can also be given various properties, making them better or w
 
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|
 | Improvised | –1 to Hit & –1 Damage | –1 Deflection & –1 Damage Reduction | ×½ |
 | Crude | –1 to Hit | –1 Deflection | ×¾ |
 | Fine | +1 to Hit | +1 Deflection | ×1½ or +10sp |
@@ -238,7 +238,7 @@ Weapons and armour can also be given various properties, making them better or w
 
 ##### Table: Equipment Weight
 | Quality Name | Melee Weapons | Body Armour | Cost Adjustment |
-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|
 | Heavy | ×1¼ Weight and Reduced Speed | ×1¼ Weight and STR Req | ×¾ |
 | Light | ×¾ Weight and Increased Speed | ×¾ Weight and STR Req | ×1½ or +10sp |
 
