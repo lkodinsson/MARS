@@ -17,11 +17,11 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 ### Fantasy
 
-* Races
-* Backgrounds
-* Archetypes
+* [Races](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Races.md)
+* [Backgrounds](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Backgrounds.md)
+* [Archetypes](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Archetypes.md)
 * [Skills](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Skills.md)
-* Talents
+* [Talents](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Talents.md)
 * [Equipment](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Equipment.md)
-* Maneuvers
-* Spellcasting
+* [Maneuvers](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Maneuvers.md)
+* [Spellcasting](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Spellcasting.md)
