@@ -20,7 +20,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Races
 * Backgrounds
 * Archetypes
-* Skills
+* [Skills](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Skills.md)
 * Talents
 * [Equipment](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Equipment.md)
 * Maneuvers
