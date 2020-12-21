@@ -36,7 +36,7 @@ Your speed is increased by 1m, and you can move your full speed when you evade (
 
 **Requirements:** Max Intelligence 11+, Trained in Sleight
 
-Once per day, you may find any mundane item amongst your belongings as though you always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings you can't use this talent.
+Once per day, you may find any mundane item amongst your belongings as though you always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent.
 
 ## Ambidexterity
 
@@ -82,7 +82,7 @@ You gain an advantage to fortitude checks made to stabilize and you may choose t
 
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may make a charisma check to assist another character with any skill check. Doing so costs 2 mana and provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
 ##### Table: Inspirational Charisma Steps & Cost
 | Step Cost | Total Cost | Bonus |
