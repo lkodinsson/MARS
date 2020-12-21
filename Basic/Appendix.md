@@ -36,8 +36,8 @@ The following tables are example tasks at various difficulties for some of the b
 | Task | Difficulty |
 |:-|:-|
 | Appraising the value of common goods | 5 (Easy) |
-| Detecting hidden emotions | 7 (Moderate) |
 | Appraising the value of trade goods | 10 (Hard) |
+| Detecting hidden emotions | 10 (Hard) |
 | Appraising the value of artifacts | 19 (Ambitious) |
 
 ##### Table: Perception Common Tasks
