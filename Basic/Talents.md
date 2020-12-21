@@ -1,6 +1,6 @@
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
-|:-|:-:|
+|:-|:-:|:-|
 | Agility | 8 | DEX 11+, Acrobatics |
 | Always Prepared | 8 | INT 11+, Sleight |
 | Ambidexterity | 8, 12 | DEX 11+, Any combat |
