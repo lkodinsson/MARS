@@ -1,3 +1,21 @@
+# Table of Contents
+
+* [The Basics](#the-basics)
+* [Primary Stats](#primary-stats)
+* [Secondary Stats](#secondary-stats)
+* [Skills](#skills-1)
+* [Basic Skills](#basic-skills)
+* [Advanced Skills](#advanced-skills)
+* [Combat Skills](#combat-skills)
+* [Languages](#languages)
+* [Playing the Game](#playing-the-game)
+* [Encounters](#encounters)
+* [Effects](#effects)
+* [Resting](#resting)
+* [Creating a Character](#creating-a-character)
+* [Advancing a Character](#advancing-a-character)
+* [Equipment](#equipment)
+
 # The Basics
 
 MARS features many similarities to other role-playing game systems. You will control a character that has several numerical and abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
