@@ -574,7 +574,7 @@ Many items will have a listed weight. Although it is optional to keep track of t
 | Medium | Capacity × 1 |
 | Large | Capacity × 1¼ |
 | Very Large | Capacity × 1½ |
-| Huge | Capacity × 1¾ |
+| Huge | Capacity × 2 |
 
 If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
