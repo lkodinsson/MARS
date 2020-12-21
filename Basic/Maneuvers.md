@@ -211,8 +211,6 @@ Make a melee attack with +2 to hit against a target moving outside of your attac
 
 **Action Speed:** Standard
 
-**Resist:** Fortitude
-
 Make an attack. The target gets -2 to armour class.
 
 ## Pinning Shot
