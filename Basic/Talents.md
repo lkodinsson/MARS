@@ -203,4 +203,4 @@ You have an increased amount of endurance. This bonus starts at +4 and advances 
 
 **Requirements:** Max Strength 13+, Trained in Athletics
 
-You gain an advantage to athletics when attempting to move large objects, and you ignore the penalties to strength and dexterity from encumberence.
+You gain an advantage to athletics when attempting to move large objects, and your carrying capacity is determined as if you were one size larger.
