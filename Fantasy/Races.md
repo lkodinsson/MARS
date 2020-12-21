@@ -10,7 +10,7 @@
 
 ## Dwarf
 
-Dwarves tend to live in isolated communities deep within caves and mountains. Typically they are known for their strength and combat prowess. Although there are not many notable Dwarven scholars, they are still known for their unique runic magics and inventive craftsdwarfship.
+Dwarves tend to live in isolated communities deep within caves and mountains. Typically they are known for their strength and combat prowess. Although there are not many notable dwarven scholars, they are still known for their unique runic magics and inventive craftsdwarfship.
 
 **Stats** Dwarves get +2 Strength, +1 Resolve, and –1 Intelligence.
 
@@ -28,7 +28,7 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 **Stats** Elves get +2 Intelligence, +1 Dexterity, and –1 Strength.
 
-**Cognition** Elves have exceptional memories due to their long life span, and exceptional perception due to living in the wilds. They get +1 to all knowledge checks, and +1 to any perception checks made while in the wild.
+**Cognition** Elves have exceptional memories due to their long life span, and exceptional perception due to living in the wilds. They get a +1 to knowledge, and +1 to any perception checks made while in the wild.
 
 **Size** Elves are medium sized, but as tall as a large sized creature.
 
@@ -42,7 +42,7 @@ Halfling are a lot like any other folk, but they mostly keep to their own commun
 
 **Stats** Halflings get +2 Dexterity, +1 Resolve, and –1 Strength.
 
-**Gold-hearted** Halflings are brave when it really matters. They get an advantage to willpower checks to resist fear. Additionally, they get +2 to charisma checks when using the Inspirational Charisma talent to assist and inspire someone.
+**Gold-hearted** Halflings are brave when it really matters. They get an advantage to willpower checks to resist fear. Additionally, they get +2 to charisma checks that involve telling stories, and when using the Inspirational Charisma talent to assist and inspire someone.
 
 **Size** Halflings are small sized.
 
@@ -52,7 +52,7 @@ Halfling are a lot like any other folk, but they mostly keep to their own commun
 
 ## Human
 
-Humans are known for being good at generally anything, but aren't well known for standing out as individuals. They prefer to work in a well-oiled society together. The only humans that are known for their individualism are those that rule, or those that act outside most societies living as hermits or heroes. Humanity is best described by its versatility and diversity. While they are community driven creatures, Humans are often at the forefront of exploration and exploitation.
+Humans are known for being good at generally anything, but aren't well known for standing out as individuals. They prefer to work in a well-oiled society together. The only humans that are known for their individualism are those that rule, or those that act outside most societies living as hermits or heroes. Humanity is best described by its versatility and diversity. While they are community driven creatures, humans are often at the forefront of exploration and exploitation.
 
 **Stats** Humans get a +1 bonus to each of any two different primary stats.
 
