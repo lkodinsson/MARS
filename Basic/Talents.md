@@ -15,7 +15,7 @@
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
 | [Magical Luck](#magical-luck) | 8, 12, 16 | RES 11+, Sleight |
-| [Mobility](#mobility) | 8 | STR 11+, Athletics |
+| [Mobility](#mobility) | 10 | STR 13+, Athletics |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
 | [Teamwork](#teamwork) | 10 | INT 11+, Charisma |
@@ -150,11 +150,11 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 
 ## Mobility
 
-**Cost:** 8 EXP
+**Cost:** 10 EXP
 
 **Requirements:** Max Strength 13+, Trained in Athletics
 
-Your speed is increased by 1m, and one of your move actiond you take each turn is not affected by difficult terrain.
+Your speed is increased by 1m, and one of your move actions you take each turn is not affected by difficult terrain.
 
 ## Latent Trait
 
