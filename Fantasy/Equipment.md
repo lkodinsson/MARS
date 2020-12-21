@@ -226,6 +226,8 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 Weapons and armour can also be given various properties, making them better or worse. Equipment may have up to two different properties simultaneously: *quality*, and *weight*. When determining which cost adjustment to use for the properties you have chosen for your item, always choose the most expensive options first. Apply any cost reductions last.
 
+Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. There is one exception, where gaunlets can be treated like the weapon cestus, and can be given qualities as if they were a melee weapon.
+
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
