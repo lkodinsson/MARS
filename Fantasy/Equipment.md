@@ -221,3 +221,34 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 **Parry** When you use this item to perform a parry action, add the given value to your deflection.
 
 **Weakness** Halve your total damage reduction provided by armour when attacked by the given damage type.
+
+## Equipment Qualities
+
+Weapons and armour can also be given various properties, making them better or worse. Equipment may have up to two different properties simultaneously: *quality*, and *weight*. When determining which cost adjustment to use for the properties you have chosen for your item, always choose the most expensive options first. Apply any cost reductions last.
+
+##### Table: Equipment Qualities
+| Quality Name | Weapons | Body Armour | Cost Adjustment |
+|:-|:-|:-|:-|:-|
+| Improvised | –1 to Hit & –1 Damage | –1 Deflection & –1 Damage Reduction | ×½ |
+| Crude | –1 to Hit | –1 Deflection | ×¾ |
+| Fine | +1 to Hit | +1 Deflection | ×1½ or +10sp |
+| Superior | +1 to Hit & +1 Damage | +1 Deflection & +1 Damage Reduction | ×2 or +25sp |
+| Exceptional | +2 to Hit & +1 Damage | +2 Deflection & +1 Damage Reduction | ×2½ or +45sp |
+| Masterwork | +2 to Hit & +2 Damage | +2 Deflection & +2 Damage Reduction | ×3 or +70sp |
+
+##### Table: Equipment Weight
+| Quality Name | Melee Weapons | Body Armour | Cost Adjustment |
+|:-|:-|:-|:-|:-|
+| Heavy | ×1¼ Weight and Reduced Speed | ×1¼ Weight and STR Req | ×¾ |
+| Light | ×¾ Weight and Increased Speed | ×¾ Weight and STR Req | ×1½ or +10sp |
+
+##### Table: Melee Weapon Speed
+| Speed | Weapon Features |
+|:-:|:-|
+| Very Fast | Swift, +1 to hit |
+| Fast | Swift |
+| Normal | Versatile or none<sup>1</sup> |
+| Slow | Two-Handed |
+| Very Slow | Two-Handed, –1 to hit |
+
+<sup>1</sup>When a weapon becomes normal speed they become versatile. Finesse weapons, however, do not.
