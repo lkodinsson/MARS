@@ -155,7 +155,7 @@ Size is measured in size categories. Most characters will normally be considered
 | Medium | 1½~2m | 40~90kg | - | - |
 | Large | 2~2½m | 60~150kg | +1 | -1 |
 | Very Large | 2½~3m | 90~250kg | +2 | -1 |
-| Huge | 3~4m | 150~500kg | +4 | -2 |
+| Huge | 3~4m | 150~400kg | +4 | -2 |
 
 # Skills
 
