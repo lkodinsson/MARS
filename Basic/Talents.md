@@ -1,3 +1,5 @@
+# Talents
+
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
