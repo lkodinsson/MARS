@@ -24,7 +24,7 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 ## Elf
 
-Elves are proud noble creatures fond of nature. They are not well known for living in communities amongst the other races, although it does happen. Although they are very similar to humans, there is an air of magic and beauty about them that is unmistakeable.
+Elves are proud noble creatures fond of nature. They are not well known for living in communities amongst the other races, but it does happen. Although they are very similar to humans, there is an air of magic and beauty about them that is unmistakeable.
 
 **Stats** Elves get +2 Intelligence, +1 Dexterity, and –1 Strength.
 
