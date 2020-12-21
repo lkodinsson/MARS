@@ -1,3 +1,25 @@
+##### Table: Basic Talents
+| Name | Cost | Requirements |
+|:-|:-:|
+| Agility | 8 | DEX 11+, Acrobatics |
+| Always Prepared | 8 | INT 11+, Sleight |
+| Ambidexterity | 8, 12 | DEX 11+, Any combat |
+| Danger Sense | 8 | DEX 11+, Perception |
+| Diehard | 8 | RES 13+ |
+| Fresh Start | 10 | RES 11+ |
+| Inspirational Charisma | 6, 8, 10, 12, 14 | RES 11+, Charisma |
+| Intimidation | 8 | STR 11+, Charisma |
+| Irrefutable Logic | 8 | INT 11+, Charisma |
+| Long-distance Running | 8 | STR 11+, Athletics |
+| Magical Luck | 8, 12, 16 | RES 11+, Sleight |
+| Mobility | 8 | STR 11+, Athletics |
+| Latent Trait | 12 | - |
+| Polyglot | 6 | INT 11+, Four languages |
+| Spatial Deduction | 8 | INT 13+, Perception |
+| Teamwork | 10 | INT 11+, Charisma |
+| Toughness | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
+| Weightlifter | 6 | STR 13+, Athletics |
+
 ## Agility
 
 **Cost:** 8 EXP
@@ -134,7 +156,7 @@ You gain a second trait.
 
 **Cost:** 6 EXP
 
-**Requirements:** Max Intelligence 11+, Practiced in at least four languages
+**Requirements:** Max Intelligence 11+, Trained in at least four languages
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
 
@@ -150,7 +172,7 @@ You can use your intelligence instead of your dexterity when making perception c
 
 **Cost:** 10 EXP
 
-**Requirements:** Max Intelligence 11+
+**Requirements:** Max Intelligence 11+, Charisma
 
 You get advantage when assisting others perform skill checks.
 
