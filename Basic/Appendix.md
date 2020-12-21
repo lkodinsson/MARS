@@ -55,8 +55,8 @@ The following tables are example tasks at various difficulties for some of the b
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Ask simple questions | 5 (Easy) |
-| Read inscriptions or signs | 7 (Moderate) |
+| Asking simple questions | 5 (Easy) |
+| Reading inscriptions or signs | 7 (Moderate) |
 | Casual conversation | 10 (Hard) |
-| Read books | 14 (Challenging) |
+| Reading books | 14 (Challenging) |
 | Technical conversation | 19 (Ambitious) |
