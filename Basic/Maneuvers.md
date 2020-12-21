@@ -1,5 +1,7 @@
 # Maneuvers
 
+Maneuvers are a recommended (but optional) rule.
+
 Whenever you advance in a combat skill, you acquire a maneuver that you can use with that skill. Maneuvers cost stamina and can be used at will with the following restriction: during combat you cannot use the same maneuver on the same or following round.
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
@@ -13,7 +15,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 | [Bullrush](#bullrush) | 2 | Full | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
-| [Double Shot](#double-shot) | 2 | Standard | Ranged |
+| [Double Shot](#double-shot) | 1 | Standard | Ranged |
 | [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
 | [Hard Parry](#hard-parry) | 2 | Reaction | Finesse, Martial |
 | [Heavy Strike](#heavy-strike) | 3 | Standard | Martial, Unarmed |
@@ -29,7 +31,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 | [Provoke](#provoke) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Shield Bash](#shield-bash) | 1 | Standard | Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Triple Shot](#triple-shot) | 3 | Full | Ranged |
+| [Triple Shot](#triple-shot) | 2 | Full | Ranged |
 
 ## Advancing Strike
 
@@ -105,7 +107,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Specializations:** Ranged
 
-**Stamina Cost:** 2
+**Stamina Cost:** 1
 
 **Action Speed:** Standard
 
@@ -295,7 +297,7 @@ Make a charisma check against a target within 20m. If successful, the target get
 
 **Specializations:** Ranged
 
-**Stamina Cost:** 3
+**Stamina Cost:** 2
 
 **Action Speed:** Full
 
