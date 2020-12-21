@@ -437,9 +437,17 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty of 1d12 plus their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
+#### Encumbered
+
+Encumbered characters are carrying too much. They get a disadvantage to both strength and dexterity, and halved speed.
+
 #### Enhancement
 
 An enhancement is an effect that applies to one of your stats. Enhanced stats when rolled are made with an advantage. Multiple enhancements to the same stat do not stack.
+
+#### Overencumbered
+
+Overencumbered characters suffer the same effects as encumbered characters, but instead of having halved speed, they cannot move.
 
 #### Prone
 
@@ -550,3 +558,24 @@ Some armours will have a strength value listed. This value is the recommended st
 ### Weapons
 
 Weapons are the means to inflict attacks upon opponents using the combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons have a listed damage dice and type as some combatants and armours may be weaker to certain damage types. Additionally, although unarmed attacks are not actually made with weapons, they are usually listed as a weapon for clarity on their stats.
+
+### Carrying Capacity
+
+Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the carrying capacity of a character. This is determined as a product of their size and maximum strength. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
+
+##### Table: Carrying Capacity
+| Modifier | Formula |
+|:-|:-|
+| Light Capacity (kg) | Max STR × 4 |
+| Heavy Capacity (kg) | Max STR × 7 |
+| Tiny | Capacity × ¼ |
+| Very Small | Capacity × ½ |
+| Small | Capacity × ¾ |
+| Medium | Capacity × 1 |
+| Large | Capacity × 1¼ |
+| Very Large | Capacity × 1½ |
+| Huge | Capacity × 1¾ |
+
+If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
+
+Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, or drag something weighing twice that amount over a moderate distance (up to four times that amount if assisted by wheels).
