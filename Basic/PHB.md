@@ -101,7 +101,7 @@ Armour class represents the effectiveness of defensive equipment to neutralize i
 
 ### Damage Reduction (DR)
 
-Damage reduction represents the effectiveness of defensive equipment to reduce the force of incoming successful hits.
+Damage reduction represents the effectiveness of defensive equipment to reduce the force of incoming successful hits. Any damage you take is reduced by your total damage reduction.
 
 ### Deflection (DEF)
 
@@ -186,7 +186,7 @@ You’re skilled in concealing yourself effectively in different environments. Y
 
 # Advanced Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are seven core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *performance*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
+Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are six core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
 
 ### Contacts (RES)
 
@@ -203,10 +203,6 @@ Although most worldy facts can be recalled using the knowledge skill, everything
 ### Medicine (INT)
 
 This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall knowledge on medicines and herbs.
-
-### Performance (RES)
-
-While charisma is used as a tool for persuasion, performance is used both for inspiring others and for literal performance. Altogether this means speeches, singing, dancing, musicianship, and so on. The limitations of this skill are determined by your background and character history or archetype (usually a character is good at performing one type of thing).
 
 ### Sleight (DEX)
 
@@ -503,7 +499,7 @@ After choosing your race, background, archetype, and trait, you will need to dec
 
 # Advancing a Character
 
-As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs.
+As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
 
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
@@ -519,7 +515,7 @@ As you play the game your character will acquire experience points. These points
 | 18 | 88 | 1d10+1d8 | Powerful |
 | 20 | 108 | 2d10 | Epic |
 
-Although you do not spend experience to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
+Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
@@ -536,3 +532,21 @@ Although you do not spend experience to obtain your starting primary stats, the 
 | 10 | 54 | 2d10 | Master |
 
 <sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
+
+# Equipment
+
+Characters may start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. If you can imagine an object or device, it is an item a person can have and use. The only restriction is if it meets the setting you are playing in. For example: eachine guns or flashlights are not a likely device to have in a fantasy setting, but a torch or a sword is.
+
+Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available. Including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
+
+Some items may seem better than others, but depending on the genre that uses them, some may be more or less expensive, or have various minor requirements or drawbacks.
+
+### Armour
+
+Although a character can wear any amount of gear, such as boots, cloaks, clothes, gloves, helmets, rings, and so on, only some of these items are considered as *armour*. Armour exists in a few specific *equipment slots* when worn: *body*, *head*, *wrist*, and *feet*. Armour items will have some minor features, but usually they also have an armour class and a damage reduction. These values from all your slots are added together to provide a total armour class and damage reduction.
+
+Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty to your dexterity equal to half of the difference (rounded up). For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will get –3 to your dexterity. This is known as the *armour penalty*.
+
+### Weapons
+
+Weapons are the means to inflict attacks upon opponents using the combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons have a listed damage dice and type as some combatants and armours may be weaker to certain damage types. Additionally, although unarmed attacks are not actually made with weapons, they are usually listed as a weapon for clarity on their stats.
