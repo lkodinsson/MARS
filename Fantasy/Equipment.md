@@ -196,7 +196,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 ##### Table: Shields
 | Name | Price | AC | DR | Max STR | Material<br/>Type | Weight | Features |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry d8 |
 | Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 3 |
 | Medium Shield | 15sp | 1 | - | 8 | Wood | 4kg | Block 4 |
