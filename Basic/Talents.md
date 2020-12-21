@@ -9,12 +9,12 @@
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 13+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
-| [Fresh Start](#fresh-start) | 10 | RES 11+ |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12, 14 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
 | [Magical Luck](#magical-luck) | 8, 12, 16 | RES 11+, Sleight |
+| [Meditative Rest](#meditative-rest) | 10 | RES 11+ |
 | [Mobility](#mobility) | 10 | STR 13+, Athletics |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
@@ -76,21 +76,13 @@ You can use your intelligence instead of your dexterity when making perception c
 
 You gain an advantage to fortitude checks made to stabilize and you may choose to not be knocked unconscious when given the dying effect. While conscious with the dying effect at any point you may choose to become unconscious.
 
-## Fresh Start
-
-**Cost:** 10 EXP
-
-**Requirements:** Max Resolve 11+
-
-The first skill check you make each day is made with advantage.
-
 ## Inspirational Charisma
 
 **Cost:** Variable
 
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may make a charisma check to assist another character with any skill check. Doing so costs 2 mana and provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may make a charisma check to assist another character with any skill check. Doing so costs 2 mana and provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
 ##### Table: Inspirational Charisma Steps & Cost
 | Step Cost | Total Cost | Bonus |
@@ -139,7 +131,7 @@ Your speed is increased by 1m, and your second move action each turn does not co
 
 **Requirements:** Max Resolve 11+, Trained in Sleight
 
-You may spend 3 mana to gain an advantage on your next roll (in reality or in fiction). You can use this ability a number of times based on its advancement. One single use is restored after a short rest, and all spent uses are restored after a long rest.
+You may spend 3 mana to gain an advantage on your next roll (in reality or in fiction). This ability can be used a number of times based on its advancement. One use is restored after a short rest, and all uses are restored after a long rest.
 
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
@@ -147,6 +139,14 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 | 8 | 8 | 1/Rest |
 | 12 | 20 | 2/Rest |
 | 16 | 36 | 3/Rest |
+
+## Meditative Rest
+
+**Cost:** 10 EXP
+
+**Requirements:** Max Resolve 11+
+
+The first skill check you make after every short or long rest is made with advantage.
 
 ## Mobility
 
