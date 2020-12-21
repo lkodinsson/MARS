@@ -4,7 +4,11 @@ The **Modular Adventure Role-playing System** or **MARS** is a [generic role-pla
 
 # Learning to Play
 
-All of the cores rules are defined in the [**MARS Basic: Player's Handbook**](https://github.com/lkodinsson/MARS/blob/main/Basic/PHB.md). Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](https://github.com/lkodinsson/MARS/blob/main/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play.
+All of the cores rules are defined in the [**MARS Basic: Player's Handbook**](https://github.com/lkodinsson/MARS/blob/main/Basic/PHB.md). Additional information and reference tables can be found in the [appendix](https://github.com/lkodinsson/MARS/blob/main/Basic/Appendix.md).
+
+# Creating a Character
+
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**MARS Basic: Creating a Character**](https://github.com/lkodinsson/MARS/blob/main/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play.
 
 ### All Genres
 
@@ -16,6 +20,7 @@ All of the cores rules are defined in the [**MARS Basic: Player's Handbook**](ht
 * Races
 * Backgrounds
 * Archetypes
+* Skills
 * Talents
 * Equipment
 * Maneuvers
