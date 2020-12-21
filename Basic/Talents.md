@@ -1,24 +1,24 @@
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
-| Agility | 8 | DEX 11+, Acrobatics |
-| Always Prepared | 8 | INT 11+, Sleight |
-| Ambidexterity | 8, 12 | DEX 11+, Any combat |
-| Danger Sense | 8 | DEX 11+, Perception |
-| Diehard | 8 | RES 13+ |
-| Fresh Start | 10 | RES 11+ |
-| Inspirational Charisma | 6, 8, 10, 12, 14 | RES 11+, Charisma |
-| Intimidation | 8 | STR 11+, Charisma |
-| Irrefutable Logic | 8 | INT 11+, Charisma |
-| Long-distance Running | 8 | STR 11+, Athletics |
-| Magical Luck | 8, 12, 16 | RES 11+, Sleight |
-| Mobility | 8 | STR 11+, Athletics |
-| Latent Trait | 12 | - |
-| Polyglot | 6 | INT 11+, Four languages |
-| Spatial Deduction | 8 | INT 13+, Perception |
-| Teamwork | 10 | INT 11+, Charisma |
-| Toughness | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
-| Weightlifter | 6 | STR 13+, Athletics |
+| [Agility](#agility) | 8 | DEX 11+, Acrobatics |
+| [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
+| [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat |
+| [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
+| [Deduction](#deduction) | 6 | INT 13+, Perception |
+| [Diehard](#diehard) | 8 | RES 13+ |
+| [Fresh Start](#fresh-start) | 10 | RES 11+ |
+| [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12, 14 | RES 11+, Charisma |
+| [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
+| [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
+| [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
+| [Magical Luck](#magical-luck) | 8, 12, 16 | RES 11+, Sleight |
+| [Mobility](#mobility) | 8 | STR 11+, Athletics |
+| [Latent Trait](#latent-trait) | 12 | - |
+| [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
+| [Teamwork](#teamwork) | 10 | INT 11+, Charisma |
+| [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
+| [Weightlifter](#weightlifter) | 6 | STR 13+, Athletics |
 
 ## Agility
 
@@ -57,6 +57,14 @@ Attacks made with a different weapon in the same turn are made with a reduced mu
 **Requirements:** Max Dexterity 11+, Trained in Perception
 
 You can’t be surprised while you are conscious, and attackers don't get an advantage from sneak attacks or flanking attacks made against you.
+
+## Deduction
+
+**Cost:** 6 EXP
+
+**Requirements:** Max Intelligence 13+, Trained in Perception
+
+You can use your intelligence instead of your dexterity when making perception checks to track characters and creatures, and to notice hidden objects.
 
 ## Diehard
 
@@ -101,7 +109,7 @@ You may make a charisma check to assist another character with any skill check. 
 
 ## Intimidation
 
-**Cost:** 8 EXP
+**Cost:** 6 EXP
 
 **Requirements:** Max Strength 11+, Trained in Charisma
 
@@ -109,7 +117,7 @@ You can use your strength instead of your resolve when making charisma checks to
 
 ## Irrefutable Logic
 
-**Cost:** 8 EXP
+**Cost:** 6 EXP
 
 **Requirements:** Max Intelligence 11+, Trained in Charisma
 
@@ -159,14 +167,6 @@ You gain a second trait.
 **Requirements:** Max Intelligence 11+, Trained in at least four languages
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
-
-## Spatial Deduction
-
-**Cost:** 8 EXP
-
-**Requirements:** Max Intelligence 13+, Trained in Perception
-
-You can use your intelligence instead of your dexterity when making perception checks to track characters and creatures, and to notice hidden objects.
 
 ## Teamwork
 
