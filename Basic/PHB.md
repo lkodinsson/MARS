@@ -466,7 +466,7 @@ An enhancement is an effect that applies to one of your stats. Enhanced stats wh
 
 #### Overencumbered
 
-Overencumbered characters suffer the same effects as encumbered characters, but instead of having halved speed, they cannot move.
+Overencumbered characters suffer the same effects as encumbered characters, but instead of moving at half speed, they cannot move.
 
 #### Prone
 
