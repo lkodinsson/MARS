@@ -503,7 +503,7 @@ Traits are unique abilities that only you possess. This part of character creati
 
 ### Starting Stats
 
-After choosing your race, background, archetype, and trait, you will need to decide what you starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
+After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
 
 # Advancing a Character
 
