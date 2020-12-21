@@ -6,7 +6,7 @@ Whenever you advance in a combat skill, you acquire a maneuver that you can use 
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
 
-##### Table: List of Maneuvers
+##### Table: Basic Maneuvers
 | Name | Stamina<br/>Cost | Action Speed | Specializations |
 |:-|:-:|:-:|:-|
 | [Advancing Strike](#advancing-strike) | 1 | Swift | Finesse, Martial, Unarmed |
