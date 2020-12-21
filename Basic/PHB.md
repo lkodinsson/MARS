@@ -10,6 +10,7 @@
 * [Languages](#languages)
 * [Playing the Game](#playing-the-game)
 * [Encounters](#encounters)
+* [Damage](#damage)
 * [Effects](#effects)
 * [Resting](#resting)
 * [Creating a Character](#creating-a-character)
