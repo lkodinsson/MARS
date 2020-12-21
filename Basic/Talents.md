@@ -3,7 +3,7 @@
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
-| [Agility](#agility) | 8 | DEX 11+, Acrobatics |
+| [Agility](#agility) | 8 | DEX 13+, Acrobatics |
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
 | [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
@@ -26,7 +26,7 @@
 
 **Cost:** 8 EXP
 
-**Requirements:** Max Dexterity 11+, Trained in Acrobatics
+**Requirements:** Max Dexterity 13+, Trained in Acrobatics
 
 Your speed is increased by 1m, and you can move your full speed when you evade (from half).
 
