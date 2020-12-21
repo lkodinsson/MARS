@@ -86,7 +86,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Greataxe | 15sp | STR+1d10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
 | Greathammer | 15sp | STR+1d10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
 | Greatsword | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
-| Longsword | 10sp | STR+1d8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry d4, Cleave, Versatile |
+| Longsword | 10sp | STR+1d8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry d4, Versatile |
 | Mace | 10sp | STR+1d8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
 | Poleaxe | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
 | Spear | 10sp | STR+1d8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
