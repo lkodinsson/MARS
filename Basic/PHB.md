@@ -14,8 +14,8 @@
 * [Effects](#effects)
 * [Resting](#resting)
 * [Creating a Character](#creating-a-character)
-* [Advancing a Character](#advancing-a-character)
 * [Equipment](#equipment)
+* [Advancing a Character](#advancing-a-character)
 
 # The Basics
 
@@ -506,7 +506,7 @@ The process of creating a character is a series of small steps. A character is m
 
 ### Race
 
-It is not guaranteed that a genre or setting has a multitude of racial options, but usually Humans are an available option. Regardless, the race you pick will provide bonuses to your primary stats, provide you with racial ability (or two), and determine your starting speed and size.
+It is not guaranteed that a genre or setting has a multitude of racial options, but usually Humans are an available option. Regardless, the race you pick will provide bonuses to your primary stats, provide you with racial ability, and determine your starting speed and size.
 
 ### Background
 
@@ -523,42 +523,6 @@ Traits are unique abilities that only you possess. This part of character creati
 ### Starting Stats
 
 After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
-
-# Advancing a Character
-
-As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
-
-##### Table: Primary Stat Steps & Cost
-| Step Cost | Total Cost | Dice Step | Step Name |
-|:-:|:-:|:-:|:-|
-| - | - | - | Nonexistent |
-| 4 | 4 | 1d4 | Fragile |
-| 6 | 10 | 1d6 | Weak |
-| 8 | 18 | 1d8 | Below Average |
-| 10 | 28 | 1d10 | Average |
-| 12 | 40 | 1d12 | Above Average |
-| 14 | 54 | 1d10+1d4 | Great |
-| 16 | 70 | 1d10+1d6 | Superb |
-| 18 | 88 | 1d10+1d8 | Powerful |
-| 20 | 108 | 2d10 | Epic |
-
-Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
-
-##### Table: Skill Steps & Cost
-| Step Cost | Total Cost | Dice Step | Step Name |
-|:-:|:-:|:-:|:-|
-| - | - | - | Untrained |
-| 2<sup>1</sup> | 2 | 1d4 | Trained |
-| 3 | 5 | 1d6 | Adept |
-| 4 | 9 | 1d8 | Practiced |
-| 5 | 14 | 1d10 | Proficient |
-| 6 | 20 | 1d12 | Exceptional |
-| 7 | 27 | 1d10+1d4 | Disciplined |
-| 8 | 35 | 1d10+1d6 | Accomplished |
-| 9 | 44 | 1d10+1d8 | Expert |
-| 10 | 54 | 2d10 | Master |
-
-<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
 
 # Equipment
 
@@ -598,3 +562,39 @@ Many items will have a listed weight. Although it is optional to keep track of t
 If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
 Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, or drag something weighing twice that amount over a moderate distance (up to four times that amount if assisted by wheels).
+
+# Advancing a Character
+
+As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
+
+##### Table: Primary Stat Steps & Cost
+| Step Cost | Total Cost | Dice Step | Step Name |
+|:-:|:-:|:-:|:-|
+| - | - | - | Nonexistent |
+| 4 | 4 | 1d4 | Fragile |
+| 6 | 10 | 1d6 | Weak |
+| 8 | 18 | 1d8 | Below Average |
+| 10 | 28 | 1d10 | Average |
+| 12 | 40 | 1d12 | Above Average |
+| 14 | 54 | 1d10+1d4 | Great |
+| 16 | 70 | 1d10+1d6 | Superb |
+| 18 | 88 | 1d10+1d8 | Powerful |
+| 20 | 108 | 2d10 | Epic |
+
+Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
+
+##### Table: Skill Steps & Cost
+| Step Cost | Total Cost | Dice Step | Step Name |
+|:-:|:-:|:-:|:-|
+| - | - | - | Untrained |
+| 2<sup>1</sup> | 2 | 1d4 | Trained |
+| 3 | 5 | 1d6 | Adept |
+| 4 | 9 | 1d8 | Practiced |
+| 5 | 14 | 1d10 | Proficient |
+| 6 | 20 | 1d12 | Exceptional |
+| 7 | 27 | 1d10+1d4 | Disciplined |
+| 8 | 35 | 1d10+1d6 | Accomplished |
+| 9 | 44 | 1d10+1d8 | Expert |
+| 10 | 54 | 2d10 | Master |
+
+<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
