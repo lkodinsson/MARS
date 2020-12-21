@@ -154,7 +154,7 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 
 **Requirements:** Max Strength 13+, Trained in Athletics
 
-Your speed is increased by 1m, and the first move action you take each turn is not effected by difficult terrain.
+Your speed is increased by 1m, and one of your move actiond you take each turn is not affected by difficult terrain.
 
 ## Latent Trait
 
