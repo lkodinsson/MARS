@@ -5,7 +5,7 @@
 |:-|:-:|:-|
 | [Agility](#agility) | 8 | DEX 13+, Acrobatics |
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
-| [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat |
+| [Ambidexterity](#ambidexterity) | 10, 14 | DEX 11+, Any combat skill |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 13+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
@@ -44,13 +44,13 @@ Once per day, you may find any mundane item amongst your belongings as though yo
 
 **Requirements:** Max Dexterity 11+, Trained in any combat skill
 
-Attacks made with a different weapon in the same turn are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
+Attacks made with a different weapon in the same round are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
 
 ##### Table: Ambidexterity Steps & Cost
 | Step Cost | Total Cost | Penalty |
 |:-:|:-:|:-:|
-| 8 | 8 | -3 |
-| 12 | 20 | -2 |
+| 10 | 10 | -3 |
+| 14 | 24 | -2 |
 
 ## Danger Sense
 
