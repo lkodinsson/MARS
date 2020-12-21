@@ -22,6 +22,6 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Archetypes
 * Skills
 * Talents
-* Equipment
+* [Equipment](https://github.com/lkodinsson/MARS/blob/main/Fantasy/Equipment.md)
 * Maneuvers
 * Spellcasting
