@@ -16,7 +16,7 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 **Stability** Dwarves get advantage on skill checks to resist any effects that would knock them back, knock them prone, or poison them (such as getting drunk from alcohol). Additionally, they have a carrying capacity as though they were one size larger.
 
-**Size** Dwarves can are medium sized, but are as short as a small sized creature and weigh as much as a large sized creature.
+**Size** Dwarves are medium sized, but are as short as a small sized creature and weigh as much as a large sized creature.
 
 **Speed** Dwarves have a movement speed of 4m.
 
