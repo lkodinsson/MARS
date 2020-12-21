@@ -146,7 +146,7 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 
 **Requirements:** Max Resolve 11+
 
-The first skill check you make after every short or long rest is made with advantage.
+The first skill check you make after a short or long rest is made with advantage.
 
 ## Mobility
 
