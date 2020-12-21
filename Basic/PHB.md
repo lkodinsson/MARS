@@ -443,7 +443,7 @@ An enhancement is an effect that applies to one of your stats. Enhanced stats wh
 
 #### Prone
 
-Prone characters are either kneeling or laying down on the ground. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage.
+Prone characters are either kneeling or laying down on the ground. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage. You must spend a swift action to stand up from being prone.
 
 #### Sickness
 
