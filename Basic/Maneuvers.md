@@ -16,6 +16,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
 | [Double Shot](#double-shot) | 1 | Standard | Ranged |
+| [Escape](#escape) | 2 | Swift | Finesse, Ranged |
 | [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
 | [Hard Parry](#hard-parry) | 2 | Reaction | Finesse, Martial |
 | [Heavy Strike](#heavy-strike) | 3 | Standard | Martial, Unarmed |
@@ -112,6 +113,18 @@ Make a melee attack. If successful, trade places with your target if they are wi
 **Action Speed:** Standard
 
 Make a single ranged attack with -2 to hit against two targets.
+
+## Escape
+
+**Specializations:** Finesse, Ranged
+
+**Stamina Cost:** 2
+
+**Action Speed:** Swift
+
+**Resist:** Perception
+
+Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks or run away undetected.
 
 ## Feint
 
