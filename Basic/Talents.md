@@ -45,7 +45,7 @@ Once per day, you may find any mundane item amongst your belongings as though yo
 
 **Requirements:** Max Dexterity 11+, Trained in any combat skill
 
-Attacks made with a different weapon in the same round are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
+Attacks made with a different weapon than the last weapon you used in the same round are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
 
 ##### Table: Ambidexterity Steps & Cost
 | Step Cost | Total Cost | Penalty |
