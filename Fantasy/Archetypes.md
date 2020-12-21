@@ -15,4 +15,4 @@ No matter the reason, either to defend the weak, for honor, for glory, or for re
 
 **Talent** Toughness (+8)
 
-**Primary Stat** Fighters must start with either their strength or their dexterity at above average (d12).
+**Primary Stat** Fighters must start with either a maximum strength or maximum dexterity of 11 or greater.
