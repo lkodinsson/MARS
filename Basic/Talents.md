@@ -9,6 +9,7 @@
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 13+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
+| [Enthusiastic](#enthusiastic) | 10 | RES 11+ |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12, 14 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
@@ -75,6 +76,14 @@ You can use your intelligence instead of your dexterity when making perception c
 **Requirements:** Max Resolve 13+
 
 You gain an advantage to fortitude checks made to stabilize and you may choose to not be knocked unconscious when given the dying effect. While conscious with the dying effect at any point you may choose to become unconscious.
+
+## Enthusiastic
+
+**Cost:** 10 EXP
+
+**Requirements:** Max Resolve 11+
+
+The first skill check you make after a short or long rest is made with advantage.
 
 ## Inspirational Charisma
 
@@ -146,7 +155,7 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 
 **Requirements:** Max Resolve 11+
 
-The first skill check you make after a short or long rest is made with advantage.
+Rolls made to restore resources during short and long rests are made with advantage.
 
 ## Mobility
 
