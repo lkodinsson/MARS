@@ -204,13 +204,13 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 ### Armour Features
 
-**Block** When you use this item to perform a block action, raise your bonus to damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you block projectiles, add the given value to your armour class instead.
+**Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you block projectiles, add the given value to your armour class instead.
 
 **Guiding** You gain a +1 bonus to hit with non-mechanical projectile weapons.
 
 **Identity Obscuring** Depending on the degree that your face is obscured it is a challenge for others to discern your identity.
 
-**Limited Vision** You have disadvantage to perception.
+**Limited Vision** You have a disadvantage to perception.
 
 **Locking Grip** You have advantage against attempts to disarm.
 
@@ -226,7 +226,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 Weapons and armour can also be given various properties, making them better or worse. Equipment may have up to two different properties simultaneously: *quality*, and *weight*. When determining which cost adjustment to use for the properties you have chosen for your item, always choose the most expensive options first. Apply any cost reductions last.
 
-Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. There is one exception, where gaunlets can be treated like the weapon cestus, and can be given properties as if they were a melee weapon.
+Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. There is one exception, where gauntlets can be treated like the weapon cestus, and can be given properties as if they were a melee weapon.
 
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
