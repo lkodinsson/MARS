@@ -20,7 +20,6 @@ The following tables are example tasks at various difficulties for some of the b
 |:-|:-|
 | Breaking a rusty lock | 5 (Easy) |
 | Climbing with a rope | 5 (Easy) |
-| Balancing on slippery surface | 7 (Moderate) |
 | Jumping a 3m gap | 7 (Moderate) |
 | Swimming a long distance | 7 (Moderate) |
 | Breaking a sturdy lock | 10 (Hard) |
