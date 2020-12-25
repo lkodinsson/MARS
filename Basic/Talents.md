@@ -10,7 +10,7 @@
 | [Deduction](#deduction) | 6 | INT 13+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
 | [Enthusiastic](#enthusiastic) | 10 | RES 11+ |
-| [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12, 14 | RES 11+, Charisma |
+| [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
@@ -91,16 +91,15 @@ The first skill check you make after a short or long rest is made with advantage
 
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may spend 1 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
 ##### Table: Inspirational Charisma Steps & Cost
 | Step Cost | Total Cost | Bonus |
 |:-:|:-:|:-:|
 | 6 | 6 | +0 |
-| 8 | 14 | +2 |
-| 10 | 24 | +4 |
-| 12 | 36 | +6 |
-| 14 | 50 | +8 |
+| 8 | 14 | +3 |
+| 10 | 24 | +6 |
+| 12 | 36 | +9 |
 
 ##### Table: Inspirational Charisma Thresholds
 | Assist Roll<br/>Threshold | Assist Bonus |
