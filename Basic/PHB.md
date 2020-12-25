@@ -277,7 +277,7 @@ Generally if you roll less than the difficulty, you fail, and succeed if you rol
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *challenging* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
 
 ##### Table: Challenge Difficulties
 | Difficulty Value | Difficulty Name |
