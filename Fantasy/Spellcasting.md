@@ -44,8 +44,10 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Evocation |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
 | [Guidance](#guidance) | 1 | 7 | Extended (1 minute) | Augury |
+| [Inspire](#inspire) | 2 | 10 | Extended (1 minute) | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
+| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
 | [Mend](#mend) | 1 | 7 | Standard | Transmutation |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
@@ -96,6 +98,21 @@ Provides you with some information about any subject. Ask the Game Master a simp
 ***Success:*** Receive a two word clue.  
 ***Graze:*** Receive a one word clue.
 
+## Inspire
+
+**Specializations:** Evocation  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Extended (1 minute)
+
+**Range:** Touch or 20m  
+**Target:** One creature  
+**Duration:** 1 minute (until used)  
+**Resist:** Willpower
+
+You lay your hand upon another creature, providing it comfort and a feeling of greater confidence. They get an advantage to the next skill check they perform. You may cast this spell at a range by speaking inspiring words, but the spell will cost 3 mana instead.
+
 ## Jolt
 
 **Specializations:** Evocation  
@@ -128,6 +145,25 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 **Resist:** Willpower
 
 You touch an object, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable.
+
+## Magic Weapon
+
+**Specializations:** Enchantment  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** Touch  
+**Target:** One weapon  
+**Duration:** 5 minutes (concentration)
+
+You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice, bypassing half of the damage reduction of your attack targets. Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon emanate a magical effect based on the damage type chosen.
+
+***Arcane:*** The target loses 1d4 mana.  
+***Cold:*** The target loses 1d4 stamina.  
+***Electric:*** The target becomes stunned.  
+***Fire:*** The target gets burning 1.
 
 ## Mend
 
