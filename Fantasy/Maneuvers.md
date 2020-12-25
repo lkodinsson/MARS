@@ -7,12 +7,9 @@
 
 ## Distracting Strike
 
-**Specializations:** Finesse, Martial, Unarmed
-
-**Stamina Cost:** 2
-
-**Action Speed:** Standard
-
+**Specializations:** Finesse, Martial, Unarmed  
+**Stamina Cost:** 2  
+**Action Speed:** Standard  
 **Resist:** Willpower
 
 Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell.
