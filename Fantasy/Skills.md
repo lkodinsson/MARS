@@ -1,6 +1,32 @@
 # Skills
 
-## Craft (Int)
+## Arcana (INT)
+
+Arcana is the educated wizard's style of spellcasting, and has four different specializations to choose from which are the four different schools of magic: *augury*, *conjuration*, *enchantment*, and *evocation*.
+
+Although you will choose a school to train in, you may cast spells from any school. However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools if you want to avoid this limitation and attempt to master all schools.
+
+Since arcana is a book-learned style of spellcasting, it only functions well if you have a book containing scrolls of known spells. Scrolls are essentially a page's worth of spellcasting information on a single spell. As a practicing and inventive wizard, you acquire a new scroll of any spell matching your school when you advance your arcana skill (this represents how you learn spells). Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement).
+
+Wizards are not entirely incapable if they don't have their spell books to practice from. If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. Spells can only be cast in this way if you are at least trained in that spell's school (you must understand the basics of casting those spells without assistance).
+
+### Augury
+
+Augurs are the types of wizards who like to know things and solve problems. Augury can be used to learn information that would otherwise be unavailable to you, or solve simple problems that might require the use of someone with specialized skills.
+
+### Conjuration
+
+Conjurors create illusions or magical tricks; they create effects that aren't real or have limited permanence. These types of effects are usually limited to things you can sense (see, hear, touch, taste, and smell).
+
+### Enchantment
+
+Enchanters modify and empower. Enchanting is the process of using magic to alter how things function, or improve how they function. This type of magic can be used on both objects and people.
+
+### Evocation
+
+Evokers are normally known for one simple thing: destruction. It is true that evocation is a direct means to accessing destruction forces, but it can also be used to motivate and inspire. Evocation is really about activating deep emotions with the power of magic.
+
+## Craft (INT)
 
 Someone must create all the items and artifacts that you use, and that someone could even be you.
 
@@ -106,16 +132,16 @@ Crafting can also be used to improve items from one quality to the next by treat
 
 You cannot upgrade into a quality with a cost reduction.
 
-### Enchanting
+### Crafting Magical Items
 
-Base item cost + enchantment cost = total cost
+Base item cost + magic cost = total cost
 
-##### Table: Enchantment Costs
+##### Table: Magical Item Costs
 | Modifier | Cost Formula |
 |:-|:-|
-| Base Cost | Spell Difficulty × Mana Cost |
-| Uses per Day | Base Cost × Uses |
-| Limited Uses | Base Cost × Uses ÷ 5 |
-| Concentration<br/>For Effect | Base Cost × 10 |
-| Graze Effect | Base Cost ÷ 2 |
-| Critical Effect | Base Cost × 2 |
+| Magic Cost | Mana Cost × Spell Difficulty |
+| Uses per Day | Magic Cost × Uses |
+| Limited Uses | Magic Cost × Uses ÷ 5 |
+| Concentration<br/>For Effect | Magic Cost × 10 |
+| Graze Effect | Magic Cost ÷ 2 |
+| Critical Effect | Magic Cost × 2 |
