@@ -43,12 +43,12 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 |:-|:-:|:-:|:-:|:-|
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Evocation |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
-| [Guidance](#guidance) | 1 | 7 | Extended (1 minute) | Augury |
 | [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
 | [Mend](#mend) | 1 | 7 | Standard | Transmutation |
+| [Seek Guidance](#seek-guidance) | 1 | 7 | Extended (1 minute) | Augury |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
 ## Arcane Missiles
@@ -83,20 +83,6 @@ You shoot arcane missiles dealing 1d4+1 arcane damage. These missiles always hit
 **Resist:** Willpower
 
 Reduces the speed that you fall to a slow enough speed that you can always land safely. This spell can also be used to double the length of a jump due to the reduced falling speed. This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
-
-## Guidance
-
-**Specializations:** Augury  
-**Difficulty:** 7 (Moderate)
-
-**Mana Cost:** 1  
-**Action Speed:** Extended (1 minute)
-
-Provides you with some information about any subject. Ask the Game Master a simple question (no longer than one sentence). You must ask this question from the perspective of your character.
-
-***Critical:*** Receive a three word clue or a yes-or-no answer (Game Master's choice).  
-***Success:*** Receive a two word clue.  
-***Graze:*** Receive a one word clue.
 
 ## Inspire
 
@@ -182,6 +168,20 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 ***Critical:*** Restore 1 health, and 3d6 endurance.  
 ***Success:*** Restore 2d6 endurance.  
 ***Graze:*** Restore 1d6 endurance.
+
+## Seek Guidance
+
+**Specializations:** Augury  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Extended (1 minute)
+
+Provides you with some information about any subject. Ask the Game Master a simple question (no longer than one sentence). You must ask this question from the perspective of your character.
+
+***Critical:*** Receive a three word clue or a yes-or-no answer (Game Master's choice).  
+***Success:*** Receive a two word clue.  
+***Graze:*** Receive a one word clue.
 
 ## Telekinesis
 
