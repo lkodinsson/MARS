@@ -443,7 +443,7 @@ Blinded characters suffer a disadvantage to all rolls that require that characte
 
 #### Burning
 
-Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. At the beginning of a burning character's turn, they take fire damage equal to 1d4 plus the degree of burning, then the burning effect decreases by 1, until it goes away. Fire damage bypasses damage reduction.
+Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to 1d4 plus the degree of burning, then the burning effect decreases by 1, until it goes away. Fire damage bypasses damage reduction.
 
 #### Debilitation
 
