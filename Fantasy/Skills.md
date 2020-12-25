@@ -2,7 +2,7 @@
 
 ## Arcana (INT)
 
-Arcana is the educated wizard's style of spellcasting, and has four different specializations to choose from which are the four different schools of magic: *augury*, *conjuration*, *enchantment*, and *evocation*.
+Arcana is the educated wizard's style of spellcasting, and has five different specializations to choose from which are the five different schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*.
 
 Although you will choose a school to train in, you may cast spells from any school. However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools if you want to avoid this limitation and attempt to master all schools.
 
@@ -12,7 +12,7 @@ Wizards are not entirely incapable if they don't have their spell books to pract
 
 ### Augury
 
-Augurs are the types of wizards who like to know things and solve problems. Augury can be used to learn information that would otherwise be unavailable to you, or solve simple problems that might require the use of someone with specialized skills.
+Augurs are the types of wizards who like to know things and solve problems. Augury can be used to learn information that would otherwise be unavailable, or solve simple problems that might require the use of someone with specialized skills.
 
 ### Conjuration
 
@@ -20,11 +20,15 @@ Conjurors create illusions or magical tricks; they create effects that aren't re
 
 ### Enchantment
 
-Enchanters modify and empower. Enchanting is the process of using magic to alter how things function, or improve how they function. This type of magic can be used on both objects and people.
+Enchanting is the process of using magic to alter how things function, or improve how they function. This type of magic can be used on both objects and people, and usually results in effects that appear obviously supernatural.
 
 ### Evocation
 
-Evokers are normally known for one simple thing: destruction. It is true that evocation is a direct means to accessing destruction forces, but it can also be used to motivate and inspire. Evocation is really about activating deep emotions with the power of magic.
+Evokers are normally known for one simple thing: destruction. It is true that evocation is a direct means to accessing destructive forces, but it can also be used to motivate and inspire. Evocation is really about activating deep emotions with the power of magic.
+
+### Transmutation
+
+Transmuters can change one thing into something else, or repair what is broken. Transmutation focuses on the alteration of physical things, and does not necessarily provide results that one would assume are of a magical nature.
 
 ## Craft (INT)
 
