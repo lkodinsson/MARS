@@ -1,6 +1,6 @@
 # Spellcasting
 
-There are several different ways to cast spells, as represented by these skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Each skill represents a different method and motivation for casting spells. When you become trained in one of these skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to learn with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement. The highest difficulty spell you can learn, is determined by the dice step you are advancing to.
+There are several different ways to cast spells, as represented by these skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Each skill represents a different method and motivation for casting spells. When you become trained in one of these skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to learn with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement. The highest difficulty spell you can learn is determined by the dice step you are advancing to.
 
 ##### Table: Spell Learning Difficulty Limits
 | Dice Step | Step Name | Highest Difficulty |
