@@ -1,7 +1,7 @@
 # Maneuvers
 
 ##### Table: Fantasy Maneuvers
-| Name | Stamina<br/>Cost | Action Speed | Specializations |
+| Name | Stamina<br/>Cost | Action<br/>Speed | Specializations |
 |:-|:-:|:-:|:-|
 | [Distracting Strike](#distracting-strike) | 2 | Standard | Finesse, Martial, Unarmed |
 
