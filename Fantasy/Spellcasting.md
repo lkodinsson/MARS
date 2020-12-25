@@ -44,7 +44,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Evocation |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
 | [Guidance](#guidance) | 1 | 7 | Extended (1 minute) | Augury |
-| [Inspire](#inspire) | 2 | 10 | Extended (1 minute) | Evocation |
+| [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
@@ -104,7 +104,7 @@ Provides you with some information about any subject. Ask the Game Master a simp
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
-**Action Speed:** Extended (1 minute)
+**Action Speed:** Standard
 
 **Range:** Touch or 20m  
 **Target:** One creature  
