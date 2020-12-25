@@ -144,7 +144,7 @@ You touch an object, causing it to radiate light like a torch in a 10m radius. I
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half of the damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon emanate a magical effect based on the damage type chosen.
+You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon emanate a magical effect based on the damage type chosen.
 
 ***Arcane:*** The target loses 1d4 mana.  
 ***Cold:*** The target loses 1d4 stamina.  
