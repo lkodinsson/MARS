@@ -107,8 +107,8 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Shortbow | 5sp | STR+1d8 Piercing | +6 | Ranged | 1½kg | Range 25m/250m, Two-Handed |
 | Longbow | 15sp | STR+1d10 Piercing | +4 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
 | Hand Crossbow | 10sp | 3d6 Piercing | +10 | Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
-| Crossbow | 20sp | 3d8 Piercing | +8 | Ranged | 4kg | Range 25m/250m, Two-Handed, Reload, Mechanical |
-| Siege Crossbow | 30sp | 3d10 Piercing | +6 | Ranged | 7kg | Range 30m/300m, Two-Handed, Reload, Mechanical |
+| Crossbow | 20sp | 3d8 Piercing | +8 | Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
+| Siege Crossbow | 30sp | 3d10 Piercing | +6 | Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
 
 ##### Table: Projectile Weapon Ammunition
 | Name | Price | Weight | Weapon |
