@@ -199,7 +199,7 @@ Make an attack. If successful, the target can't move on their next turn.
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
-Make a melee attack with a weapon that deals slashing damage, but dealing blunt damage instead. If successful, the target loses 1 swift action on their next turn.
+Make a melee attack with a weapon that deals slashing damage, but dealing blunt damage instead. If successful, the target becomes stunned.
 
 ## Precise Strike
 
