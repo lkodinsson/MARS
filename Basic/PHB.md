@@ -41,14 +41,11 @@ Traits are unique abilities that usually only belong to a single character. Typi
 
 # Primary Stats
 
-Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by dice ranging in value from 1d4 to 1d12. Values beyond 1d12 include additional dice. These values are called dice steps, and for primary stats, these steps range from 1d4 to 2d10.
+Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by dice ranging in value from 1d4 to 1d12. Values beyond 1d12 include additional dice. These values are called dice steps.
 
 ##### Table: Primary Stat Steps
 | Dice Step | Step Name |
 |:-:|:-|
-| - | Nonexistent |
-| 1d4 | Fragile |
-| 1d6 | Weak |
 | 1d8 | Below Average |
 | 1d10 | Average |
 | 1d12 | Above Average |
@@ -366,8 +363,7 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 
 #### Block
 
-**Stamina Cost:** 1
-
+**Stamina Cost:** 1  
 **Action Speed:** Reaction
 
 Use a wielded item with the block feature to block an attack, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead.
@@ -386,8 +382,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 
 #### Evade
 
-**Stamina Cost:** 1
-
+**Stamina Cost:** 1  
 **Action Speed:** Reaction
 
 Roll your evasion to defend against an attack instead of using your deflection. After you evade, you may move a distance up to half your speed.
@@ -400,8 +395,7 @@ This action covers most basic actions, like opening doors, activating wielded it
 
 #### Move
 
-**Stamina Cost:** 0 or 1
-
+**Stamina Cost:** 0 or 1  
 **Action Speed:** Swift or Free
 
 Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
@@ -410,8 +404,7 @@ If the terrain you are moving over is rough or difficult to navigate, then you c
 
 #### Parry
 
-**Stamina Cost:** 1
-
+**Stamina Cost:** 1  
 **Action Speed:** Reaction
 
 Use a wielded item with the parry feature to block an attack, adding its parry value to your deflection. While parrying, attacks made against you that result in a graze are instead considered a success.
@@ -447,6 +440,10 @@ The duration of the following effects are considered permanent unless specified 
 #### Blind
 
 Blinded characters suffer a disadvantage to all rolls that require that character to attack, interact with, brandish, or use special abilities at, a specified target. This does not count for interacting with or brandishing their own personal items. In addition to this, all terrain is difficult to move across.
+
+#### Burning
+
+Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. At the beginning of a burning character's turn, they take fire damage equal to 1d4 plus the degree of burning, then the burning effect decreases by 1, until it goes away. Fire damage bypasses damage reduction.
 
 #### Debilitation
 
@@ -574,23 +571,19 @@ As you play the game your character will acquire experience points. These points
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
 |:-:|:-:|:-:|:-|
-| - | - | - | Nonexistent |
-| 4 | 4 | 1d4 | Fragile |
-| 6 | 10 | 1d6 | Weak |
-| 8 | 18 | 1d8 | Below Average |
-| 10 | 28 | 1d10 | Average |
-| 12 | 40 | 1d12 | Above Average |
-| 14 | 54 | 1d10+1d4 | Great |
-| 16 | 70 | 1d10+1d6 | Superb |
-| 18 | 88 | 1d10+1d8 | Powerful |
-| 20 | 108 | 2d10 | Epic |
+| - | - | 1d8 | Below Average |
+| 10 | 10 | 1d10 | Average |
+| 12 | 22 | 1d12 | Above Average |
+| 14 | 36 | 1d10+1d4 | Great |
+| 16 | 52 | 1d10+1d6 | Superb |
+| 18 | 70 | 1d10+1d8 | Powerful |
+| 20 | 90 | 2d10 | Epic |
 
 Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
 |:-:|:-:|:-:|:-|
-| - | - | - | Untrained |
 | 2<sup>1</sup> | 2 | 1d4 | Trained |
 | 3 | 5 | 1d6 | Adept |
 | 4 | 9 | 1d8 | Practiced |
