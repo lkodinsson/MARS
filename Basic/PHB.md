@@ -476,6 +476,10 @@ Prone characters are either kneeling or laying down on the ground. Ranged attack
 
 Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that you are sick you lose health equal to half this sickness value.
 
+#### Stunned
+
+At the beginning of a stunned character's turn, they lose the stunned effect and a swift action.
+
 #### Unconscious
 
 Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual.
