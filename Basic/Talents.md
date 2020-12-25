@@ -184,7 +184,7 @@ You can speak many languages well enough that you can easily figure out new ones
 
 **Requirements:** Max Intelligence 11+, Charisma
 
-You get advantage when assisting others perform skill checks.
+You get advantage when assisting others to perform skill checks.
 
 ## Toughness
 
