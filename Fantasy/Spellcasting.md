@@ -45,9 +45,10 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
 | [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
+| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury |
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
-| [Mend](#mend) | 1 | 7 | Standard | Transmutation |
+| [Mend](#mend) | 2 | 10 | Standard | Transmutation |
 | [Seek Guidance](#seek-guidance) | 1 | 7 | Extended (1 minute) | Augury |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
@@ -116,6 +117,19 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 ***Critical:*** Deal 2d4 electric damage, and the target becomes stunned.  
 ***Success:*** Deal 2d4 electric damage.  
 ***Graze:*** Deal 1d4 electric damage.
+
+## Knock
+
+**Specializations:** Augury  
+**Difficulty:** 14 (Challenging)
+
+**Mana Cost:** 3  
+**Action Speed:** Extended (1 minute)
+
+**Range:** Touch
+**Target:** One locked object
+
+You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects.
 
 ## Light
 
