@@ -81,5 +81,4 @@ The following tables are example tasks at various difficulties for some of the b
 | Concealing a large item | 19 (Ambitious) |
 | Disabling a magical trap | 19 (Ambitious) |
 | Picking an inner pocket | 19 (Ambitious) |
-| Opening a jammed lock | 32 (Improbable) |
-| Opening a magical lock | 40 (Impossible) |
+| Opening a jammed lock | 25 (Absurd) |
