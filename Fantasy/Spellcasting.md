@@ -144,7 +144,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Duration:** Indefinite (concentration)  
 **Resist:** Willpower
 
-You touch an object, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable.
+You touch an object, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius.
 
 ## Magic Weapon
 
