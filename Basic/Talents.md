@@ -19,6 +19,7 @@
 | [Mobility](#mobility) | 10 | STR 13+, Athletics |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
+| [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 10 | INT 11+, Charisma |
 | [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
 | [Weightlifter](#weightlifter) | 6 | STR 13+, Athletics |
@@ -29,7 +30,7 @@
 
 **Requirements:** Max Dexterity 13+, Trained in Acrobatics
 
-Your speed is increased by 1m, and you can move your full speed when you evade (from half).
+Your speed is increased by 2m, and you can move your full speed when you evade (from half).
 
 ## Always Prepared
 
@@ -131,7 +132,7 @@ You can use your intelligence instead of your resolve when making charisma check
 
 **Requirements:** Max Strength 11+, Trained in Athletics
 
-Your speed is increased by 1m, and your second move action each turn does not cost stamina.
+Your speed is increased by 2m, and your second move action each turn does not cost stamina.
 
 ## Magical Luck
 
@@ -162,7 +163,7 @@ Rolls made to restore resources during short and long rests are made with advant
 
 **Requirements:** Max Strength 13+, Trained in Athletics
 
-Your speed is increased by 1m, and one of your move actions you take each turn is not affected by difficult terrain.
+Your speed is increased by 2m, and one of the move actions you take each turn is not affected by difficult terrain.
 
 ## Latent Trait
 
@@ -178,11 +179,19 @@ You gain a second trait.
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
 
+## Sprinting
+
+**Cost:** 8 EXP
+
+**Requirements:** Max Strength 11+, Max Dexterity 11+, Trained in Athletics
+
+Your speed is increased by 2m, and you may spend 2 stamina on your first move action each turn to move double speed.
+
 ## Teamwork
 
 **Cost:** 10 EXP
 
-**Requirements:** Max Intelligence 11+, Charisma
+**Requirements:** Max Intelligence 11+, Trained in Charisma
 
 You get advantage when assisting others to perform skill checks.
 
