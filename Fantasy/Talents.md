@@ -3,14 +3,21 @@
 ##### Table: Fantasy Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
+| [Arcane Precision](#arcane-precision) | 10 | INT 11+, Can cast spells |
 | [Craft Preparation](#craft-preparation) | 6, 10, 14 | INT 11+, Craft |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
 | [Mental Focus](#mental-focus) | 8 | INT 13+, Can cast spells |
 
+## Arcane Precision
+
+**Cost:** 10 EXP
+**Requirements:** Max Intelligence 11+, Can cast spells
+
+After rolling to cast a spell, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced.
+
 ## Craft Preparation
 
-**Cost:** Variable
-
+**Cost:** Variable  
 **Requirements:** Max Intelligence 11+, Trained in Craft
 
 You always have craft materials available as long as you have your belongings, and all new crafts are made with partial progress for free.
@@ -24,22 +31,18 @@ You always have craft materials available as long as you have your belongings, a
 
 ## Esoteric Will
 
-**Cost**: 10 EXP
-
+**Cost:** 10 EXP  
 **Requirements:** Max Resolve 11+, Can cast spells
 
 You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to 1d12 plus your negative mana. Make this check after casting a spell in this way.
 
-***Graze:*** You lose 1 health.
-
-***Fail:*** You lose 1d4 health, and cannot cast the same spell until you take a short rest.
-
+***Graze:*** You lose 1 health.  
+***Fail:*** You lose 1d4 health, and cannot cast the same spell until you take a short rest.  
 ***Fumble:*** You lose 1d4+1 health, and cannot cast any spells until you take a long rest.
 
 ## Mental Focus
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Intelligence 13+, Can cast spells
 
 You can control two spells that require concentration instead of one.
