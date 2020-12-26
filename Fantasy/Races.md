@@ -18,7 +18,7 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 **Size** Dwarves are medium sized, but are as short as a small sized creature and weigh as much as a large sized creature.
 
-**Speed** Dwarves have a movement speed of 4m.
+**Speed** Dwarves have a movement speed of 6m.
 
 **Languages** Dwarves start with the common and dwarven languages.
 
@@ -32,7 +32,7 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 **Size** Elves are medium sized, but as tall as a large sized creature.
 
-**Speed** Elves have a movement speed of 5m.
+**Speed** Elves have a movement speed of 7m.
 
 **Languages** Elves start with the common and elven languages.
 
@@ -46,7 +46,7 @@ Halfling are a lot like any other folk, but they mostly keep to their own commun
 
 **Size** Halflings are small sized.
 
-**Speed** Halflings have a movement speed of 5m.
+**Speed** Halflings have a movement speed of 7m.
 
 **Languages** Halflings start with common and one additional language of their choice.
 
@@ -60,6 +60,6 @@ Humans are known for being good at generally anything, but aren't well known for
 
 **Size** Humans can be small, medium, or large sized, but are typically medium sized.
 
-**Speed** Humans have a movement speed of 5m.
+**Speed** Humans have a movement speed of 7m.
 
 **Languages** Humans start with common and one additional language of their choice.
