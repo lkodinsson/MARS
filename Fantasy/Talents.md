@@ -28,7 +28,7 @@ You always have craft materials available as long as you have your belongings, a
 
 **Requirements:** Max Resolve 11+, Can cast spells
 
-You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to your negative mana. Make this check after casting a spell in this way.
+You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to 1d12 plus your negative mana. Make this check after casting a spell in this way.
 
 ***Graze:*** You lose 1 health.
 
