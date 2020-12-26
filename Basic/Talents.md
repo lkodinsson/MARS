@@ -34,16 +34,14 @@ Your speed is increased by 2m, and you can move your full speed when you evade (
 
 ## Always Prepared
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Sleight
 
 Once per day, you may find any mundane item amongst your belongings as though you always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent.
 
 ## Ambidexterity
 
-**Cost:** Variable
-
+**Cost:** Variable  
 **Requirements:** Max Dexterity 11+, Trained in any combat skill
 
 Attacks made with a different weapon than the last weapon you used in the same round are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
@@ -56,40 +54,35 @@ Attacks made with a different weapon than the last weapon you used in the same r
 
 ## Danger Sense
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Dexterity 11+, Trained in Perception
 
 You can’t be surprised while you are conscious, and attackers don't get an advantage from sneak attacks or flanking attacks made against you.
 
 ## Deduction
 
-**Cost:** 6 EXP
-
+**Cost:** 6 EXP  
 **Requirements:** Max Intelligence 13+, Trained in Perception
 
 You can use your intelligence instead of your dexterity when making perception checks to track characters and creatures, and to notice hidden objects.
 
 ## Diehard
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Resolve 13+
 
 You gain an advantage to fortitude checks made to stabilize and you may choose to not be knocked unconscious when given the dying effect. While conscious with the dying effect at any point you may choose to become unconscious.
 
 ## Enthusiastic
 
-**Cost:** 10 EXP
-
+**Cost:** 10 EXP  
 **Requirements:** Max Resolve 11+
 
 The first skill check you make after a short or long rest is made with advantage.
 
 ## Inspirational Charisma
 
-**Cost:** Variable
-
+**Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
 You may spend 1 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
@@ -112,32 +105,28 @@ You may spend 1 mana to make a charisma check to assist another character with a
 
 ## Intimidation
 
-**Cost:** 6 EXP
-
+**Cost:** 6 EXP  
 **Requirements:** Max Strength 11+, Trained in Charisma
 
 You can use your strength instead of your resolve when making charisma checks to intimidate someone into doing something.
 
 ## Irrefutable Logic
 
-**Cost:** 6 EXP
-
+**Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Charisma
 
 You can use your intelligence instead of your resolve when making charisma checks to convince someone of something.
 
 ## Long-distance Running
 
-**Cost:** 8
-
+**Cost:** 8  
 **Requirements:** Max Strength 11+, Trained in Athletics
 
 Your speed is increased by 2m, and your second move action each turn does not cost stamina.
 
 ## Magical Luck
 
-**Cost:** Variable
-
+**Cost:** Variable  
 **Requirements:** Max Dexterity 11+, Max Intelligence 11+, Trained in Sleight
 
 You may spend 3 mana to gain an advantage on your next roll (in reality or in fiction). This ability can be used a number of times based on its advancement. One use is restored after a short rest, and all uses are restored after a long rest.
@@ -151,16 +140,14 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 
 ## Meditative Rest
 
-**Cost:** 10 EXP
-
+**Cost:** 10 EXP  
 **Requirements:** Max Resolve 11+
 
 Rolls made to restore resources during short and long rests are made with advantage.
 
 ## Mobility
 
-**Cost:** 10 EXP
-
+**Cost:** 10 EXP  
 **Requirements:** Max Strength 13+, Trained in Athletics
 
 Your speed is increased by 2m, and one of the move actions you take each turn is not affected by difficult terrain.
@@ -173,24 +160,21 @@ You gain a second trait.
 
 ## Polyglot
 
-**Cost:** 6 EXP
-
+**Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+, Trained in at least four languages
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
 
 ## Sprinting
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Dexterity 11+, Trained in Athletics
 
 Your speed is increased by 2m, and you may spend 2 stamina on your first move action each turn to move double speed.
 
 ## Teamwork
 
-**Cost:** 10 EXP
-
+**Cost:** 10 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Charisma
 
 You get advantage when assisting others to perform skill checks.
@@ -216,8 +200,7 @@ You have an increased amount of endurance. This bonus starts at +4 and advances 
 
 ## Weightlifter
 
-**Cost:** 6 EXP
-
+**Cost:** 6 EXP  
 **Requirements:** Max Strength 13+, Trained in Athletics
 
 You gain an advantage to athletics when attempting to move large objects, and your carrying capacity is determined as if you were one size larger.
