@@ -137,7 +137,7 @@ Willpower is your ability to resist temptation or supernatural influence, both m
 
 ### Speed (SPD)
 
-Your speed is a measurement of your average walking distance over three seconds, or the distance you can run over one second.
+Your speed is a measurement of your average walking distance over six seconds, or the total distance you can run over two seconds.
 
 ### Size (SZ)
 
