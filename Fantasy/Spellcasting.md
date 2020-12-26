@@ -126,7 +126,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 **Mana Cost:** 3  
 **Action Speed:** Extended (1 minute)
 
-**Range:** Touch
+**Range:** Touch  
 **Target:** One locked object
 
 You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects.
