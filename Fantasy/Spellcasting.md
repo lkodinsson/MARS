@@ -49,7 +49,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
 | [Mend](#mend) | 2 | 10 | Standard | Transmutation |
-| [Seek Guidance](#seek-guidance) | 1 | 7 | Extended (1 minute) | Augury |
+| [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
 ## Arcane Missiles
@@ -186,9 +186,9 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 ## Seek Guidance
 
 **Specializations:** Augury  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 10 (Hard)
 
-**Mana Cost:** 1  
+**Mana Cost:** 2  
 **Action Speed:** Extended (1 minute)
 
 Provides you with some information about any subject. Ask the Game Master a simple question (no longer than one sentence). You must ask this question from the perspective of your character.
