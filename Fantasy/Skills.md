@@ -147,6 +147,6 @@ Base item cost + magic cost = total cost
 | Uses per Day | Magic Cost × Uses |
 | Limited Uses | Magic Cost × Uses ÷ 5 |
 | Concentration<br/>For Effect<br/>(Unlimited Uses) | Magic Cost × 10 |
-| Concentration<br/>For Effect<br/>(Limited Uses) | Magic Cost × 2 |
+| Concentration<br/>For Effect<br/>(Limited Uses) | Magic Cost × 2 × Uses |
 | Graze Effect | Magic Cost ÷ 2 |
 | Critical Effect | Magic Cost × 2 |
