@@ -36,33 +36,39 @@ When you perform a maneuver on a target it may have a chance for the target to r
 
 ## Advancing Strike
 
-**Specializations:** Finesse, Martial, Unarmed  
+**Specializations:** Finesse, Martial, Unarmed
+
 **Stamina Cost:** 1  
 **Action Speed:** Swift
 
-Move 1m closer to a target 1m outside your melee attack range, or within your melee attack range but father than 1m from you, then make a melee attack on that target.
+Move 1m closer to a target 1m outside your melee attack range, or within your melee attack range but father than 1m from you, then make a melee attack on that target with +1 to hit.
 
 ## Back-step Strike
 
-**Specializations:** Finesse, Martial, Ranged, Unarmed  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Duration:** 1 Round
 
 Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
 
 ## Battle Cry
 
-**Specializations:** Finesse, Martial, Ranged, Unarmed  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Duration:** 1 Round
 
 Each ally within 30m gets +1 to their next attack or defense roll (whichever is first) for the duration.
 
 ## Bullrush
 
-**Specializations:** Martial, Unarmed  
+**Specializations:** Martial, Unarmed
+
 **Stamina Cost:** 2  
 **Action Speed:** Full
 
@@ -70,9 +76,11 @@ Move up to three times your speed in a straight line over a distance of at least
 
 ## Crippling Strike
 
-**Specializations:** Martial, Ranged  
+**Specializations:** Martial, Ranged
+
 **Stamina Cost:** 2  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Duration:** 2 Rounds  
 **Resist:** Fortitude
 
@@ -80,16 +88,19 @@ Make an attack. If successful, the target has their movement speed reduced to ha
 
 ## Dancing Strike
 
-**Specializations:** Finesse, Unarmed  
+**Specializations:** Finesse, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Resist:** Willpower
 
 Make a melee attack. If successful, trade places with your target if they are within 1m.
 
 ## Double Shot
 
-**Specializations:** Ranged  
+**Specializations:** Ranged
+
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
@@ -97,18 +108,22 @@ Make a single ranged attack with -2 to hit against two targets.
 
 ## Escape
 
-**Specializations:** Finesse, Ranged  
+**Specializations:** Finesse, Ranged
+
 **Stamina Cost:** 2  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Resist:** Perception
 
 Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks or run away undetected.
 
 ## Feint
 
-**Specializations:** Finesse, Martial, Unarmed  
+**Specializations:** Finesse, Martial, Unarmed
+
 **Stamina Cost:** 2  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Duration:** 1 Round  
 **Resist:** Insight
 
@@ -116,7 +131,8 @@ Make a charisma check against a target within melee range. If successful, the ne
 
 ## Hard Parry
 
-**Specializations:** Finesse, Martial  
+**Specializations:** Finesse, Martial
+
 **Stamina Cost:** 2  
 **Action Speed:** Reaction
 
@@ -124,7 +140,8 @@ While wielding a weapon that deals slashing damage, instead of using deflection 
 
 ## Heavy Strike
 
-**Specializations:** Martial, Unarmed  
+**Specializations:** Martial, Unarmed
+
 **Stamina Cost:** 3  
 **Action Speed:** Standard
 
@@ -132,7 +149,8 @@ Make an attack with -2 to hit but advantage to damage.
 
 ## Hook Parry
 
-**Specializations:** Finesse, Martial  
+**Specializations:** Finesse, Martial
+
 **Stamina Cost:** 2  
 **Action Speed:** Reaction
 
@@ -140,7 +158,8 @@ While wielding an axe, give an incoming melee attack disadvantage to hit. If tha
 
 ## Intercept
 
-**Specializations:** Finesse, Martial, Unarmed  
+**Specializations:** Finesse, Martial, Unarmed
+
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
@@ -148,9 +167,11 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 
 ## Intimidating Strike
 
-**Specializations:** Martial, Unarmed  
+**Specializations:** Martial, Unarmed
+
 **Stamina Cost:** 2  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Duration:** 1 Round  
 **Resist:** Insight
 
@@ -158,16 +179,19 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 ## Knock Down
 
-**Specializations:** Martial, Ranged, Unarmed  
+**Specializations:** Martial, Ranged, Unarmed
+
 **Stamina Cost:** 2  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Resist:** Fortitude
 
 Make an attack. If successful, the target becomes prone.
 
 ## Opportunity Strike
 
-**Specializations:** Finesse, Martial, Unarmed  
+**Specializations:** Finesse, Martial, Unarmed
+
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
@@ -175,7 +199,8 @@ Make a melee attack with +2 to hit against a target moving outside of your attac
 
 ## Penetrating Strike
 
-**Specializations:** Finesse, Ranged  
+**Specializations:** Finesse, Ranged
+
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
@@ -183,9 +208,11 @@ Make an attack. The target gets -2 to armour class.
 
 ## Pinning Shot
 
-**Specializations:** Ranged  
+**Specializations:** Ranged
+
 **Stamina Cost:** 1  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
@@ -193,9 +220,11 @@ Make an attack. If successful, the target can't move on their next turn.
 
 ## Pommel Strike
 
-**Specializations:** Finesse, Martial  
+**Specializations:** Finesse, Martial
+
 **Stamina Cost:** 2  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
@@ -203,7 +232,8 @@ Make a melee attack with a weapon that deals slashing damage, but dealing blunt 
 
 ## Precise Strike
 
-**Specializations:** Finesse, Ranged, Unarmed  
+**Specializations:** Finesse, Ranged, Unarmed
+
 **Stamina Cost:** 3  
 **Action Speed:** Standard
 
@@ -211,9 +241,11 @@ Make an attack with -2 to damage but advantage to hit.
 
 ## Provoke
 
-**Specializations:** Finesse, Martial, Ranged, Unarmed  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Duration:** 1 Round  
 **Resist:** Willpower
 
@@ -221,18 +253,22 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 ## Shield Bash
 
-**Specializations:** Martial, Unarmed  
+**Specializations:** Martial, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Resist:** Fortitude
 
 Make an attack with a shield as if it was a weapon that deals 1d6 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Taunt
 
-**Specializations:** Finesse, Martial, Ranged, Unarmed  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
 **Stamina Cost:** 1  
-**Action Speed:** Swift  
+**Action Speed:** Swift
+
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
@@ -240,7 +276,8 @@ Make a charisma check against a target within 20m. If successful, the target get
 
 ## Triple Shot
 
-**Specializations:** Ranged  
+**Specializations:** Ranged
+
 **Stamina Cost:** 2  
 **Action Speed:** Full
 
