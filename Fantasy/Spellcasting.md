@@ -56,6 +56,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration |
+| [Sight](#sight) | 1 | 7 | Swift | Augury |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
 ## Arcane Missiles
@@ -108,7 +109,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 **Duration:** 5 minutes (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell can be maintained for as long as desired, but if the effect itself reaches too far from you, the effect is ended. This spell and the light spell cancel each other out.
+You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
 
 ## Feather Fall
 
@@ -202,7 +203,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Duration:** Indefinite (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object or surface, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell can be maintained for as long as desired, but if the effect itself reaches too far from you, the effect is ended. This spell and the darkness spell cancel each other out.
+You touch an object or surface, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
 
 ## Magic Weapon
 
@@ -264,10 +265,10 @@ Allows you to speak a message telepathically into the mind of another being. You
 **Mana Cost:** 1  
 **Action Speed:** Swift
 
-**Range:** Touch
+**Range:** Touch  
 **Duration:** Indefinite (concentration, range of 30m)
 
-You create the illusion of a small object, tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and can be maintained for as long as desired, but if the effect itself (such as if you create the illusion of an object) reaches too far from you, the effect is ended.
+You create the illusion of a small object, tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight.
 
 ## Seek Guidance
 
@@ -299,6 +300,21 @@ You create a magical shield. It acts like a shield in that is has a block value,
 ***Critical:*** Block 5.  
 ***Success:*** Block 4.  
 ***Graze:*** Block 3.
+
+## Sight
+
+**Specializations:** Augury  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Swift
+
+**Range:** Touch  
+**Target:** One creature  
+**Duration:** Indefinite (concentration, range of 30m)  
+**Resist:** Willpower
+
+Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the target adjusts naturally to any degree of light or darkness.
 
 ## Telekinesis
 
