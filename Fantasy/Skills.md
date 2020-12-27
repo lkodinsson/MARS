@@ -146,6 +146,6 @@ Base item cost + magic cost = total cost
 | Magic Cost | Mana Cost × Spell Difficulty |
 | Uses per Day | Magic Cost × Uses |
 | Limited Uses | Magic Cost × Uses ÷ 5 |
-| Concentration<br/>For Effect | Magic Cost × 10 |
+| Concentration<br/>For Effect<br/>(Unlimited Uses) | Magic Cost × 10 |
 | Graze Effect | Magic Cost ÷ 2 |
 | Critical Effect | Magic Cost × 2 |
