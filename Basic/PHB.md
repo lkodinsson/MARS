@@ -529,7 +529,7 @@ After choosing your race, background, archetype, and trait, you will need to dec
 
 Characters may start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. If you can imagine an object or device, it is an item a person can have and use. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a fantasy setting, but a torch or a sword is.
 
-Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available. Including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
+Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available, including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
 
 Some items may seem better than others, but depending on the genre that uses them, some may be more or less expensive, or have various minor requirements or drawbacks.
 
