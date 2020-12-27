@@ -10,7 +10,7 @@
 
 ## Arcane Precision
 
-**Cost:** 10 EXP
+**Cost:** 10 EXP  
 **Requirements:** Max Intelligence 11+, Can cast spells
 
 After rolling to cast a spell, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced.
