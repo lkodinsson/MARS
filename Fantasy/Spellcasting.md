@@ -41,23 +41,23 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 ##### Table: List of Spells
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
-| [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Evocation |
-| [Armour](#armour) | 2 | 10 | Standard | Conjuration |
-| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
-| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
-| [Ignite](#ignite) | 1 | 7 | Swift | Evocation |
-| [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
-| [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
-| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury |
-| [Light](#light) | 1 | 7 | Swift | Conjuration |
-| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
-| [Mend](#mend) | 2 | 10 | Standard | Transmutation |
-| [Message](#message) | 1 | 7 | Swift | Augury |
-| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
+| [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
+| [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
+| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Enchantment |
+| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
+| [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
+| [Inspire](#inspire) | 2 | 10 | Standard | Enchantment, Evocation |
+| [Jolt](#jolt) | 1 | 7 | Swift | Evocation, Transmutation |
+| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Transmutation |
+| [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment |
+| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Mend](#mend) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Message](#message) | 1 | 7 | Swift | Augury, Enchantment |
+| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration, Enchantment |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
-| [Shield](#shield) | 2 | 10 | Reaction | Conjuration |
-| [Sight](#sight) | 1 | 7 | Swift | Augury |
-| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
+| [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
+| [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
+| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment, Transmutation |
 
 ## Arcane Missiles
 
