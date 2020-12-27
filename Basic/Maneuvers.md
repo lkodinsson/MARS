@@ -41,7 +41,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 **Stamina Cost:** 1  
 **Action Speed:** Swift
 
-Move 1m closer to a target 1m outside your melee attack range, or within your melee attack range but father than 1m from you, then make a melee attack on that target with +1 to hit.
+Move 1m closer to a target 1m outside your melee attack range, or within your melee attack range but farther than 1m from you, then make a melee attack on that target with +1 to hit.
 
 ## Back-step Strike
 
