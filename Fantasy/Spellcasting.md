@@ -51,9 +51,9 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Transmutation |
 | [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment, Transmutation |
-| [Mend](#mend) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Mend](#mend) | 2 | 10 | Standard | Transmutation |
 | [Message](#message) | 1 | 7 | Swift | Augury, Enchantment |
-| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration, Enchantment |
+| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
@@ -61,7 +61,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 
 ## Arcane Missiles
 
-**Specializations:** Evocation  
+**Specializations:** Conjuration, Evocation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -79,7 +79,7 @@ You shoot arcane missiles dealing 1d4+1 arcane damage. These missiles always hit
 
 ## Armour
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Enchantment  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -98,7 +98,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 ## Darkness
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Enchantment  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -113,7 +113,7 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 
 ## Feather Fall
 
-**Specializations:** Enchantment  
+**Specializations:** Enchantment, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -128,7 +128,7 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 
 ## Ignite
 
-**Specializations:** Evocation  
+**Specializations:** Evocation, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -146,7 +146,7 @@ You apply a small burst of heat to a nearby object or creature, dealing fire dam
 
 ## Inspire
 
-**Specializations:** Evocation  
+**Specializations:** Enchantment, Evocation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -161,7 +161,7 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 
 ## Jolt
 
-**Specializations:** Evocation  
+**Specializations:** Evocation, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -179,7 +179,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 
 ## Knock
 
-**Specializations:** Augury  
+**Specializations:** Augury, Transmutation  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -192,7 +192,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 
 ## Light
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Enchantment  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -207,7 +207,7 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 
 ## Magic Weapon
 
-**Specializations:** Enchantment  
+**Specializations:** Enchantment, Transmutation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -244,7 +244,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 
 ## Message
 
-**Specializations:** Augury  
+**Specializations:** Augury, Enchantment  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -286,7 +286,7 @@ Provides you with some information about any subject. Ask the Game Master a simp
 
 ## Shield
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Enchantment  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -303,7 +303,7 @@ You create a magical shield. It acts like a shield in that is has a block value,
 
 ## Sight
 
-**Specializations:** Augury  
+**Specializations:** Augury, Enchantment  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -318,7 +318,7 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 
 ## Telekinesis
 
-**Specializations:** Enchantment  
+**Specializations:** Enchantment, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
