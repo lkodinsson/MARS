@@ -34,7 +34,7 @@ Even though many different spellcasting skills have different methods and motiva
 
 Spells may deal various types of *magical damage*. By default, all magical damage bypasses damage reduction, unless the spell is blocked. Magical damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of magical damage are: *arcane*, *cold*, *electric*, and *fire*.
 
-Some spells will have a listed duration with the word *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell or until the duration is exceeded. You may only concentrate on a single spell requiring it any given time. If any other condition is listed, then the spell ends as soon as that condition is met.
+Some spells will have a listed duration with the word *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become unconscious. You may only concentrate on a single spell requiring it any given time. If any other condition is listed, then the spell ends as soon as that condition is met. If a concentration spell ends where you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.
 
 Additional spells cast during the same turn get a –2 penalty to cast for each spell cast before it in the same turn. This penalty applies to all forms of spells cast. This is known as the *multiple spell penalty*. Spells cast as a reaction are considered spells cast on your next turn (such as by a readied action).
 
@@ -42,14 +42,20 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Evocation |
+| [Armour](#armour) | 2 | 10 | Standard | Conjuration |
+| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment |
+| [Ignite](#ignite) | 1 | 7 | Swift | Evocation |
 | [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation |
 | [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury |
 | [Light](#light) | 1 | 7 | Swift | Conjuration |
 | [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment |
 | [Mend](#mend) | 2 | 10 | Standard | Transmutation |
+| [Message](#message) | 1 | 7 | Swift | Augury |
+| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
+| [Shield](#shield) | 2 | 10 | Reaction | Conjuration |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment |
 
 ## Arcane Missiles
@@ -70,6 +76,40 @@ You shoot arcane missiles dealing 1d4+1 arcane damage. These missiles always hit
 ***Success:*** Shoot two missiles.  
 ***Graze:*** Shoot one missile.
 
+## Armour
+
+**Specializations:** Conjuration  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** Touch  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You create a suit of magical armour on the target of your spell. It has an armour class and damage reduction similar to armour, but it has no weight or strength requirements. Additionally, this armour is capable of reducing magical damage unlike real armour. If a character wearing the arcane armour is also wearing real body armour, use whatever values are higher between the arcane and real armour. Even so, arcane armour will always remove any weaknesses that the real armour would have had, and still provides the ability to reduce damage from magic. It does not remove any other features of the real armour (such as the weight, strength requirement, or any noise it might produce).
+
+***Critical:*** 5 armour class and 7 damage reduction.  
+***Success:*** 3 armour class and 5 damage reduction.  
+***Graze:*** 2 armour class and 3 damage reduction.
+
+## Darkness
+
+**Specializations:** Conjuration  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Swift
+
+**Range:** Touch  
+**Target:** One object or surface  
+**Duration:** 5 minutes (concentration, range of 30m)  
+**Resist:** Willpower
+
+You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell can be maintained for as long as desired, but if the effect itself reaches too far from you, the effect is ended. This spell and the light spell cancel each other out.
+
 ## Feather Fall
 
 **Specializations:** Enchantment  
@@ -84,6 +124,24 @@ You shoot arcane missiles dealing 1d4+1 arcane damage. These missiles always hit
 **Resist:** Willpower
 
 Reduces the speed that you fall to a slow enough speed that you can always land safely. This spell can also be used to double the length of a jump due to the reduced falling speed. This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
+
+## Ignite
+
+**Specializations:** Evocation  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Swift
+
+**Range:** 3m  
+**Target:** One creature or object  
+**Resist:** Deflection
+
+You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing clothes or cloth armour, reduce their resist roll by 2.
+
+***Critical:*** Deal 1d6 fire damage, and the target gets burning 2.  
+***Success:*** Deal 1d6 fire damage, and the target gets burning 1.  
+***Graze:*** Deal 1d6 fire damage.
 
 ## Inspire
 
@@ -140,11 +198,11 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Action Speed:** Swift
 
 **Range:** Touch  
-**Target:** One object  
-**Duration:** Indefinite (concentration)  
+**Target:** One object or surface  
+**Duration:** Indefinite (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius.
+You touch an object or surface, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell can be maintained for as long as desired, but if the effect itself reaches too far from you, the effect is ended. This spell and the darkness spell cancel each other out.
 
 ## Magic Weapon
 
@@ -183,6 +241,34 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 ***Success:*** Restore 2d6 endurance.  
 ***Graze:*** Restore 1d6 endurance.
 
+## Message
+
+**Specializations:** Augury  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Swift
+
+**Range:** 3m  
+**Target:** One creature  
+**Duration:** Instant or 5 minutes (concentration)  
+**Resist:** Willpower
+
+Allows you to speak a message telepathically into the mind of another being. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them, or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer concentration. Any communications made are done so without requiring a specific language. The intent of the message is translated into a language the receiver can always understand.
+
+## Minor Illusion
+
+**Specializations:** Conjuration  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Swift
+
+**Range:** Touch
+**Duration:** Indefinite (concentration, range of 30m)
+
+You create the illusion of a small object, tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and can be maintained for as long as desired, but if the effect itself (such as if you create the illusion of an object) reaches too far from you, the effect is ended.
+
 ## Seek Guidance
 
 **Specializations:** Augury  
@@ -196,6 +282,23 @@ Provides you with some information about any subject. Ask the Game Master a simp
 ***Critical:*** Receive a three word clue or a yes-or-no answer (Game Master's choice).  
 ***Success:*** Receive a two word clue.  
 ***Graze:*** Receive a one word clue.
+
+## Shield
+
+**Specializations:** Conjuration  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Reaction
+
+**Range:** Self  
+**Duration:** Instant or 5 minutes (concentration)
+
+You create a magical shield. It acts like a shield in that is has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so. If this spell is cast to block as a reaction but then not maintained, it costs only 1 mana instead of 2.
+
+***Critical:*** Block 5.  
+***Success:*** Block 4.  
+***Graze:*** Block 3.
 
 ## Telekinesis
 
