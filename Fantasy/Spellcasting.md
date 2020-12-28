@@ -44,6 +44,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Enchantment |
+| [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
 | [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
 | [Inspire](#inspire) | 2 | 10 | Standard | Enchantment, Evocation |
@@ -57,6 +58,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
+| [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment, Transmutation |
 
 ## Arcane Missiles
@@ -110,6 +112,24 @@ You create a suit of magical armour on the target of your spell. It has an armou
 **Resist:** Willpower
 
 You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
+
+## Detect Thoughts
+
+**Specializations:** Augury  
+**Difficulty:** 14 (Moderate)
+
+**Mana Cost:** 3  
+**Action Speed:** Swift
+
+**Range:** 3m  
+**Target:** One creature  
+**Duration:** Instant or 5 minutes (concentration)  
+**Resist:** Willpower
+
+Allows you to read the active thoughts of another creature without them knowing you are doing so. You may choose to also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
+
+***Critical:*** Allows you to read deep thoughts without alerting the target to your presence.  
+***Graze:*** The targe always knows you are reading their thoughts.
 
 ## Feather Fall
 
@@ -255,7 +275,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 **Duration:** Instant or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Allows you to speak a message telepathically into the mind of another being. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them, or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer concentration. Any communications made are done so without requiring a specific language. The intent of the message is translated into a language the receiver can always understand.
+Allows you to speak a message (one or two sentences) telepathically into the mind of another creature. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them (and end the spell), or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer conversation. Any communications made are done so without requiring a specific language; the intent of the message is translated into a language the receiver can always understand.
 
 ## Minor Illusion
 
@@ -315,6 +335,21 @@ You create a magical shield. It acts like a shield in that is has a block value,
 **Resist:** Willpower
 
 Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the target adjusts naturally to any degree of light or darkness.
+
+## Suggestion
+
+**Specializations:** Enchantment, Evocation  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Swift
+
+**Range:** 10m  
+**Target:** One creature  
+**Duration:** 1 hour (until request met)  
+**Resist:** Willpower
+
+You make a simple request of a creature (no longer than two sentences). If that creature can understand what you are saying, and the request does not cause harm to that creature or its allies, it must do as you ask for the duration of the spell, or the entirety of the request is met. Even if the creature resists this spell, they will not be aware that the suggestion was magical.
 
 ## Telekinesis
 
