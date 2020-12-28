@@ -349,7 +349,7 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 **Duration:** 1 hour (until request met)  
 **Resist:** Willpower
 
-You make a simple request of a creature (no longer than two sentences). If that creature can understand what you are saying, and the request does not cause harm to that creature or its allies, it must do as you ask for the duration of the spell, or the entirety of the request is met. Even if the creature resists this spell, they will not be aware that the suggestion was magical.
+You make a simple request of a creature (no longer than two sentences). If that creature can understand what you are saying, and the request does not cause harm to that creature or its allies, it must do as you ask. Even if the creature resists this spell, they will not be aware that the suggestion was magical.
 
 ## Telekinesis
 
