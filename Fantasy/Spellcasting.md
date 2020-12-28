@@ -22,7 +22,7 @@ To cast a spell you must perform the following steps:
 3. Perform the effects of that spell based on your degree of success.
 4. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
-If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell.
+If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell. If the recipients of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value.
 
 Whenever a spell refers to your *spellcasting stat* it means the stat that your spellcasting skill is associated with.
 
@@ -320,6 +320,24 @@ You create a magical shield. It acts like a shield in that is has a block value,
 ***Critical:*** Block 5.  
 ***Success:*** Block 4.  
 ***Graze:*** Block 3.
+
+## Sickness
+
+**Specializations:** Conjuration, Transmutation  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** 10m  
+**Target:** One creature  
+**Duration:** 1 week  
+**Resist:** Fortitude
+
+Inflict sickness upon a creature, causing it to perform tasks worse and suffer loss of health from long-term exposure. Whenever the duration is met, the target may make a fortitude check to reduce their sickness by 1.
+
+***Critical:*** The target gets sickness 2.  
+***Graze/Success:*** The target gets sickness 1.
 
 ## Sight
 
