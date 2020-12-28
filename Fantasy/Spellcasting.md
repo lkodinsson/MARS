@@ -43,11 +43,11 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 |:-|:-:|:-:|:-:|:-|
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
-| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Enchantment |
+| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
 | [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
-| [Inspire](#inspire) | 2 | 10 | Standard | Enchantment, Evocation |
+| [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation, Transmutation |
 | [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Transmutation |
 | [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment |
@@ -59,7 +59,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
 | [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
-| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Enchantment, Transmutation |
+| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
 
 ## Arcane Missiles
 
@@ -100,7 +100,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 ## Darkness
 
-**Specializations:** Conjuration, Enchantment  
+**Specializations:** Conjuration  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -166,7 +166,7 @@ You apply a small burst of heat to a nearby object or creature, dealing fire dam
 
 ## Inspire
 
-**Specializations:** Enchantment, Evocation  
+**Specializations:** Evocation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -353,7 +353,7 @@ You make a simple request of a creature (no longer than two sentences). If that 
 
 ## Telekinesis
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
