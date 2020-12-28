@@ -566,7 +566,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 # Advancing a Character
 
-As you play the game your character will acquire experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
+As you play the game your character will acquire experience points. Typically you receive 3 points at the end of every session. You may receive 4 if you or someone in your group completes a minor or personal objective, and 5 points if a major objective is completed. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
 
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
