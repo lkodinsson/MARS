@@ -158,7 +158,7 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 **Target:** One creature or object  
 **Resist:** Deflection
 
-You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing clothes or cloth armour, reduce their resist roll by 2.
+You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2.
 
 ***Critical:*** Deal 1d4 fire damage, and the target gets burning 2.  
 ***Success:*** Deal 1d4 fire damage, and the target gets burning 1.  
