@@ -57,6 +57,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
+| [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Transmutation |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
 | [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
