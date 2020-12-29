@@ -4,13 +4,13 @@ The **Modular Adventure Role-playing System** or **MARS** is a [generic role-pla
 
 # Learning to Play
 
-All of the cores rules are defined in the [**MARS Basic: Player's Handbook**](/Basic/PHB.md). Additional information and reference tables can be found in the [**MARS Basic: Appendix**](/Basic/Appendix.md).
+All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md). Additional information and reference tables can be found in the [**Appendix**](/Basic/Appendix.md).
 
 # Creating a Character
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**MARS Basic: Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play.
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play.
 
-### All Genres
+### Universal
 
 * [Talents](/Basic/Talents.md)
 * [Maneuvers](/Basic/Maneuvers.md)
@@ -25,3 +25,23 @@ Once you have learned the rules and are ready to create a character, you will ne
 * [Equipment](/Fantasy/Equipment.md)
 * [Maneuvers](/Fantasy/Maneuvers.md)
 * [Spellcasting](/Fantasy/Spellcasting.md)
+
+# Game Mastering
+
+[**Game Master's Guide**](/Basic/GMG.md)
+
+## Reference Material
+
+### Universal
+
+* [Bestiary](/Basic/Bestiary.md)
+
+### Fantasy
+
+* [Bestiary](/Fantasy/Bestiary.md)
+
+## Advanced (Variant) Rules
+
+### Universal
+
+* [Epic Characters](/Advanced/EpicCharacters.md)
