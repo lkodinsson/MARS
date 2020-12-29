@@ -154,7 +154,7 @@ Make an attack with -2 to hit but advantage to damage.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe, give an incoming melee attack disadvantage to hit. Give that attack double disadvantage instead of your combat skill is exceptional (1d12) or better.
+While wielding an axe, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (1d12) or better, give the incoming attack double disadvantage instead.
 
 ## Intercept
 
@@ -272,7 +272,7 @@ Make an attack with a shield as if it was a weapon that deals 1d6 blunt damage a
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
-Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration.
+Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your combat skill is exceptional (1d12) or better, give the target double disadvantage instead.
 
 ## Triple Shot
 
