@@ -20,7 +20,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 | [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
 | [Hard Parry](#hard-parry) | 2 | Reaction | Finesse, Martial |
 | [Heavy Strike](#heavy-strike) | 3 | Standard | Martial, Unarmed |
-| [Hook Parry](#hook-parry) | 2 | Reaction | Finesse, Martial |
+| [Hook Parry](#hook-parry) | 1 | Reaction | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | Finesse, Martial, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Martial, Unarmed |
 | [Knock Down](#knock-down) | 2 | Standard | Martial, Ranged, Unarmed |
