@@ -154,7 +154,7 @@ Make an attack with -2 to hit but advantage to damage.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe, give an incoming melee attack disadvantage to hit.
+While wielding an axe, give an incoming melee attack disadvantage to hit. Give that attack double disadvantage instead of your combat skill is exceptional (1d12) or better.
 
 ## Intercept
 
