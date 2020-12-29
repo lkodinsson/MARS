@@ -316,11 +316,11 @@ Provides you with some information about any subject. Ask the Game Master a simp
 **Range:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that is has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so. If this spell is cast to block as a reaction but then not maintained, it costs only 1 mana instead of 2.
+You create a magical shield. It acts like a shield in that is has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so.
 
-***Critical:*** Block 5.  
-***Success:*** Block 4.  
-***Graze:*** Block 3.
+***Critical:*** Block 6.  
+***Success:*** Block 5.  
+***Graze:*** Block 4.
 
 ## Sickness
 
