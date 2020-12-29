@@ -61,18 +61,21 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 **Languages** Common (native), minotaur (native), undercommon (fluent)  
 **Acrobatics** 6/–, **Athletics** 18/1d10+1d6, **Charisma** 10/1d6  
-**Insight** 15/1d10+1d6, **Perception** 10/1d8, **Stealth** 4<sup>dd</sup>/–  
-**Knowledge** 18<sup>a</sup>/1d10, **Lore** 18<sup>a</sup>/1d10
+**Insight** 15/1d10+1d6, **Perception** 10/1d8, **Stealth** 3<sup>dd</sup>/–  
+**Knowledge** 17<sup>a</sup>/1d10, **Lore** 17<sup>a</sup>/1d10
 
 **Martial** 14/1d10+1d6, **Unarmed** 1d4  
-**Maneuvers** Battle Cry, Bullrush, Heavy Strike, Hard Parry, Knock Down, Opportunity Strike, Taunt
+**Maneuvers** Battle Cry, Bullrush, Crippling Strike, Heavy Strike, Hard Parry, Knock Down, Opportunity Strike, Taunt
 
 **Talents** Toughness (+22)
 
 **Unarmed** 9/1d10+2d4-1 to hit, 10/1d10+1d6+2 blunt damage (crit +2)  
 *Nonlethal, Swift*
 
-**Exceptional heavy greataxe** 15/2d10+1d6+1d4 to hit, 18/2d10+1d6+5 slashing damage (crit +6)  
+**Exceptional heavy greataxe (2h)** 15/2d10+1d6+1d4 to hit, 21<sup>a</sup>/2d10+1d6+5 slashing damage (crit +6)  
+*Cleave, Two-Handed*
+
+**Exceptional heavy greataxe (1h)** 14/2d10+1d6+1d4-1 to hit, 15<sup>d</sup>/2d10+1d6+5 slashing damage (crit +6)  
 *Cleave, Two-Handed*
 
 **Items** Exceptional heavy greataxe, exceptional scalemail, small helm, plated bracers, greaves, electrum (5)
