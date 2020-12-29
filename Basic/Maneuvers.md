@@ -11,7 +11,7 @@ When you perform a maneuver on a target it may have a chance for the target to r
 |:-|:-:|:-:|:-|
 | [Advancing Strike](#advancing-strike) | 1 | Swift | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Battle Cry](#battle-cry) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
+| [Battle Cry](#battle-cry) | 2 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Bullrush](#bullrush) | 2 | Full | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
@@ -58,7 +58,7 @@ Make an attack with -2 to hit, then you may move backward 1m. If you do move bac
 
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
-**Stamina Cost:** 1  
+**Stamina Cost:** 2  
 **Action Speed:** Swift
 
 **Duration:** 1 Round
