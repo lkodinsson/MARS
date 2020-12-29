@@ -85,7 +85,7 @@ The first skill check you make after a short or long rest is made with advantage
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may spend 1 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
 ##### Table: Inspirational Charisma Steps & Cost
 | Step Cost | Total Cost | Bonus |
@@ -99,9 +99,10 @@ You may spend 1 mana to make a charisma check to assist another character with a
 | Assist Roll<br/>Threshold | Assist Bonus |
 |:-:|:-:|
 | 7 (Moderate) | +1 |
-| 14 (Challenging) | +2 |
-| 25 (Absurd) | +3 |
-| 40 (Impossible) | +4 |
+| 10 (Hard) | +2 |
+| 14 (Challenging) | +3 |
+| 19 (Ambitious) | +4 |
+| 25 (Absurd) | +5 |
 
 ## Intimidation
 
