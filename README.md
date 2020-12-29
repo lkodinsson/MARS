@@ -32,15 +32,11 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 ## Reference Material
 
-### Universal
-
-* [Bestiary](/Basic/Bestiary.md)
-
 ### Fantasy
 
 * [Bestiary](/Fantasy/Bestiary.md)
 
-## Advanced (Variant) Rules
+# Advanced (Variant) Rules
 
 ### Universal
 
