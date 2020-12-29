@@ -45,7 +45,7 @@ Imagine how you would describe that creature, then assign values to its stats an
 | 1d10+1d4 | Great | Disciplined |
 | 1d10+1d6 | Superb | Accomplished |
 | 1d10+1d8 | Powerful | Expert |
-| 2d10 | Epic | Expert | Master |
+| 2d10 | Epic | Master |
 | 1d12+1d10 | Heroic | Prodigy |
 | 2d10+1d4 | Fantastic | Virtuoso |
 | 2d10+1d6 | Fabled | Renowned |
