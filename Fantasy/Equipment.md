@@ -231,18 +231,18 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Improvised | –1 to Hit & –1 Damage | –1 Deflection & –1 Damage Reduction | ×½ |
-| Crude | –1 to Hit | –1 Deflection | ×¾ |
-| Fine | +1 to Hit | +1 Deflection | ×1½ or +10sp |
-| Superior | +1 to Hit & +1 Damage | +1 Deflection & +1 Damage Reduction | ×2 or +25sp |
-| Exceptional | +2 to Hit & +1 Damage | +2 Deflection & +1 Damage Reduction | ×2½ or +45sp |
-| Masterwork | +2 to Hit & +2 Damage | +2 Deflection & +2 Damage Reduction | ×3 or +70sp |
+| Improvised | –1 to hit, –1 damage | –1 armour class, –1 damage reduction | ×½ |
+| Crude | –1 to hit | –1 deflection | ×¾ |
+| Fine | +1 to hit | +1 deflection | ×1½ or +10sp |
+| Superior | +1 to hit, +1 damage | +1 armour class, +1 damage reduction | ×2 or +25sp |
+| Exceptional | +2 to hit, +1 damage | +2 armour class, +1 damage reduction | ×2½ or +45sp |
+| Masterwork | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×3 or +70sp |
 
 ##### Table: Equipment Weight
 | Quality Name | Melee Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Heavy | ×1¼ Weight and Reduced Speed | ×1¼ Weight and STR Req | ×¾ |
-| Light | ×¾ Weight and Increased Speed | ×¾ Weight and STR Req | ×1½ or +10sp |
+| Heavy | ×1¼ Weight and reduced speed | ×1¼ Weight and STR requirement | ×¾ |
+| Light | ×¾ Weight and increased speed | ×¾ Weight and STR requirement | ×1½ or +10sp |
 
 ##### Table: Melee Weapon Speed
 | Speed | Weapon Features |
@@ -251,6 +251,6 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Fast | Swift |
 | Normal | Versatile or none<sup>1</sup> |
 | Slow | Two-Handed |
-| Very Slow | Two-Handed, –1 to hit |
+| Very Slow | Two-Handed, –1 to hit, +1 damage |
 
 <sup>1</sup>When a weapon becomes normal speed they become versatile. Finesse weapons, however, do not.
