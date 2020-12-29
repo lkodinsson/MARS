@@ -108,7 +108,7 @@ This is probably the most difficult part to convert. In the case of characters y
 | 21~24 | 1d10+1d8 | Powerful |
 | 25+ | 2d10 | Epic |
 
-After determining these, apply the most appropriate race, background, and archetype. Advance the character until it meets similar thresholds. [Skill Ratings](#stat-block) are good baselines for similar features found in d20 systems.
+After determining these, apply the most appropriate race, background, and archetype. Advance the character until it meets similar thresholds. [Skill ratings](#stat-and-skill-ratings) are good baselines for similar features found in d20 systems.
 
 ##### Table: d20 Rating Equivalents
 | d20 | Equivalent |
