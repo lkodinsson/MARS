@@ -32,7 +32,7 @@ Challenging combat encounters have equivalent combat ratings on both sides. Some
 
 ### Commons and Elites
 
-The status of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have two listed values: the first value is for common creatures, and the second listed value (in parentheses) are for elite creatures. Common creatures will have these stats reduced to half. Combat ratings are also given two values in the same way. Additionally, any special abilities and actions (such as maneuvers and spells), are to be used sparingly by common creatures.
+The status of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have two listed values: the first value is for common creatures, and the second listed value (in parentheses) are for elite creatures. Common creatures will have these stats reduced to half. Combat ratings are also given two values in the same way. Additionally, any special abilities and actions (such as maneuvers and spells), are to be used sparingly (if at all) by common creatures.
 
 # Creating Creatures
 
