@@ -24,7 +24,7 @@ Stats and skills will also be given *ratings*, which are approximations of the a
 
 ### Combat Rating
 
-This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1, while much more experienced characters reach as high as 20.
+This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 2, while much more experienced characters reaching as high as 20.
 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
