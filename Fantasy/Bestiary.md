@@ -3,18 +3,18 @@
 ##### Table: Fantasy Bestiary
 | Name | Type | CR |
 |:-|:-|:-:|
-| [Goblin](#goblin) | Small monstrous humanoid | ⅓ (⅔) |
-| [Minotaur](#minotaur) | Large monstrous humanoid | 4¼ (8½) |
+| [Goblin](#goblin) | Small monstrous humanoid | ⅓; ⅔; 1½ |
+| [Minotaur](#minotaur) | Large monstrous humanoid | 4¼; 8½; 17 |
 
 ## Goblin
 
 Small monstrous humanoid  
-**CR:** ⅓ (⅔)
+**CR:** ⅓; ⅔; 1½
 
 A small green-skinned creature with fierce eyes and teeth, and a few short hairs on its head. They are not the smartest creatures and are prone to violence, but they can often be crafty and sneaky. They are known to work in groups.
 
 **Initiative** 10/2d8+2  
-**HP** 3 (7), **SP** 5 (10), **EP** 4 (9)  
+**HP** 3; 7; 14, **SP** 5; 10; 20, **EP** 4; 9; 18  
 **DEF** 6/1d8+2, **EVA** 7/1d8+3, **DR** 3 (1 vs blunt)  
 **Fort** 8/2d8, **Will** 9/2d8+1  
 **Speed** 6m
@@ -44,12 +44,12 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 ## Minotaur
 
 Large monstrous humanoid  
-**CR:** 4¼ (8½)
+**CR:** 4¼; 8½; 17
 
 Large muscular creature with the head of a bull and the body of a man. They have an exceptional memory and intelligence, but due to their monstrous apperance, they are often mistaken for violent creatures.
 
 **Initiative** 13/2d10+2d4-1  
-**HP** 9 (18), **SP** 6 (13), **EP** 18 (36)  
+**HP** 9; 18; 36, **SP** 6 (13), **EP** 18; 36; 72  
 **DEF** 15/1d10+1d4+8, **EVA** 14/1d10+1d4+7, **DR** 6  
 **Fort** 17/2d10+1d6+1d4+2, **Will** 16/2d10+1d6+1d4+1  
 **Speed** 6m
