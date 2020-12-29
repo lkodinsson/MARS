@@ -36,7 +36,7 @@ Imagine how you would describe that creature, then assign values to its stats an
 
 ##### Table: All Stat Steps
 | Dice Step | Stat Step | Skill Step |
-|:-:|:-|
+|:-:|:-|:-|
 | 1d4 | Fragile | Trained |
 | 1d6 | Weak | Adept |
 | 1d8 | Below Average |
