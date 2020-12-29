@@ -28,7 +28,7 @@ This stat is represented by a single number. This number is a comparative value 
 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
-Health pool and damage rating: (Maximum strength + maximum endurance) ÷ 10  
+Health pool and damage rating: (Maximum strength + maximum endurance) ÷ 20  
 Offense rating: (Highest combat or spellcasting skill rating) ÷ 10  
 Defense rating: (Highest of deflection rating or evasion rating + damage reduction) ÷ 10
 
