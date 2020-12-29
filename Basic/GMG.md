@@ -18,7 +18,7 @@ Stats and skills will also be given *ratings*, which are approximations of the a
 
 ### Combat Rating
 
-This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 1½, with much more experienced characters reaching as high as 20.
+This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 2, with much more experienced characters reaching as high as 20.
 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
@@ -29,6 +29,10 @@ Defense rating: (Highest of deflection rating or evasion rating + damage reducti
 A value of 1 is found by assuming all stats are average, a combat skill with a value of 1d10, any basic weapon, and wearing a piece of armour with a combined armour class and damage reduction of 5.
 
 Challenging combat encounters have equivalent combat ratings on both sides. Some powerful creatures may have combat ratings much higher than what a single player can achieve alone.
+
+### Commons and Elites
+
+The status of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have two listed values: the first value is for common creatures, and the second listed value (in parentheses) are for elite creatures. Common creatures will have these stats reduced to half. Combat ratings are also given two values in the same way. Additionally, any special abilities and actions (such as maneuvers and spells), are to be used sparingly by common creatures.
 
 # Creating Creatures
 
@@ -51,10 +55,6 @@ Imagine how you would describe that creature, then assign values to its stats an
 | 2d10+1d6 | Fabled | Renowned |
 | 2d10+1d8 | Mythical | Exalted |
 | 3d10 | Legendary | Grandmaster |
-
-## Commons and Elites
-
-The status of a particular creature determines certain characteristics about it. Common creatures have half the normal resources (health, endurance, stamina, and mana), and get access to a very limited selection of special abilities, if any at all. Elite creatures will often have several special abilities and exceptional stats and skills.
 
 # Converting from d20
 
