@@ -251,6 +251,6 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Fast | Swift |
 | Normal | Versatile or none<sup>1</sup> |
 | Slow | Two-Handed |
-| Very Slow | Two-Handed, –1 to hit, +1 damage |
+| Very Slow | Two-Handed, –1 to hit, +2 damage |
 
 <sup>1</sup>When a weapon becomes normal speed they become versatile. Finesse weapons, however, do not.
