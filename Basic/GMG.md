@@ -15,7 +15,7 @@ Creatures are also given a list of stats and skills. It is important to note tha
 
 Stats and skills will also be given *ratings*, which are approximations of the average value that stat or skill can roll. This is useful to save time when you need an immediate value to compare against, but don't want to spend additional time rolling dice (such as for a group of creatures). Ratings are listed before the actual value of a skill or stat, separated by a slash. They can be calcuated by finding the maximum value that skill's dice and associated stat can roll, dividing that value in half, then adding any bonuses and or penalties.
 
-### Combat Rating
+### Challenge Rating
 
 This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 2, with much more experienced characters reaching as high as 20.
 
@@ -29,9 +29,9 @@ A value of 1 is found by assuming all stats are average, a combat skill with a v
 
 Challenging combat encounters have equivalent combat ratings on both sides. Some powerful creatures may have combat ratings much higher than what a single player can achieve alone.
 
-### Commons and Elites
+### Creature Rarity
 
-The status of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have two listed values: the first value is for common creatures, and the second listed value (in parentheses) are for elite creatures. Common creatures will have these stats reduced to half. Combat ratings are also given two values in the same way. Additionally, any special abilities and actions (such as maneuvers and spells), are to be used sparingly (if at all) by common creatures.
+The rarity of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have three listed values. Challenge ratings are also given multiple values. These values, in order, represent that values you should use with those creatures depending on how rare you choose them. The names for these rarities are: *common*, *elite*, and *unique*. Common creatures aren't particularly notable, so use their abilities sparingly.
 
 # Creating Creatures
 
