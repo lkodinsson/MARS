@@ -2,7 +2,6 @@
 
 * [Bestiary](#bestiary)
 * [Creating Creatures](#creating-creatures)
-* [Converting from d20](#converting-from-d20)
 
 # Bestiary
 
@@ -55,68 +54,3 @@ Imagine how you would describe that creature, then assign values to its stats an
 | 2d10+1d6 | Fabled | Renowned |
 | 2d10+1d8 | Mythical | Exalted |
 | 3d10 | Legendary | Grandmaster |
-
-# Converting from d20
-
-Most role-playing material available is created for popular d20 game systems. The following are some guidelines to converting the numerical properties of that material so they can be used with MARS.
-
-## Skill Checks
-
-To convert skill checks from d20 challenges, multiply them by 0.8 (round down or up as applicable). If the result is less than 5, then the check is trivial and requires no roll. This is only necessary if the challenge doesn't conform to an example listed under each skill (or can't be otherwise logically determined).
-
-## Characters and Creatures
-
-This is probably the most difficult part to convert. In the case of characters you can convert the primary stats, but most class features aren't as easy.
-
-##### Table: d20 Stat Conversion
-| d20 | MARS |
-|:-|:-|
-| Base STR | STR Step equivalent |
-| Base DEX | DEX Step equivalent |
-| Base INT | INT Step equivalent |
-| Base (CON + WIS) ÷ 2 | RES Step equivalent |
-
-##### Table: d20 Stat Step Equivalent
-| d20 | Dice Step | Step Name |
-|:-:|:-:|:-|
-| 1~3 | 1d4 | Fragile |
-| 4~6 | 1d6 | Weak |
-| 7~9 | 1d8 | Below Average |
-| 10~11 | 1d10 | Average |
-| 12~14 | 1d12 | Above Average |
-| 15~17 | 1d10+1d4 | Great |
-| 18~20 | 1d10+1d6 | Superb |
-| 21~24 | 1d10+1d8 | Powerful |
-| 25+ | 2d10 | Epic |
-
-After determining these, apply the most appropriate race, background, and archetype. Advance the character until it meets similar thresholds. [Skill ratings](#stat-and-skill-ratings) are good baselines for similar features found in d20 systems.
-
-##### Table: d20 Rating Equivalents
-| d20 | Equivalent |
-|:-|:-|
-| (Base Attack Bonus + 10) × ⅔ | Combat skill rating |
-| (Caster Level + 10) × ⅔ | Spellcasting skill rating |
-| (Any skill rank + 10) × ⅔ | Closest equivalent skill rating |
-
-In general, average d20 characters will be stronger than average MARS characters.
-
-## Equipment
-
-Items in d20 systems typically get increasing modifiers, these modifiers get converted to equipment properties instead. Alternate item materials go through the same process.
-
-##### Table: d20 Equipment Conversion
-| D20 | Equivalent |
-|:-|:-|
-| Masterwork | Fine |
-| +1, +2 | Superior |
-| +3, +4 | Exceptional |
-| +5 | Masterwork |
-| Adamantine | Heavy & Fine |
-| Cold Iron | Heavy |
-| Copper | Crude |
-| Darkwood | Fine |
-| Mithral | Light & Fine |
-| Stone | Heavy & Crude |
-| Wood | Improvised |
-
-Any wealth that a d20 character has is typically measured in gold. For each type of currency that a d20 character has, move it down two currency types; any silver and copper they had is gone, gold becomes silver, and platinum becomes electrum.
