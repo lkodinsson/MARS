@@ -14,15 +14,25 @@ Creatures are given a description to use as a tool when roleplaying. Only charac
 
 ## Stat Block
 
-This is a direct reference to all of the statistics and values that are necessary to using the creature. Stats and skills will also be given *ratings*, which are representative of the average value that stat or skill can roll. This is useful to save time when you need an immediate value to compare against, but don't want to spend additional time rolling dice (such as for a group of creatures). Ratings are listed before the actual value of a skill or stat, separated by a slash. They can be calcuated by finding the maximum value that skill's dice and associated stat can roll, dividing that value in half, then adding any bonuses and or penalties.
+These are all of the statistics and values necessary to using the creature.
 
 It is important to note that unlike most other role-playing systems slaying enemy characters and creatures does not award experience points, so experience rewards are not listed on bestiary entries. Experience points are awarded at the end of gameplay sessions based on objectives met during that session (which may include the killing of enemies).
 
+### Stat and Skill Ratings
+
+Stats and skills will also be given *ratings*, which are approximations of the average value that stat or skill can roll. This is useful to save time when you need an immediate value to compare against, but don't want to spend additional time rolling dice (such as for a group of creatures). Ratings are listed before the actual value of a skill or stat, separated by a slash. They can be calcuated by finding the maximum value that skill's dice and associated stat can roll, dividing that value in half, then adding any bonuses and or penalties.
+
 ### Combat Rating
 
-This stat is represented by a single number. This number is a comparative value between the combat effectiveness of this creature, and the combat effectiveness of a someone specialized for fighting. Newly created characters are expected to be rated at about a value of 1, while much more experience characters might cap at about a rating of 2 or 2½. New characters weak in combat potential might be rated at ¾.
+This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1, while much more experienced characters reach as high as 20.
 
-This number is calculated by adding the maximum strength, the rating of their highest combat (or spellcasting) skill, and maximum endurance, and diving the total by 30. The resulting decimal value is converted to a rounded fraction for readability. Common creatures have their combat rating halved, as they have very few special abilities.
+You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
+
+Health pool and damage rating: (Maximum strength + maximum endurance) ÷ 10  
+Offense rating: (Highest combat or spellcasting skill rating) ÷ 10  
+Defense rating: (Highest of deflection rating or evasion rating + damage reduction) ÷ 10
+
+A value of 1 is found by assuming all stats are average, a combat skill with a value of 1d10, any basic weapon, and wearing a piece of armour with a combined armour class and damage reduction of 5.
 
 Challenging combat encounters have equivalent combat ratings on both sides. Some powerful creatures may have combat ratings much higher than what a single player can achieve alone.
 
@@ -36,47 +46,29 @@ Most occurences of a given creature will have on them any items listed, but this
 
 # Creating Creatures
 
-Quite simply, just imagine how you would describe that creature, then assign values to its stats and skill based on your desriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Use them as a baseline, however, so that they still function as you would expect from any other character. Try to avoid directly adding modifers to stats and skills, use dice steps instead.
+Imagine how you would describe that creature, then assign values to its stats and skill based on your desriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Use them as a baseline, however, so that they still function as you would expect from any other character. Try to avoid directly adding modifers to stats and skills, use dice steps instead.
 
-##### Table: Priamry Stat Steps (Full)
-| Dice Step | Step Name |
+##### Table: All Stat Steps
+| Dice Step | Stat Step | Skill Step |
 |:-:|:-|
-| 1d4 | Fragile |
-| 1d6 | Weak |
+| 1d4 | Fragile | Trained |
+| 1d6 | Weak | Adept |
 | 1d8 | Below Average |
-| 1d10 | Average |
-| 1d12 | Above Average |
-| 1d10+1d4 | Great |
-| 1d10+1d6 | Superb |
-| 1d10+1d8 | Powerful |
-| 2d10 | Epic |
-| 1d12+1d10 | Heroic |
-| 2d10+1d4 | Fantastic |
-| 2d10+1d6 | Fabled |
-| 2d10+1d8 | Mythical |
-| 3d10 | Legendary |
-
-##### Table: Skill Steps (Full)
-| Dice Step | Step Name |
-|:-:|:-|
-| 1d4 | Trained |
-| 1d6 | Adept |
-| 1d8 | Practiced |
-| 1d10 | Proficient |
-| 1d12 | Exceptional |
-| 1d10+1d4 | Disciplined |
-| 1d10+1d6 | Accomplished |
-| 1d10+1d8 | Expert |
-| 2d10 | Master |
-| 1d12+1d10 | Prodigy |
-| 2d10+1d4 | Virtuoso |
-| 2d10+1d6 | Renowned |
-| 2d10+1d8 | Exalted |
-| 3d10 | Grandmaster |
+| 1d10 | Average | Practiced |
+| 1d12 | Above Average | Proficient |
+| 1d10+1d4 | Great | Exceptional |
+| 1d10+1d6 | Superb | Disciplined |
+| 1d10+1d8 | Powerful | Accomplished |
+| 2d10 | Epic | Expert | Master |
+| 1d12+1d10 | Heroic | Prodigy |
+| 2d10+1d4 | Fantastic | Virtuoso |
+| 2d10+1d6 | Fabled | Renowned |
+| 2d10+1d8 | Mythical | Exalted |
+| 3d10 | Legendary | Grandmaster |
 
 ## Common and Elite enemies
 
-The status of a particular creature determines certain characteristics about it. Common creatures have half the normal health and endurance, and get access to a very limited selection of special abilities, if any at all. They exist to provide context against more powerful creatures: *elites*. Only the most powerful of creatures are considered elites. Elite creatures will often have several special abilities and exceptional stats and skills.
+The status of a particular creature determines certain characteristics about it. Common creatures have half the normal resources (health, endurance, stamina, and mana), and get access to a very limited selection of special abilities, if any at all. They exist to provide context against more powerful creatures: *elites*. Only the most powerful of creatures are considered elites. Elite creatures will often have several special abilities and exceptional stats and skills.
 
 # Converting from d20
 
