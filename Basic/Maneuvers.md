@@ -163,7 +163,7 @@ While wielding an axe, give an incoming melee attack disadvantage to hit. If tha
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack.
+Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack as a part of this action.
 
 ## Intimidating Strike
 
