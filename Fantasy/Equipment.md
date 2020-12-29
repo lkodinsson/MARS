@@ -66,7 +66,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Shortspear | 5sp | STR+1d6 Piercing | +6 | Basic | 2kg | Thrown 6m/60m, Versatile |
 | Sling | 2sp | STR+1d6 Blunt | +6 | Basic | ¼kg | Range 15m/150m, Reload, Unfit 1m |
 | Spearclub | 5sp | STR+1d6 Blunt | +6 | Basic | 2kg | Mode Piercing, Momentum, Versatile |
-| Straight Sword | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Mode Piercing, Parry d4, Swift |
+| Straight Sword | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Mode Piercing, Parry d6, Swift |
 | Staff | 2sp | STR+1d6 Blunt | +6 | Basic | 2kg | Cleave, Trip, Versatile |
 | Whip | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Reach 1m/4m, Trip |
 
@@ -74,9 +74,9 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Dagger | 5sp | STR+1d4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
-| Dueling Sword | 8sp | STR+1d6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry d4, Swift |
+| Dueling Sword | 8sp | STR+1d6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry d6, Swift |
 | Knife | 2sp | STR+1d4 Piercing | +10 | Finesse | ½kg | Swift, Thrown 4m/40m |
-| Parrying Dagger | 5sp | STR+1d4 Piercing | +6 | Finesse | ½kg | Parry d6, Swift |
+| Parrying Dagger | 5sp | STR+1d4 Piercing | +6 | Finesse | ½kg | Parry d8, Swift |
 
 ##### Table: Martial Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -86,7 +86,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Greataxe | 15sp | STR+1d10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
 | Greathammer | 15sp | STR+1d10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
 | Greatsword | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
-| Longsword | 10sp | STR+1d8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry d4, Versatile |
+| Longsword | 10sp | STR+1d8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry d6, Versatile |
 | Mace | 10sp | STR+1d8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
 | Poleaxe | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
 | Spear | 10sp | STR+1d8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
@@ -197,10 +197,10 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Shields
 | Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
-| Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry d8 |
-| Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 3 |
-| Medium Shield | 15sp | 1 | - | 8 | Wood | 4kg | Block 4 |
-| Large Shield | 20sp | 1 | - | 12 | Wood | 6kg | Block 5 |
+| Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry d10 |
+| Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 4 |
+| Medium Shield | 15sp | 1 | - | 8 | Wood | 4kg | Block 5 |
+| Large Shield | 20sp | 1 | - | 12 | Wood | 6kg | Block 6 |
 
 ### Armour Features
 
@@ -235,8 +235,8 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Crude | –1 to hit | –1 deflection | ×¾ |
 | Fine | +1 to hit | +1 deflection | ×1½ or +10sp |
 | Superior | +1 to hit, +1 damage | +1 armour class, +1 damage reduction | ×2 or +25sp |
-| Exceptional | +2 to hit, +1 damage | +2 armour class, +1 damage reduction | ×2½ or +45sp |
-| Masterwork | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×3 or +70sp |
+| Exceptional | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×2½ or +45sp |
+| Masterwork | +3 to hit, +3 damage | +3 armour class, +3 damage reduction | ×3 or +70sp |
 
 ##### Table: Equipment Weight
 | Quality Name | Melee Weapons | Body Armour | Cost Adjustment |
