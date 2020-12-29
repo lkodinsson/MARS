@@ -49,7 +49,7 @@ Large monstrous humanoid
 Large muscular creature with the head of a bull and the body of a man. They have an exceptional memory and intelligence, but due to their monstrous apperance, they are often mistaken for violent creatures.
 
 **Initiative** 13/2d10+2d4-1  
-**HP** 9; 18; 36, **SP** 6 (13), **EP** 18; 36; 72  
+**HP** 9; 18; 36, **SP** 6; 13; 26, **EP** 18; 36; 72  
 **DEF** 15/1d10+1d4+8, **EVA** 14/1d10+1d4+7, **DR** 6  
 **Fort** 17/2d10+1d6+1d4+2, **Will** 16/2d10+1d6+1d4+1  
 **Speed** 6m
