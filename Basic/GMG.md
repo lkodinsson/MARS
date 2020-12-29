@@ -39,12 +39,12 @@ Imagine how you would describe that creature, then assign values to its stats an
 |:-:|:-|:-|
 | 1d4 | Fragile | Trained |
 | 1d6 | Weak | Adept |
-| 1d8 | Below Average |
-| 1d10 | Average | Practiced |
-| 1d12 | Above Average | Proficient |
-| 1d10+1d4 | Great | Exceptional |
-| 1d10+1d6 | Superb | Disciplined |
-| 1d10+1d8 | Powerful | Accomplished |
+| 1d8 | Below Average | Practiced |
+| 1d10 | Average | Proficient |
+| 1d12 | Above Average | Exceptional |
+| 1d10+1d4 | Great | Disciplined |
+| 1d10+1d6 | Superb | Accomplished |
+| 1d10+1d8 | Powerful | Expert |
 | 2d10 | Epic | Expert | Master |
 | 1d12+1d10 | Heroic | Prodigy |
 | 2d10+1d4 | Fantastic | Virtuoso |
