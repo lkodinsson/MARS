@@ -6,17 +6,11 @@
 
 # Bestiary
 
-The bestiary is a collection of various pre-generated non-player characters and creatures. It is useful for anyone who immediately needs stats for a character or creature and doesn't want to spend the time generating all their stats manually. Entries in the bestiary are made up of a few parts: *description*, *stat block*, *actions*, and *items*.
-
-## Description
+The bestiary is a collection of various pre-generated non-player characters and creatures. It is useful for anyone who immediately needs stats for a character or creature and doesn't want to spend the time generating all their stats manually.
 
 Creatures are given a description to use as a tool when roleplaying. Only characters who are likely to know the exact nature of a creature should be immediately aware of more intimate details. Sometimes this is unavoidable for players very familiar with role-playing games. Other useful details are provided for the Game Master's use to help provide additional world building details when using any given creature, such as habitat and behaviour.
 
-## Stat Block
-
-These are all of the statistics and values necessary to using the creature.
-
-It is important to note that unlike most other role-playing systems slaying enemy characters and creatures does not award experience points, so experience rewards are not listed on bestiary entries. Experience points are awarded at the end of gameplay sessions based on objectives met during that session (which may include the killing of enemies).
+Creatures are also given a list of stats and skills. It is important to note that unlike most other role-playing systems slaying enemy characters and creatures does not award experience points, so experience rewards are not listed among their stats.
 
 ### Stat and Skill Ratings
 
@@ -24,7 +18,7 @@ Stats and skills will also be given *ratings*, which are approximations of the a
 
 ### Combat Rating
 
-This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 2, while much more experienced characters reaching as high as 20.
+This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 1½, with much more experienced characters reaching as high as 20.
 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
@@ -35,14 +29,6 @@ Defense rating: (Highest of deflection rating or evasion rating + damage reducti
 A value of 1 is found by assuming all stats are average, a combat skill with a value of 1d10, any basic weapon, and wearing a piece of armour with a combined armour class and damage reduction of 5.
 
 Challenging combat encounters have equivalent combat ratings on both sides. Some powerful creatures may have combat ratings much higher than what a single player can achieve alone.
-
-## Actions
-
-Typically creatures will have one or more categories of actions listed, such as: *common actions*, and *rare actions* (which may include maneuvers, spells, or some other category if approriate). The majority of creatures that you find will only use common actions. If the creature used is of significant importantance they can be made to stand out by giving them use of their rare actions.
-
-## Items
-
-Most occurences of a given creature will have on them any items listed, but this is not a strict rule. Due to the circumstances of your adventure this can (and should) be modified as approriate.
 
 # Creating Creatures
 
@@ -66,9 +52,9 @@ Imagine how you would describe that creature, then assign values to its stats an
 | 2d10+1d8 | Mythical | Exalted |
 | 3d10 | Legendary | Grandmaster |
 
-## Common and Elite enemies
+## Commons and Elites
 
-The status of a particular creature determines certain characteristics about it. Common creatures have half the normal resources (health, endurance, stamina, and mana), and get access to a very limited selection of special abilities, if any at all. They exist to provide context against more powerful creatures: *elites*. Only the most powerful of creatures are considered elites. Elite creatures will often have several special abilities and exceptional stats and skills.
+The status of a particular creature determines certain characteristics about it. Common creatures have half the normal resources (health, endurance, stamina, and mana), and get access to a very limited selection of special abilities, if any at all. Elite creatures will often have several special abilities and exceptional stats and skills.
 
 # Converting from d20
 
@@ -132,3 +118,5 @@ After determining these, apply the most appropriate race, background, and archet
 | (Any skill rank + 10) × ⅔ | Closest equivalent skill rating |
 
 In general, average d20 characters will be stronger than average MARS characters.
+
+Any wealth that a d20 character has is typically measured in gold. For each type of currency that a d20 character has, move it down two currency types; any silver and copper they had is gone, gold becomes silver, and platinum becomes electrum.
