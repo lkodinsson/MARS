@@ -15,7 +15,7 @@ Creatures are also given a list of stats and skills. It is important to note tha
 
 Stats and skills will also be given *ratings*, which are approximations of the average value that stat or skill can roll. This is useful to save time when you need an immediate value to compare against, but don't want to spend additional time rolling dice (such as for a group of creatures). Ratings are listed before the actual value of a skill or stat, separated by a slash. They can be calcuated by finding the maximum value that skill's dice and associated stat can roll, dividing that value in half, then adding any bonuses and or penalties.
 
-### Challenge Rating
+### Challenge Rating (CR)
 
 This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a value of 1 to 2, with much more experienced characters reaching as high as 20.
 
