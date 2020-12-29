@@ -136,7 +136,7 @@ Make a charisma check against a target within melee range. If successful, the ne
 **Stamina Cost:** 2  
 **Action Speed:** Reaction
 
-While wielding a weapon that deals slashing damage, instead of using deflection to defend against an incoming attack, make a combat check with disadvantage adding your armour class as a bonus. If that attack grazes, it is considered a successful hit instead.
+While wielding a weapon that deals slashing damage, instead of using deflection to defend against an incoming attack, attack with your weapon adding your armour class as a bonus. If the incoming attack grazes, it is considered a successful hit instead.
 
 ## Heavy Strike
 
@@ -151,10 +151,10 @@ Make an attack with -2 to hit but advantage to damage.
 
 **Specializations:** Finesse, Martial
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe, give an incoming melee attack disadvantage to hit. If that attack grazes, it is considered a successful hit instead.
+While wielding an axe, give an incoming melee attack disadvantage to hit.
 
 ## Intercept
 
@@ -195,7 +195,7 @@ Make an attack. If successful, the target becomes prone.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Make a melee attack with +2 to hit against a target moving outside of your attack range. This maneuver can only be used if the target would move a distance greater than 1m.
+Make a melee attack with +2 to hit against a target moving outside of your attack range. This maneuver can only be used if the target would move a distance greater than 1m, but not if that movement is from an evade action.
 
 ## Penetrating Strike
 
