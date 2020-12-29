@@ -63,7 +63,7 @@ Make an attack with -2 to hit, then you may move backward 1m. If you do move bac
 
 **Duration:** 1 Round
 
-Each ally within 30m gets +1 to their next attack or defense roll (whichever is first) for the duration.
+Each ally within 30m gets +2 to their next attack or defense roll (whichever is first) for the duration.
 
 ## Bullrush
 
