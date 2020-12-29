@@ -61,7 +61,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 **Languages** Common (fluent), minotaur (native), undercommon (native)  
 **Acrobatics** 6/–, **Athletics** 15/1d10, **Charisma** 9/1d4  
-**Insight** 14/1d10+1d4, **Perception** 11/1d10, **Stealth** 4<sup>d</sup>/–  
+**Insight** 14/1d10+1d4, **Perception** 11/1d10, **Stealth** 4<sup>dd</sup>/–  
 **Knowledge** 18<sup>a</sup>/1d10, **Lore** 18<sup>a</sup>/1d10
 
 **Martial** 14/1d10+1d6, **Unarmed** 1d4  
