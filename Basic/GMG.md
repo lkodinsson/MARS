@@ -64,25 +64,6 @@ Most role-playing material available is created for popular d20 game systems. Th
 
 To convert skill checks from d20 challenges, multiply them by 0.8 (round down or up as applicable). If the result is less than 5, then the check is trivial and requires no roll. This is only necessary if the challenge doesn't conform to an example listed under each skill (or can't be otherwise logically determined).
 
-## Weapons & Armour
-
-Items in d20 systems typically get increasing modifiers, these modifiers get converted to equipment properties instead. Alternate item materials go through the same process.
-
-##### Table: d20 Equipment Conversion
-| D20 | Equivalent |
-|:-|:-|
-| Masterwork | Fine |
-| +1, +2 | Superior |
-| +3, +4 | Exceptional |
-| +5 | Masterwork |
-| Adamantine | Heavy & Fine |
-| Cold Iron | Heavy |
-| Copper | Crude |
-| Darkwood | Fine |
-| Mithral | Light & Fine |
-| Stone | Heavy & Crude |
-| Wood | Improvised |
-
 ## Characters and Creatures
 
 This is probably the most difficult part to convert. In the case of characters you can convert the primary stats, but most class features aren't as easy.
@@ -118,5 +99,24 @@ After determining these, apply the most appropriate race, background, and archet
 | (Any skill rank + 10) × ⅔ | Closest equivalent skill rating |
 
 In general, average d20 characters will be stronger than average MARS characters.
+
+## Equipment
+
+Items in d20 systems typically get increasing modifiers, these modifiers get converted to equipment properties instead. Alternate item materials go through the same process.
+
+##### Table: d20 Equipment Conversion
+| D20 | Equivalent |
+|:-|:-|
+| Masterwork | Fine |
+| +1, +2 | Superior |
+| +3, +4 | Exceptional |
+| +5 | Masterwork |
+| Adamantine | Heavy & Fine |
+| Cold Iron | Heavy |
+| Copper | Crude |
+| Darkwood | Fine |
+| Mithral | Light & Fine |
+| Stone | Heavy & Crude |
+| Wood | Improvised |
 
 Any wealth that a d20 character has is typically measured in gold. For each type of currency that a d20 character has, move it down two currency types; any silver and copper they had is gone, gold becomes silver, and platinum becomes electrum.
