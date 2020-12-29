@@ -164,7 +164,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ## Armour
 
 ##### Table: Body Armours
-| Name | Price | AC | DR | Max STR | Armour<br/>Slot | Material<br/>Type | Weight | Features |
+| Name | Price | AC | DR | STR Req | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Doublet | 5sp | 1 | 3 | 4 | Body | Cloth | 4kg | - |
 | Jerkin | 10sp | 2 | 4 | 6 | Body | Leather | 6kg | Weakness vs Blunt |
@@ -195,7 +195,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 <sup>2</sup>Making unarmed attacks with a gauntlet on is considered attacking with a cestus.
 
 ##### Table: Shields
-| Name | Price | AC | DR | Max STR | Material<br/>Type | Weight | Features |
+| Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry d8 |
 | Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 3 |
