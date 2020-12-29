@@ -385,7 +385,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. After you evade, you may move a distance up to half your speed.
+Roll your evasion to defend against an attack instead of using your deflection. While evading, attacks made against you that result in a graze are instead considered a failure. After you evade, you may move a distance up to half your speed.
 
 #### Interact
 
