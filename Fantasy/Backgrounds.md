@@ -3,7 +3,7 @@
 ##### Table: Fantasy Backgrounds
 | Name | Skill Modifiers |
 |:-|:-|
-| [Acolyte](#acolyte) | Contacts +1, Insight +1 |
+| [Acolyte](#acolyte) | Contacts +1, Perception +1 |
 | [Aristocrat](#aristocrat) | Charisma +1, Contacts +1 |
 | [Artisan](#artisan) | Charisma +1, Craft +1 |
 | [Charlatan](#charlatan) | Charisma +1, Sleight +1 |
@@ -21,7 +21,7 @@ An assistant or follower of an organization or discipline. Acolytes are typicall
 
 ### Skill Modifiers
 
-Contacts +1, Insight +1
+Contacts +1, Perception +1
 
 ## Aristocrat
 

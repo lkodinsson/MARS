@@ -130,7 +130,7 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 Allows you to read the active thoughts of another creature without them knowing you are doing so. You may choose to also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
 
 ***Critical:*** Allows you to read deep thoughts without alerting the target to your presence.  
-***Graze:*** The targe always knows you are reading their thoughts.
+***Graze:*** The target will know you are reading their thoughts.
 
 ## Feather Fall
 
@@ -238,12 +238,12 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon emanate a magical effect based on the damage type chosen.
+You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen.
 
-***Arcane:*** The target loses 1d4 mana.  
-***Cold:*** The target loses 1d4 stamina.  
-***Electric:*** The target becomes stunned.  
-***Fire:*** The target gets burning 1.
+***Arcane:*** The attacked target loses 1d4 mana.  
+***Cold:*** The attacked target loses 1d4 stamina.  
+***Electric:*** The attacked target becomes stunned.  
+***Fire:*** The attacked target gets burning 1.
 
 ## Mend
 
@@ -316,7 +316,7 @@ Provides you with some information about any subject. Ask the Game Master a simp
 **Range:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that is has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so.
+You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so.
 
 ***Critical:*** Block 6.  
 ***Success:*** Block 5.  

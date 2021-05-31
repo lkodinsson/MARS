@@ -133,7 +133,7 @@ Fortitude is your ability to resist poison and disease. In dire circumstances it
 
 ### Willpower (WILL)
 
-Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind.
+Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind. It is also used to determine whether or not someone seems believable or false.
 
 ### Speed (SPD)
 
@@ -174,7 +174,7 @@ Like primary stats, skill values are represented by dice steps. All skills have 
 
 # Basic Skills
 
-All characters can perform all basic skills, even if they are not trained in them. There are six basic skills: *acrobatics*, *athletics*, *charisma*, *insight*, *perception*, and *stealth*.
+All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *acrobatics*, *athletics*, *charisma*, *perception*, and *stealth*.
 
 ### Acrobatics (DEX)
 
@@ -188,13 +188,9 @@ You use the strength of your body to manipulate the world around you and move wi
 
 The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion.
 
-### Insight (RES)
-
-Insight gives you a better understanding of what is going on in the minds of others. You can sense when somebody is lying to you or concealing their intentions or emotions. This includes detecting if a combatant is attempting a feint against you. Outside of reading people, insight can also provide you with some perspective into the value of goods.
-
 ### Perception (DEX)
 
-Perception used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps.
+Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps.
 
 ### Stealth (DEX)
 
@@ -501,13 +497,15 @@ Short resting involves relaxation for an extended period of about four hours. Sl
 
 A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
 
+Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill by perfoming a medicine check against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased to 2.
+
 # Creating a Character
 
 The process of creating a character is a series of small steps. A character is made up of a few aspects: *race*, *background*, *archetype*, and *trait*.
 
 ### Race
 
-It is not guaranteed that a genre or setting has a multitude of racial options, but usually Humans are an available option. Regardless, the race you pick will provide bonuses to your primary stats, provide you with racial ability, and determine your starting speed and size.
+It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The race you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
 
 ### Background
 
@@ -584,7 +582,7 @@ Although you do not spend experience points to obtain your starting primary stat
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
 |:-:|:-:|:-:|:-|
-| 2<sup>1</sup> | 2 | 1d4 | Trained |
+| 2 or 4<sup>1</sup> | 2 | 1d4 | Trained |
 | 3 | 5 | 1d6 | Adept |
 | 4 | 9 | 1d8 | Practiced |
 | 5 | 14 | 1d10 | Proficient |

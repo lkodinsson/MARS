@@ -125,7 +125,7 @@ Make a stealth check against any number of targets to hide in plain sight, makin
 **Action Speed:** Swift
 
 **Duration:** 1 Round  
-**Resist:** Insight
+**Resist:** Willpower
 
 Make a charisma check against a target within melee range. If successful, the next melee attack you make against that target is made with advantage to hit for the duration.
 
@@ -173,7 +173,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 **Action Speed:** Standard
 
 **Duration:** 1 Round  
-**Resist:** Insight
+**Resist:** Willpower
 
 Make a charisma check against a target within melee range. If successful, the target gets -2 to hit on all attacks for the duration. Then make a melee attack against that target.
 

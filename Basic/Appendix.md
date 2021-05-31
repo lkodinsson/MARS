@@ -32,14 +32,6 @@ The following tables are example tasks at various difficulties for some of the b
 | Climbing up a sheer cliff or wall<br/>without the use of rope or tools | 19 (Ambitious) |
 | Jumping a 7m gap | 19 (Ambitious) |
 
-##### Table: Insight Common Tasks
-| Task | Difficulty |
-|:-|:-|
-| Appraising the value of common goods | 5 (Easy) |
-| Appraising the value of trade goods | 10 (Hard) |
-| Detecting hidden emotions | 14 (Challenging) |
-| Appraising the value of artifacts | 19 (Ambitious) |
-
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
@@ -54,6 +46,7 @@ The following tables are example tasks at various difficulties for some of the b
 |:-|:-|
 | Stabilize a dying character | 7 (Moderate) |
 | Staunching a bleeding wound | 10 (Hard) |
+| Treat a resting wounded character | 10 (Hard) |
 
 ##### Table: Perception Common Tasks
 | Task | Difficulty |

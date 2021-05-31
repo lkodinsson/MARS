@@ -12,6 +12,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 ### Universal
 
+* [Skills](/Basic/PHB.md#skills-1)
 * [Talents](/Basic/Talents.md)
 * [Maneuvers](/Basic/Maneuvers.md)
 

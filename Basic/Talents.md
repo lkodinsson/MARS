@@ -7,7 +7,7 @@
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
 | [Ambidexterity](#ambidexterity) | 10, 14 | DEX 11+, Any combat skill |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
-| [Deduction](#deduction) | 6 | INT 13+, Perception |
+| [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
 | [Enthusiastic](#enthusiastic) | 10 | RES 11+ |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
@@ -62,7 +62,7 @@ You can’t be surprised while you are conscious, and attackers don't get an adv
 ## Deduction
 
 **Cost:** 6 EXP  
-**Requirements:** Max Intelligence 13+, Trained in Perception
+**Requirements:** Max Intelligence 11+, Trained in Perception
 
 You can use your intelligence instead of your dexterity when making perception checks to track characters and creatures, and to notice hidden objects.
 
