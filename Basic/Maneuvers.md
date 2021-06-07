@@ -154,7 +154,7 @@ Make an attack with -2 to hit but advantage to damage.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (1d12) or better, give the incoming attack double disadvantage instead.
+While wielding an axe or hooked object, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (1d12) or better, give the incoming attack double disadvantage instead.
 
 ## Intercept
 
@@ -163,7 +163,7 @@ While wielding an axe, give an incoming melee attack disadvantage to hit. If you
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack as a part of this action.
+Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack for free as a part of this action.
 
 ## Intimidating Strike
 
@@ -260,7 +260,7 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 **Resist:** Fortitude
 
-Make an attack with a shield as if it was a weapon that deals 1d6 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield as if it was a weapon that deals 1d8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Taunt
 

@@ -5,7 +5,7 @@
 |:-|:-:|:-|
 | [Agility](#agility) | 8 | DEX 13+, Acrobatics |
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
-| [Ambidexterity](#ambidexterity) | 10, 14 | DEX 11+, Any combat skill |
+| [Ambidexterity](#ambidexterity) | 10, 12 | DEX 11+, Any combat skill |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
@@ -13,11 +13,12 @@
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
+| [Latent Trait](#latent-trait) | 12 | - |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
-| [Magical Luck](#magical-luck) | 8, 12, 16 | DEX 11+, INT 11+, Sleight |
+| [Magical Luck](#magical-luck) | 8, 10, 12 | DEX 11+, INT 11+, Sleight |
 | [Meditative Rest](#meditative-rest) | 10 | RES 11+ |
 | [Mobility](#mobility) | 10 | STR 13+, Athletics |
-| [Latent Trait](#latent-trait) | 12 | - |
+| [Natural Intuition](#natural-intuition)| 6 | INT 11+, Perception |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 10 | INT 11+, Charisma |
@@ -37,7 +38,7 @@ Your speed is increased by 2m, and you can move your full speed when you evade (
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Sleight
 
-Once per day, you may find any mundane item amongst your belongings as though you always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent.
+Once per day, you may find any mundane item amongst your belongings as though you have always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent.
 
 ## Ambidexterity
 
@@ -50,14 +51,14 @@ Attacks made with a different weapon than the last weapon you used in the same r
 | Step Cost | Total Cost | Penalty |
 |:-:|:-:|:-:|
 | 10 | 10 | -3 |
-| 14 | 24 | -2 |
+| 12 | 22 | -2 |
 
 ## Danger Sense
 
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 11+, Trained in Perception
 
-You can’t be surprised while you are conscious, and attackers don't get an advantage from sneak attacks or flanking attacks made against you.
+You can’t be surprised while you are conscious. This means that attackers don't get an advantage from sneak attacks made against you, you can always act during a surprise round, and you can always choose to react to activated traps that might harm you.
 
 ## Deduction
 
@@ -118,6 +119,12 @@ You can use your strength instead of your resolve when making charisma checks to
 
 You can use your intelligence instead of your resolve when making charisma checks to convince someone of something.
 
+## Latent Trait
+
+**Cost:** 12 EXP
+
+You gain a second trait.
+
 ## Long-distance Running
 
 **Cost:** 8  
@@ -136,8 +143,8 @@ You may spend 3 mana to gain an advantage on your next roll (in reality or in fi
 | Step Cost | Total Cost | Number of Uses |
 |:-:|:-:|:-:|
 | 8 | 8 | 1/Rest |
-| 12 | 20 | 2/Rest |
-| 16 | 36 | 3/Rest |
+| 10 | 18 | 2/Rest |
+| 12 | 30 | 3/Rest |
 
 ## Meditative Rest
 
@@ -153,11 +160,13 @@ Rolls made to restore resources during short and long rests are made with advant
 
 Your speed is increased by 2m, and one of the move actions you take each turn is not affected by difficult terrain.
 
-## Latent Trait
+## Natural Intuition
 
-**Cost:** 12 EXP
+**Cost:** 6 EXP
 
-You gain a second trait.
+**Requirements:** Max Intelligence 11+, Trained in Perception
+
+Your ability to notice and remember details has expanded your natural perceptions. You can always tell the time of day, what direction is north, and where is the nearest source of running water. These abilities persist even in conditions where they would otherwise not be possible.
 
 ## Polyglot
 

@@ -25,7 +25,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 **Languages** Goblin (native), undercommon (native)  
 **Acrobatics** 8/1d4, **Athletics** 3/–, **Charisma** 5/–  
-**Insight** 5/–, **Perception** 8/1d4, **Stealth** 8/1d4
+**Perception** 8/1d4, **Stealth** 8/1d4
 
 **Finesse** 9/1d6, **Ranged** 8/1d4  
 **Maneuvers** Battle Cry, Crippling Strike, Penetrating Strike
@@ -61,7 +61,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 **Languages** Common (native), minotaur (native), undercommon (fluent)  
 **Acrobatics** 6/–, **Athletics** 18/1d10+1d6, **Charisma** 10/1d6  
-**Insight** 15/1d10+1d6, **Perception** 10/1d8, **Stealth** 3<sup>dd</sup>/–  
+**Perception** 10/1d8, **Stealth** 3<sup>dd</sup>/–  
 **Knowledge** 17<sup>a</sup>/1d10, **Lore** 17<sup>a</sup>/1d10
 
 **Martial** 14/1d10+1d6, **Unarmed** 1d4  

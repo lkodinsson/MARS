@@ -36,9 +36,9 @@ Someone must create all the items and artifacts that you use, and that someone c
 
 The first step to crafting an item is just a matter of roleplaying: is a workshop or marketplace available, or do you carry the tools necessary to build this item? Afterwards, there are three basic steps:
 
-* Determine total cost and craft difficulty
-* Roll craft check
-* Determine progress and pay immediate cost
+* Determine the total cost and craft difficulty
+* Roll a craft check
+* Determine craft progress and pay the immediate cost
 
 The difficulty value to craft an item is based on its cost. This can be determined manually by finding the square root of the cost in silver pieces, then adding 4 to the result. The following table can be used as a quick reference.
 
@@ -107,7 +107,7 @@ Each craft check made represents a single day's worth of crafting time spent on 
 
 ### Upgrading Items
 
-Crafting can also be used to improve items from one quality to the next by treating the difference in item value as the cost of the item. Items in progress cannot be used until completed.
+Crafting can also be used to improve items from one quality to the next by treating the difference in item value as the cost of the item. You cannot upgrade into a quality with a cost reduction.
 
 > ##### Upgrade Example
 > ___
@@ -125,18 +125,20 @@ Crafting can also be used to improve items from one quality to the next by treat
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
-> | 8 (Graze) | +10% = 10% | 1sp 5cp |
-> | 17 (Critical) | +50% = 60% | 3sp 8cp |
-> | 11 (Success) | +20% = 80% | 2sp 3cp |
-> | 19 (Critical) | +20% (50%) = 100% | 1sp 4cp |
+> | 8 (Graze) | +10% = 10% | 1sp |
+> | 17 (Critical) | +50% = 60% | 2sp 3cp |
+> | 11 (Success) | +20% = 80% | 2sp |
+> | 19 (Critical) | +20% (50%) = 100% | 1sp |
 > ___
 > **Time Spent:** 4 Days
 >
-> **Total Cost:** 9sp (60% of cost)
+> **Total Cost:** 6sp 3cp (63% of cost)
 
-You cannot upgrade into a quality with a cost reduction.
+Items in progress cannot be used until they are completed.
 
 ### Crafting Magical Items
+
+Work in progress.
 
 Base item cost + magic cost = total cost
 

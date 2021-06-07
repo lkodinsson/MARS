@@ -362,7 +362,7 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Use a wielded item with the block feature to block an attack, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead.
+Use a wielded item with the block feature to block all incoming attacks or spells, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead.
 
 #### Brandish
 
@@ -387,7 +387,7 @@ Roll your evasion to defend against an attack instead of using your deflection. 
 
 **Action Speed:** Variable
 
-This action covers most basic actions, like opening doors, activating wielded items, or using objects in the immediate ara. Unless an object specifies, or a task requires an extended amount of time to perform, this action is usually considered a swift action.
+This action covers most basic actions, like opening doors, activating wielded items, or using objects in the immediate area. Unless an object specifies, or a task requires an extended amount of time to perform, this action is usually considered a swift action.
 
 #### Move
 
@@ -519,15 +519,27 @@ Archetypes get you on the path to building a character with a strong theme, but 
 
 Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. Typically they provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
 
+The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
+
 ### Starting Stats
 
 After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
+
+### Motivation
+
+One of the most important defining features of a character is their motivation. It can be described in a few sentences or less. Ultimately it will be a source of both conflict and cooperation, as characters will need to make decisions that fulfill their motivations. Characters that fulfill their motivations during a game session provide an experience bonus to all participating player's characters.
+
+Example: To protect the weak from those who abuse their power.
+
+Some motivations may represent more circumstantial character developmental ordeals. These types of motivations when completed are usually then replaced with another motivation, assuming that it doesn't end that character's heroic journey. Because these types of motivations are more difficult to complete, making progress towards completing that motivation is enough to provide the experience bonus.
+
+Example: To find a lost family member; or to avenge a death.
 
 # Equipment
 
 Characters may start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. If you can imagine an object or device, it is an item a person can have and use. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a fantasy setting, but a torch or a sword is.
 
-Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available, including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
+Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available, including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of both armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
 
 Some items may seem better than others, but depending on the genre that uses them, some may be more or less expensive, or have various minor requirements or drawbacks.
 
@@ -564,7 +576,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 # Advancing a Character
 
-As you play the game your character will acquire experience points. Typically you receive 3 points at the end of every session. You may receive 4 if you or someone in your group completes a minor or personal objective, and 5 points if a major objective is completed. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependant on the specific talent.
+As you play the game your character will acquire experience points. As a baseline each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 2 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 3 experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependent on the specific talent.
 
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Dice Step | Step Name |
