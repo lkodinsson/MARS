@@ -1,16 +1,49 @@
 # Table of Contents
 
-* [Story Prompts](#story-prompts)
+* [Worldbuilding](#worldbuilding)
 * [Bestiary](#bestiary)
 * [Creating Creatures](#creating-creatures)
 
-# Story Prompts
+# Worldbuilding
 
-When running a campaign it is important to clearly define your story prompts, whether you tell the players directly or not. These can be complicated or simple descriptions of major things that are happening in your world and represent a call-to-action for the players. Major gameplay events and player decisions will determine whether or not story goals are met, changed, or even abandoned altogether.
+A major part of being a game master is being prepared to present an entire world to the players. This can be a lot of work, especially when players may choose to completely subvert your setup. Regardless of your degree of preparation, below there is a framework for building content for players. This can be a useful tool when you need to improvise content.
 
-Example: A village is having their farms raided by nearby monsters, and they are need of assistance if they are to continue feeding their population.
+Each type of content listed will also be given a list of questions to ask. These questions are useful for quickly providing answers for the types of actions your players will take when presented with the information contained therein the given situations.
 
-It is important not to decide in the framing of your story goal exactly how it is to be resolved by the players. This is an important distinction to remember, as players may surprise you in how they decide to solve or complete your proposed story goals.
+### Storyline Emblems
+
+### Scenarios
+
+Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world.
+
+Example: A village is having their farms raided by nearby monsters, and they are in need of assistance if they are to continue feeding their population.
+
+It is important not to decide in the framing of your scenario exactly how it is to be resolved by the players. This is an important distinction to remember, as players may surprise you in how they decide to solve or complete your proposed scenarios. Having multiple scenarios prepared can be useful if players intend to compeltely subvert your originally planned scenario.
+
+#### Scenarios: Questions
+
+* What notable characters or entities exist that can provide more information for players?
+* What are the consequences if the scenario is resolved with violence? What about diplomacy?
+* Are there any other ways to resolve the scenario?
+* Where can the players go if they completely subvert the scenario?
+
+### Scenes
+
+When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details given to be given for the reason of intentional interaction.
+
+Example: There is a room with a locked door. The players know that there is something behind this door they want. The door can be broken into, lock picked, or you can break into the room by climbing into the window from the outside. There is also a key to the door hidden in the room.
+
+#### Scenes: Questions
+
+* Where is the scene taking place?
+* Are there any details about the environment that are important?
+* What are the consequences if the scene is resolved with violence? What about diplomacy?
+* Are there any other ways to resolve the scene?
+* How can the scenario progress if the scene is failed or subverted?
+
+### Encounters
+
+### Storyline Escalation and Resolution
 
 # Bestiary
 
@@ -42,11 +75,11 @@ Challenging combat encounters have equivalent combat ratings on both sides. Some
 
 ### Creature Rarity
 
-The rarity of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have three listed values. Challenge ratings are also given multiple values. These values, in order, represent that values you should use with those creatures depending on how rare you choose them. The names for these rarities are: *common*, *elite*, and *unique*. Common creatures aren't particularly notable, so use their abilities sparingly if at all.
+The rarity of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have three listed values. Challenge ratings are also given multiple values. These values, in order, represent that values you should use with those creatures depending on how notable, or rare, that creature is. The names for these rarities are: *common*, *elite*, and *unique*. Common creatures aren't particularly notable, so use their special abilities sparingly if at all.
 
 # Creating Creatures
 
-Imagine how you would describe that creature, then assign values to its stats and skill based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Use them as a baseline, however, so that they still function as you would expect from any other character. Try to avoid directly adding modifers to stats and skills, use dice steps instead.
+Imagine how you would describe that creature, then assign values to its stats and skill based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Use them as a baseline, however, so that they still function as you would expect from any other character. Try to avoid directly adding modifers to stats and skills, use dice steps instead. If you do feel the need to manually add modifiers to stats, you can give them +1 to two stats, or +2, +1 and -1 among three stats.
 
 ##### Table: All Stat Steps
 | Dice Step | Stat Step | Skill Step |

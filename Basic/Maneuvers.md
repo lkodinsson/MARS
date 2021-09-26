@@ -2,7 +2,7 @@
 
 Maneuvers are a recommended (but optional) rule.
 
-Whenever you advance in a combat skill, you acquire a maneuver that you can use with that skill. Maneuvers cost stamina and can be used at will with the following restriction: during combat you cannot use the same maneuver on the same or following round. Additionally, any characters that start with combat skills also start with maneuvers based on their advancement in that skill.
+Whenever you advance two ranks in a single combat skill, you acquire a maneuver that you can use with that skill. Maneuvers cost stamina and can be used at will with the following restriction: during combat you cannot use the same maneuver on the same or following round. Additionally, any characters that start with combat skills also start with maneuvers based on their advancement in that skill.
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
 

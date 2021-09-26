@@ -8,7 +8,7 @@ All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md)
 
 # Creating a Character
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play.
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play. Everything under the *universal* heading is available in all genres.
 
 ### Universal
 

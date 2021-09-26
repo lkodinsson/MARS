@@ -28,7 +28,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **Perception** 8/1d4, **Stealth** 8/1d4
 
 **Finesse** 9/1d6, **Ranged** 8/1d4  
-**Maneuvers** Battle Cry, Crippling Strike, Penetrating Strike
+**Maneuvers** Battle Cry
 
 **Unarmed** 6/1d8+2 to hit, 3/1d8-1 blunt damage (crit +2)  
 *Nonlethal, Swift*
@@ -64,12 +64,12 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **Perception** 10/1d8, **Stealth** 3<sup>dd</sup>/–  
 **Knowledge** 17<sup>a</sup>/1d10, **Lore** 17<sup>a</sup>/1d10
 
-**Martial** 14/1d10+1d6, **Unarmed** 1d4  
-**Maneuvers** Battle Cry, Bullrush, Crippling Strike, Heavy Strike, Hard Parry, Knock Down, Opportunity Strike, Taunt
+**Martial** 14/1d10+1d6, **Unarmed** 1d6  
+**Maneuvers** Bullrush, Hard Parry, Knock Down, Opportunity Strike
 
 **Talents** Toughness (+22)
 
-**Unarmed** 9/1d10+2d4-1 to hit, 10/1d10+1d6+2 blunt damage (crit +2)  
+**Unarmed** 10/1d10+1d6+d4-1 to hit, 10/1d10+1d6+2 blunt damage (crit +2)  
 *Nonlethal, Swift*
 
 **Exceptional heavy greataxe (2h)** 15/2d10+1d6+1d4 to hit, 21<sup>a</sup>/2d10+1d6+5 slashing damage (crit +6)  

@@ -17,10 +17,11 @@ There are several different ways to cast spells, as represented by these skills:
 
 To cast a spell you must perform the following steps:
 
-1. Roll your spellcasting skill and associated stat versus the spell's difficulty.
-2. If you succeed, spend mana equal to that spell's cost. If you fail, spend 1 mana instead.
-3. Perform the effects of that spell based on your degree of success.
-4. The targets (if any) may roll to resist the effects of that spell (if allowed).
+1. Wait for the complete duration required to cast that spell.
+2. Roll your spellcasting skill and associated stat versus the spell's difficulty.
+3. If you succeed, spend mana equal to that spell's cost. If you fail, spend 1 mana instead.
+4. Perform the effects of that spell based on your degree of success.
+5. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
 If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell. If the recipients of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value.
 
@@ -117,7 +118,7 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 ## Detect Thoughts
 
 **Specializations:** Augury  
-**Difficulty:** 14 (Moderate)
+**Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
 **Action Speed:** Swift
@@ -192,7 +193,7 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 **Target:** One creature or object  
 **Resist:** Deflection
 
-You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour.
+You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point, contained or connected to that body of water.
 
 ***Critical:*** Deal 2d4 electric damage, and the target becomes stunned.  
 ***Success:*** Deal 2d4 electric damage.  
@@ -209,7 +210,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 **Range:** Touch  
 **Target:** One locked object
 
-You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects.
+You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects. When this spell is cast, regardless of success, it also creates a very loud sound. This sound is similar to a hammer slamming into a door with intent to break it.
 
 ## Light
 
@@ -316,7 +317,7 @@ Provides you with some information about any subject. Ask the Game Master a simp
 **Range:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana instead of stamina when doing so.
+You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so.
 
 ***Critical:*** Block 6.  
 ***Success:*** Block 5.  

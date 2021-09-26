@@ -4,7 +4,7 @@
 | Name | Stat Modifiers | Racial Ability | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
 | [Dwarf](#dwarf) | STR +2, RES +1, INT –1 | Stability | Medium | 6m |
-| [Elf](#elf) | INT +2, DEX +1, STR –1 | Congnition | Medium | 7m |
+| [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
 
