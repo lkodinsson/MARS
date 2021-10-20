@@ -479,19 +479,23 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 
 # Resting
 
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest, and the long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are three different types of rests: the short rest, moderate rest, and long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
 
 ##### Table: Rest Recovery Rates
-| Resource | Short Rest | Long Rest |
+| Resource | Short Rest | Moderate Rest | Long Rest |
 |:-|:-:|:-:|
-| Health | None | 1 |
-| Endurance | Half | All |
-| Stamina | Roll STR or DEX, halved | Roll STR or DEX |
-| Mana | Roll INT or RES, halved | Roll INT or RES |
+| Health | None | None | 1 |
+| Endurance | 1d4 | Half | All |
+| Stamina | 1d4 | Roll STR or DEX, disadvantage | Roll STR or DEX |
+| Mana | 1d4 | Roll INT or RES, disadvantage | Roll INT or RES |
 
 ### Short Rest
 
-Short resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
+A short rest is basically like a break. Whenever you take a break to make preparations over a period of thirty minutes to an hour, that would be considered a short rest.
+
+### Moderate Rest
+
+Moderate resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
 
 ### Long Rest
 
