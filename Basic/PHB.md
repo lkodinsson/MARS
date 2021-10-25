@@ -27,7 +27,7 @@ If at any point during the game you are required to perform math that results in
 
 Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
-Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
+Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Whenever you add multiple roll values together they merge into a combined roll value: *r14 plus r8 equals r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
 | Roll Value | Dice to Roll |
 |:-:|:-|
@@ -46,7 +46,7 @@ Roll value will typically have one or two numbers like so: *r14+1*. Where the fi
 | r28 | 2d10+1d8 |
 | r30 | 3d10 |
 
-This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value). As well, it makes calculating the average value quite fast as it is simply half of the roll value. Additionally, whenever you add multiple roll values together they merge into a combined roll value: *r14 plus r8 is equal to r22*.
+This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating the average value quite fast as it is simply half of the roll value.
 
 ### Stats
 

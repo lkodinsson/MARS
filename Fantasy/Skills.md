@@ -80,11 +80,11 @@ Each craft check made represents a single day's worth of crafting time spent on 
 
 > ##### Crafting Example
 > ___
-> **Craft:** 1d12
+> **Craft:** r12
 >
-> **Intelligence:** 1d12+1
+> **Intelligence:** r12+1
 >
-> **Craft Check Roll:** 2d12+1
+> **Craft Check Roll:** r24+1
 > ___
 > **Item:** Brigandine
 >
@@ -111,11 +111,11 @@ Crafting can also be used to improve items from one quality to the next by treat
 
 > ##### Upgrade Example
 > ___
-> **Craft:** 1d12
+> **Craft:** r12
 >
-> **Intelligence:** 1d12+1
+> **Intelligence:** r12+1
 >
-> **Craft Check Roll:** 2d12+1
+> **Craft Check Roll:** r24+1
 > ___
 > **Item:** Longsword to Fine Longsword
 >

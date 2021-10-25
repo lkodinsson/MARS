@@ -3,17 +3,17 @@
 There are several different ways to cast spells, as represented by these skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Each skill represents a different method and motivation for casting spells. When you become trained in one of these skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to learn with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement. The highest difficulty spell you can learn is determined by the dice step you are advancing to.
 
 ##### Table: Spell Learning Difficulty Limits
-| Dice Step | Step Name | Highest Difficulty |
+| Roll Value | Step Name | Highest Difficulty |
 |:-:|:-|:-|
-| 1d4 | Trained | 7 (Moderate) |
-| 1d6 | Adept | 7 (Moderate) |
-| 1d8 | Practiced | 10 (Hard) |
-| 1d10 | Proficient | 10 (Hard) |
-| 1d12 | Exceptional | 14 (Challenging) |
-| 1d10+1d4 | Disciplined | 14 (Challenging) |
-| 1d10+1d6 | Accomplished | 19 (Ambitious) |
-| 1d10+1d8 | Expert | 19 (Ambitious) |
-| 2d10 | Master | 19 (Ambitious) |
+| r4 | Trained | 7 (Moderate) |
+| r6 | Adept | 7 (Moderate) |
+| r8 | Practiced | 10 (Hard) |
+| r10 | Proficient | 10 (Hard) |
+| r12 | Exceptional | 14 (Challenging) |
+| r14 | Disciplined | 14 (Challenging) |
+| r16 | Accomplished | 19 (Ambitious) |
+| r18 | Expert | 19 (Ambitious) |
+| r20 | Master | 19 (Ambitious) |
 
 To cast a spell you must perform the following steps:
 

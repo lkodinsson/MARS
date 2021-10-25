@@ -98,7 +98,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Unarmed | - | STR Blunt | +2 | Unarmed | - | Nonlethal, Swift |
 | Hand Wraps | 5cp | STR+r2 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
-| Claws | 8sp | STR+r4 Piercing | +10 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
+| Claws or Katar | 8sp | STR+r4 Piercing | +10 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
 | Cestus or Knuckles | 5sp | STR+r4 Blunt | +8 | Unarmed | ½kg | Momentum, Swift |
 
 ##### Table: Ranged Weapons
@@ -140,7 +140,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Range** Attacks made work normally up to the first given range. Attacks beyond that range get –1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
 
-**Reach** Functions like ranged, but it is considered melee instead of ranged.
+**Reach** Functions like ranged, but it is still considered melee.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon. Reloading the weapon in this way requires the use of both hands. Unless otherwise specified, it takes a swift action to reload the weapon, or a standard action if it is two-handed.
 
@@ -214,7 +214,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Locking Grip** You have advantage against attempts to disarm.
 
-**Noisy** Each piece of noisy armour gives you disadvtange to stealth.
+**Noisy** Each piece of noisy armour gives you disadvantage to stealth.
 
 **Open Back** Halve your total damage reduction provided by armour when attacked from behind.
 

@@ -77,7 +77,7 @@ Challenging combat encounters have equivalent combat ratings on both sides. Some
 
 ### Creature Rarity
 
-The rarity of a particular creature modifies certain characteristics about it. All of the resource stats (health, endurance, stamina, and mana) will have three listed values. Challenge ratings are also given multiple values. These values, in order, represent that values you should use with those creatures depending on how notable, or rare, that creature is. The names for these rarities are: *common*, *elite*, and *unique*. Common creatures aren't particularly notable, so use their special abilities sparingly if at all.
+Creatures come in three rarities: *common*, *elite*, and *unique*. By default the listed statistics for a creature represent their stats as if they were an elite. A creature's resource stats (health, endurance, stamina, and mana) should be modified depending on their rarity. Common creatures will have half the listed value of their resources stats (rounded down), and since they aren't particularly notable they should use their special abilities sparingly if at all. Unique creatures, however, will have double the listed value of their resource stats. The challenge rating of any given creature is also modified the same way.
 
 # Creating Creatures
 
