@@ -23,13 +23,38 @@ MARS features many similarities to other role-playing game systems. You will con
 
 If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
 
+### Roll Value
+
+Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
+
+Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values):
+
+| Roll Value | Dice to Roll |
+|:-:|:-|
+| r4 | 1d4 |
+| r6 | 1d6 |
+| r8 | 1d8 |
+| r10 | 1d10 |
+| r12 | 1d12 |
+| r14 | 1d10+1d4 |
+| r16 | 1d10+1d6 |
+| r18 | 1d10+1d8 |
+| r20 | 2d10 |
+| r22 | 1d12+1d10 |
+| r24 | 2d10+1d4 |
+| r26 | 2d10+1d6 |
+| r28 | 2d10+1d8 |
+| r30 | 3d10 |
+
+This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value). As well, it makes calculating the average value quite fast as it is simply half of the roll value. Additionally, whenever you add multiple roll values together they merge into a combined roll value: *r14 plus r8 is equal to r22*.
+
 ### Stats
 
-Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by dice, and represent how well a character can perform universal tasks. Secondary stats are represented by either dice or numbers, and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
+Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers, and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
 
 ### Skills
 
-Skills represent what your character is practiced in. Like primary stats, skills are represented by dice. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. The types of advanced skills that a character can learn are mostly dependant on the type of genre you are playing. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
+Skills represent what your character is practiced in. Like primary stats, skills are represented a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. The types of advanced skills that a character can learn are mostly dependant on the type of genre you are playing. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
 
 ### Talents
 
@@ -41,18 +66,18 @@ Traits are unique abilities that usually only belong to a single character. Typi
 
 # Primary Stats
 
-Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by dice ranging in value from 1d4 to 1d12. Values beyond 1d12 include additional dice. These values are called dice steps.
+Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values ranging from r8 to r20.
 
 ##### Table: Primary Stat Steps
-| Dice Step | Step Name |
+| Roll Value | Step Name |
 |:-:|:-|
-| 1d8 | Below Average |
-| 1d10 | Average |
-| 1d12 | Above Average |
-| 1d10+1d4 | Great |
-| 1d10+1d6 | Superb |
-| 1d10+1d8 | Powerful |
-| 2d10 | Epic |
+| r8 | Below Average |
+| r10 | Average |
+| r12 | Above Average |
+| r14 | Great |
+| r16 | Superb |
+| r18 | Powerful |
+| r20 | Epic |
 
 ### Strength (STR)
 
@@ -89,7 +114,7 @@ The first four secondary stats (health, endurance, stamina, and mana) are also c
 | Fortitude (FORT) | STR + RES |
 | Willpower (WILL) | INT + RES |
 
-For example: if you have a strength of 1d12, then you have a maximum strength of 12 and therefore 12 health.
+For example: if you have a strength of r12, then you have a maximum strength of 12 and therefore 12 health.
 
 ### Health (HP)
 
@@ -156,21 +181,22 @@ Size is measured in size categories. Most characters will normally be considered
 
 # Skills
 
-Like primary stats, skill values are represented by dice steps. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name).
+Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name).
 
 ##### Table: Skill Steps
-| Dice Step | Step Name |
+| Roll Value | Step Name |
 |:-:|:-|
 | - | Untrained |
-| 1d4 | Trained |
-| 1d6 | Adept |
-| 1d8 | Practiced |
-| 1d10 | Proficient |
-| 1d12 | Exceptional |
-| 1d10+1d4 | Disciplined |
-| 1d10+1d6 | Accomplished |
-| 1d10+1d8 | Expert |
-| 2d10 | Master |
+| r2 | Trained |
+| r4 | Learning |
+| r6 | Adept |
+| r8 | Practiced |
+| r10 | Proficient |
+| r12 | Exceptional |
+| r14 | Disciplined |
+| r16 | Accomplished |
+| r18 | Expert |
+| r20 | Master |
 
 # Basic Skills
 
@@ -246,7 +272,7 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 
 # Languages
 
-When characters are created they are considered native speakers of their starting langauges. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as dice steps. Languages as skills are associated with your Intelligence.
+When characters are created they are considered native speakers of their starting langauges. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with your Intelligence.
 
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
@@ -264,7 +290,7 @@ While describing what your character does, try not to detail the results of your
 
 If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The resulting roll of any skill check is determined by its relationship to the difficulty value. This can result in multiple degrees of success or failure.
 
-For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of 1d12, and an athletics of 1d4, you will roll 1d12+1d4. If you were not trained in athletics you would still at least roll your strength.
+For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength.
 
 Generally if you roll less than the difficulty, you fail, and succeed if you roll higher than the difficulty. If you tie with the difficulty, you partially succeed (also known as a *graze*). In circumstances like this you generally succeed at reduced effectiveness, or with some degree of consequence. Success and failure can be made better or worse if you roll exceptionally high or low. If you roll half of the difficulty or less, you *critically fail* (also known as a *fumble*). If you roll double the difficulty or more, you *critically succeed*. These success categories apply to any comparison of a dice roll to either a difficulty value, or against another dice roll. Comparing dice rolls from skill checks against one another is called an *opposed check*, where one is trying to succeed over the other.
 
@@ -341,7 +367,7 @@ Since a turn is six seconds long, we can also measure each action in seconds. Fu
 
 Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
 
-Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be stopped at any point in their duration, so long as it is your turn.
+Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be interrupted at any point in their duration, so long as it is your turn.
 
 In addition to the following basic actions, characters may perform maneuvers or cast spells with an action speed specified by those actions.
 
@@ -439,7 +465,7 @@ Blinded characters suffer a disadvantage to all rolls that require that characte
 
 #### Burning
 
-Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to 1d4 plus the degree of burning, then the burning effect decreases by 1, until it goes away. Fire damage bypasses damage reduction.
+Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to r4 plus the degree of burning, then the burning effect decreases by 1, until it goes away. Fire damage bypasses damage reduction.
 
 #### Debilitation
 
@@ -447,7 +473,7 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 #### Dying
 
-When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty of 1d12 plus their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
+When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty of r12 plus their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
 #### Encumbered
 
@@ -485,9 +511,9 @@ At some point during an adventure you may find yourself low on your resources (h
 | Resource | Short Rest | Moderate Rest | Long Rest |
 |:-|:-:|:-:|
 | Health | None | None | 1 |
-| Endurance | 1d4 | Half | All |
-| Stamina | 1d4 | Roll STR or DEX, disadvantage | Roll STR or DEX |
-| Mana | 1d4 | Roll INT or RES, disadvantage | Roll INT or RES |
+| Endurance | r4 | Half | All |
+| Stamina | r4 | Roll STR or DEX, disadvantage | Roll STR or DEX |
+| Mana | r4 | Roll INT or RES, disadvantage | Roll INT or RES |
 
 ### Short Rest
 
@@ -527,7 +553,7 @@ The trait you decide upon can be something very similar to an existing talent or
 
 ### Starting Stats
 
-After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (1d12), one of them to be *below average* (1d8), and the rest as *average* (1d10).
+After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (r12), one of them to be *below average* (r8), and the rest as *average* (r10).
 
 ### Motivation
 
@@ -583,29 +609,30 @@ Casual carrying of items over extended periods of time is different than momenta
 As you play the game your character will acquire experience points. As a baseline each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 2 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 3 experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependent on the specific talent.
 
 ##### Table: Primary Stat Steps & Cost
-| Step Cost | Total Cost | Dice Step | Step Name |
+| Step Cost | Total Cost | Roll Value | Step Name |
 |:-:|:-:|:-:|:-|
-| - | - | 1d8 | Below Average |
-| 10 | 10 | 1d10 | Average |
-| 12 | 22 | 1d12 | Above Average |
-| 14 | 36 | 1d10+1d4 | Great |
-| 16 | 52 | 1d10+1d6 | Superb |
-| 18 | 70 | 1d10+1d8 | Powerful |
-| 20 | 90 | 2d10 | Epic |
+| - | - | r8 | Below Average |
+| 10 | 10 | r10 | Average |
+| 12 | 22 | r12 | Above Average |
+| 14 | 36 | r14 | Great |
+| 16 | 52 | r16 | Superb |
+| 18 | 70 | r18 | Powerful |
+| 20 | 90 | r20 | Epic |
 
 Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
 
 ##### Table: Skill Steps & Cost
-| Step Cost | Total Cost | Dice Step | Step Name |
+| Step Cost | Total Cost | Roll Value | Step Name |
 |:-:|:-:|:-:|:-|
-| 2 or 4<sup>1</sup> | 2 | 1d4 | Trained |
-| 3 | 5 | 1d6 | Adept |
-| 4 | 9 | 1d8 | Practiced |
-| 5 | 14 | 1d10 | Proficient |
-| 6 | 20 | 1d12 | Exceptional |
-| 7 | 27 | 1d10+1d4 | Disciplined |
-| 8 | 35 | 1d10+1d6 | Accomplished |
-| 9 | 44 | 1d10+1d8 | Expert |
-| 10 | 54 | 2d10 | Master |
+| 1 or 4<sup>1</sup> | 1 | r2 | Trained |
+| 2 | 3 | r4 | Learning |
+| 3 | 6 | r6 | Adept |
+| 4 | 10 | r8 | Practiced |
+| 5 | 15 | r10 | Proficient |
+| 6 | 21 | r12 | Exceptional |
+| 7 | 28 | r14 | Disciplined |
+| 8 | 36 | r16 | Accomplished |
+| 9 | 45 | r18 | Expert |
+| 10 | 55 | r20 | Master |
 
-<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
+<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 1.

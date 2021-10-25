@@ -75,7 +75,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 **Target:** One or more creatures or objects  
 **Resist:** Deflection (for half)
 
-You shoot arcane missiles dealing 1d4+1 arcane damage. These missiles always hit their targets, but may be resisted for half damage (rounded up).
+You shoot arcane missiles dealing r8+1 arcane damage. These missiles always hit their targets, but may be resisted for half damage (rounded up).
 
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
@@ -162,9 +162,9 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 
 You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2.
 
-***Critical:*** Deal 1d4 fire damage, and the target gets burning 2.  
-***Success:*** Deal 1d4 fire damage, and the target gets burning 1.  
-***Graze:*** Deal 1d4 fire damage.
+***Critical:*** Deal r12 fire damage, and the target gets burning 2.  
+***Success:*** Deal r10 fire damage, and the target gets burning 1.  
+***Graze:*** Deal r8 fire damage.
 
 ## Inspire
 
@@ -195,9 +195,9 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 
 You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point, contained or connected to that body of water.
 
-***Critical:*** Deal 2d4 electric damage, and the target becomes stunned.  
-***Success:*** Deal 2d4 electric damage.  
-***Graze:*** Deal 1d4 electric damage.
+***Critical:*** Deal r20 electric damage, and the target becomes stunned.  
+***Success:*** Deal r14 electric damage.  
+***Graze:*** Deal r8 electric damage.
 
 ## Knock
 
@@ -241,8 +241,8 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 
 You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen.
 
-***Arcane:*** The attacked target loses 1d4 mana.  
-***Cold:*** The attacked target loses 1d4 stamina.  
+***Arcane:*** The attacked target loses r4 mana.  
+***Cold:*** The attacked target loses r4 stamina.  
 ***Electric:*** The attacked target becomes stunned.  
 ***Fire:*** The attacked target gets burning 1.
 
@@ -260,9 +260,9 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 
 This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized.
 
-***Critical:*** Restore 1 health, and 3d6 endurance.  
-***Success:*** Restore 2d6 endurance.  
-***Graze:*** Restore 1d6 endurance.
+***Critical:*** Restore 1 health, and r24 endurance.  
+***Success:*** Restore r16 endurance.  
+***Graze:*** Restore r8 endurance.
 
 ## Message
 

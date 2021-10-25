@@ -75,3 +75,31 @@ The following tables are example tasks at various difficulties for some of the b
 | Disabling a magical trap | 19 (Ambitious) |
 | Picking an inner pocket | 19 (Ambitious) |
 | Opening a jammed lock | 25 (Absurd) |
+
+## Roll Values
+
+Below is a table to use as a reference for converting roll values to dice notation.
+
+##### Table: Roll Values from r2 to r40
+| Roll Value | Dice to Roll | Total Dice |
+|:-:|:-|:-:|
+| r2 | 1d2 (coin) | 1 |
+| r4 | 1d4 | 1 |
+| r6 | 1d6 | 1 |
+| r8 | 1d8 | 1 |
+| r10 | 1d10 | 1 |
+| r12 | 1d12 | 1 |
+| r14 | 1d10+1d4 | 2 |
+| r16 | 1d10+1d6 | 2 |
+| r18 | 1d10+1d8 | 2 |
+| r20 | 2d10 | 2 |
+| r22 | 1d12+1d10 | 2 |
+| r24 | 2d10+1d4 | 3 |
+| r26 | 2d10+1d6 | 3 |
+| r28 | 2d10+1d8 | 3 |
+| r30 | 3d10 | 3 |
+| r32 | 1d12+2d10 | 3 |
+| r34 | 3d10+1d4 | 4 |
+| r36 | 3d10+1d6 | 4 |
+| r38 | 3d10+1d8 | 4 |
+| r40 | 4d10 | 4 |

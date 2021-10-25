@@ -58,57 +58,57 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Basic Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Club | 2sp | STR+1d6 Blunt | +6 | Basic | 1kg | Momentum, Swift |
-| Curved Sword | 8sp | STR+1d6 Slashing | +8 | Basic | 1kg | Backswing, Swift |
-| Handaxe | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Swift, Thrown 4m/40m |
-| Javelin | 2sp | STR+1d6 Piercing | +8 | Basic | 1kg | Thrown 9m/90m |
-| Sap | 2sp | STR+1d6 Blunt | +6 | Basic | 1kg | Nonlethal, Swift |
-| Shortspear | 5sp | STR+1d6 Piercing | +6 | Basic | 2kg | Thrown 6m/60m, Versatile |
-| Sling | 2sp | STR+1d6 Blunt | +6 | Basic | ¼kg | Range 15m/150m, Reload, Unfit 1m |
-| Spearclub | 5sp | STR+1d6 Blunt | +6 | Basic | 2kg | Mode Piercing, Momentum, Versatile |
-| Straight Sword | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Mode Piercing, Parry d6, Swift |
-| Staff | 2sp | STR+1d6 Blunt | +6 | Basic | 2kg | Cleave, Trip, Versatile |
-| Whip | 5sp | STR+1d6 Slashing | +6 | Basic | 1kg | Reach 1m/4m, Trip |
+| Club | 2sp | STR+r6 Blunt | +6 | Basic | 1kg | Momentum, Swift |
+| Curved Sword | 8sp | STR+r6 Slashing | +8 | Basic | 1kg | Backswing, Swift |
+| Handaxe | 5sp | STR+r6 Slashing | +6 | Basic | 1kg | Swift, Thrown 4m/40m |
+| Javelin | 2sp | STR+r6 Piercing | +8 | Basic | 1kg | Thrown 9m/90m |
+| Sap | 2sp | STR+r6 Blunt | +6 | Basic | 1kg | Nonlethal, Swift |
+| Shortspear | 5sp | STR+r6 Piercing | +6 | Basic | 2kg | Thrown 6m/60m, Versatile |
+| Sling | 2sp | STR+r6 Blunt | +6 | Basic | ¼kg | Range 15m/150m, Reload, Unfit 1m |
+| Spearclub | 5sp | STR+r6 Blunt | +6 | Basic | 2kg | Mode Piercing, Momentum, Versatile |
+| Straight Sword | 5sp | STR+r6 Slashing | +6 | Basic | 1kg | Mode Piercing, Parry r6, Swift |
+| Staff | 2sp | STR+r6 Blunt | +6 | Basic | 2kg | Cleave, Trip, Versatile |
+| Whip | 5sp | STR+r6 Slashing | +6 | Basic | 1kg | Reach 1m/4m, Trip |
 
 ##### Table: Finesse Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Dagger | 5sp | STR+1d4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
-| Dueling Sword | 8sp | STR+1d6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry d6, Swift |
-| Knife | 2sp | STR+1d4 Piercing | +10 | Finesse | ½kg | Swift, Thrown 4m/40m |
-| Parrying Dagger | 5sp | STR+1d4 Piercing | +6 | Finesse | ½kg | Parry d8, Swift |
+| Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
+| Dueling Sword | 8sp | STR+r6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry r6, Swift |
+| Knife | 2sp | STR+r4 Piercing | +10 | Finesse | ½kg | Swift, Thrown 4m/40m |
+| Parrying Dagger | 5sp | STR+r4 Piercing | +6 | Finesse | ½kg | Parry r8, Swift |
 
 ##### Table: Martial Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Battleaxe | 10sp | STR+1d8 Slashing | +6 | Martial | 3kg | Cleave, Versatile |
-| Flail | 15sp | STR+1d8 Blunt | +8 | Martial | 6kg | Backswing, Cleave, Large, Reach 2m |
-| Greataxe | 15sp | STR+1d10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
-| Greathammer | 15sp | STR+1d10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
-| Greatsword | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
-| Longsword | 10sp | STR+1d8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry d6, Versatile |
-| Mace | 10sp | STR+1d8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
-| Poleaxe | 15sp | STR+1d10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
-| Spear | 10sp | STR+1d8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
-| Warhammer | 10sp | STR+1d8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
-| Warstaff | 10sp | STR+1d8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |
+| Battleaxe | 10sp | STR+r8 Slashing | +6 | Martial | 3kg | Cleave, Versatile |
+| Flail | 15sp | STR+r8 Blunt | +8 | Martial | 6kg | Backswing, Cleave, Large, Reach 2m |
+| Greataxe | 15sp | STR+r10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
+| Greathammer | 15sp | STR+r10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
+| Greatsword | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
+| Longsword | 10sp | STR+r8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry r6, Versatile |
+| Mace | 10sp | STR+r8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
+| Poleaxe | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
+| Spear | 10sp | STR+r8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
+| Warhammer | 10sp | STR+r8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
+| Warstaff | 10sp | STR+r8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |
 
 ##### Table: Unarmed Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Unarmed | - | STR Blunt | +2 | Unarmed | - | Nonlethal, Swift |
-| Hand Wraps | 5cp | STR+1 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
-| Claws | 8sp | STR+1d4 Piercing | +10 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
-| Cestus or Knuckles | 5sp | STR+1d4 Blunt | +8 | Unarmed | ½kg | Momentum, Swift |
+| Hand Wraps | 5cp | STR+r2 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
+| Claws | 8sp | STR+r4 Piercing | +10 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
+| Cestus or Knuckles | 5sp | STR+r4 Blunt | +8 | Unarmed | ½kg | Momentum, Swift |
 
 ##### Table: Ranged Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Shortbow | 5sp | STR+1d8 Piercing | +6 | Ranged | 1½kg | Range 25m/250m, Two-Handed |
-| Longbow | 15sp | STR+1d10 Piercing | +4 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
-| Hand Crossbow | 10sp | 3d6 Piercing | +10 | Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
-| Crossbow | 20sp | 3d8 Piercing | +8 | Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
-| Siege Crossbow | 30sp | 3d10 Piercing | +6 | Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
+| Shortbow | 5sp | STR+r8 Piercing | +6 | Ranged | 1½kg | Range 25m/250m, Two-Handed |
+| Longbow | 15sp | STR+r10 Piercing | +4 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
+| Hand Crossbow | 10sp | r18 Piercing | +10 | Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
+| Crossbow | 20sp | r24 Piercing | +8 | Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
+| Siege Crossbow | 30sp | r28 Piercing | +6 | Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
 
 ##### Table: Projectile Weapon Ammunition
 | Name | Price | Weight | Weapon |
@@ -134,7 +134,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Momentum** If you hit with this weapon, your next attack with it on the same target gets +2 to damage. This bonus stacks until the beginning of your next turn.
 
-**Nonlethal** Enemies knocked unconscious by this weapon do not start dying unless severely injured (brought to negative ten health).
+**Nonlethal** Enemies knocked unconscious by this weapon do not start dying unless severely injured (brought to negative health equal to their maximum).
 
 **Parry** When you use this item to perform a parry action, add the given value to your Deflection.
 
@@ -197,7 +197,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Shields
 | Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
-| Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry d10 |
+| Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry r10 |
 | Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 4 |
 | Medium Shield | 15sp | 1 | - | 8 | Wood | 4kg | Block 5 |
 | Large Shield | 20sp | 1 | - | 12 | Wood | 6kg | Block 6 |
