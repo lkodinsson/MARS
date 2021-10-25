@@ -624,15 +624,14 @@ Although you do not spend experience points to obtain your starting primary stat
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
 |:-:|:-:|:-:|:-|
-| 1 or 4<sup>1</sup> | 1 | r2 | Trained |
-| 2 | 3 | r4 | Learning |
-| 3 | 6 | r6 | Adept |
-| 4 | 10 | r8 | Practiced |
-| 5 | 15 | r10 | Proficient |
-| 6 | 21 | r12 | Exceptional |
-| 7 | 28 | r14 | Disciplined |
-| 8 | 36 | r16 | Accomplished |
-| 9 | 45 | r18 | Expert |
-| 10 | 55 | r20 | Master |
+| 2 or 4<sup>1</sup> | 2 | r4 | Trained |
+| 3 | 5 | r6 | Adept |
+| 4 | 9 | r8 | Practiced |
+| 5 | 14 | r10 | Proficient |
+| 6 | 20 | r12 | Exceptional |
+| 7 | 27 | r14 | Disciplined |
+| 8 | 35 | r16 | Accomplished |
+| 9 | 44 | r18 | Expert |
+| 10 | 54 | r20 | Master |
 
-<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 1.
+<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.

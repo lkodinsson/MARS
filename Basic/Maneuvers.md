@@ -272,7 +272,7 @@ Make an attack with a shield as if it was a weapon that deals 1d8 blunt damage a
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
-Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your combat skill is exceptional (1d12) or better, give the target double disadvantage instead.
+Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your combat skill is exceptional (r12) or better, give the target double disadvantage instead.
 
 ## Triple Shot
 

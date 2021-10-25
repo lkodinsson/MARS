@@ -86,8 +86,7 @@ Imagine how you would describe that creature, then assign values to its stats an
 ##### Table: All Stat and Skill Steps
 | Dice Step | Stat Step | Skill Step |
 |:-:|:-|:-|
-| r2 | - | Trained |
-| r4 | Fragile | Learning |
+| r4 | Fragile | Trained |
 | r6 | Weak | Adept |
 | r8 | Below Average | Practiced |
 | r10 | Average | Proficient |
