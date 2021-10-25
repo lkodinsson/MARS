@@ -27,7 +27,7 @@ If at any point during the game you are required to perform math that results in
 
 Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
-Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values):
+Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
 | Roll Value | Dice to Roll |
 |:-:|:-|
@@ -509,7 +509,7 @@ At some point during an adventure you may find yourself low on your resources (h
 
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Moderate Rest | Long Rest |
-|:-|:-:|:-:|
+|:-|:-:|:-:|:-:|
 | Health | None | None | 1 |
 | Endurance | r4 | Half | All |
 | Stamina | r4 | Roll STR or DEX, disadvantage | Roll STR or DEX |
