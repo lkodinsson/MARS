@@ -7,7 +7,9 @@
 * [Basic Skills](#basic-skills)
 * [Advanced Skills](#advanced-skills)
 * [Combat Skills](#combat-skills)
+* [Maneuvers](#maneuvers)
 * [Languages](#languages)
+* [Genre Specific Skills](#genre-specific-skills)
 * [Playing the Game](#playing-the-game)
 * [Encounters](#encounters)
 * [Damage](#damage)
@@ -256,7 +258,7 @@ There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*
 
 ### Finesse (DEX)
 
-Combat with small or precise weapons. This skill is dedicated utilizing fast attacks to constantly threaten opponents and find openings to attack weak spots.
+Combat with small or precise weapons. This skill is dedicated to utilizing fast attacks to constantly threaten opponents and find openings and weak spots.
 
 ### Martial (DEX)
 
@@ -270,6 +272,20 @@ Ranged combat includes the use of all weapons that fire projectiles, such as bow
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
 
+# Maneuvers
+
+Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
+
+Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can be used at will with the following restriction: during combat you cannot use the same maneuver on the same or following round. Additionally, any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
+
+For example: You advanced your Martial skill and learned Heavy Strike. Since you are also trained in Unarmed, you can also use Heavy Strike with the Unarmed skill.
+
+When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+
+Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
+
+Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
+
 # Languages
 
 When characters are created they are considered native speakers of their starting langauges. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with your Intelligence.
@@ -277,6 +293,14 @@ When characters are created they are considered native speakers of their startin
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
 The availability of languages to your character are determined by the genre or setting that you are in. If you're not playing in a modern or historic genre, usually there is a "common" language that all races speak, and languages for every race. In the fantasy genre it is common for most monstrous creatures to also share an "undercommon" language between them.
+
+# Genre Specific Skills
+
+There may be additional skills available depending on the genre you are playing.
+
+Click [here](/Fantasy/Skills.md) for the list of fantasy skills.
+
+Click [here](/Fantasy/Spellcasting.md) for the rules and a table of spells for fantasy spellcasting.
 
 # Playing the Game
 
@@ -537,19 +561,27 @@ The process of creating a character is a series of small steps. A character is m
 
 It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The race you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
 
+Click [here](/Fantasy/Races.md) for a list of fantasy races.
+
 ### Background
 
 Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
 
+Click [here](/Fantasy/Backgrounds.md) for a list of fantasy backgrounds.
+
 ### Archetype
 
 Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
+
+Click [here](/Fantasy/Archetypes.md) for a list of fantasy archetypes.
 
 ### Trait
 
 Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. Typically they provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
 
 The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
+
+Click [here](/Basic/Traits.md) for a list of example traits.
 
 ### Starting Stats
 
@@ -572,6 +604,8 @@ Characters may start with some degree of currency or equipment. Most items that 
 Although you can use any type of item you can imagine approriate to your adventure, some items are explicitly made available, including their cost, weight, and specific features. Among these, armour and weapons are explicitly defined. For each of both armour and weapons, they are given tables detailing what to expect from such items. Additionally, armour and weapons may have additional features to help differentiate them.
 
 Some items may seem better than others, but depending on the genre that uses them, some may be more or less expensive, or have various minor requirements or drawbacks.
+
+Click [here](/Fantasy/Equipment.md) to see the rules and tables for fantasy equipment.
 
 ### Armour
 
@@ -606,7 +640,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 # Advancing a Character
 
-As you play the game your character will acquire experience points. As a baseline each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 2 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 3 experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. Talents can be acquired at varying costs dependent on the specific talent.
+As you play the game your character will acquire experience points. As a baseline each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 2 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 3 experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. 
 
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -635,3 +669,9 @@ Although you do not spend experience points to obtain your starting primary stat
 | 10 | 54 | r20 | Master |
 
 <sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
+
+Talents can also be acquired at varying costs dependent on the specific talent. These will provide more breadth of ability to your character rather than raw numerical improvement. You can even acquire talents that other archetypes start with.
+
+Click [here](/Basic/Talents.md) for the list of universal talents.
+
+Click [here](/Fantasy/Talents.md) for the list of fantasy talents.

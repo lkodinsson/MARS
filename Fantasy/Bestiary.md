@@ -32,7 +32,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 **Contacts** 7/r4, **Sleight** 11/r8
 
 **Finesse** 11/r8, **Unarmed** 10/r6  
-**Maneuvers**  Intimidating Strike, Opportunity Strike
+**Maneuvers**  Feint, Intimidating Strike, Opportunity Strike
 
 **Talents** Toughness (+8), Intimidation
 
@@ -72,7 +72,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **Perception** 8/r4, **Stealth** 8/r4
 
 **Finesse** 9/r6, **Ranged** 8/r4  
-**Maneuvers** Battle Cry
+**Maneuvers** Battle Cry, Escape
 
 **Unarmed** 6/r8+2 to hit, 3/r8-1 blunt damage (crit +2)  
 *Nonlethal, Swift*
@@ -146,7 +146,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 **Perception** 10/r6, **Stealth** 10/r6
 
 **Finesse** 10/r6, **Ranged** 9/r4  
-**Maneuvers** Escape
+**Maneuvers** Back-step Strike, Escape
 
 **Unarmed** 7/r10+2 to hit, 3/r8-1 blunt damage (crit +2)  
 *Nonlethal, Swift*
@@ -183,7 +183,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **Knowledge** 17<sup>a</sup>/r10, **Lore** 17<sup>a</sup>/r10
 
 **Martial** 14/r16, **Unarmed** 11/r10  
-**Maneuvers** Bullrush, Hard Parry, Intimidating Strike, Knock Down, Opportunity Strike
+**Maneuvers** Bullrush, Hard Parry, Heavy Strike, Intimidating Strike, Knock Down, Opportunity Strike
 
 **Talents** Toughness (+22)
 
@@ -221,7 +221,9 @@ Pale bones from a humanoid creature enchanted to wander and attack those who dis
 **Perception** 5/–, **Stealth** 5/–, **Charisma (intimidate)** 11<sup>a</sup>/r4
 
 **Martial** 9/r8 or **Ranged** 9/r8, **Unarmed** 7/r4  
-**Maneuvers** Intimidating Strike or Double Shot
+**Maneuvers (if Martial)** Advancing Strike, Intimidating Strike  
+**Maneuvers (if Ranged)** Back-step Strike, Double Shot  
+**Maneuvers** Opportunity Strike
 
 **Talents** Toughness (+10), Intimidation
 
@@ -275,7 +277,8 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 **Acrobatics** 4/–, **Athletics** 7/–, **Charisma** 4/–  
 **Perception** 4/–, **Stealth** 4/–, **Charisma (intimidate)** 5<sup>a</sup>/–
 
-**Unarmed** 6/r4
+**Unarmed** 6/r4  
+**Maneuvers** Heavy Strike
 
 **Talents** Toughness (+6)
 

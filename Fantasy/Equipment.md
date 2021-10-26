@@ -2,7 +2,7 @@
 
 ## Currency
 
-There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last.
+There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last. All characters start with 25 silver pieces to spend on starting equipment.
 
 ##### Table: Currency
 | Currency | Equivalent |

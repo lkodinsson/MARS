@@ -1,7 +1,5 @@
 # Archetypes
 
-All characters start with 25 silver pieces to spend on starting equipment regardless of their chosen archetype.
-
 ##### Table: Fantasy Archetypes
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
