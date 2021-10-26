@@ -62,9 +62,9 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Curved Sword | 8sp | STR+r6 Slashing | +8 | Basic | 1kg | Backswing, Swift |
 | Handaxe | 5sp | STR+r6 Slashing | +6 | Basic | 1kg | Swift, Thrown 4m/40m |
 | Javelin | 2sp | STR+r6 Piercing | +8 | Basic | 1kg | Thrown 9m/90m |
+| Knife | 2sp | STR+r4 Piercing | +10 | Basic | ½kg | Swift, Thrown 4m/40m |
 | Sap | 2sp | STR+r6 Blunt | +6 | Basic | 1kg | Nonlethal, Swift |
 | Shortspear | 5sp | STR+r6 Piercing | +6 | Basic | 2kg | Thrown 6m/60m, Versatile |
-| Sling | 2sp | STR+r6 Blunt | +6 | Basic | ¼kg | Range 15m/150m, Reload, Unfit 1m |
 | Spearclub | 5sp | STR+r6 Blunt | +6 | Basic | 2kg | Mode Piercing, Momentum, Versatile |
 | Straight Sword | 5sp | STR+r6 Slashing | +6 | Basic | 1kg | Mode Piercing, Parry r6, Swift |
 | Staff | 2sp | STR+r6 Blunt | +6 | Basic | 2kg | Cleave, Trip, Versatile |
@@ -75,7 +75,6 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
 | Dueling Sword | 8sp | STR+r6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry r6, Swift |
-| Knife | 2sp | STR+r4 Piercing | +10 | Finesse | ½kg | Swift, Thrown 4m/40m |
 | Parrying Dagger | 5sp | STR+r4 Piercing | +6 | Finesse | ½kg | Parry r8, Swift |
 
 ##### Table: Martial Weapons
@@ -86,7 +85,6 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Greataxe | 15sp | STR+r10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
 | Greathammer | 15sp | STR+r10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
 | Greatsword | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
-| Longsword | 10sp | STR+r8 Slashing | +6 | Martial | 2kg | Mode Piercing, Parry r6, Versatile |
 | Mace | 10sp | STR+r8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
 | Poleaxe | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
 | Spear | 10sp | STR+r8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
@@ -104,11 +102,18 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Ranged Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
+| Sling | 2sp | STR+r6 Blunt | +6 | Ranged | ½kg | Range 20m/400m, Reload, Unfit 2m |
 | Shortbow | 5sp | STR+r8 Piercing | +6 | Ranged | 1½kg | Range 25m/250m, Two-Handed |
-| Longbow | 15sp | STR+r10 Piercing | +4 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
-| Hand Crossbow | 10sp | r18 Piercing | +10 | Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
-| Crossbow | 20sp | r24 Piercing | +8 | Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
-| Siege Crossbow | 30sp | r28 Piercing | +6 | Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
+| Longbow | 15sp | STR+r10 Piercing | +6 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
+
+##### Table: Cross-Skill Weapons
+| Name | Price | Damage | Crit | Type | Weight | Features |
+|:-|:-:|:-:|:-:|:-:|:-:|:-|
+| Darts (20) | 5sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
+| Longsword | 10sp | STR+r8 Slashing | +6 | Finesse/Martial | 2kg | Mode Piercing, Parry r6, Versatile |
+| Hand Crossbow | 10sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
+| Crossbow | 20sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
+| Siege Crossbow | 30sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
 
 ##### Table: Projectile Weapon Ammunition
 | Name | Price | Weight | Weapon |

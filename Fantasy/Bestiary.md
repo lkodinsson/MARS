@@ -15,7 +15,7 @@
 Medium humanoid  
 **CR:** 1¾
 
-Dudes who upset and steal ya glod.
+Various vagabonds of all kinds, all hellbent on taking either your money or your life. Don't be fooled by their intimidating charm: they will take whatever opportunity best suits their malcontent interests.
 
 **Initiative** 12/r22+1  
 **HP** 11, **EP** 18, **SP** 13  
@@ -23,33 +23,31 @@ Dudes who upset and steal ya glod.
 **Fort** 11/r20+1, **Will** 12/r22+1  
 **Speed** 6m
 
-**STR** r10+1, **DEX** r12+1, **INT** r8, **RES** r10
+**STR** r10+1, **DEX** r12+1, **INT** r10, **RES** r10
 
 **Languages** Common (native)  
 **Acrobatics** 7/–, **Athletics** 8/r4, **Charisma** 8/r6  
 **Perception** 10/r6, **Stealth** 10/r6, **Charisma (intimidate)** 11<sup>a</sup>/r6
+**Contacts** 7/r4, **Sleight** 11/r8
 
-**Ranged** 11/r8, **Finesse** 10/r6, **Unarmed** 9/r4  
+**Finesse** 11/r8, **Unarmed** 10/r6  
 **Maneuvers**  Intimidating Strike, Opportunity Strike
 
 **Talents** Toughness (+8), Intimidation
 
-**Unarmed** 9/r16+1 to hit, 6/r10+1 blunt damage (crit +2)  
-*Nonlethal, Swift*
-
-**Crude sap** 11/r20+1 to hit, 9/r16+1 blunt damage (crit +6)  
+**Unarmed** 10/r18+1 to hit, 6/r10+1 blunt damage (crit +2)  
 *Nonlethal, Swift*
 
 **Straight sword** 11/r20+1 to hit, 9/r16+1 slashing damage (crit +6)  
 *Mode Piercing, Parry r6, Swift*
 
-**Knife** 10/r18+1 to hit, 8/r14+1 slashing damage (crit +10)  
+**Knife** 11/r20+1 to hit, 8/r14+1 piercing damage (crit +10)  
 *Swift, Thrown 4m/40m*
 
 **Hand crossbow** 11/r20+1 to hit, 9/r18 piercing damage (crit +10)  
 *Range 15m/150m, Reload, Mechanical*
 
-**Items** Crude gambeson, crude sap, straight sword, knife, hand crossbow, bolts (4), silver (2), copper (5)
+**Items** Crude gambeson, straight sword, knife, hand crossbow, bolts (4), silver (2), copper (5)
 
 ## Goblin
 
