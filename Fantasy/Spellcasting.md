@@ -47,6 +47,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
+| [Grease](#grease) | 2 | 10 | Standard | Conjuration |
 | [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
 | [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
 | [Jolt](#jolt) | 1 | 7 | Swift | Evocation, Transmutation |
@@ -60,8 +61,11 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
 | [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Transmutation |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
+| [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury |
 | [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
+| [Water Breathing](#water-breathing) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Water Jet](#water-jet) | 1 | 7 | Swift | Conjuration |
 
 ## Arcane Missiles
 
@@ -148,6 +152,21 @@ Allows you to read the active thoughts of another creature without them knowing 
 
 Reduces the speed that you fall to a slow enough speed that you can always land safely. This spell can also be used to double the length of a jump due to the reduced falling speed. This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
 
+## Grease
+
+**Specializations:** Conjuration  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** 10m  
+**Target:** One point  
+**Duration:** 5 minutes
+**Resist:** Acrobatics (vs grease), Fortitude (vs ignition)
+
+Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or they fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area. The grease can be ignited, which also gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
+
 ## Ignite
 
 **Specializations:** Evocation, Transmutation  
@@ -160,7 +179,7 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 **Target:** One creature or object  
 **Resist:** Deflection
 
-You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2.
+You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet targets get advantage to resist this spell, but if they fail they become dry instead of taking damage.
 
 ***Critical:*** Deal r12 fire damage, and the target gets burning 2.  
 ***Success:*** Deal r10 fire damage, and the target gets burning 1.  
@@ -239,7 +258,7 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen.
+You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
 
 ***Arcane:*** The attacked target loses r4 mana.  
 ***Cold:*** The attacked target loses r4 stamina.  
@@ -356,6 +375,19 @@ Inflict sickness upon a creature, causing it to perform tasks worse and suffer l
 
 Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the target adjusts naturally to any degree of light or darkness.
 
+## Sight Projection
+
+**Specializations:** Augury  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** Self  
+**Duration:** 30 minutes (concentration, range of 100m+)
+
+You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 25m for every 1 your casting roll bypasses the difficulty.
+
 ## Suggestion
 
 **Specializations:** Enchantment, Evocation  
@@ -385,3 +417,32 @@ You make a simple request of a creature (no longer than two sentences). If that 
 **Resist:** Willpower
 
 You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects moved can only move a total of 6m at once, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
+
+## Water Breathing
+
+**Specializations:** Enchantment, Transmutation  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** 10m  
+**Target:** One or more creatures or objects  
+**Duration:** 30 minutes (concentration)  
+**Resist:** Willpower
+
+Allows the targets to breath underwater the same as they breath air above water, by providing them with magical gills. This does not prevent them from breathing air. This spell's mana cost and difficulty increase by 1 for each additional creature that you target.
+
+## Water Jet
+
+**Specializations:** Conjuration  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Swift
+
+**Range:** 3m  
+**Target:** One creature, object, or point  
+**Resist:** Evasion or Fortitude
+
+Soaks a target in water and optionally knocks the target back a distance up to 3m, by generating a stream of water from your body. Can be used from a source of water instead of your body thus allowing you to project a stream with twice the range and knockback, but costs 1 more mana and with 2 higher difficulty. This spell can also be used to stop objects or creatures from burning by soaking them in water. When used on grease or oil, however, it will instead increase the radius by 1m and not stop any burning.
