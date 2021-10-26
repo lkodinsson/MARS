@@ -5,6 +5,7 @@
 |:-|:-|:-:|
 | [Bandit](#bandit) | Medium humanoid | 1¾ |
 | [Goblin](#goblin) | Small monstrous humanoid | ⅔ |
+| [Guard](#guard) | Medium humanoid | 3¾ |
 | [Kobold](#kobold) | Small monstrous humanoid | 1 |
 | [Minotaur](#minotaur) | Large monstrous humanoid | 8½ |
 | [Skeleton](#skeleton) | Medium undead humanoid | 1½ |
@@ -27,7 +28,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 
 **Languages** Common (native)  
 **Acrobatics** 7/–, **Athletics** 8/r4, **Charisma** 8/r6  
-**Perception** 10/r6, **Stealth** 10/r6, **Charisma (intimidate)** 11<sup>a</sup>/r6
+**Perception** 10/r6, **Stealth** 10/r6, **Charisma (intimidate)** 11<sup>a</sup>/r6  
 **Contacts** 7/r4, **Sleight** 11/r8
 
 **Finesse** 11/r8, **Unarmed** 10/r6  
@@ -47,7 +48,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 **Hand crossbow** 11/r20+1 to hit, 9/r18 piercing damage (crit +10)  
 *Range 15m/150m, Reload, Mechanical*
 
-**Items** Crude gambeson, straight sword, knife, hand crossbow, bolts (4), silver (2), copper (5)
+**Items** Crude gambeson, hood, straight sword, knife, hand crossbow, bolts (4), silver (2), copper (5)
 
 ## Goblin
 
@@ -83,6 +84,45 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 *Range 25m/250m, Two-Handed*
 
 **Items** Improvised jerkin, crude knife, crude shortbow, arrows (4), copper (2)
+
+## Guard
+
+Medium humanoid  
+**CR:** 3½
+
+Could have been an adventurer like you, but I'm sure they have some excuse. Either way, they're well equipped and paid by the local government. They're just doing their job.
+
+**Initiative** 13/r24+1  
+**HP** 13, **EP** 20, **SP** 13  
+**DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 5 (2 vs piercing)  
+**DEF (with shield)** 13/r12+7, **DR (with shield)** 9 (while blocking)  
+**Fort** 12/r22+1, **Will** 10/r20  
+**Speed** 6m
+
+**STR** r12+1, **DEX** r12+1, **INT** r10, **RES** r10
+
+**Languages** Common (native)  
+**Acrobatics** 7/–, **Athletics** 11/r8, **Charisma** 8/r6  
+**Perception** 11/r8, **Stealth** 5<sup>dd</sup>/–
+
+**Martial** 12/r10, **Unarmed** 10/r6  
+**Maneuvers** Battle Cry, Intercept, Opportunity Strike
+
+**Talents** Toughness (+10)
+
+**Straight sword** 12/r22+1 to hit, 10/r18+1 slashing damage (crit +6)  
+*Mode Piercing, Parry r6, Swift*
+
+**Spear (2h)** 12/r22+1 to hit, 13<sup>a</sup>/r20+1 piercing damage (crit +6)  
+*Bypass 1, Two-Handed, Reach 2m*
+
+**Spear (1h)** 11/r22 to hit, 9<sup>d</sup>/r20+1 piercing damage (crit +6)  
+*Bypass 1, Two-Handed, Reach 2m*
+
+**Crossbow** 12/r22+1 to hit, 12/r24 piercing damage (crit +8)  
+*Range 25m/250m, Two-Handed, Reload (Full), Mechanical*
+
+**Items** Chainmail, plated bracers, greaves, small helm, small shield, straight sword, spear, crossbow, bolts (20), electrum (1), silver (5)
 
 ## Kobold
 
