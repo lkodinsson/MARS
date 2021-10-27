@@ -254,7 +254,7 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 # Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons. There are also cross-skill weapons which have multiple listed types. Any type listed can be used with those weapons.
 
 ### Finesse (DEX)
 

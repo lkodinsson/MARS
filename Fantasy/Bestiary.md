@@ -8,6 +8,7 @@
 | [Guard](#guard) | Medium humanoid | 3¾ |
 | [Kobold](#kobold) | Small monstrous humanoid | 1 |
 | [Minotaur](#minotaur) | Large monstrous humanoid | 8½ |
+| [Peasant](#peasant) | Medium humanoid | ⅔ |
 | [Skeleton](#skeleton) | Medium undead humanoid | 1½ |
 | [Zombie](#zombie) | Medium undead humanoid | ⅔ |
 
@@ -42,7 +43,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 **Straight sword** 11/r20+1 to hit, 9/r16+1 slashing damage (crit +6)  
 *Mode Piercing, Parry r6, Swift*
 
-**Knife** 11/r20+1 to hit, 8/r14+1 piercing damage (crit +10)  
+**Knife** 11/r20+1 to hit, 8/r14+1 piercing damage (crit +8)  
 *Swift, Thrown 4m/40m*
 
 **Hand crossbow** 11/r20+1 to hit, 9/r18 piercing damage (crit +10)  
@@ -71,13 +72,13 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **Acrobatics** 8/r4, **Athletics** 3/–, **Charisma** 5/–  
 **Perception** 8/r4, **Stealth** 8/r4
 
-**Finesse** 9/r6, **Ranged** 8/r4  
+**Martial** 9/r6, **Ranged** 8/r4  
 **Maneuvers** Battle Cry, Escape
 
 **Unarmed** 6/r8+2 to hit, 3/r8-1 blunt damage (crit +2)  
 *Nonlethal, Swift*
 
-**Crude knife** 8/r14+1 to hit, 5/r12-1 piercing damage (crit +10)  
+**Crude knife** 8/r14+1 to hit, 5/r12-1 piercing damage (crit +8)  
 *Swift, Thrown 4m/40m*
 
 **Crude shortbow** 7/r12+1 to hit, 7/r16-1 piercing damage (crit +6)  
@@ -94,8 +95,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 **Initiative** 13/r24+1  
 **HP** 13, **EP** 20, **SP** 13  
-**DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 5 (2 vs piercing)  
-**DEF (with shield)** 13/r12+7, **DR (with shield)** 9 (while blocking)  
+**DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 5 (2 vs piercing) (9 while blocking)  
 **Fort** 12/r22+1, **Will** 10/r20  
 **Speed** 6m
 
@@ -113,16 +113,16 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 **Straight sword** 12/r22+1 to hit, 10/r18+1 slashing damage (crit +6)  
 *Mode Piercing, Parry r6, Swift*
 
-**Spear (2h)** 12/r22+1 to hit, 13<sup>a</sup>/r20+1 piercing damage (crit +6)  
-*Bypass 1, Two-Handed, Reach 2m*
+**Shortspear (1h)** 12/r22+1 to hit, 10/r18+1 piercing damage (crit +6)  
+*Thrown 6m/60m, Versatile*
 
-**Spear (1h)** 11/r22 to hit, 9<sup>d</sup>/r20+1 piercing damage (crit +6)  
-*Bypass 1, Two-Handed, Reach 2m*
+**Shortspear (2h)** 10/r22-1 to hit, 12<sup>a</sup>/r18+1 piercing damage (crit +6)  
+*Thrown 6m/60m, Versatile*
 
 **Crossbow** 12/r22+1 to hit, 12/r24 piercing damage (crit +8)  
 *Range 25m/250m, Two-Handed, Reload (Full), Mechanical*
 
-**Items** Chainmail, plated bracers, greaves, small helm, small shield, straight sword, spear, crossbow, bolts (20), electrum (1), silver (5)
+**Items** Chainmail, plated bracers, greaves, small helm, small shield, straight sword, shortspear, crossbow, bolts (20), electrum (1), silver (5)
 
 ## Kobold
 
@@ -151,7 +151,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 **Unarmed** 7/r10+2 to hit, 3/r8-1 blunt damage (crit +2)  
 *Nonlethal, Swift*
 
-**Crude knife** 9/r16+1 to hit, 5/r12-1 piercing damage (crit +10)  
+**Crude knife** 9/r16+1 to hit, 5/r12-1 piercing damage (crit +8)  
 *Swift, Thrown 4m/40m*
 
 **Crude shortbow** 8/r14+1 to hit, 7/r16-1 piercing damage (crit +6)  
@@ -197,6 +197,37 @@ Large muscular creature with the head of a bull and the body of a man. They have
 *Cleave, Two-Handed*
 
 **Items** Exceptional heavy greataxe, exceptional scalemail, small helm, plated bracers, greaves, electrum (5)
+
+## Peasant
+
+Medium humanoid  
+**CR:** ⅔
+
+Your average every day peasant. They come in all shapes, sizes, and race. Some societies treat them better, but in the end, they're all just people like you.
+
+**Initiative** 10/r18+1  
+**HP** 11, **EP** 11, **SP** 10  
+**DEF** 6/r10+1, **EVA** 5/r10, **DR** 3  
+**Fort** 12/r20+2, **Will** 10/r18+1  
+**Speed** 6m
+
+**STR** r10+1, **DEX** r10, **INT** r8, **RES** r10+1
+
+**Languages** Common (native)  
+**Acrobatics** 5/–, **Athletics** 9/r6, **Charisma** 7/r4  
+**Perception** 7/r4, **Stealth** 7/r4  
+**Craft** 6/r4
+
+**Unarmed** 7/r4  
+**Maneuvers** Back-step Strike
+
+**Unarmed** 7/r14 to hit, 5/r10 blunt damage (crit +2)  
+*Nonlethal, Swift*
+
+**Knife** 6/r14-1 to hit, 8/r14+1 piercing damage (crit +8)  
+*Swift, Thrown 4m/40m*
+
+**Items** Crude doublet, crude knife, rations (1), copper (2)
 
 ## Skeleton
 
@@ -245,14 +276,11 @@ Pale bones from a humanoid creature enchanted to wander and attack those who dis
 **Crude club** 8/r18-1 to hit, 10/r18+1 blunt damage (crit +6)  
 *Momentum, Swift*
 
-**Crude curved sword** 8/r18-1 to hit, 10/r18+1 slashing damage (crit +8)  
-*Backswing, Swift*
-
 **Crude shortbow** 8/r18-1, 11/r20+1 piercing damage (crit +6)  
 *Range 25m/250m, Two-Handed*
 
 **Items (if Martial)** Crude longsword or crude mace  
-**Items (if Ranged)** Crude club or crude curved sword, crude shortbow, 8 arrows  
+**Items (if Ranged)** Crude club, crude shortbow, 8 arrows  
 **Items** Crude jerkin
 
 ## Zombie
@@ -269,7 +297,9 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 **Speed** 5m
 
 **Undead** Immune to sickness and mind altering effects, can't be blinded, and takes half cold damage. Also grants advantage to any checks made to intimidate.  
-**Zombie Disease** Whenever this deals damage with clawing or biting directly to health, it causes Sickness 3 as well. Characters that die from effect this become zombies.
+**Zombie Disease** Whenever this deals damage with natural weapons directly to health, it causes Sickness 3 as well. Characters that die from effect this become zombies.
+**Natural weapon, bite** Deals STR piercing damage (crit +4), has the features: Momentum, Swift
+**Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the features: Cleave, Swift
 
 **STR** r12+1, **DEX** r8, **INT** r6, **RES** r8+1
 
@@ -282,10 +312,10 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 
 **Talents** Toughness (+6)
 
-**Biting** 6/r12 to hit, 7/r12+1 piercing damage (crit +2)  
-*Swift*
+**Bite** 6/r12 to hit, 8/r14+1 piercing damage (crit +4)  
+*Momentum, Swift*
 
-**Clawing** 6/r12 to hit, 7/r12+1 slashing damage (crit +2)  
-*Swift*
+**Claw** 6/r12 to hit, 9/r16+1 slashing damage (crit +2)  
+*Cleave, Swift*
 
 **Items** Crude doublet, copper (2)
