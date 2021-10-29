@@ -23,7 +23,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 **HP** 11, **EP** 18, **SP** 13  
 **DEF** 7/r10+2, **EVA** 8/r12+2, **DR** 3  
 **Fort** 11/r20+1, **Will** 12/r22+1  
-**Speed** 6m
+**Speed** 7m
 
 **STR** r10+1, **DEX** r12+1, **INT** r10, **RES** r10
 
@@ -62,7 +62,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **HP** 7, **EP** 9, **SP** 10  
 **DEF** 6/r8+2, **EVA** 7/r8+3, **DR** 3 (1 vs blunt)  
 **Fort** 8/r16, **Will** 9/r16+1  
-**Speed** 6m
+**Speed** 7m
 
 **Low-light vision** Goblins can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
 
@@ -97,7 +97,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 **HP** 13, **EP** 20, **SP** 13  
 **DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 5 (2 vs piercing) (9 while blocking)  
 **Fort** 12/r22+1, **Will** 10/r20  
-**Speed** 6m
+**Speed** 7m
 
 **STR** r12+1, **DEX** r12+1, **INT** r10, **RES** r10
 
@@ -135,7 +135,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 **HP** 7, **EP** 10, **SP** 12  
 **DEF** 6/r10+1, **EVA** 8/r10+3, **DR** 4 (2 vs blunt)  
 **Fort** 8/r18-1, **Will** 10/r18+1  
-**Speed** 6m
+**Speed** 7m
 
 **Low-light vision** Kobolds can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
 
@@ -170,7 +170,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **HP** 18, **EP** 36, **SP** 13  
 **DEF** 15/r14+8, **EVA** 14/r14+7, **DR** 6  
 **Fort** 17/r30+2, **Will** 16/r30+1  
-**Speed** 6m
+**Speed** 7m
 
 **Eidetic Memory** Minotaurs can recall lots of information with exceptional accuracy, receiving an advantage to knowledge and lore.  
 **Bull-headed** Minotaurs get +1 to armour class from their horns. Additionally, they have a carrying capacity as though they were one size larger.
@@ -209,7 +209,7 @@ Your average every day peasant. They come in all shapes, sizes, and race. Some s
 **HP** 11, **EP** 11, **SP** 10  
 **DEF** 6/r10+1, **EVA** 5/r10, **DR** 3  
 **Fort** 12/r20+2, **Will** 10/r18+1  
-**Speed** 6m
+**Speed** 7m
 
 **STR** r10+1, **DEX** r10, **INT** r8, **RES** r10+1
 
@@ -240,7 +240,7 @@ Pale bones from a humanoid creature enchanted to wander and attack those who dis
 **HP** 13, **EP** 21, **SP** 10  
 **DEF** 7/r10+2, **EVA** 6/r10+1, **DR** 4 (2 vs blunt)  
 **Fort** 13/r22+2, **Will** 9/r16+1  
-**Speed** 6m
+**Speed** 7m
 
 **Undead** Immune to sickness and mind altering effects, can't be blinded, and takes half cold damage. Also grants advantage to any checks made to intimidate.  
 **No Flesh** Takes no damage from piercing projectiles except on a critical (which deals half damage instead), but half damage from other kinds of piercing attacks.
@@ -294,10 +294,10 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 **HP** 12, **EP** 15, **SP** 8  
 **DEF** 5/r8+1, **EVA** 4/r8, **DR** 3  
 **Fort** 12/r20+2, **Will** 8/r14+1  
-**Speed** 5m
+**Speed** 6m
 
 **Undead** Immune to sickness and mind altering effects, can't be blinded, and takes half cold damage. Also grants advantage to any checks made to intimidate.  
-**Zombie Disease** Whenever this deals damage with natural weapons directly to health, it causes Sickness 3 as well. Characters that die from effect this become zombies.
+**Zombie Disease** Whenever this deals damage with natural weapons directly to health, it also causes Sickness 2. Characters that die from effect this become zombies.
 **Natural weapon, bite** Deals STR piercing damage (crit +4), has the features: Momentum, Swift
 **Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the features: Cleave, Swift
 

@@ -189,8 +189,7 @@ Like primary stats, skill values are represented by roll values. All skills have
 | Roll Value | Step Name |
 |:-:|:-|
 | - | Untrained |
-| r2 | Trained |
-| r4 | Learning |
+| r4 | Trained |
 | r6 | Adept |
 | r8 | Practiced |
 | r10 | Proficient |
@@ -412,7 +411,7 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Use a wielded item with the block feature to block all incoming attacks or spells, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead.
+Use a wielded item with the block feature to block all incoming attacks or spells coming from in front of you, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead. While blocking you cannot see in front of you.
 
 #### Brandish
 
@@ -465,7 +464,7 @@ Declare any standard, swift, or free action to use as a reaction given a specifi
 
 **Action Speed:** Swift
 
-If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged attacks and spells made against your deflection and evasion.
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged attacks and spells made against your deflection and evasion. You can also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
 
 #### Use Skill
 
@@ -555,7 +554,7 @@ Characters with substantial wounds will require substantial rest to recover. Oth
 
 # Creating a Character
 
-The process of creating a character is a series of small steps. A character is made up of a few aspects: *race*, *background*, *archetype*, and *trait*.
+The process of creating a character is a series of small steps. A character is made up of a few aspects: *race*, *background*, *archetype*, and *trait*. As a reminder, whenever you assign any stat or skill a roll value, it does not mean to roll those dice and assign it the resulting value. It means that you assign it the roll value itself. This represents what you roll when you use that stat or skill.
 
 ### Race
 

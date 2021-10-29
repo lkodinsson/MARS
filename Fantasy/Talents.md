@@ -6,7 +6,7 @@
 | [Arcane Precision](#arcane-precision) | 10 | INT 11+, Can cast spells |
 | [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
-| [Inherent Focus](#inherent-focus) | 10 | INT 11+, RES 11+, Can cast spells |
+| [Inherent Focus](#inherent-focus) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Magic Resistance](#magic-resistance) | 10 | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | INT 13+, Can cast spells |
 
@@ -44,10 +44,10 @@ You may cast spells putting your mana into the negative. If you do, make a willp
 
 ## Inherent Focus
 
-**Cost:** 10 EXP
+**Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Max Resolve 11+, Can cast spells
 
-When you become unconscious or stunned, instead of immediately losing concentration on spells, you may instead attempt to maintain concentration. If you do, roll as if you were casting that spell, and use the result to determine continued concentration. If this means rolling an opposed check against a target who is resisting that spell, roll with advantage.
+When you become unconscious or stunned, instead of immediately losing concentration on spells, you may instead attempt to maintain concentration. If you do, roll as if you were casting that spell, and use the result to determine continued concentration.
 
 ## Magic Resistance
 

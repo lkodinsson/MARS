@@ -27,16 +27,20 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Clothes, luxurious (fine doublet) | 15sp | 4kg |
 | Flint & steel<sup>1</sup> | 1sp | ¼kg |
 | Food, rations (4)<sup>1</sup> | 8cp | 2kg |
-| Grappling hook | 5sp | 2kg |
+| Grappling hook | 2sp | 2kg |
 | Lantern | 2sp | 1kg |
 | Lantern oil (36 hrs) | 3sp | ¼kg |
 | Musical Instrument | 8sp | 1½kg |
-| Rope, 18m | 3sp | 3kg |
+| Rope, 18m | 2sp | 3kg |
+| Toolkit, small<sup>2</sup> | 3sp | 1½kg |
+| Toolkit, large<sup>2</sup> | 8sp | 5kg |
 | Torch | 5cp | 1kg |
 | Waterskin, empty | 1sp | ¼kg |
 | Waterskin, full<sup>1</sup> | 1sp | 2kg |
 
-<sup>1</sup>All characters start with a backpack, bedroll, common clothes, flint & steel, four rations, and a full waterskin for free.
+<sup>1</sup>All characters start with a backpack, bedroll, common clothes, flint & steel, four rations, and a full waterskin for free (these have a combined weight of 7¼kg).
+
+<sup>2</sup>Toolkits contain all necessary tools to performing certain skillsets or crafts. When you buy a toolkit you must specify the skillset or craft it is for, rather than simply its size. For example, small toolkits could be used for cartography, cooking, fletching, jewelry making, lock picking, sewing, woodworking, and writing. Some skillsets require a larger amount of tools, such as alchemy, engineering, pottery, smithing, and trapmaking.
 
 ## Goods & Services
 
@@ -76,12 +80,12 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Battleaxe | 10sp | STR+r8 Slashing | +6 | Martial | 3kg | Cleave, Versatile |
-| Flail | 15sp | STR+r8 Blunt | +8 | Martial | 6kg | Backswing, Cleave, Large, Reach 2m |
-| Greataxe | 15sp | STR+r10 Slashing | +6 | Martial | 5kg | Cleave, Two-Handed |
-| Greathammer | 15sp | STR+r10 Blunt | +4 | Martial | 5kg | Momentum, Two-Handed |
-| Greatsword | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Cleave, Mode Piercing, Two-Handed |
+| Flail | 15sp | STR+r8 Blunt | +8 | Martial | 5kg | Backswing, Cleave, Large, Reach 2m |
+| Greataxe | 15sp | STR+r10 Slashing | +6 | Martial | 4kg | Cleave, Two-Handed |
+| Greathammer | 15sp | STR+r10 Blunt | +4 | Martial | 4kg | Momentum, Two-Handed |
+| Greatsword | 15sp | STR+r10 Slashing | +4 | Martial | 4kg | Cleave, Mode Piercing, Two-Handed |
 | Mace | 10sp | STR+r8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
-| Poleaxe | 15sp | STR+r10 Slashing | +4 | Martial | 5kg | Mode Piercing, Two-Handed, Reach 2m |
+| Poleaxe | 15sp | STR+r10 Slashing | +4 | Martial | 4kg | Mode Piercing, Two-Handed, Reach 2m |
 | Spear | 10sp | STR+r8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
 | Warhammer | 10sp | STR+r8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
 | Warstaff | 10sp | STR+r8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |

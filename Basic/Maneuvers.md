@@ -9,10 +9,11 @@
 | [Bullrush](#bullrush) | 2 | Full | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
+| [Disarm](#disarm) | 2 | Standard | Finesse, Unarmed |
 | [Double Shot](#double-shot) | 1 | Standard | Ranged |
 | [Escape](#escape) | 2 | Swift | Finesse, Ranged |
 | [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
-| [Hard Parry](#hard-parry) | 2 | Reaction | Finesse, Martial |
+| [Hard Parry](#hard-parry) | 1 | Reaction | Finesse, Martial |
 | [Heavy Strike](#heavy-strike) | 3 | Standard | Martial, Unarmed |
 | [Hook Parry](#hook-parry) | 1 | Reaction | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | Finesse, Martial, Unarmed |
@@ -66,7 +67,7 @@ Each ally within 30m gets +2 to their next attack or defense roll (whichever is 
 **Stamina Cost:** 2  
 **Action Speed:** Full
 
-Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage.
+Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage. If you also have the Knock Down maneuver, you may pay 1 more stamina to forgo the +2 bonus to hit and damage to instead make an attack at the end of your movement as per the Knock Down maneuver.
 
 ## Crippling Strike
 
@@ -90,6 +91,17 @@ Make an attack. If successful, the target has their movement speed reduced to ha
 **Resist:** Willpower
 
 Make a melee attack. If successful, trade places with your target if they are within 1m.
+
+## Disarm
+
+**Specializations:** Finesse, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+**Resist:** Athletics
+
+Make a combat check against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
 
 ## Double Shot
 
@@ -127,10 +139,10 @@ Make a charisma check against a target within melee range. If successful, the ne
 
 **Specializations:** Finesse, Martial
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding a weapon that deals slashing damage, instead of using deflection to defend against an incoming attack, attack with your weapon adding your armour class as a bonus. If the incoming attack grazes, it is considered a successful hit instead.
+While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If the incoming attack grazes, it is considered a successful hit instead.
 
 ## Heavy Strike
 
@@ -148,7 +160,7 @@ Make an attack with -2 to hit but advantage to damage.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe or hooked object, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (1d12) or better, give the incoming attack double disadvantage instead.
+While wielding an axe or hooked object, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (r12) or better, give the incoming attack double disadvantage instead.
 
 ## Intercept
 
@@ -254,7 +266,7 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 **Resist:** Fortitude
 
-Make an attack with a shield as if it was a weapon that deals 1d8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Taunt
 
