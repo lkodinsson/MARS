@@ -1,6 +1,6 @@
 # Spellcasting
 
-There are several different ways to cast spells, as represented by these skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Each skill represents a different method and motivation for casting spells. When you become trained in one of these skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to learn with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement. The highest difficulty spell you can learn is determined by the dice step you are advancing to.
+There are several different ways to cast spells, as represented by these skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Each skill represents a different method and motivation for casting spells. When you become trained in one of these skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to cast with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement. The highest difficulty spell you can learn is determined by the dice step you are advancing to.
 
 ##### Table: Spell Learning Difficulty Limits
 | Roll Value | Step Name | Highest Difficulty |
@@ -42,10 +42,13 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 ##### Table: List of Spells
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
+| [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
+| [Debilitate](#debilitate) | 2 | 10 | Standard | Enchantment, Transmutation |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
+| [Enhance](#enhance) | 3 | 14 | Standard | Enchantment, Transmutation |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
 | [Grease](#grease) | 2 | 10 | Standard | Conjuration |
 | [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
@@ -66,6 +69,23 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
 | [Water Breathing](#water-breathing) | 2 | 10 | Standard | Enchantment, Transmutation |
 | [Water Jet](#water-jet) | 1 | 7 | Swift | Conjuration |
+
+## Alter Size
+
+**Specializations:** Enchantment  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** 3m  
+**Target:** One creature or object  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+Increase or decrease the size category of a creature or object. You may change size an additional size category by raising mana cost by 1 and difficult by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
+
+For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 mana with a difficulty of 14.
 
 ## Arcane Missiles
 
@@ -119,6 +139,21 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
 
+## Debilitate
+
+**Specializations:** Enchantment, Transmutation  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** 6m  
+**Target:** One creature  
+**Duration:** 6 seconds (until used) or 5 minutes (concentration)  
+**Resist:** Willpower
+
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the mana cost to 1.
+
 ## Detect Thoughts
 
 **Specializations:** Augury  
@@ -136,6 +171,21 @@ Allows you to read the active thoughts of another creature without them knowing 
 
 ***Critical:*** Allows you to read deep thoughts without alerting the target to your presence.  
 ***Graze:*** The target will know you are reading their thoughts.
+
+## Enhance
+
+**Specializations:** Enchantment, Transmutation  
+**Difficulty:** 14 (Challenging)
+
+**Mana Cost:** 3  
+**Action Speed:** Standard
+
+**Range:** 6m  
+**Target:** One creature  
+**Duration:** 6 seconds (until used) or 5 minutes (concentration)  
+**Resist:** Willpower
+
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the mana cost to 2.
 
 ## Feather Fall
 

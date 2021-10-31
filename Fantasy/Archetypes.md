@@ -7,7 +7,7 @@
 | [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | Toughness (+8) | STR or DEX |
 | [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | Deduction, Toughness (+4) | INT |
 | [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | Danger Sense | DEX |
-| [Wizard](#wizard) | Arcana (Any) (r8), Charisma (r4), History or Lore (r6),<br/>Insight (r6), Perception (r4) | Arcane Precision | INT |
+| [Wizard](#wizard) | Arcana (Any) (r8), Charisma (r4), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | Arcane Precision | INT |
 
 ## Bard
 

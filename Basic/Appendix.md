@@ -103,3 +103,51 @@ Below is a table to use as a reference for converting roll values to dice notati
 | r36 | 3d10+1d6 | 4 |
 | r38 | 3d10+1d8 | 4 |
 | r40 | 4d10 | 4 |
+
+## Size Modifiers
+
+This table encompasses all size categories available to living creatures.
+
+##### Table: Carrying Capacity, All Sizes
+| Modifier | Formula |
+|:-|:-|
+| Light Capacity (kg) | Max STR × 4 |
+| Heavy Capacity (kg) | Max STR × 7 |
+| Miniscule | Capacity × ⅒ |
+| Very Tiny | Capacity × ⅛ |
+| Tiny | Capacity × ¼ |
+| Very Small | Capacity × ½ |
+| Small | Capacity × ¾ |
+| Medium | Capacity × 1 |
+| Large | Capacity × 1½ |
+| Very Large | Capacity × 2 |
+| Huge | Capacity × 3 |
+| Very Huge | Capacity × 4 |
+| Gigantic | Capacity × 5 |
+| Very Gigantic | Capacity × 6 |
+| Enormous | Capacity × 7 |
+| Very Enormous | Capacity × 8 |
+| Colossal | Capacity × 9 |
+| Titanic | Capacity × 10 |
+
+##### Table: Size & Size Modifiers, All Sizes
+| Size | Avg. Height | Avg. Weight | Strength | Dexterity |
+|:-|:-:|:-:|:-:|:-:|
+| Miniscule | 1m~¼m | 1mg~½kg | –5 | +3 |
+| Very Tiny | ¼m~½m | ½kg~5kg | –4 | +2 |
+| Tiny | ½~¾m | 5~15kg | –3 | +2 |
+| Very Small | ¾~1m | 15~30kg | –2 | +1 |
+| Small | 1~1½m | 30~60kg | –1 | +1 |
+| Medium | 1½~2m | 40~90kg | – | – |
+| Large | 2~2½m | 60~150kg | +1 | –1 |
+| Very Large | 2½~3m | 90~250kg | +2 | –1 |
+| Huge | 3~4m | 150~500kg | +3 | –2 |
+| Very Huge | 4~6m | 250kg~1.5t | +4 | –2 |
+| Gigantic | 6~9m | 500kg~3t | +5 | –3 |
+| Very Gigantic | 9~12m | 1.5~5t | +6 | –3 |
+| Enormous | 12~15m | 3~10t | +7 | –4 |
+| Very Enormous | 15~18m | 5~15t | +8 | –4 |
+| Colossal | 18~21m | 10~20t | +9 | –5 |
+| Titanic | 21~24m | 15~25t | +10 | –5 |
+
+Anything smaller than Minicsule is considered Microscopic and cannot be seen by the naked eye. They are also small enough that they cannot be directly interacted with without specialized tools.
