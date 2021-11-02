@@ -3,7 +3,7 @@
 ##### Table: Fantasy Races
 | Name | Stat Modifiers | Racial Ability | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
-| [Dwarf](#dwarf) | STR +2, RES +1, INT –1 | Stability | Medium | 6m |
+| [Dwarf](#dwarf) | STR +2, RES +1, DEX –1 | Stability | Medium | 6m |
 | [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
@@ -12,7 +12,7 @@
 
 Dwarves tend to live in isolated communities deep within caves and mountains. Typically they are known for their strength and combat prowess. Although there are not many notable dwarven scholars, they are still known for their unique runic magics and inventive craftsdwarfship.
 
-**Stats** Dwarves get +2 Strength, +1 Resolve, and –1 Intelligence.
+**Stats** Dwarves get +2 Strength, +1 Resolve, and –1 Dexterity.
 
 **Stability** Dwarves get advantage on skill checks to resist any effects that would knock them back, knock them prone, or poison them (such as getting drunk from alcohol). Additionally, they have a carrying capacity as though they were one size larger.
 

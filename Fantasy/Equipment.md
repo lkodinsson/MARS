@@ -122,10 +122,10 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Projectile Weapon Ammunition
 | Name | Price | Weight | Weapon |
 |:-|:-:|:-:|:-|
-| Sling bullets (20) | 1sp | 1kg | Sling |
-| Arrows (20) | 4sp | 1kg | Longbow, Shortbow |
-| Bolts (20) | 4sp | ½kg | Crossbow, Hand Crossbow |
-| Siege bolts (20) | 8sp | 1kg | Siege Crossbow |
+| Sling bullets (20) | 1s | 1kg | Sling |
+| Arrows (20) | 2sp | 1kg | Longbow, Shortbow |
+| Bolts (20) | 2sp | ½kg | Crossbow, Hand Crossbow |
+| Siege bolts (20) | 4sp | 1kg | Siege Crossbow |
 
 ### Weapon Features
 

@@ -42,13 +42,13 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 ##### Table: List of Spells
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
-| [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment |
+| [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
-| [Debilitate](#debilitate) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Debilitate](#debilitate) | 2 | 10 | Standard | Enchantment |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
-| [Enhance](#enhance) | 3 | 14 | Standard | Enchantment, Transmutation |
+| [Enhance](#enhance) | 3 | 14 | Standard | Enchantment |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
 | [Grease](#grease) | 2 | 10 | Standard | Conjuration |
 | [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
@@ -65,6 +65,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Transmutation |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
 | [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury |
+| [Sleep](#sleep) | 3 | 14 | Full | Enchantment, Evocation |
 | [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
 | [Water Breathing](#water-breathing) | 2 | 10 | Standard | Enchantment, Transmutation |
@@ -212,7 +213,7 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 
 **Range:** 10m  
 **Target:** One point  
-**Duration:** 5 minutes
+**Duration:** 5 minutes  
 **Resist:** Acrobatics (vs grease), Fortitude (vs ignition)
 
 Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or they fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area. The grease can be ignited, which also gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
@@ -437,6 +438,25 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 **Duration:** 30 minutes (concentration, range of 100m+)
 
 You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 25m for every 1 your casting roll bypasses the difficulty.
+
+## Sleep
+
+**Specializations:** Enchantment, Evocation  
+**Difficulty:** 14 (Challenging)
+
+**Mana Cost:** 3  
+**Action Speed:** Full
+
+**Range:** 10m  
+**Target:** One or more creatures  
+**Duration:** 30m or 1m (for combatants)  
+**Resist:** Willpower
+
+The targets succumb to a magical sleep. When cast on unsuspecting creatures they enter a deep sleep for duration of 30 minutes (long enough to count as a short rest). It is quite hard to wake creatures under this sleep unless they are attacked or dealt damage.
+
+When cast on creatures in combat the active adrenaline in their body makes the sleep much more temporary, and only lasts for 1 minute. Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Attacking or dealing damage will automatically wake these creatures.
+
+Creatures fall prone when they fall asleep. This spell's mana cost and difficulty increases by 2 for each additional creature you target.
 
 ## Suggestion
 

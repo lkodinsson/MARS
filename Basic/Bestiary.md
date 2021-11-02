@@ -8,19 +8,20 @@ Just a work in progress bestiary for actual beasts.
 | [Bear](#bear) | Very large beast | 4 |
 | [Bird](#bird) | Very tiny beast | ? |
 | [Bird, raptor](#bird-raptor) | Very small beast | ¾ |
-| [Boar](#boar) | Medium beast | ? |
+| [Boar](#boar) | Medium beast | 1⅓ |
 | [Cat](#cat) | Very small beast | ? |
 | [Chicken](#chicken) | very small beast | ? |
 | [Cow](#cow) | Very large beast | ? |
 | [Deer](#deer) | Medium beast | ? |
 | [Dog](#dog) | Small beast | ? |
 | [Dog, hound](#dog-hound) | Medium beast | ? |
-| [Horse](#horse) | Large beast | ? |
+| [Horse, pony](#horse) | Large beast | 1¾ |
 | [Mouse](#mouse) | Very tiny beast | ? |
 | [Ox](#ox) | Huge beast | ? |
 | [Rabbit](#rabbit) | Tiny beast | ? |
 | [Rat](#rat) | Tiny beast | ? |
-| [Snake](#snake) | Very small beast| ? |
+| [Sheep](#sheep) | Small beast | ? |
+| [Snake](#snake) | Very small beast | ? |
 | [Wolf](#wolf) | Medium beast | 1¾ |
 
 ## Bear
@@ -91,6 +92,69 @@ These flying creatures are bigger and faster than you might expect. While their 
 **Claw** 10/r18+1 to hit, 5/r10 piercing damage (crit +2)
 *Swift*
 
+## Boar
+
+Medium beast  
+**CR:** 1⅓
+
+Stout and hairy creatures that are timid and defensive. If tamed they can be quite friendly. If put on the defensive they will fight dearly for their lives with strong tusks.
+
+**Initiative** 10/r18+1  
+**HP** 13, **EP** 18, **SP** 9  
+**DEF** 7/r10+2, **EVA** 7/r8+3, **DR** 4 (2 vs piercing/slashing)  
+**Fort** 12/r22+1, **Will** 9/r18  
+**Speed** 11m
+
+**Natural armour, hide (+1/+4)** Boars have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 4 (weakness vs piercing/slashing)  
+**Natural weapon, tusk** Deals STR+r6 blunt damage (crit +6), has the features: Momentum
+
+**STR** r12+1, **DEX** r8+1, **INT** r8, **RES** r10
+
+**Acrobatics** 6/–, **Athletics** 10/r6  
+**Perception** 8/r4, **Stealth** 6/–
+
+**Unarmed** 8/r6  
+**Maneuvers** Bullrush
+
+**Talents** Toughness (+8)
+
+**Tusk** 8/r14+1 to hit, 10/r18+1 blunt damage (crit +6)  
+*Momentum*
+
+## Horse, pony
+
+Large beast  
+**CR:** 1¾
+
+Strong animals known for their care free majesty and speed. When pushed into a corner they can put up a decent fight. Although ponies aren't as big or tough as regular horses, they are still strong and reliable. 
+
+**Initiative** 11/r22  
+**HP** 16, **EP** 18, **SP** 12  
+**DEF** 6/r10+1, **EVA** 7/r12+1, **DR** 3 (1 vs piercing/slashing)  
+**Fort** 14/r24+2, **Will** 7/r14  
+**Speed** 15m
+
+**Natural runner** Ponies can run for long distances without getting tired, and do not spend stamina to move during combat.  
+**Strong back** Ponies are capable of carrying weight as though they were one size larger.
+**Natural armour, hide (+1/+3)** Ponies have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 3 (weakness vs piercing/slashing)  
+**Natural weapon, bite** Deals STR+r2 piercing damage (crit +2)  
+**Natural weapon, kick** Deals STR+r6 blunt damage (crit +6), has the features: Momentum, Trip
+
+**STR** r14+2, **DEX** r12, **INT** r6, **RES** r10
+
+**Acrobatics** 9/r6, **Athletics** 14/r10  
+**Perception** 6/–, **Stealth** 6/–
+
+**Unarmed** 10/r8  
+**Maneuvers** Bullrush, Knock Down
+
+**Talents** Toughness (+8)
+
+**Bite** 10/r20 to hit, 10/r16+2 blunt damage (crit +2)  
+
+**Kick** 10/r20 to hit, 12/r20+2 blunt damage (crit +6)  
+*Momentum, Trip*
+
 ## Wolf
 
 Medium beast  
@@ -105,8 +169,8 @@ These creatures are truly pack animals at heart. While it is not rare to find th
 **Speed** 13m
 
 **Low-light vision** Wolves can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
-**Natural armour, hide (+1/+2)** Wolves have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 3 (weakness vs piercing/slashing)  
-**Natural weapon, bite** Deals STR+r2 piercing damage (crit +6), has the features: Bypass 1, Momentum, Swift  
+**Natural armour, hide (+1/+3)** Wolves have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 3 (weakness vs piercing/slashing)  
+**Natural weapon, bite** Deals STR+r4 piercing damage (crit +6), has the features: Bypass 1, Momentum, Swift  
 **Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the feature: Swift
 
 **STR** r12+1, **DEX** r12+1, **INT** r6, **RES** r10
@@ -119,8 +183,8 @@ These creatures are truly pack animals at heart. While it is not rare to find th
 
 **Talents** Toughness (+8)
 
-**Bite** 11/r20+1 to hit, 8/r14+1 piercing damage (crit +6)  
+**Bite** 11/r20+1 to hit, 9/r16+1 piercing damage (crit +6)  
 *Bypass 1, Momentum, Swift*
 
-**Claw** 11/r20+1 to hit, ?/r14+1 slashing damage (crit +2)  
+**Claw** 11/r20+1 to hit, 8/r14+1 slashing damage (crit +2)  
 *Swift*
