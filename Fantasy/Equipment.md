@@ -72,7 +72,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Finesse Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Dagger | 2sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
+| Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
 | Dueling Sword | 5sp | STR+r6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry r6, Swift |
 | Parrying Dagger | 5sp | STR+r4 Piercing | +6 | Finesse | ½kg | Parry r8, Swift |
 
