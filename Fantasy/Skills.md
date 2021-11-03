@@ -191,7 +191,7 @@ Base item cost + magic cost = total cost
 
 All things have some form of spirit, and ki is a manifestation of spirit in the form of an aura. Control over ki is control over one's one auras. Typically this form of magic is performed by those who meditate on the deeper parts of themselves. Those who can control their auras are known as sōhei​ or monks.
 
-Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
+Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from. Each specialization cast spells using a different primary stat.
 
 Monks of varying specializations can control the energies that govern their bodies. As you advance your ki skill, at specific ranks you gain the ability to convert your resources to another resource as a free action. These ranks are trained (r4), practiced (r8), and exceptional (r12). Each specialization has its own resource conversion ability.
 
@@ -202,9 +202,9 @@ Control of the body, mastery of strength. Genki is the spirit of flesh and might
 ##### Table: Genki Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r4 | Trained | 4 ED into 1 SP |
-| r8 | Practiced | 3 ED into 1 SP |
-| r12 | Exceptional | 2 ED into 1 SP |
+| r4 | Trained | 4 Endurance into 1 Stamina |
+| r8 | Practiced | 3 Endurance into 1 Stamina |
+| r12 | Exceptional | 2 Endurance into 1 Stamina |
 
 ### Kiai "Projection" (DEX)
 
@@ -213,9 +213,9 @@ Kiai the spirit of your movement and the air you breathe, the air that feeds you
 ##### Table: Kiai Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r4 | Trained | 4 MP into 1 SP |
-| r8 | Practiced | 3 MP into 1 SP |
-| r12 | Exceptional | 2 MP into 1 SP |
+| r4 | Trained | 4 Mana into 1 Stamina |
+| r8 | Practiced | 3 Mana into 1 Stamina |
+| r12 | Exceptional | 2 Mana into 1 Stamina |
 
 ### Shouki "Mind" (INT)
 
@@ -224,9 +224,9 @@ Mastery of mind allows you to rely on the power of your thoughts and consciousne
 ##### Table: Shouki Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r4 | Trained | 4 SP into 1 MP |
-| r8 | Practiced | 3 SP into 1 MP |
-| r12 | Exceptional | 2 SP into 1 MP |
+| r4 | Trained | 4 Stamina into 1 Mana |
+| r8 | Practiced | 3 Stamina into 1 Mana |
+| r12 | Exceptional | 2 Stamina into 1 Mana |
 
 ### Yuuki "Courage" (RES)
 
@@ -235,9 +235,9 @@ This is the spirit that holds your body and mind together to act as a single for
 ##### Table: Yuuki Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r4 | Trained | 1 MP into 2 ED |
-| r8 | Practiced | 1 MP into 3 ED |
-| r12 | Exceptional | 1 MP into 4 ED |
+| r4 | Trained | 1 Mana into 2 Endurance |
+| r8 | Practiced | 1 Mana into 3 Endurance |
+| r12 | Exceptional | 1 Mana into 4 Endurance |
 
 ## Power (RES)
 
@@ -257,30 +257,30 @@ Sorcerers have it a bit easier than others when it comes to casting spells. As y
 
 Whenever you pick a spell that is usable by multiple elements, it may limit your choices in exactly how that spell is cast. For example, if that spell has multiple magic type choices you may only pick the magic type that corresponds to the specialization that spell was learned from. Other restrictions may be listed as a part of the specialization requirement of that spell.
 
-## Air
+### Air
 
 Power over air allows you to control the wind itself. Lifting and moving objects become as easy to you as the wind can carry a leaf or feather. Sound and eletricity are also associated with air.
 
-## Earth
+### Earth
 
 Force and stability are the earth's primary strengths. The element of earth is a true testament to force of will. Additionally, this covers the domain of plants.
 
-## Fire
+### Fire
 
 If you try hard enough just about anything can be burned. Strong emotions like anger and love are also aspects of fire.
 
-## Water
+### Water
 
 Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water.
 
-## Light
+### Light
 
 While illumination is quite literal, and truth is quite philosophical, they are very similar in nature. Light is about revealing what is hidden.
 
-## Dark
+### Dark
 
 As a counter to light, darkness is about concealment. Darkness is not simply evil, as some truths are painful to bear.
 
-## Arcane
+### Arcane
 
 The power of arcane represents the space between space. Many things that one might describe as blatantly magical are more accurately arcane. Arcane is a powerful force that seems to defy the normal rules that might apply to the other elements.
