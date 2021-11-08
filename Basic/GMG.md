@@ -67,9 +67,9 @@ This stat is represented by a single number. This number is a comparative value 
 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
-Health pool and damage rating: (Maximum health + maximum endurance) ? 20  
-Offense rating: (Highest combat or spellcasting skill rating) ? 10  
-Defense rating: (Highest of deflection rating or evasion rating + damage reduction) ? 10
+Health pool and damage rating: (Maximum health + maximum endurance) ÷ 20  
+Offense rating: (Highest combat or spellcasting skill rating) ÷ 10  
+Defense rating: (Highest of deflection rating or evasion rating + damage reduction) ÷ 10
 
 A challenge rating of 1 is found by assuming all stats are average (r10), a proficiency in a combat skill (r10), any basic weapon, and wearing a piece of armour with a combined armour class and damage reduction of 5.
 
@@ -77,7 +77,7 @@ Challenging combat encounters have equivalent combat ratings on both sides. Some
 
 ### Creature Rarity
 
-Creatures come in three rarities: *common*, *elite*, and *unique*. By default the listed statistics for a creature represent their stats as if they were an elite. A creature's resource stats (health, endurance, stamina, and mana) should be modified depending on their rarity. Common creatures will have half the listed value of their resources stats (rounded down), and since they aren't particularly notable they should use their special abilities sparingly if at all. Unique creatures, however, will have double the listed value of their resource stats. The challenge rating of any given creature is also modified the same way.
+Creatures come in three rarities: *common*, *elite*, and *legendary*. By default the listed statistics for a creature represent their stats as if they were an elite. A creature's resource stats (health, endurance, stamina, and mana) should be modified depending on their rarity. Common creatures will have half the listed value of their resources stats (rounded down), and since they aren't particularly notable they should use their special abilities sparingly if at all. Legendary creatures, however, will have double the listed value of their resource stats. The challenge rating that creature is also modified the same way.
 
 # Creating Creatures
 

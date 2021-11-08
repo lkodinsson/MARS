@@ -21,7 +21,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 
 **Initiative** 12/r22+1  
 **HP** 11, **EP** 18, **SP** 13  
-**DEF** 7/r10+2, **EVA** 8/r12+2, **DR** 3  
+**DEF** 7/r10+2, **EVA** 8/r12+2, **DR** 2  
 **Fort** 11/r20+1, **Will** 12/r22+1  
 **Speed** 7m
 
@@ -60,7 +60,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 **Initiative** 10/r16+2  
 **HP** 7, **EP** 9, **SP** 10  
-**DEF** 6/r8+2, **EVA** 7/r8+3, **DR** 3 (1 vs blunt)  
+**DEF** 6/r8+2, **EVA** 7/r8+3, **DR** 2 (1 vs blunt)  
 **Fort** 8/r16, **Will** 9/r16+1  
 **Speed** 7m
 
@@ -95,7 +95,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 **Initiative** 13/r24+1  
 **HP** 13, **EP** 20, **SP** 13  
-**DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 5 (2 vs piercing) (9 while blocking)  
+**DEF** 12/r12+6, **EVA** 13/r12+7, **DR** 4 (2 vs piercing) (8 while blocking)  
 **Fort** 12/r22+1, **Will** 10/r20  
 **Speed** 7m
 
@@ -133,7 +133,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 
 **Initiative** 12/r20+2  
 **HP** 7, **EP** 10, **SP** 12  
-**DEF** 6/r10+1, **EVA** 8/r10+3, **DR** 4 (2 vs blunt)  
+**DEF** 6/r10+1, **EVA** 8/r10+3, **DR** 3 (1 vs blunt)  
 **Fort** 8/r18-1, **Will** 10/r18+1  
 **Speed** 7m
 
@@ -168,7 +168,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 **Initiative** 13/r28-1  
 **HP** 18, **EP** 36, **SP** 13  
-**DEF** 15/r14+8, **EVA** 14/r14+7, **DR** 6  
+**DEF** 15/r14+8, **EVA** 14/r14+7, **DR** 5  
 **Fort** 17/r30+2, **Will** 16/r30+1  
 **Speed** 7m
 
@@ -207,7 +207,7 @@ Your average every day peasant. They come in all shapes, sizes, and race. Some s
 
 **Initiative** 10/r18+1  
 **HP** 11, **EP** 11, **SP** 10  
-**DEF** 6/r10+1, **EVA** 5/r10, **DR** 3  
+**DEF** 6/r10+1, **EVA** 5/r10, **DR** 2  
 **Fort** 12/r20+2, **Will** 10/r18+1  
 **Speed** 7m
 
@@ -238,7 +238,7 @@ Pale bones from a humanoid creature enchanted to wander and attack those who dis
 
 **Initiative** 11/r20+1  
 **HP** 13, **EP** 21, **SP** 10  
-**DEF** 7/r10+2, **EVA** 6/r10+1, **DR** 4 (2 vs blunt)  
+**DEF** 7/r10+2, **EVA** 6/r10+1, **DR** 3 (1 vs blunt)  
 **Fort** 13/r22+2, **Will** 9/r16+1  
 **Speed** 7m
 
@@ -292,7 +292,7 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 
 **Initiative** 8/r14+1  
 **HP** 12, **EP** 15, **SP** 8  
-**DEF** 5/r8+1, **EVA** 4/r8, **DR** 3  
+**DEF** 5/r8+1, **EVA** 4/r8, **DR** 2  
 **Fort** 12/r20+2, **Will** 8/r14+1  
 **Speed** 6m
 

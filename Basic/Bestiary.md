@@ -101,11 +101,11 @@ Stout and hairy creatures that are timid and defensive. If tamed they can be qui
 
 **Initiative** 10/r18+1  
 **HP** 13, **EP** 18, **SP** 9  
-**DEF** 7/r10+2, **EVA** 7/r8+3, **DR** 4 (2 vs piercing/slashing)  
+**DEF** 7/r10+2, **EVA** 7/r8+3, **DR** 3 (1 vs piercing/slashing)  
 **Fort** 12/r22+1, **Will** 9/r18  
 **Speed** 11m
 
-**Natural armour, hide (+1/+4)** Boars have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 4 (weakness vs piercing/slashing)  
+**Natural armour, hide (+1/+3)** Boars have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 4 (weakness vs piercing/slashing)  
 **Natural weapon, tusk** Deals STR+r6 blunt damage (crit +6), has the features: Momentum
 
 **STR** r12+1, **DEX** r8+1, **INT** r8, **RES** r10
@@ -164,12 +164,12 @@ These creatures are truly pack animals at heart. While it is not rare to find th
 
 **Initiative** 12/r22+1  
 **HP** 13, **EP** 18, **SP** 15  
-**DEF** 6/r10+1, **EVA** 8/r12+2, **DR** 3 (1 vs piercing/slashing)  
+**DEF** 6/r10+1, **EVA** 8/r12+2, **DR** 2 (1 vs piercing/slashing)  
 **Fort** 12/r22+1, **Will** 8/r16  
 **Speed** 13m
 
 **Low-light vision** Wolves can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
-**Natural armour, hide (+1/+3)** Wolves have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 3 (weakness vs piercing/slashing)  
+**Natural armour, hide (+1/+2)** Wolves have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 2 (weakness vs piercing/slashing)  
 **Natural weapon, bite** Deals STR+r4 piercing damage (crit +6), has the features: Bypass 1, Momentum, Swift  
 **Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the feature: Swift
 

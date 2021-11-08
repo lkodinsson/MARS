@@ -157,7 +157,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Thrown** Attacks can be made as if they were ranged, but they then must be retrieved after use.
 
-**Trip** Attacks can be made with –2 to hit to attempt to trip the target. Successful trip attempts deal half damage and cause the target to drop prone.
+**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with –2 to hit, and deals half damage. If successful, the target can use acrobatics to resist being tripped or drop prone.
 
 **Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get –1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand.
 
@@ -175,16 +175,16 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Body Armours
 | Name | Price | AC | DR | STR Req | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
-| Doublet | 5sp | 1 | 3 | 4 | Body | Cloth | 4kg | - |
-| Jerkin | 10sp | 2 | 4 | 6 | Body | Leather | 6kg | Weakness vs Blunt |
-| Gambeson | 10sp | 2 | 3 | 8 | Body | Cloth | 8kg | - |
-| Lamellar | 20sp | 2 | 4 | 10 | Body | Leather | 10kg | - |
-| Scalemail | 30sp | 3 | 4 | 12 | Body | Metal | 12kg | Noisy |
-| Chainmail | 30sp | 3 | 5 | 12 | Body | Metal | 12kg | Noisy, Weakness vs Piercing |
-| Brigandine | 40sp | 3 | 5 | 14 | Body | Metal | 14kg | - |
-| Breastplate | 40sp | 3 | 6 | 12 | Body | Metal | 12kg | Open Back |
-| Cuirass | 50sp | 3 | 6 | 14 | Body | Metal | 14kg | - |
-| Platemail | 60sp | 4 | 6 | 16 | Body | Metal | 16kg | Noisy |
+| Doublet | 5sp | 1 | 2 | 4 | Body | Cloth | 4kg | - |
+| Jerkin | 10sp | 2 | 3 | 6 | Body | Leather | 6kg | Weakness vs Blunt |
+| Gambeson | 10sp | 2 | 2 | 8 | Body | Cloth | 8kg | - |
+| Lamellar | 20sp | 2 | 3 | 10 | Body | Leather | 10kg | - |
+| Scalemail | 30sp | 3 | 3 | 12 | Body | Metal | 12kg | Noisy |
+| Chainmail | 30sp | 3 | 4 | 12 | Body | Metal | 12kg | Noisy, Weakness vs Piercing |
+| Brigandine | 40sp | 3 | 4 | 14 | Body | Metal | 14kg | - |
+| Breastplate | 40sp | 3 | 5 | 12 | Body | Metal | 12kg | Open Back |
+| Cuirass | 50sp | 3 | 5 | 14 | Body | Metal | 14kg | - |
+| Platemail | 60sp | 4 | 5 | 16 | Body | Metal | 16kg | Noisy |
 
 ##### Table: Additional Armours
 | Name | Price | AC | DR | Armour<br/>Slot | Material<br/>Type | Weight | Features |

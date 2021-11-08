@@ -275,11 +275,15 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 
 Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
 
-Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can be used at will with the following restriction: during combat you cannot use the same maneuver on the same or following round. Additionally, any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
+Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
 
 For example: You advanced your Martial skill and learned Heavy Strike. Since you are also trained in Unarmed, you can also use Heavy Strike with the Unarmed skill.
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+
+Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attacks specified in that maneuver with a –2 penalty, and it costs twice as much stamina. If that maneuver is a swift action, it becomes a standard action instead.
+
+For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
 
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
 
@@ -388,7 +392,7 @@ During an encounter with more concrete turn length (such as a tactical combat), 
 
 Since a turn is six seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
 
-Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a Reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
+Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
 
 Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be interrupted at any point in their duration, so long as it is your turn.
 
@@ -474,7 +478,7 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero or less health, that character is given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. If nonlethal attacks bring a character to negative ten or less health, then they get the dying condition.
+When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero or less health, that character is given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. If nonlethal attacks bring a character to negative health equal to their maximum health, then they get the dying condition.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
@@ -534,9 +538,9 @@ At some point during an adventure you may find yourself low on your resources (h
 | Resource | Short Rest | Moderate Rest | Long Rest |
 |:-|:-:|:-:|:-:|
 | Health | None | None | 1 |
-| Endurance | r4 | Half | All |
-| Stamina | r4 | Roll STR or DEX, disadvantage | Roll STR or DEX |
-| Mana | r4 | Roll INT or RES, disadvantage | Roll INT or RES |
+| Endurance | Quarter, round up | Half, round up | All |
+| Stamina | Roll STR or DEX,<br/>quartered, round up | Roll STR or DEX,<br/>halved, round up | Roll STR or DEX |
+| Mana | Roll INT or RES,<br/>quartered, round up | Roll INT or RES,<br/>halved, round up | Roll INT or RES |
 
 ### Short Rest
 

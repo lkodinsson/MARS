@@ -22,12 +22,14 @@
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | Finesse, Martial, Unarmed |
 | [Penetrating Strike](#penetrating-strike) | 2 | Standard | Finesse, Ranged |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Ranged |
-| [Pommel Strike](#pommel-strike) | 2 | Standard | Finesse, Martial |
 | [Precise Strike](#precise-strike) | 3 | Standard | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Shield Bash](#shield-bash) | 1 | Standard | Martial, Unarmed |
+| [Stunning Strike](#stunning-strike) | 2 | Standard | Finesse, Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
+| [Trip](#trip) | 1 | Standard | Finesse, Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 2 | Full | Ranged |
+| [Wild Strike](#wild-strike) | 1 | Standard | Martial, Unarmed |
 
 ## Advancing Strike
 
@@ -47,7 +49,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 
 **Duration:** 1 Round
 
-Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
+Make an attack with –2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
 
 ## Battle Cry
 
@@ -101,7 +103,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Resist:** Athletics
 
-Make a combat check against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
+Make a combat check with a –1 penalty against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
 
 ## Double Shot
 
@@ -151,7 +153,7 @@ While wielding a weapon that can deal slashing damage, instead of using deflecti
 **Stamina Cost:** 3  
 **Action Speed:** Standard
 
-Make an attack with -2 to hit but advantage to damage.
+Make an attack with –2 to hit but advantage to damage.
 
 ## Hook Parry
 
@@ -194,6 +196,15 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 Make an attack. If successful, the target becomes prone.
 
+## Leap Strike
+
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+Make an acrobatics check if leaping over an obstacle (1m between you and target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit.
+
 ## Opportunity Strike
 
 **Specializations:** Finesse, Martial, Unarmed
@@ -201,7 +212,10 @@ Make an attack. If successful, the target becomes prone.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Make a melee attack with +2 to hit against a target moving outside of your attack range. This maneuver can only be used if the target would move a distance greater than 1m, but not if that movement is from an evade action.
+**Duration:** 1 Turn  
+**Resist:** Fortitude
+
+Make a melee attack with +2 to hit against a target moving outside of your attack range. This maneuver can only be used if the target would move a distance greater than 1m, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
 
 ## Penetrating Strike
 
@@ -210,7 +224,7 @@ Make a melee attack with +2 to hit against a target moving outside of your attac
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack. The target gets -2 to armour class.
+Make an attack. The target gets –2 to armour class.
 
 ## Pinning Shot
 
@@ -224,18 +238,6 @@ Make an attack. The target gets -2 to armour class.
 
 Make an attack. If successful, the target can't move on their next turn.
 
-## Pommel Strike
-
-**Specializations:** Finesse, Martial
-
-**Stamina Cost:** 2  
-**Action Speed:** Standard
-
-**Duration:** 1 Turn  
-**Resist:** Fortitude
-
-Make a melee attack with a weapon that deals slashing damage, but dealing blunt damage instead. If successful, the target becomes stunned.
-
 ## Precise Strike
 
 **Specializations:** Finesse, Ranged, Unarmed
@@ -243,7 +245,7 @@ Make a melee attack with a weapon that deals slashing damage, but dealing blunt 
 **Stamina Cost:** 3  
 **Action Speed:** Standard
 
-Make an attack with -2 to damage but advantage to hit.
+Make an attack with –2 to damage but advantage to hit.
 
 ## Provoke
 
@@ -268,6 +270,18 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 Make an attack with a shield as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
+## Stunning Strike
+
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+**Duration:** 1 Turn  
+**Resist:** Fortitude
+
+Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit. This attack always deals blunt damage. If successful, the target becomes stunned.
+
 ## Taunt
 
 **Specializations:** Finesse, Martial, Ranged, Unarmed
@@ -280,6 +294,17 @@ Make an attack with a shield as if it was a weapon that deals r8 blunt damage an
 
 Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your combat skill is exceptional (r12) or better, give the target double disadvantage instead.
 
+## Trip
+
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Standard
+
+**Resist:** Acrobatics
+
+Make an attack with –2 to hit and only dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it is considered to be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the –2 to hit.
+
 ## Triple Shot
 
 **Specializations:** Ranged
@@ -287,4 +312,15 @@ Make a charisma check against a target within 20m. If successful, the target get
 **Stamina Cost:** 2  
 **Action Speed:** Full
 
-Make a single ranged attack with -2 to hit against three targets.
+Make a single ranged attack with –2 to hit against three targets.
+
+## Wild Strike
+
+**Specializations:** Martial, Unarmed
+
+**Stamina Cost:** 1
+**Action Speed:** Standard
+
+**Duration:** 1 Round
+
+Make a single attack with +1 to hit and damage, but you get –2 to your armour class until your next turn.

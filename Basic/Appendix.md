@@ -11,7 +11,7 @@ The following tables are example tasks at various difficulties for some of the b
 | Falling 3m safely | 7 (Moderate) |
 | Walking across a beam | 7 (Moderate) |
 | Falling 5m safely | 10 (Hard) |
-| Falling 6m safely | 14 (Challenging) |
+| Falling 7m safely | 14 (Challenging) |
 | Squeezing through a tight space<br/>as a Large sized character | 14 (Challenging) |
 | Walking a tightrope | 14 (Challenging) |
 
@@ -22,9 +22,10 @@ The following tables are example tasks at various difficulties for some of the b
 | Climbing with a rope | 5 (Easy) |
 | Jumping a 3m gap | 7 (Moderate) |
 | Swimming a long distance | 7 (Moderate) |
-| Breaking a sturdy lock | 10 (Hard) |
+| Breaking a normal lock | 10 (Hard) |
 | Jumping a 5m gap | 10 (Hard) |
 | Swimming across an active river | 10 (Hard) |
+| Breaking a sturdy lock | 14 (Challenging) |
 | Climbing a ledge without a rope | 14 (Challenging) |
 | Jumping a 6m gap | 14 (Challenging) |
 | Pushing a small boulder over | 14 (Challenging) |
