@@ -47,7 +47,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Goods & Services
 | Name | Price | Weight |
 |:-|:-:|:-|
-| Drink, mug of ale | 2cp | ½kg |
+| Drink, mug of ale | 1cp | ½kg |
 | Drink, keg of ale (120 mugs) | 24sp | 60kg |
 | Drink, cup of coffee | 2cp | ¼kg |
 | Drink, pot of coffee (10 cups) | 2sp | 2½kg |

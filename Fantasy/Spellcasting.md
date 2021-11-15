@@ -6,9 +6,9 @@ There are several different ways to cast spells, as represented by these skills:
 | Roll Value | Step Name | Highest Difficulty |
 |:-:|:-|:-|
 | r4 | Trained | 7 (Moderate) |
-| r6 | Adept | 7 (Moderate) |
+| r6 | Adept | 10 (Hard) |
 | r8 | Practiced | 10 (Hard) |
-| r10 | Proficient | 10 (Hard) |
+| r10 | Proficient | 14 (Challenging) |
 | r12 | Exceptional | 14 (Challenging) |
 | r14 | Disciplined | 14 (Challenging) |
 | r16 | Accomplished | 19 (Ambitious) |

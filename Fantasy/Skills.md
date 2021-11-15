@@ -279,7 +279,7 @@ While illumination is quite literal, and truth is quite philosophical, they are 
 
 ### Dark
 
-As a counter to light, darkness is about concealment. Darkness is not simply evil, as some truths are painful to bear.
+As a counter to light, darkness is about concealment. Darkness is not simply evil. Some truths are painful to bear, and darkness would rather hide those truths.
 
 ### Arcane
 
