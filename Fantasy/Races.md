@@ -7,6 +7,7 @@
 | [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
+| [Lupin](#lupin) | STR +1, DEX +1,<br/>and size modifiers | Vigilance | Medium or Large | 7m |
 | [Vulpe](#vulpe) | DEX +1, INT +1,<br/>and size modifiers | Nimble | Small or Medium | 8m |
 
 ## Dwarf
@@ -55,7 +56,7 @@ Halfling are a lot like any other folk, but they mostly keep to their own commun
 
 Humans are known for being good at generally anything, but aren't well known for standing out as individuals. They prefer to work in a well-oiled society together. The only humans that are known for their individualism are those that rule, or those that act outside most societies living as hermits or heroes. Humanity is best described by its versatility and diversity. While they are community driven creatures, humans are often at the forefront of exploration and exploitation.
 
-**Stats** Humans get a +1 bonus to each of any two different primary stats.
+**Stats** Humans get a +1 bonus to each of any two different primary stats, plus any size modifiers.
 
 **Adaptability** Humans get a +1 to any skill not provided by their background.
 
@@ -69,12 +70,26 @@ Humans are known for being good at generally anything, but aren't well known for
 
 Vulpes are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations especially keeping a distance from other races. 
 
-**Stats** Vulpes get +1 Dexterity and +1 Intelligence.
+**Stats** Vulpes get +1 Dexterity and +1 Intelligence, plus any size modifiers.
 
-**Nimble** The graceful Vulpes are naturally adept in feats of agility. They receive +1 to Acrobatics or Athletics rolls when leaping, running, climbing, or rolling.
+**Nimble** Vulpes are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to Acrobatics or Athletics rolls when leaping, running, climbing, or rolling.
 
 **Size** Vulpes can be be small or medium sized, but are typically medium sized.
 
 **Speed** Vulpes have a movement speed of 8m.
 
 **Languages** Vulpes start with the common and vulpish languages.
+
+## Lupin
+
+Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit family groups with some young adults choosing to leave after coming of age. They have keen senses and a close connection with nature, feeling most comfortable with soil beneath their paws. The powerful lupins never shy away from combat, which their culture views as a deeply spiritual endeavour.
+
+**Stats** Lupins get +1 Strength and +1 Dexterity, plus any size modifiers.
+
+**Vigilance** Lupins have very sharp senses. They can see in both daylight and poorly lit areas, and they receive +1 to all Perception checks to sense other creatures.
+
+**Size** Lupins can be be medium or large sized, but are typically large sized.
+
+**Speed** Lupins have a movement speed of 7m.
+
+**Languages** Lupins start with the common and lupine languages.
