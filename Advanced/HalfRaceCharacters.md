@@ -8,5 +8,5 @@ In a way this is like creating a custom race using two existing races as a templ
 * Pick two stats to get +1, but you can't pick a stat that one of the chosen races has a –1 in, unless the other race has a +2 to the same stat
 * Pick a racial ability from one of those races
 * Pick a size from one of those races (add size adjustment to stats, if necessary)
-* Take the greatest movement speed of those two races
+* Take the average movement speed of those two races (rounded up)
 * Start with the common language, and an additional language that is available to one of the two races chosen
