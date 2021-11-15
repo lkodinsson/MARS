@@ -8,6 +8,7 @@
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
 | [Vulpe](#vulpe) | DEX +1, INT +1,<br/>and size modifiers | Nimble | Small or Medium | 8m |
+| [Lupin](#lupin) | STR +2, RES +1, DEX -1 | Vigilance | Large | 7m |
 
 ## Dwarf
 
@@ -78,3 +79,17 @@ Vulpes are agile, intelligent creatures resembling humanoid foxes. They tend to 
 **Speed** Vulpes have a movement speed of 8m.
 
 **Languages** Vulpes start with the common and vulpish languages.
+
+## Lupin
+
+Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit family groups with some young adults choosing to leave after coming of age. They have keen senses and a close connection with nature, feeling most comfortable with soil beneath their paws. The powerful lupins never shy away from combat, which their culture views as a deeply spiritual endeavour.
+
+**Stats** Lupins get +1 Strength and +1 Resolve.
+
+**Vigilance** Lupins have very sharp senses and receive +1 to all Perception checks.
+
+**Size** Lupins are large sized creatures.
+
+**Speed** Lupins have a movement speed of 7m.
+
+**Languages** Lupins start with the common and lupine languages.
