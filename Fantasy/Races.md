@@ -7,6 +7,7 @@
 | [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
+| [Vulpe](#vulpe) | DEX +1, INT +1,<br/>and size modifiers | Nimble | Small or Medium | 8m |
 
 ## Dwarf
 
@@ -63,3 +64,17 @@ Humans are known for being good at generally anything, but aren't well known for
 **Speed** Humans have a movement speed of 7m.
 
 **Languages** Humans start with common and one additional language of their choice.
+
+## Vulpe
+
+Vulpes are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations especially keeping a distance from other races. 
+
+**Stats** Vulpes get +1 Dexterity and +1 Intelligence.
+
+**Nimble** The graceful Vulpes are naturally adept in feats of agility. They receive +1 to Acrobatics or Athletics rolls when leaping, running, climbing, or rolling.
+
+**Size** Vulpes can be be small or medium sized, but are typically medium sized.
+
+**Speed** Vulpes have a movement speed of 8m.
+
+**Languages** Vulpes start with the common and vulpish languages.
