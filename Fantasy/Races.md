@@ -83,7 +83,7 @@ Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit 
 
 ## Mycelian
 
-Mycelians are large, mobile fungus folk roughly in the shape of humanoids. They do not have mouths, rendering them entirely incapable of verbal communication. Within their race, mycelians communicate telepathically with one another, and some individuals also learn sign language to more easily converse with other races.
+Mycelians are large, mobile fungus folk roughly in the shape of humanoids. The bodies of individual mycelians can vary wildly but always follow a basic layout of two arms and two legs. They do not have mouths, rendering them entirely incapable of verbal communication. Within their race, mycelians communicate telepathically with one another, and some individuals also learn sign language to more easily converse with other races.
 
 **Stats** Mycelians get +1 Intelligence and +1 Resolve, plus any size modifiers.
 
