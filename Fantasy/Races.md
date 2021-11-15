@@ -8,6 +8,7 @@
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
 | [Lupin](#lupin) | STR +1, DEX +1,<br/>and size modifiers | Vigilance | Medium or Large | 7m |
+| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Variable | 6m |
 | [Vulpe](#vulpe) | DEX +1, INT +1,<br/>and size modifiers | Nimble | Small or Medium | 8m |
 
 ## Dwarf
@@ -79,6 +80,20 @@ Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit 
 **Speed** Lupins have a movement speed of 7m.
 
 **Languages** Lupins start with the common and lupine languages.
+
+## Mycelian
+
+Mycelians are large, mobile fungus folk roughly in the shape of humanoids. They do not have mouths, rendering them entirely incapable of verbal communication. Within their race, mycelians communicate telepathically with one another, and some individuals also learn sign language to more easily converse with other races.
+
+**Stats** Mycelians get +1 Intelligence and +1 Resolve, plus any size modifiers.
+
+**Fungal Body** Mycelians cannot speak normally, but can speak telepathically to any living thing they are directly touching, as long as the recipient is willing. The sporecap on their head prevents them from wearing any kind of headgear, but can emit spores to identify the position of nearby creatures regardless of lighting conditions. Additionally, mycelians can see in both daylight and poorly lit areas.
+
+**Size** Mycelians can be small, medium, or large sized, but are typically medium sized.
+
+**Speed** Mycelians have a movement speed of 6m.
+
+**Languages** Mycelians start with common and one additional language of their choice.
 
 ## Vulpe
 
