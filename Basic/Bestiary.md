@@ -37,7 +37,7 @@ They are twice as large as the average humanoid. Since they are very strong, fas
 **Fort** 19/r30+4, **Will** 13/r24+1  
 **Speed** 12m
 
-**Low-light vision** Bears can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
+**Low-light vision** Bears can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.  
 **Natural armour, hide (+2/+4)** Bears have a tough hide that acts like armour, providing them with an AC of 2 and a DR of 4 (weakness vs piercing/slashing)  
 **Natural weapon, bite** Deals STR+r4 piercing damage (crit +6), has the features: Bypass 2, Momentum, Swift  
 **Natural weapon, claw** Deals STR+r6 slashing damage (crit +4), has the features: Bypass 2, Cleave, Swift
@@ -72,7 +72,7 @@ These flying creatures are bigger and faster than you might expect. While their 
 **Speed** 2m (60m while flying)
 
 **Flight (60m)** Ratpors can fly at a speed of 60m.  
-**Defensive reflexes (+2)** Raptors have exception reflexes, providing them with an AC of 2.
+**Defensive reflexes (+2)** Raptors have exception reflexes, providing them with an AC of 2.  
 **Natural weapon, bite** Deals STR piercing damage (crit +8), has the features: Bypass 2, Swift  
 **Natural weapon, claw** Deals STR+r2 piercing damage (crit +2), has the feature: Swift
 
@@ -135,7 +135,7 @@ Strong animals known for their care free majesty and speed. When pushed into a c
 **Speed** 15m
 
 **Natural runner** Ponies can run for long distances without getting tired, and do not spend stamina to move during combat.  
-**Strong back** Ponies are capable of carrying weight as though they were one size larger.
+**Strong back** Ponies are capable of carrying weight as though they were one size larger.  
 **Natural armour, hide (+1/+3)** Ponies have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 3 (weakness vs piercing/slashing)  
 **Natural weapon, bite** Deals STR+r2 piercing damage (crit +2)  
 **Natural weapon, kick** Deals STR+r6 blunt damage (crit +6), has the features: Momentum, Trip
@@ -168,7 +168,7 @@ These creatures are truly pack animals at heart. While it is not rare to find th
 **Fort** 12/r22+1, **Will** 8/r16  
 **Speed** 13m
 
-**Low-light vision** Wolves can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.
+**Low-light vision** Wolves can see in both daylight and poorly lit areas. While in the dark, they are sensitive to bright lights.  
 **Natural armour, hide (+1/+2)** Wolves have a rough hide that acts like armour, providing them with an AC of 1 and a DR of 2 (weakness vs piercing/slashing)  
 **Natural weapon, bite** Deals STR+r4 piercing damage (crit +6), has the features: Bypass 1, Momentum, Swift  
 **Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the feature: Swift
