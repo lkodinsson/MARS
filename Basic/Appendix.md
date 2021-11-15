@@ -134,7 +134,7 @@ This table encompasses all size categories available to living creatures.
 ##### Table: Size & Size Modifiers, All Sizes
 | Size | Avg. Height | Avg. Weight | Strength | Dexterity |
 |:-|:-:|:-:|:-:|:-:|
-| Miniscule | 1m~¼m | 1mg~½kg | –5 | +3 |
+| Miniscule | ¼m or less | 1mg~½kg | –5 | +3 |
 | Very Tiny | ¼m~½m | ½kg~5kg | –4 | +2 |
 | Tiny | ½~¾m | 5~15kg | –3 | +2 |
 | Very Small | ¾~1m | 15~30kg | –2 | +1 |
