@@ -3,14 +3,14 @@
 ##### Table: Fantasy Skills
 | Name | Primary Stat |
 |:-|:-:|
-| [Animism](#animism-int) | Intelligence |
+| [Animism](#animism-res) | Resolve |
 | [Arcana](#arcana-int) | Intelligence |
 | [Craft](#craft-int) | Intelligence |
 | [Faith](#faith-res) | Resolve |
 | [Ki](#ki) | Varies |
 | [Power](#power-res) | Resolve |
 
-## Animism (INT)
+## Animism (RES)
 
 Nature is a fundamental force that governs reality, and animism allows you to connect to that force. There are three specializations you can choose from which are the three different ethos of animism: *balance*, *harmony* and *entropy*.
 
