@@ -66,20 +66,6 @@ Humans are known for being good at generally anything, but aren't well known for
 
 **Languages** Humans start with common and one additional language of their choice.
 
-## Vulpe
-
-Vulpes are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations especially keeping a distance from other races. 
-
-**Stats** Vulpes get +1 Dexterity and +1 Intelligence, plus any size modifiers.
-
-**Nimble** Vulpes are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to Acrobatics or Athletics rolls when leaping, running, climbing, or rolling.
-
-**Size** Vulpes can be be small or medium sized, but are typically medium sized.
-
-**Speed** Vulpes have a movement speed of 8m.
-
-**Languages** Vulpes start with the common and vulpish languages.
-
 ## Lupin
 
 Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit family groups with some young adults choosing to leave after coming of age. They have keen senses and a close connection with nature, feeling most comfortable with soil beneath their paws. The powerful lupins never shy away from combat, which their culture views as a deeply spiritual endeavour.
@@ -93,3 +79,17 @@ Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit 
 **Speed** Lupins have a movement speed of 7m.
 
 **Languages** Lupins start with the common and lupine languages.
+
+## Vulpe
+
+Vulpes are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations especially keeping a distance from other races. 
+
+**Stats** Vulpes get +1 Dexterity and +1 Intelligence, plus any size modifiers.
+
+**Nimble** Vulpes are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to Acrobatics or Athletics rolls when leaping, running, climbing, or rolling.
+
+**Size** Vulpes can be be small or medium sized, but are typically medium sized.
+
+**Speed** Vulpes have a movement speed of 8m.
+
+**Languages** Vulpes start with the common and vulpish languages.
