@@ -191,7 +191,7 @@ Base item cost + magic cost = total cost
 
 All things have some form of spirit, and ki is a manifestation of spirit in the form of an aura. Control over ki is control over one's own auras. Typically this form of magic is performed by those who meditate on the deeper parts of themselves. Those who can control their auras are known as sōhei​ or monks.
 
-Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from. Each specialization cast spells using a different primary stat.
+Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from. Each specialization casts spells using a different primary stat.
 
 Monks of varying specializations can control the energies that govern their bodies. As you advance your ki skill, at specific ranks you gain the ability to convert your resources to another resource as a free action. These ranks are trained (r4), practiced (r8), and exceptional (r12). Each specialization has its own resource conversion ability.
 
@@ -208,7 +208,7 @@ Control of the body, mastery of strength. Genki is the spirit of flesh and might
 
 ### Kiai "Projection" (DEX)
 
-Kiai the spirit of your movement and the air you breathe, the air that feeds your body and mind. With the use of this aura your movements will become fast and effortless, the air around you will become an extension of your body.
+Kiai is the spirit of your movement and the air you breathe, the air that feeds your body and mind. With the use of this aura your movements will become fast and effortless, the air around you will become an extension of your body.
 
 ##### Table: Kiai Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
@@ -241,7 +241,7 @@ This is the spirit that holds your body and mind together to act as a single for
 
 ## Power (RES)
 
-Power is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of power are more philosophical. Power has seven different specializations to choose from which are the seven classical elements: *air*, *earth*, *fire*, *water*, *light*, *dark*, and *arcane*.
+Power is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of power are more philosophical. Power has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *dark*, and *arcane*.
 
 Sorcerers do not require or use scrolls or spell books. The power they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your power skill. You can take this skill multiple times to learn how to cast different elements. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
 
@@ -259,7 +259,7 @@ Whenever you pick a spell that is usable by multiple elements, it may limit your
 
 ### Air
 
-Power over air allows you to control the wind itself. Lifting and moving objects become as easy to you as the wind can carry a leaf or feather. Sound and eletricity are also associated with air.
+Power over air allows you to control the wind itself. Lifting and moving objects become as easy to you as the wind can carry a leaf or feather. Sound and electricity are also associated with air.
 
 ### Earth
 
