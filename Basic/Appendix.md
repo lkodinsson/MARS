@@ -151,4 +151,4 @@ This table encompasses all size categories available to living creatures.
 | Colossal | 18~21m | 10~20t | +9 | –5 |
 | Titanic | 21~24m | 15~25t | +10 | –5 |
 
-Anything smaller than Minicsule is considered Microscopic and cannot be seen by the naked eye. They are also small enough that they cannot be directly interacted with without specialized tools.
+Anything smaller than Miniscule is considered Microscopic and cannot be seen by the naked eye. They are also small enough that they cannot be directly interacted with without specialized tools.
