@@ -7,7 +7,7 @@
 | [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
-| [Lupin](#lupin) | STR +1, DEX +1,<br/>and size modifiers | Vigilance | Medium or Large | 7m |
+| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance | Medium or Large | 7m |
 | [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Variable | 6m |
 | [Vulpe](#vulpe) | DEX +1, INT +1,<br/>and size modifiers | Nimble | Small or Medium | 8m |
 
@@ -67,19 +67,19 @@ Humans are known for being good at generally anything, but aren't well known for
 
 **Languages** Humans start with common and one additional language of their choice.
 
-## Lupin
+## Lupine
 
-Lupins are humanoid wolves with hardy, imposing builds. They live in tight-knit family groups with some young adults choosing to leave after coming of age. They have keen senses and a close connection with nature, feeling most comfortable with soil beneath their paws. The powerful lupins never shy away from combat, which their culture views as a deeply spiritual endeavour.
+Lupines are humanoid wolves with hardy, imposing builds. They live in tight-knit family groups with some young adults choosing to leave after coming of age. They have keen senses and a close connection with nature, feeling most comfortable with soil beneath their paws. The powerful lupines never shy away from combat, which their culture views as a deeply spiritual endeavour.
 
-**Stats** Lupins get +1 Strength and +1 Dexterity, plus any size modifiers.
+**Stats** Lupines get +1 Strength and +1 Dexterity, plus any size modifiers.
 
-**Vigilance** Lupins have very sharp senses. They can see in both daylight and poorly lit areas, and they receive +1 to all Perception checks to sense other creatures.
+**Vigilance** Lupines have very sharp senses. They can see in both daylight and poorly lit areas, and they receive +1 to all Perception checks to sense other creatures.
 
-**Size** Lupins can be be medium or large sized, but are typically large sized.
+**Size** Lupines can be be medium or large sized, but are typically large sized.
 
-**Speed** Lupins have a movement speed of 7m.
+**Speed** Lupines have a movement speed of 7m.
 
-**Languages** Lupins start with the common and lupine languages.
+**Languages** Lupines start with the common and lupine languages.
 
 ## Mycelian
 
