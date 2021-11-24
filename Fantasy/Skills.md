@@ -241,7 +241,7 @@ This is the spirit that holds your body and mind together to act as a single for
 
 ## Power (RES)
 
-Power is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of power are more philosophical. Power has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *dark*, and *arcane*.
+Power is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of power are more philosophical. Power has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*.
 
 Sorcerers do not require or use scrolls or spell books. The power they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your power skill. You can take this skill multiple times to learn how to cast different elements. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
 
@@ -271,13 +271,13 @@ If you try hard enough just about anything can be burned. Strong emotions like a
 
 ### Water
 
-Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water.
+Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water. Cold temperatures and cold elemental damage is associated with water.
 
 ### Light
 
 While illumination is quite literal, and truth is quite philosophical, they are very similar in nature. Light is about revealing what is hidden.
 
-### Dark
+### Darkness
 
 As a counter to light, darkness is about concealment. Darkness is not simply evil. Some truths are painful to bear, and darkness would rather hide those truths.
 

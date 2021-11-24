@@ -23,6 +23,8 @@ To cast a spell you must perform the following steps:
 4. Perform the effects of that spell based on your degree of success.
 5. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
+Although failing to cast a spell causes it to do nothing (while still spending 1 mana), *fumbling* a spell causes unintended effects based on the spell fumbled. The exact nature of these effects is to be determined by the game master based on the spell attempted. 
+
 If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell. If the recipients of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value.
 
 Whenever a spell refers to your *spellcasting stat* it means the stat that your spellcasting skill is associated with.
@@ -43,37 +45,37 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
 | [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
-| [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Conjuration, Evocation |
-| [Armour](#armour) | 2 | 10 | Standard | Conjuration, Enchantment |
-| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration |
-| [Debilitate](#debilitate) | 2 | 10 | Standard | Enchantment |
-| [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury |
-| [Enhance](#enhance) | 3 | 14 | Standard | Enchantment |
-| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Enchantment, Transmutation |
-| [Grease](#grease) | 2 | 10 | Standard | Conjuration |
-| [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Transmutation |
-| [Inspire](#inspire) | 2 | 10 | Standard | Evocation |
-| [Jolt](#jolt) | 1 | 7 | Swift | Evocation, Transmutation |
-| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Transmutation |
-| [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment |
-| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Enchantment, Transmutation |
-| [Mend](#mend) | 2 | 10 | Standard | Transmutation |
-| [Message](#message) | 1 | 7 | Swift | Augury, Enchantment |
-| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Conjuration |
-| [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Augury |
+| [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Arcane, Conjuration, Evocation |
+| [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment |
+| [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Darkness, Entropy |
+| [Debilitate](#debilitate) | 2 | 10 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
+| [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury, Light |
+| [Enhance](#enhance) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
+| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Air, Enchantment, Transmutation |
+| [Grease](#grease) | 2 | 10 | Standard | Conjuration, Water |
+| [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Fire, Transmutation |
+| [Inspire](#inspire) | 2 | 10 | Standard | Evocation, Fire |
+| [Jolt](#jolt) | 1 | 7 | Swift | Air, Evocation, Transmutation |
+| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Light, Transmutation |
+| [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment, Fire, Harmony, Light |
+| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Air (Electric), Arcane, Enchantment, Fire, Transmutation, Water (Cold) |
+| [Mend](#mend) | 2 | 10 | Standard | Balance, Earth, Harmony, Light, Transmutation, Water |
+| [Message](#message) | 1 | 7 | Swift | Air, Augury, Enchantment, Light |
+| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Arcane, Conjuration, Darkness |
+| [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Light, Augury |
 | [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
-| [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Transmutation |
-| [Sight](#sight) | 1 | 7 | Swift | Augury, Enchantment |
-| [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury |
-| [Sleep](#sleep) | 3 | 14 | Full | Enchantment, Evocation |
-| [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation |
-| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Transmutation |
-| [Water Breathing](#water-breathing) | 2 | 10 | Standard | Enchantment, Transmutation |
-| [Water Jet](#water-jet) | 1 | 7 | Swift | Conjuration |
+| [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Earth, Transmutation, Water |
+| [Sight](#sight) | 1 | 7 | Swift | Augury, Balance, Enchantment, Light |
+| [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury, Light |
+| [Sleep](#sleep) | 3 | 14 | Full | Darkness, Enchantment, Evocation |
+| [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation, Fire |
+| [Telekinesis](#telekinesis) | 1 | 7 | Swift | Air, Arcane, Kiai, Transmutation |
+| [Water Breathing](#water-breathing) | 2 | 10 | Standard | Air, Enchantment, Transmutation, Water |
+| [Water Jet](#water-jet) | 1 | 7 | Swift | Conjuration, Water |
 
 ## Alter Size
 
-**Specializations:** Enchantment  
+**Specializations:** Enchantment, Transmutation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -90,7 +92,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 
 ## Arcane Missiles
 
-**Specializations:** Conjuration, Evocation  
+**Specializations:** Arcane, Conjuration, Evocation  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -108,7 +110,7 @@ You shoot arcane missiles dealing r8+1 arcane damage. These missiles always hit 
 
 ## Armour
 
-**Specializations:** Conjuration, Enchantment  
+**Specializations:** Arcane, Conjuration, Enchantment  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -127,7 +129,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 ## Darkness
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Darkness, Entropy  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -142,7 +144,7 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 
 ## Debilitate
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence)  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -157,7 +159,7 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 
 ## Detect Thoughts
 
-**Specializations:** Augury  
+**Specializations:** Augury, Light  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -175,7 +177,7 @@ Allows you to read the active thoughts of another creature without them knowing 
 
 ## Enhance
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -190,7 +192,7 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 
 ## Feather Fall
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Air, Enchantment, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -205,7 +207,7 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 
 ## Grease
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -220,7 +222,7 @@ Creates a thin pool of slippery grease in a 3m radius. Any character who starts 
 
 ## Ignite
 
-**Specializations:** Evocation, Transmutation  
+**Specializations:** Evocation, Fire, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -238,7 +240,7 @@ You apply a small burst of heat to a nearby object or creature, dealing fire dam
 
 ## Inspire
 
-**Specializations:** Evocation  
+**Specializations:** Evocation, Fire  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -253,7 +255,7 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 
 ## Jolt
 
-**Specializations:** Evocation, Transmutation  
+**Specializations:** Air, Evocation, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -271,7 +273,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 
 ## Knock
 
-**Specializations:** Augury, Transmutation  
+**Specializations:** Augury, Light, Transmutation  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -284,7 +286,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 
 ## Light
 
-**Specializations:** Conjuration, Enchantment  
+**Specializations:** Conjuration, Enchantment, Fire, Harmony, Light  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -299,7 +301,7 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 
 ## Magic Weapon
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Air (Electric), Arcane, Enchantment, Fire, Transmutation, Water (Cold)  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -318,7 +320,7 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 
 ## Mend
 
-**Specializations:** Transmutation  
+**Specializations:** Balance, Earth, Harmony, Light, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -336,7 +338,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 
 ## Message
 
-**Specializations:** Augury, Enchantment  
+**Specializations:** Air, Augury, Enchantment, Light  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -351,7 +353,7 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 
 ## Minor Illusion
 
-**Specializations:** Conjuration  
+**Specializations:** Arcane, Conjuration, Darkness  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -364,7 +366,7 @@ You create the illusion of a small object, tiny creature, or various small magic
 
 ## Seek Guidance
 
-**Specializations:** Augury  
+**Specializations:** Light, Augury  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -395,7 +397,7 @@ You create a magical shield. It acts like a shield in that it has a block value,
 
 ## Sickness
 
-**Specializations:** Conjuration, Transmutation  
+**Specializations:** Conjuration, Earth, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -413,7 +415,7 @@ Inflict sickness upon a creature, causing it to perform tasks worse and suffer l
 
 ## Sight
 
-**Specializations:** Augury, Enchantment  
+**Specializations:** Augury, Enchantment, Harmony, Light  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -428,7 +430,7 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 
 ## Sight Projection
 
-**Specializations:** Augury  
+**Specializations:** Augury, Light  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -441,7 +443,7 @@ You project your sight as though it is coming from another body. This effect beg
 
 ## Sleep
 
-**Specializations:** Enchantment, Evocation  
+**Specializations:** Darkness, Enchantment, Evocation  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -460,7 +462,7 @@ Creatures fall prone when they fall asleep. This spell's mana cost and difficult
 
 ## Suggestion
 
-**Specializations:** Enchantment, Evocation  
+**Specializations:** Enchantment, Evocation, Fire  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -475,7 +477,7 @@ You make a simple request of a creature (no longer than two sentences). If that 
 
 ## Telekinesis
 
-**Specializations:** Transmutation  
+**Specializations:** Air, Arcane, Kiai, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -490,7 +492,7 @@ You can manipulate any object or creature as you could manually with your hands,
 
 ## Water Breathing
 
-**Specializations:** Enchantment, Transmutation  
+**Specializations:** Air, Enchantment, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -505,7 +507,7 @@ Allows the targets to breath underwater the same as they breath air above water,
 
 ## Water Jet
 
-**Specializations:** Conjuration  
+**Specializations:** Conjuration, Water  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
