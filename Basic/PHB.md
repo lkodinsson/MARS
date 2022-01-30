@@ -265,7 +265,7 @@ Combat with heavy or broad weapons. Although it is not as likely to get as many 
 
 ### Ranged (DEX)
 
-Ranged combat includes the use of all weapons that fire projectiles, such as bows and guns, and throwing projectile weapons.
+Ranged combat includes the use of all weapons that involve projectiles, such as bows, guns, and throwing weapons.
 
 ### Unarmed (DEX)
 
@@ -279,7 +279,7 @@ Whenever you become trained in a new combat skill, you acquire a maneuver from t
 
 For example: You advanced your Martial skill and learned Heavy Strike. Since you are also trained in Unarmed, you can also use Heavy Strike with the Unarmed skill.
 
-When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll (or a skill check instead if the maneuver specifies one). If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
 
 Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attacks specified in that maneuver with a –2 penalty, and it costs twice as much stamina. If that maneuver is a swift action, it becomes a standard action instead.
 
@@ -378,7 +378,7 @@ When it comes time to *roll for initiative* each player will simply roll their i
 
 Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. Each round’s activity begins with the character with the highest initiative result and then proceeds in order from the next highest to the lowest. When a character's turn comes up in the initiative sequence, that character performs up to their entire round's worth of actions.
 
-When the rules refer to a *full round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
+When the rules refer to a *full-round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
 
 ### Complex Challenges
 
@@ -388,9 +388,9 @@ Most basic combat scenarios can be considered complex challenges rather than tac
 
 ### Actions
 
-During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full*, *standard*, *swift*, *reaction*, and *free*.
+During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, *reaction*, and *free*.
 
-Since a turn is six seconds long, we can also measure each action in seconds. Full, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
+Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
 
 Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
 
@@ -406,7 +406,7 @@ Make an attack on a target with one of your wielded weapons or with your bare ha
 
 When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazes deal half damage, and criticals deal bonus damage as specified by that weapon.
 
-Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are considered attacks made on your next turn (such as by a readied action).
+Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
 
@@ -478,7 +478,11 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or any means, they will take damage. Any damage dealt to a character is taken first to their endurance, and then to their health if no endurance remains. If a character is ever reduced to zero or less health, that character is given the dying condition. Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition. If nonlethal attacks bring a character to negative health equal to their maximum health, then they get the dying condition.
+When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction. No matter how much damage reduction a character has, the minimum amount of damage they must take is 1.
+
+Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are given the unconscious condition.
+
+Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition when applicable. If nonlethal attacks bring a character to negative health equal to their maximum health, then they are given the dying condition.
 
 Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
@@ -500,7 +504,7 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 #### Dying
 
-When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty of r12 plus their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
+When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to double their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
 #### Encumbered
 
@@ -539,8 +543,8 @@ At some point during an adventure you may find yourself low on your resources (h
 |:-|:-:|:-:|:-:|
 | Health | None | None | 1 |
 | Endurance | Quarter, round up | Half, round up | All |
-| Stamina | Roll STR or DEX,<br/>quartered, round up | Roll STR or DEX,<br/>halved, round up | Roll STR or DEX |
-| Mana | Roll INT or RES,<br/>quartered, round up | Roll INT or RES,<br/>halved, round up | Roll INT or RES |
+| Stamina | 1 | Roll STR or DEX,<br/>halved, round up | Roll STR or DEX |
+| Mana | 1 | Roll INT or RES,<br/>halved, round up | Roll INT or RES |
 
 ### Short Rest
 
@@ -550,11 +554,13 @@ A short rest is basically like a break. Whenever you take a break to make prepar
 
 Moderate resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
 
+Abilties that can be used a number of times per rest can only be restored from a moderate or long rest unless otherwise specified.
+
 ### Long Rest
 
-A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a short rest instead. Abilties that can be used a number of times per rest can only be restored from a long rest unless otherwise specified.
+A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a moderate rest instead.
 
-Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill by perfoming a medicine check against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased to 2.
+Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
 
 # Creating a Character
 
@@ -673,7 +679,7 @@ Although you do not spend experience points to obtain your starting primary stat
 
 <sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
 
-Talents can also be acquired at varying costs dependent on the specific talent. These will provide more breadth of ability to your character rather than raw numerical improvement. You can even acquire talents that other archetypes start with.
+Talents can also be acquired at varying costs depending on the specific talent. These will provide more breadth of ability to your character rather than raw numerical improvement. You can even acquire talents that other archetypes start with.
 
 Click [here](/Basic/Talents.md) for the list of universal talents.
 

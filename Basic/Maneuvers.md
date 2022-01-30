@@ -6,7 +6,7 @@
 | [Advancing Strike](#advancing-strike) | 1 | Swift | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Bullrush](#bullrush) | 2 | Full | Martial, Unarmed |
+| [Bullrush](#bullrush) | 2 | Full-round | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
 | [Disarm](#disarm) | 2 | Standard | Finesse, Unarmed |
@@ -28,8 +28,10 @@
 | [Stunning Strike](#stunning-strike) | 2 | Standard | Finesse, Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Trip](#trip) | 1 | Standard | Finesse, Martial, Unarmed |
-| [Triple Shot](#triple-shot) | 2 | Full | Ranged |
+| [Triple Shot](#triple-shot) | 2 | Full-round | Ranged |
 | [Wild Strike](#wild-strike) | 1 | Standard | Martial, Unarmed |
+
+Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 ## Advancing Strike
 
@@ -67,7 +69,7 @@ Each ally within 30m gets +2 to their next attack or defense roll (whichever is 
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 2  
-**Action Speed:** Full
+**Action Speed:** Full-round
 
 Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage. If you also have the Knock Down maneuver, you may pay 1 more stamina to forgo the +2 bonus to hit and damage to instead make an attack at the end of your movement as per the Knock Down maneuver.
 
@@ -215,7 +217,7 @@ Make an acrobatics check if leaping over an obstacle (1m between you and target)
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
-Make a melee attack with +2 to hit against a target moving outside of your attack range. This maneuver can only be used if the target would move a distance greater than 1m, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
+Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
 
 ## Penetrating Strike
 
@@ -224,7 +226,7 @@ Make a melee attack with +2 to hit against a target moving outside of your attac
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack. The target gets –2 to armour class.
+Make an attack. The target gets –2 to armour class (to a minimum of 0).
 
 ## Pinning Shot
 
@@ -310,7 +312,7 @@ Make an attack with –2 to hit and only dealing half damage. If successful, the
 **Specializations:** Ranged
 
 **Stamina Cost:** 2  
-**Action Speed:** Full
+**Action Speed:** Full-round
 
 Make a single ranged attack with –2 to hit against three targets.
 
@@ -318,7 +320,7 @@ Make a single ranged attack with –2 to hit against three targets.
 
 **Specializations:** Martial, Unarmed
 
-**Stamina Cost:** 1
+**Stamina Cost:** 1  
 **Action Speed:** Standard
 
 **Duration:** 1 Round

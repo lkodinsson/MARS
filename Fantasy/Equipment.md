@@ -115,7 +115,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Shortspear | 5sp | STR+r6 Piercing | +6 | Finesse/Martial/<br/>Ranged | 2kg | Thrown 6m/60m, Versatile |
 | Darts (20) | 2sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
 | Hand Crossbow | 8sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
-| Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full), Mechanical |
+| Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
 | Siege Crossbow | 20sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
 | Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/4m, Trip |
 
@@ -141,7 +141,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Mode** This weapon can make attacks with a different damage type (as listed), but with –1 to hit when doing so.
 
-**Momentum** If you hit with this weapon, your next attack with it on the same target gets +2 to damage. This bonus stacks until the beginning of your next turn.
+**Momentum** This weapon does gets +2 to damage against targets you have already hit during the same turn, including hits made with other weapons.
 
 **Nonlethal** Enemies knocked unconscious by this weapon do not start dying unless severely injured (brought to negative health equal to their maximum).
 

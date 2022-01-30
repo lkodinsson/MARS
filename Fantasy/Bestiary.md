@@ -120,7 +120,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 *Thrown 6m/60m, Versatile*
 
 **Crossbow** 12/r22+1 to hit, 12/r24 piercing damage (crit +8)  
-*Range 25m/250m, Two-Handed, Reload (Full), Mechanical*
+*Range 25m/250m, Two-Handed, Reload (Full-round), Mechanical*
 
 **Items** Chainmail, plated bracers, greaves, small helm, small shield, straight sword, shortspear, crossbow, bolts (20), electrum (1), silver (5)
 
@@ -297,8 +297,8 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 **Speed** 6m
 
 **Undead** Immune to sickness and mind altering effects, can't be blinded, and takes half cold damage. Also grants advantage to any checks made to intimidate.  
-**Zombie Disease** Whenever this deals damage with natural weapons directly to health, it also causes Sickness 2. Characters that die from effect this become zombies.
-**Natural weapon, bite** Deals STR piercing damage (crit +4), has the features: Momentum, Swift
+**Zombie Disease** Whenever this deals damage with natural weapons directly to health, it also causes Sickness 2. Characters that die from effect this become zombies.  
+**Natural weapon, bite** Deals STR piercing damage (crit +4), has the features: Momentum, Swift  
 **Natural weapon, claw** Deals STR+r2 slashing damage (crit +2), has the features: Cleave, Swift
 
 **STR** r12+1, **DEX** r8, **INT** r6, **RES** r8+1

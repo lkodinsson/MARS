@@ -5,30 +5,32 @@
 |:-|:-:|:-|
 | [Agility](#agility) | 8 | DEX 13+, Acrobatics |
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
-| [Ambidexterity](#ambidexterity) | 10, 12 | DEX 11+, Any combat skill |
+| [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat skill |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
-| [Enthusiastic](#enthusiastic) | 10 | RES 11+ |
+| [Enthusiastic](#enthusiastic) | 8 | RES 11+ |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
-| [Magical Luck](#magical-luck) | 8, 10, 12 | DEX 11+, INT 11+, Sleight |
-| [Meditative Rest](#meditative-rest) | 10 | RES 11+ |
-| [Mobility](#mobility) | 10 | STR 13+, Athletics |
-| [Natural Intuition](#natural-intuition)| 6 | INT 11+, Perception |
+| [Magical Luck](#magical-luck) | 6, 8, 10 | DEX 11+, INT 11+, Sleight |
+| [Meditative Rest](#meditative-rest) | 8 | RES 11+ |
+| [Mobility](#mobility) | 8 | STR 13+, Athletics |
+| [Natural Intuition](#natural-intuition) | 6 | INT 11+, Perception |
+| [Opportunist](#opportunist) | 6 | DEX 11+, Opportunity Strike |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
-| [Teamwork](#teamwork) | 10 | INT 11+, Charisma |
+| [Teamwork](#teamwork) | 8 | INT 11+, Charisma |
 | [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
 | [Weightlifter](#weightlifter) | 6 | STR 13+, Athletics |
 
+Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
+
 ## Agility
 
-**Cost:** 8 EXP
-
+**Cost:** 8 EXP  
 **Requirements:** Max Dexterity 13+, Trained in Acrobatics
 
 Your speed is increased by 2m, and you can move your full speed when you evade (from half).
@@ -45,13 +47,13 @@ Once per day, you may find any mundane item amongst your belongings as though yo
 **Cost:** Variable  
 **Requirements:** Max Dexterity 11+, Trained in any combat skill
 
-Attacks made with a different weapon than the last weapon you used in the same round are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
+Attacks made with a different weapon than the last weapon you used in the same round, are made with a reduced multiple attack penalty based on the advancement of this talent (from -4).
 
 ##### Table: Ambidexterity Steps & Cost
 | Step Cost | Total Cost | Penalty |
 |:-:|:-:|:-:|
-| 10 | 10 | -3 |
-| 12 | 22 | -2 |
+| 8 | 8 | -3 |
+| 12 | 20 | -2 |
 
 ## Danger Sense
 
@@ -76,10 +78,10 @@ You gain an advantage to fortitude checks made to stabilize and you may choose t
 
 ## Enthusiastic
 
-**Cost:** 10 EXP  
+**Cost:** 8 EXP  
 **Requirements:** Max Resolve 11+
 
-The first skill check you make after a short or long rest is made with advantage.
+The first skill check you make after a rest is made with advantage.
 
 ## Inspirational Charisma
 
@@ -137,25 +139,25 @@ Your speed is increased by 2m, and your second move action each turn does not co
 **Cost:** Variable  
 **Requirements:** Max Dexterity 11+, Max Intelligence 11+, Trained in Sleight
 
-You may spend 3 mana to gain an advantage on your next roll (in reality or in fiction). This ability can be used a number of times based on its advancement. One use is restored after a short rest, and all uses are restored after a long rest.
+You may spend 3 mana to gain an advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
 
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
 |:-:|:-:|:-:|
-| 8 | 8 | 1/Rest |
-| 10 | 18 | 2/Rest |
-| 12 | 30 | 3/Rest |
+| 6 | 6 | 1/Rest |
+| 8 | 14 | 2/Rest |
+| 10 | 24 | 3/Rest |
 
 ## Meditative Rest
 
-**Cost:** 10 EXP  
+**Cost:** 8 EXP  
 **Requirements:** Max Resolve 11+
 
-Rolls made to restore resources during short and long rests are made with advantage.
+Rolls made to restore resources during rests are made with advantage.
 
 ## Mobility
 
-**Cost:** 10 EXP  
+**Cost:** 8 EXP  
 **Requirements:** Max Strength 13+, Trained in Athletics
 
 Your speed is increased by 2m, and one of the move actions you take each turn is not affected by difficult terrain.
@@ -167,6 +169,13 @@ Your speed is increased by 2m, and one of the move actions you take each turn is
 **Requirements:** Max Intelligence 11+, Trained in Perception
 
 Your ability to notice and remember details has expanded your natural perceptions. You can always tell the time of day, what direction is north, and where is the nearest source of running water. These abilities persist even in conditions where they would otherwise not be possible.
+
+## Opportunist
+
+**Cost:** 6 EXP  
+**Requirements:** Max Dexterity 11+, Trained in the Opportunity Strike maneuver
+
+The first Opportunity Strike you use each turn does not cost your reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target.
 
 ## Polyglot
 
@@ -184,7 +193,7 @@ Your speed is increased by 2m, and you may spend 2 stamina on your first move ac
 
 ## Teamwork
 
-**Cost:** 10 EXP  
+**Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Charisma
 
 You get advantage when assisting others to perform skill checks.

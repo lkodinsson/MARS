@@ -5,6 +5,8 @@
 |:-|:-:|:-:|:-|
 | [Distracting Strike](#distracting-strike) | 2 | Standard | Finesse, Martial, Unarmed |
 
+Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
+
 ## Distracting Strike
 
 **Specializations:** Finesse, Martial, Unarmed  
@@ -12,4 +14,4 @@
 **Action Speed:** Standard  
 **Resist:** Willpower
 
-Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell.
+Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell. If they do, they cannot cast that spell on their next turn.

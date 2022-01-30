@@ -10,6 +10,10 @@
 | [Ki](#ki) | Varies |
 | [Power](#power-res) | Resolve |
 
+Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.
+
+Click [here](/Fantasy/Spellcasting.md) for the rules and a table of spells for fantasy spellcasting.
+
 ## Animism (RES)
 
 Nature is a fundamental force that governs reality, and animism allows you to connect to that force. There are three specializations you can choose from which are the three different ethos of animism: *balance*, *harmony* and *entropy*.

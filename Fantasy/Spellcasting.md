@@ -29,7 +29,7 @@ If the targets of your spells choose to resist them, they roll their stat to res
 
 Whenever a spell refers to your *spellcasting stat* it means the stat that your spellcasting skill is associated with.
 
-You may choose to downgrade how well you cast a spell if you want to cast a lesser version instead.
+You may choose to downgrade how well you cast a spell if you want to cast a lesser version instead (your roll is the same, and you choose a lower success category).
 
 # Spells
 
@@ -39,7 +39,7 @@ Spells may deal various types of *magical damage*. By default, all magical damag
 
 Some spells will have a listed duration with the word *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. You may only concentrate on a single spell requiring it any given time. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.
 
-Additional spells cast during the same turn get a –2 penalty to cast for each spell cast before it in the same turn. This penalty applies to all forms of spells cast. This is known as the *multiple spell penalty*. Spells cast as a reaction are considered spells cast on your next turn (such as by a readied action).
+Additional spells cast during the same turn get a –2 penalty to cast for each spell cast before it in the same turn. This penalty applies to all forms of spells cast. This is known as the *multiple spell penalty*. Spells cast as a reaction are exempt from this penalty (such as by a readied action).
 
 ##### Table: List of Spells
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
@@ -67,7 +67,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Earth, Transmutation, Water |
 | [Sight](#sight) | 1 | 7 | Swift | Augury, Balance, Enchantment, Light |
 | [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury, Light |
-| [Sleep](#sleep) | 3 | 14 | Full | Darkness, Enchantment, Evocation |
+| [Sleep](#sleep) | 3 | 14 | Full-round | Darkness, Enchantment, Evocation |
 | [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation, Fire |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Air, Arcane, Kiai, Transmutation |
 | [Water Breathing](#water-breathing) | 2 | 10 | Standard | Air, Enchantment, Transmutation, Water |
@@ -170,7 +170,7 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 **Duration:** Instant or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Allows you to read the active thoughts of another creature without them knowing you are doing so. You may choose to also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
+Allows you to read the active thoughts of another creature without them knowing you are doing so. You may also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
 
 ***Critical:*** Allows you to read deep thoughts without alerting the target to your presence.  
 ***Graze:*** The target will know you are reading their thoughts.
@@ -447,7 +447,7 @@ You project your sight as though it is coming from another body. This effect beg
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
-**Action Speed:** Full
+**Action Speed:** Full-round
 
 **Range:** 10m  
 **Target:** One or more creatures  
