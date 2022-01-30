@@ -12,6 +12,7 @@
 * [Genre Specific Skills](#genre-specific-skills)
 * [Playing the Game](#playing-the-game)
 * [Encounters](#encounters)
+* [Actions](#actions)
 * [Damage](#damage)
 * [Effects](#effects)
 * [Resting](#resting)
@@ -386,7 +387,7 @@ Some encounters are considered complex challenges: there is a limited amount of 
 
 Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while player characters must suffer damage before becoming unconscious or even killed.
 
-### Actions
+# Actions
 
 During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, *reaction*, and *free*.
 
@@ -542,9 +543,9 @@ At some point during an adventure you may find yourself low on your resources (h
 | Resource | Short Rest | Moderate Rest | Long Rest |
 |:-|:-:|:-:|:-:|
 | Health | None | None | 1 |
-| Endurance | Quarter, round up | Half, round up | All |
-| Stamina | 1 | Roll STR or DEX,<br/>halved, round up | Roll STR or DEX |
-| Mana | 1 | Roll INT or RES,<br/>halved, round up | Roll INT or RES |
+| Endurance | Quarter | Half | All |
+| Stamina | Eighth of<br/>Fortitude | Quarter of<br/>Fortitude | Half of<br/>Fortitude |
+| Mana | Eighth of<br/>Willpower | Quarter of<br/>Willpower | Half of<br/>Willpower |
 
 ### Short Rest
 

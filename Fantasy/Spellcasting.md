@@ -451,7 +451,7 @@ You project your sight as though it is coming from another body. This effect beg
 
 **Range:** 10m  
 **Target:** One or more creatures  
-**Duration:** 30m or 1m (for combatants)  
+**Duration:** 30 minutes or 1 minute (for combatants)  
 **Resist:** Willpower
 
 The targets succumb to a magical sleep. When cast on unsuspecting creatures they enter a deep sleep for duration of 30 minutes (long enough to count as a short rest). It is quite hard to wake creatures under this sleep unless they are attacked or dealt damage.

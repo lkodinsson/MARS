@@ -90,7 +90,7 @@ Each spell you cast can be modified by metamagics a combined number of times equ
 | Persistent | +2 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Quickened | +2 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
 | Reaching | +2 | +3 | The spell has its ranged doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Triggered | +1 | +2 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration) |
+| Triggered | +1 | +2 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 5 minutes, until released or triggered) |
 | Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 ## Wild Magic
