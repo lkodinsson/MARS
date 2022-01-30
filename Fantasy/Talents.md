@@ -74,11 +74,11 @@ You can control two spells that require concentration instead of one.
 
 When you acquire this talent you will choose a metamagic category from the table below. This talent can be taken multiple times (once for each category).
 
-Before casting any spell you may choose to modify how it is cast using any category of metamagic you have acquired. When you do, you may apply one of two adjustments to that spell to pay for the metamagic: a mana cost adjustment or a spellcasting difficulty adjustment. You will apply only one adjustment, not both, per use of metamagic.
+Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must apply one of two adjustments to that spell to pay for the metamagic: a mana cost adjustment or a spellcasting difficulty adjustment. You will apply only one adjustment, not both, per each use of metamagic.
 
 Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the mana cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
 
-###### Table: Metamagic Modifiers
+###### Table: Metamagic Categories & Modifiers
 | Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
 |:-|:-:|:-:|:-|
 | Alternate | +1 | +2 | The spell has different element and elemental effect (matching that element) than normal |
