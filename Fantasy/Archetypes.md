@@ -11,23 +11,13 @@
 | [Druid](#druid) | Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8),<br/>Medicine (r4), Perception (r6), Wild Empathy (r6) | Wild Magic | RES |
 | [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | Toughness (+8) | STR or DEX |
 | [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | Meditative Rest | RES |
+| [Paladin](#paladin) | Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | Divine Axiom (Any),<br/>and Toughness (+4) | RES |
 | [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | Deduction,<br/>and Toughness (+4) | INT |
 | [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | Danger Sense | DEX |
 | [Sorcerer](#sorcerer) | Acrobatics or Athletics (r4), Charisma (r6),<br/>Contacts (r4), Power (Any) (r8), Wild Empathy (r6) | Esoteric Will | RES |
 | [Theurge](#theurge) | Arcana (Any) (r8), Charisma (r4), Faith (Any) (r6),<br/>Knowledge, Lore, or Medicine (r6), Perception (r4) | Metamagic (Any) | INT or RES |
 | [Warmage](#warmage) | Athletics (r6), Arcana (Enchantment or Transmutation) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | Eldritch Infusion,<br/>and Toughness (+4) | INT |
 | [Wizard](#wizard) | Arcana (Any) (r8), Charisma (r4), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | Arcane Precision | INT |
-
-## Paladin
-| [Paladin](#paladin) | Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | Divine Axiom (Any),<br/>and Toughness (+4) | RES |
-
-While clerics can represent the full spectrum of the devoted, paladins represent the militaristic strong arm of these ideologies. They are there to protect those they declare in need, primarly those who follow tenets resembling their own. They are often drafted as mercenaries to empires who show loyalty to their cause.
-
-**Skills** Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
-**Maneuvers** Paladins start with one maneuver.  
-**Spells** Paladins start with two spells.  
-**Talent** Divine Axiom (Any), Toughness (+4)  
-**Primary Stat** Paladins must start with a maximum resolve of 11 or greater.
 
 ## Artificer
 
@@ -102,6 +92,16 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 **Spells** Monks start with three spells.  
 **Talent** Meditative Rest  
 **Primary Stat** Monks must start with a maximum resolve of 11 or greater.
+
+## Paladin
+
+While clerics can represent the full spectrum of the devoted, paladins represent the militaristic strong arm of these ideologies. They are there to protect those they declare in need, primarly those who follow tenets resembling their own. They are often drafted as mercenaries to empires who show loyalty to their cause.
+
+**Skills** Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
+**Maneuvers** Paladins start with one maneuver.  
+**Spells** Paladins start with two spells.  
+**Talent** Divine Axiom (Any), Toughness (+4)  
+**Primary Stat** Paladins must start with a maximum resolve of 11 or greater.
 
 ## Ranger
 
