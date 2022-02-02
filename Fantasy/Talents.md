@@ -4,13 +4,17 @@
 | Name | Cost | Requirements |
 |:-|:-:|:-|
 | [Arcane Precision](#arcane-precision) | 10 | INT 11+, Can cast spells |
+| [Chaotic Magic](#chaotic-magic) | 6 | RES 11+, Can cast spells |
 | [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
+| [Divine Axiom](#divine-axiom) | 6 | RES 11+, Faith (Militarist), Any combat skill |
+| [Divine Devotion](#divine-devotion) | 8, 10, 12 | RES 11+, Faith |
+| [Eldritch Infusion](#eldritch-infusion) | 6 | INT 11+ or RES 11+, Can cast spells |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
 | [Inherent Focus](#inherent-focus) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Magic Resistance](#magic-resistance) | 8 | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | INT 13+, Can cast spells |
 | [Metamagic](#metamagic) | 8 | INT 13+ or RES 13+, Can cast 5+ spells |
-| [Wild Magic](#wild-magic) | 8 | RES 11+, Can cast spells |
+| [Wild Magic](#wild-magic) | 10 | RES 11+, Can cast Animal Form |
 
 Click [here](/Basic/Talents.md) for the list of universal talents.
 
@@ -20,6 +24,23 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 **Requirements:** Max Intelligence 11+, Can cast spells
 
 After rolling to cast a spell, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced. This additional mana spent is considered an increase on that spell's mana cost.
+
+## Chaotic Magic
+
+**Cost:** 6 EXP  
+**Requirements:** Max Resolve 11+, Can cast spells
+
+Before casting any spell you may choose to invoke the power of chaos, forcibly altering your spell. If you do, first choose your spell then roll r6 and use the following table to determine how it is changed. You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a fumbled spell that costs 1 mana, and end your turn (if during an encounter, and it is your turn).
+
+##### Table: Chaotic Magic Modifiers
+| Roll | Modifier |
+|:-:|:-|
+| 6 | +2 to your spellcasting roll |
+| 5 | The spell is considered one success category higher |
+| 4 | The spell costs half mana, rounded up (after adjustments) |
+| 3 | The spell is cast at one action speed faster (extended spells ignore this effect) |
+| 2 | Cast the spell normally |
+| 1 | –2 to your spellcasting roll |
 
 ## Craft Preparation
 
@@ -34,6 +55,40 @@ You always have craft materials available as long as you have your belongings, a
 | 6 | 6 | 4% |
 | 8 | 14 | 7% |
 | 10 | 24 | 10% |
+
+## Divine Axiom
+
+**Cost:** 6 EXP  
+**Requirements:** Max Resolve 11+, Trained in Faith (Militarist), Trained in any combat skill
+
+When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
+
+Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, this applies to defensive maneuvers (both of maneuvers defend yourself and maneuvers that defend others). If you do, rolls made to perform those maneuvers get a +1 bonus.
+
+Additionally, regardless of the choice made, should you choose to attack or defend a target that directly contradicts the ideologies of your faith's specialization (as determined by the game master) you will automatically fail to attack or defend that target. This still spends any resources used to do so.
+
+## Divine Devotion
+
+**Cost:** Variable  
+**Requirements:** Max Resolve 11+, Trained in Faith
+
+Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell is cast with +1 to the spellcasting roll with half the mana cost. If that spell was provided to you as a bonus spell from your specialization, it gets +2 and costs no mana instead. If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+
+This ability can be used a number of times based on its advancement.
+
+##### Table: Divine Devotion Steps & Cost
+| Step Cost | Total Cost | Number of Uses |
+|:-:|:-:|:-:|
+| 8 | 8 | 1/Rest |
+| 10 | 18 | 2/Rest |
+| 12 | 30 | 3/Rest |
+
+## Eldritch Infusion
+
+**Cost:** 6 EXP  
+**Requirements:** Max Intelligence 11+ or Max Resolve 11+, Can cast spells
+
+Spells you cast that target yourself or your own equipment cannot fail or fumble. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself, refund half of the mana cost of that spell (after adjustments).
 
 ## Esoteric Will
 
@@ -74,38 +129,28 @@ You can control two spells that require concentration instead of one.
 
 When you acquire this talent you will choose a metamagic category from the table below. This talent can be taken multiple times (once for each category).
 
-Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must apply one of two adjustments to that spell to pay for the metamagic: a mana cost adjustment or a spellcasting difficulty adjustment. You will apply only one adjustment, not both, per each use of metamagic.
+Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must adjustments to that spell to pay for the metamagic: a mana cost adjustment and/or a spellcasting difficulty adjustment. You will apply these adjustments, per each use of metamagic.
 
 Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the mana cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
 
 ###### Table: Metamagic Categories & Modifiers
 | Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
 |:-|:-:|:-:|:-|
-| Alternate | +1 | +2 | The spell has different element and elemental effect (matching that element) than normal |
-| Bloodied | –1 | –2 | The spell causes you to lose 2 health |
-| Channelled | –1 | –2 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
-| Empowered | +1 | +2 | The spell deals +1 damage to each target |
-| Heightened | +1 | +2 | The spell gets +2 to its difficulty to resist |
-| Intensified | +2 | +3 | The spell inflicts effects to a degree of one higher |
-| Persistent | +2 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Quickened | +2 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
-| Reaching | +2 | +3 | The spell has its ranged doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Triggered | +1 | +2 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 5 minutes, until released or triggered) |
+| Bloodied | –1 | +1 | The spell causes you to lose 2 health |
+| Channelled | –1 | –1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
+| Empowered | +1 | +1 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
+| Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
+| Intensified | +2 | +2 | The spell inflicts effects to a degree of one higher |
+| Persistent | +1 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Quickened | +1 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
+| Reaching | +2 | +2 | The spell has its range doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Reactive | +1 | +3 | The spell can be cast as a reaction if it has a speed of swift or faster |
+| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 5 minutes, until released or triggered) |
 | Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 ## Wild Magic
 
-**Cost:** 8 EXP  
-**Requirements:** Max Resolve 11+, Can cast spells
+**Cost:** 10 EXP  
+**Requirements:** Max Resolve 11+, Can cast the spell Animal Form
 
-Before casting any spell you may choose to invoke the power of chaos, forcibly altering your spell. If you do, first choose your spell then roll r6 and use the following table to determine how it is changed. You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a fumbled spell that costs 1 mana, and end your turn (if during an encounter, and it is your turn).
-
-##### Table: Wild Magic Modifiers
-| Roll | Modifier |
-|:-:|:-|
-| 6 | +2 to your spellcasting roll |
-| 5 | The spell is considered one success category higher |
-| 4 | The spell costs half mana, rounded up (after adjustments) |
-| 3 | The spell is cast at one action speed faster (extended spells ignore this effect) |
-| 2 | Cast the spell normally |
-| 1 | –2 to your spellcasting roll |
+Controlling the shape of an animal comes as easy to you as your natural born form. You no longer require concentration to maintain the spell Animal Form, and you may speak languages and cast spells while the spell is active.

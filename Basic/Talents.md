@@ -15,12 +15,14 @@
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
-| [Magical Luck](#magical-luck) | 6, 8, 10 | DEX 11+, INT 11+, Sleight |
+| [Magical Luck](#magical-luck) | 6, 8, 10 | DEX 11+ or INT 11+, Sleight |
 | [Meditative Rest](#meditative-rest) | 8 | RES 11+ |
 | [Mobility](#mobility) | 8 | STR 13+, Athletics |
 | [Natural Intuition](#natural-intuition) | 6 | INT 11+, Perception |
-| [Opportunist](#opportunist) | 6 | DEX 11+, Opportunity Strike |
+| [Opportunist](#opportunist) | 6 | DEX 11+ or INT 11+, Opportunity Strike |
+| [Prepared Defense](#prepared-defense) | 6 | DEX 11+ or RES 11+, Any combat skill |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
+| [Rage](#rage) | 6, 8, 10, 12 | STR 11+, RES 11+, Any combat skill |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 8 | INT 11+, Charisma |
 | [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
@@ -90,7 +92,7 @@ The first skill check you make after a rest is made with advantage.
 
 You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
-##### Table: Inspirational Charisma Steps & Cost
+##### Table: Inspirational Charisma Steps, Cost, & Bonus
 | Step Cost | Total Cost | Bonus |
 |:-:|:-:|:-:|
 | 6 | 6 | +0 |
@@ -137,9 +139,9 @@ Your speed is increased by 2m, and your second move action each turn does not co
 ## Magical Luck
 
 **Cost:** Variable  
-**Requirements:** Max Dexterity 11+, Max Intelligence 11+, Trained in Sleight
+**Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in Sleight
 
-You may spend 3 mana to gain an advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
+You may spend 2 mana to gain an advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
 
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
@@ -153,7 +155,7 @@ You may spend 3 mana to gain an advantage on your next roll (including dice that
 **Cost:** 8 EXP  
 **Requirements:** Max Resolve 11+
 
-Rolls made to restore resources during rests are made with advantage.
+Restore 2 more endurance, stamina, and mana during rests of any duration.
 
 ## Mobility
 
@@ -173,9 +175,16 @@ Your ability to notice and remember details has expanded your natural perception
 ## Opportunist
 
 **Cost:** 6 EXP  
-**Requirements:** Max Dexterity 11+, Trained in the Opportunity Strike maneuver
+**Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in the Opportunity Strike maneuver
 
 The first Opportunity Strike you use each turn does not cost your reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target.
+
+## Prepared Defense
+
+**Cost:** 6 EXP  
+**Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
+
+The first defenseive action (such as block, evade, or parry, including defensive maneuvers), that you use each turn does not cost your reaction. Additionally, you may use defensive maneuvers twice each turn instead of only once.
 
 ## Polyglot
 
@@ -183,6 +192,21 @@ The first Opportunity Strike you use each turn does not cost your reaction, and 
 **Requirements:** Max Intelligence 11+, Trained in at least four languages
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
+
+## Rage
+
+**Cost:** Variable  
+**Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
+
+You gain an ability allowing you to fly into a rage at the cost of 1 health and 2 stamina as a swift action, giving you a temporary bonus to damage (as if from strength) and damage reduction (this bonus is halved while wearing body armour, rounded up). These bonuses vary depending on the advancement of this talent. These bonuses come with an additional –2 penalty to armour class. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
+
+##### Table: Rage Steps, Cost, & Bonuses
+| Step Cost | Total Cost | Bonus |
+|:-:|:-:|:-:|
+| 6 | 6 | +1 |
+| 8 | 14 | +2 |
+| 10 | 24 | +3 |
+| 12 | 36 | +4 |
 
 ## Sprinting
 

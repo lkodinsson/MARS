@@ -4,14 +4,46 @@
 | Name | Stamina<br/>Cost | Action<br/>Speed | Specializations |
 |:-|:-:|:-:|:-|
 | [Distracting Strike](#distracting-strike) | 2 | Standard | Finesse, Martial, Unarmed |
+| [Spell Deflection](#spell-deflection) | 1 | Reaction | Finesse, Martial, Ranged, Unarmed |
+| [Spell Evasion](#spell-evasion) | 1 | Reaction | Finesse, Ranged, Unarmed |
+| [Spell Strike](#spell-strike) | 1 | Standard | Finesse, Martial, Ranged, Unarmed |
 
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
 
 ## Distracting Strike
 
-**Specializations:** Finesse, Martial, Unarmed  
+**Specializations:** Finesse, Martial, Unarmed
+
 **Stamina Cost:** 2  
-**Action Speed:** Standard  
+**Action Speed:** Standard
+
 **Resist:** Willpower
 
 Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell. If they do, they cannot cast that spell on their next turn.
+
+## Spell Deflection
+
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+Get a +1 bonus to resist an incoming spell that targets only you. If you also have the Intercept maneuver, you may use this maneuver like the Intercept maneuver on adjacenet allies who are targeted by spells. If you do, you get +2 to resist the incoming spell instead of +1. You may also block that spell for free as a part of this action.
+
+## Spell Evasion
+
+**Specializations:** Finesse, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+Roll your evasion to resist a spell instead of making the normal resist roll. For spells that deal damage, if you succeed the resist they are upgraded to a graze unless you critically succeed the resist, where they are instead resisted normally. After you evade, you may move a distance up to half your speed.
+
+## Spell Strike
+
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Standard
+
+Make an attack. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a –2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).

@@ -22,6 +22,8 @@
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | Finesse, Martial, Unarmed |
 | [Penetrating Strike](#penetrating-strike) | 2 | Standard | Finesse, Ranged |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Ranged |
+| [Point-blank Shot](#point-blank-shot) | 1 | Swift | Ranged |
+| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Finesse, Ranged |
 | [Precise Strike](#precise-strike) | 3 | Standard | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Shield Bash](#shield-bash) | 1 | Standard | Martial, Unarmed |
@@ -29,7 +31,7 @@
 | [Taunt](#taunt) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Trip](#trip) | 1 | Standard | Finesse, Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 2 | Full-round | Ranged |
-| [Wild Strike](#wild-strike) | 1 | Standard | Martial, Unarmed |
+| [Wild Strike](#wild-strike) | 1 | Swift | Martial, Unarmed |
 
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
@@ -125,7 +127,7 @@ Make a single ranged attack with -2 to hit against two targets.
 
 **Resist:** Perception
 
-Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks or run away undetected.
+Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected.
 
 ## Feint
 
@@ -185,7 +187,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 **Duration:** 1 Round  
 **Resist:** Willpower
 
-Make a charisma check against a target within melee range. If successful, the target gets -2 to hit on all attacks for the duration. Then make a melee attack against that target.
+Make a charisma check against a target within melee range. If successful, the target gets –2 to hit on all attacks for the duration. Then make a melee attack against that target.
 
 ## Knock Down
 
@@ -196,7 +198,7 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 **Resist:** Fortitude
 
-Make an attack. If successful, the target becomes prone.
+Make an attack with –2 to hit. If successful, the target becomes prone.
 
 ## Leap Strike
 
@@ -214,8 +216,7 @@ Make an acrobatics check if leaping over an obstacle (1m between you and target)
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-**Duration:** 1 Turn  
-**Resist:** Fortitude
+**Duration:** 1 Turn
 
 Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
 
@@ -238,7 +239,34 @@ Make an attack. The target gets –2 to armour class (to a minimum of 0).
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
-Make an attack. If successful, the target can't move on their next turn.
+Make an attack with a projectile weapon. If successful, the target can't move on their next turn.
+
+## Point-blank Shot
+
+**Specializations:** Ranged
+
+**Stamina Cost:** 1  
+**Actions Speed:** Swift
+
+Make an attack with a projectile weapon against a target 2m or closer. This attack is made with +1 to damage if they are 2m away, or +2 to damage if they are 1m away.
+
+## Poisonous Strike
+
+**Specializations:** Finesse, Ranged
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+**Duration:** 1 Turn  
+**Resist:** Fortitude (for reduced effect)
+
+Make an attack with a weapon. If successful, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may resist the sickness. If they fail, they lose 2 health, otherwise reduce the degree of effect of the sickness by 1 and they lose 1 health instead.
+
+If this effect is applied to a target that is already effected by this kind of poison, the greatest degree of effect takes precedence.
+
+Instead of performing this maneuver, you may also make a medicine check to pre-apply a single use poison to a weapon that inflicts the same effect. This determines the difficulty (in advance) to resist that poison.
+
+Performing this maneuver, or pre-applying a poison, can only be done with access to a pre-made poison, or materials that can be used to approximate a poison.
 
 ## Precise Strike
 
@@ -294,7 +322,7 @@ Make a melee attack. If the weapon you use does not deal blunt damage or you mak
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
-Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your combat skill is exceptional (r12) or better, give the target double disadvantage instead.
+Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your charisma is exceptional (r12) or better, give the target double disadvantage instead.
 
 ## Trip
 
@@ -321,7 +349,7 @@ Make a single ranged attack with –2 to hit against three targets.
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
-**Action Speed:** Standard
+**Action Speed:** Swift
 
 **Duration:** 1 Round
 

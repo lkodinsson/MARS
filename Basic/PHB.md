@@ -30,7 +30,7 @@ If at any point during the game you are required to perform math that results in
 
 Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
-Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Whenever you add multiple roll values together they merge into a combined roll value: *r14 plus r8 equals r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
+Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Whenever you add multiple roll values together they merge into a combined roll value: *r14* plus *r8* equals *r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
 | Roll Value | Dice to Roll |
 |:-:|:-|
@@ -49,7 +49,7 @@ Roll value will typically have one or two numbers like so: *r14+1*. Where the fi
 | r28 | 2d10+1d8 |
 | r30 | 3d10 |
 
-This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating the average value quite fast as it is simply half of the roll value.
+This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating the average value quite fast as it is simply half of the roll value (then any additional bonuses or penalties).
 
 ### Stats
 
@@ -230,7 +230,7 @@ Unlike basic skills, a character must be at least trained in an advanced skill t
 
 ### Contacts (RES)
 
-Somtimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats.
+Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill can also be used to determine if you already have an existing rapport with newly introduced non-player characters.
 
 ### Knowledge (INT)
 
@@ -250,7 +250,7 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 
 ### Wild Empathy (RES)
 
-In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use the charisma skill to persuade someone.
+In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use the charisma skill to persuade someone. While it appears that this allows you to speak with animals, it does not. This skill allows you to provide an emotional confidence or trust in that animal. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
 # Combat Skills
 
@@ -435,7 +435,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. While evading, attacks made against you that result in a graze are instead considered a failure. After you evade, you may move a distance up to half your speed.
+Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes, it is considered a successful hit instead. After you evade, you may move a distance up to half your speed.
 
 #### Interact
 
@@ -489,7 +489,13 @@ Damaging items or objects is done by making the relevant skill checks against a 
 
 # Effects
 
-The duration of the following effects are considered permanent unless specified by the circumstance which provides these effects to an object or character. Most effects are normally temporary.
+The duration of any given effect is determined by the source of that effect. Usually this means that most effects are temporary. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent.
+
+Temporary effects that alter your primary stats, do not also alter your resource stats. They only change stats that rely on rolling that primary stat.
+
+For example: A character with a strength of r12 is given an effect with alters their size, increasing their strength by +2. This results in a strength of r12+2, which changes their athletic, fortitude, and damage rolls, but it does not change their maximum health from 12 to 14.
+
+Permanent effecs that alter your primary stats, however, do alter your resource stats.
 
 #### Blind
 
@@ -525,7 +531,9 @@ Prone characters are either kneeling or laying down on the ground. Ranged attack
 
 #### Sickness
 
-Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that you are sick you lose health equal to half this sickness value.
+Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that passes while you are sick you lose health equal to half this sickness value, rounded up.
+
+Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
 #### Stunned
 
@@ -678,7 +686,7 @@ Although you do not spend experience points to obtain your starting primary stat
 | 9 | 44 | r18 | Expert |
 | 10 | 54 | r20 | Master |
 
-<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points rather than the usual 2.
+<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points, while basic skills cost 2.
 
 Talents can also be acquired at varying costs depending on the specific talent. These will provide more breadth of ability to your character rather than raw numerical improvement. You can even acquire talents that other archetypes start with.
 

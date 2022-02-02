@@ -19,7 +19,7 @@ To cast a spell you must perform the following steps:
 
 1. Wait for the complete duration required to cast that spell.
 2. Roll your spellcasting skill and associated stat versus the spell's difficulty.
-3. If you succeed, spend mana equal to that spell's cost. If you fail, spend 1 mana instead.
+3. If you succeed, spend mana equal to that spell's cost. If you fail, spend 1 mana instead. If somehow you can't, the spells fumbles instead.
 4. Perform the effects of that spell based on your degree of success.
 5. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
@@ -46,31 +46,34 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 |:-|:-:|:-:|:-:|:-|
 | [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Arcane, Conjuration, Evocation |
-| [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment |
+| [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment, Militarism |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Darkness, Entropy |
 | [Debilitate](#debilitate) | 2 | 10 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
-| [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury, Light |
+| [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury, Authority, Light |
 | [Enhance](#enhance) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
-| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Air, Enchantment, Transmutation |
+| [Enhance Self](#enhance-self) | 3 | 14 | Swift | Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve) |
+| [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Air, Discipline, Enchantment, Kiai, Liberty, Transmutation |
 | [Grease](#grease) | 2 | 10 | Standard | Conjuration, Water |
-| [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Fire, Transmutation |
-| [Inspire](#inspire) | 2 | 10 | Standard | Evocation, Fire |
-| [Jolt](#jolt) | 1 | 7 | Swift | Air, Evocation, Transmutation |
-| [Knock](#knock) | 3 | 14 | Extended (1 minute) | Augury, Light, Transmutation |
-| [Light](#light) | 1 | 7 | Swift | Conjuration, Enchantment, Fire, Harmony, Light |
-| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Air (Electric), Arcane, Enchantment, Fire, Transmutation, Water (Cold) |
-| [Mend](#mend) | 2 | 10 | Standard | Balance, Earth, Harmony, Light, Transmutation, Water |
-| [Message](#message) | 1 | 7 | Swift | Air, Augury, Enchantment, Light |
-| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Arcane, Conjuration, Darkness |
-| [Seek Guidance](#seek-guidance) | 2 | 10 | Extended (1 minute) | Light, Augury |
-| [Shield](#shield) | 2 | 10 | Reaction | Conjuration, Enchantment |
-| [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Earth, Transmutation, Water |
-| [Sight](#sight) | 1 | 7 | Swift | Augury, Balance, Enchantment, Light |
-| [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury, Light |
-| [Sleep](#sleep) | 3 | 14 | Full-round | Darkness, Enchantment, Evocation |
-| [Suggestion](#suggestion) | 2 | 10 | Swift | Enchantment, Evocation, Fire |
+| [Harm](#harm) | 2 | 10 | Standard | Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water |
+| [Ignite](#ignite) | 1 | 7 | Swift | Evocation, Fire, Impulse, Transmutation |
+| [Inspire](#inspire) | 2 | 10 | Standard | Altruism, Evocation, Fire, Harmony, Impulse, Yuuki |
+| [Jolt](#jolt) | 1 | 7 | Swift | Air, Evocation, Impulse, Transmutation |
+| [Knock](#knock) | 3 | 14 | Extended<br/>(1 minute) | Augury, Authority, Entropy, Light, Transmutation |
+| [Light](#light) | 1 | 7 | Swift | Altruism, Augury, Conjuration, Enchantment, Fire, Harmony, Liberty, Light |
+| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Air (Electric), Arcane, Enchantment, Fire, Militarism, Transmutation, Water (Cold) |
+| [Mend](#mend) | 2 | 10 | Standard | Altruism, Balance, Charity (Bonus: Adept), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki |
+| [Message](#message) | 1 | 7 | Swift | Air, Augury, Enchantment, Liberty, Light, Shouki |
+| [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Arcane, Authority, Conjuration, Darkness |
+| [Seek Guidance](#seek-guidance) | 2 | 10 | Extended<br/>(1 minute) | Augury, Authority, Balance, Service (Bonus: Adept), Entropy, Harmony, Light |
+| [Shield](#shield) | 2 | 10 | Reaction | Arcane, Conjuration, Enchantment, Militarism, Shouki |
+| [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Earth, Militarism, Transmutation, Water |
+| [Sight](#sight) | 1 | 7 | Swift | Augury, Authority, Balance, Discipline, Enchantment, Light, Shouki |
+| [Sight Projection](#sight-projection) | 2 | 10 | Standard | Augury, Authority, Light, Shouki |
+| [Sleep](#sleep) | 3 | 14 | Full-round | Authority, Darkness, Enchantment, Evocation |
+| [Speak with Animals](#speak-with-animals) | 1 | 7 | Standard | Animism (Bonus: Trained) |
+| [Suggestion](#suggestion) | 2 | 10 | Swift | Authority, Enchantment, Evocation, Fire |
 | [Telekinesis](#telekinesis) | 1 | 7 | Swift | Air, Arcane, Kiai, Transmutation |
-| [Water Breathing](#water-breathing) | 2 | 10 | Standard | Air, Enchantment, Transmutation, Water |
+| [Water Breathing](#water-breathing) | 2 | 10 | Standard | Air, Enchantment, Shouki, Transmutation, Water |
 | [Water Jet](#water-jet) | 1 | 7 | Swift | Conjuration, Water |
 
 ## Alter Size
@@ -86,7 +89,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 **Duration:** 5 minutes (concentration)  
 **Resist:** Willpower
 
-Increase or decrease the size category of a creature or object. You may change size an additional size category by raising mana cost by 1 and difficult by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
+Increase or decrease the size category of a creature or object. You may change size an additional size category by raising mana cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
 
 For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 mana with a difficulty of 14.
 
@@ -110,7 +113,7 @@ You shoot arcane missiles dealing r8+1 arcane damage. These missiles always hit 
 
 ## Armour
 
-**Specializations:** Arcane, Conjuration, Enchantment  
+**Specializations:** Arcane, Conjuration, Enchantment, Militarism  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -137,7 +140,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 **Range:** Touch  
 **Target:** One object or surface  
-**Duration:** 5 minutes (concentration, range of 30m)  
+**Duration:** 30 minutes (concentration, range of 30m)  
 **Resist:** Willpower
 
 You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
@@ -152,14 +155,14 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 
 **Range:** 6m  
 **Target:** One creature  
-**Duration:** 6 seconds (until used) or 5 minutes (concentration)  
+**Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
 Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the mana cost to 1.
 
 ## Detect Thoughts
 
-**Specializations:** Augury, Light  
+**Specializations:** Augury, Authority, Light  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -185,14 +188,27 @@ Allows you to read the active thoughts of another creature without them knowing 
 
 **Range:** 6m  
 **Target:** One creature  
-**Duration:** 6 seconds (until used) or 5 minutes (concentration)  
+**Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
 Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the mana cost to 2.
 
+## Enhance Self
+
+**Specializations:** Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve)  
+**Difficulty:** 14 (Challenging)
+
+**Mana Cost:** 3  
+**Action Speed:** Swift
+
+**Target:** Self  
+**Duration:** 12 seconds (until used) or 5 minutes (concentration)
+
+This spell functions exactly like the spell enhance, but it can only be cast on yourself. This spell has the added bonus of being faster to cast (swift instead of standard action speed).
+
 ## Feather Fall
 
-**Specializations:** Air, Enchantment, Transmutation  
+**Specializations:** Air, Discipline, Enchantment, Kiai, Liberty, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -218,17 +234,35 @@ Reduces the speed that you fall to a slow enough speed that you can always land 
 **Duration:** 5 minutes  
 **Resist:** Acrobatics (vs grease), Fortitude (vs ignition)
 
-Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or they fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area. The grease can be ignited, which also gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
+Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or they fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area. The grease can be ignited, which also gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
+
+## Harm
+
+**Specializations:** Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** Touch  
+**Target:** One object or creature  
+**Resist:** Fortitude
+
+This spell can be used to destroy small mundane objects made of wood or stone, break part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have same effect on undead creatures as the spell mend does on living creatures.
+
+***Critical:*** Deal r24 damage, and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
+***Success:*** Deal r16 damage.  
+***Graze:*** Deal r8 damage.
 
 ## Ignite
 
-**Specializations:** Evocation, Fire, Transmutation  
+**Specializations:** Evocation, Fire, Impulse, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
 **Action Speed:** Swift
 
-**Range:** 3m  
+**Range:** Touch or 3m  
 **Target:** One creature or object  
 **Resist:** Deflection
 
@@ -240,7 +274,7 @@ You apply a small burst of heat to a nearby object or creature, dealing fire dam
 
 ## Inspire
 
-**Specializations:** Evocation, Fire  
+**Specializations:** Altruism, Evocation, Fire, Harmony, Impulse, Yuuki  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -255,13 +289,13 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 
 ## Jolt
 
-**Specializations:** Air, Evocation, Transmutation  
+**Specializations:** Air, Evocation, Impulse, Transmutation  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
 **Action Speed:** Swift
 
-**Range:** 3m  
+**Range:** Touch or 3m  
 **Target:** One creature or object  
 **Resist:** Deflection
 
@@ -273,7 +307,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 
 ## Knock
 
-**Specializations:** Augury, Light, Transmutation  
+**Specializations:** Augury, Authority, Entropy, Light, Transmutation  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -286,7 +320,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 
 ## Light
 
-**Specializations:** Conjuration, Enchantment, Fire, Harmony, Light  
+**Specializations:** Altruism, Augury, Conjuration, Enchantment, Fire, Harmony, Liberty, Light  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -294,14 +328,14 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 
 **Range:** Touch  
 **Target:** One object or surface  
-**Duration:** Indefinite (concentration, range of 30m)  
+**Duration:** 1 hour (concentration, range of 30m)  
 **Resist:** Willpower
 
 You touch an object or surface, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
 
 ## Magic Weapon
 
-**Specializations:** Air (Electric), Arcane, Enchantment, Fire, Transmutation, Water (Cold)  
+**Specializations:** Air (Electric), Arcane, Enchantment, Fire, Militarism, Transmutation, Water (Cold)  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -320,7 +354,7 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 
 ## Mend
 
-**Specializations:** Balance, Earth, Harmony, Light, Transmutation, Water  
+**Specializations:** Altruism, Balance, Charity (Bonus: Adept), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -330,7 +364,7 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 **Target:** One object or creature  
 **Resist:** Fortitude
 
-This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized.
+This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures.
 
 ***Critical:*** Restore 1 health, and r24 endurance.  
 ***Success:*** Restore r16 endurance.  
@@ -338,7 +372,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 
 ## Message
 
-**Specializations:** Air, Augury, Enchantment, Light  
+**Specializations:** Air, Augury, Enchantment, Liberty, Light, Shouki  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -353,7 +387,7 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 
 ## Minor Illusion
 
-**Specializations:** Arcane, Conjuration, Darkness  
+**Specializations:** Arcane, Authority, Conjuration, Darkness  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -362,11 +396,11 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 **Range:** Touch  
 **Duration:** Indefinite (concentration, range of 30m)
 
-You create the illusion of a small object, tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight.
+You create the illusion of a small object, very tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight.
 
 ## Seek Guidance
 
-**Specializations:** Light, Augury  
+**Specializations:** Augury, Authority, Balance, Service (Bonus: Adept), Entropy, Harmony, Light  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -380,16 +414,16 @@ Provides you with some information about any subject. Ask the Game Master a simp
 
 ## Shield
 
-**Specializations:** Conjuration, Enchantment  
+**Specializations:** Arcane, Conjuration, Enchantment, Militarism, Shouki  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
 **Action Speed:** Reaction
 
-**Range:** Self  
+**Target:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so.
+You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so.
 
 ***Critical:*** Block 6.  
 ***Success:*** Block 5.  
@@ -397,7 +431,7 @@ You create a magical shield. It acts like a shield in that it has a block value,
 
 ## Sickness
 
-**Specializations:** Conjuration, Earth, Transmutation, Water  
+**Specializations:** Conjuration, Earth, Militarism, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -415,7 +449,7 @@ Inflict sickness upon a creature, causing it to perform tasks worse and suffer l
 
 ## Sight
 
-**Specializations:** Augury, Enchantment, Harmony, Light  
+**Specializations:** Augury, Authority, Balance, Discipline, Enchantment, Light, Shouki  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -430,20 +464,20 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 
 ## Sight Projection
 
-**Specializations:** Augury, Light  
+**Specializations:** Augury, Authority, Light, Shouki  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
 **Action Speed:** Standard
 
-**Range:** Self  
+**Target:** Self  
 **Duration:** 30 minutes (concentration, range of 100m+)
 
 You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 25m for every 1 your casting roll bypasses the difficulty.
 
 ## Sleep
 
-**Specializations:** Darkness, Enchantment, Evocation  
+**Specializations:** Authority, Darkness, Enchantment, Evocation  
 **Difficulty:** 14 (Challenging)
 
 **Mana Cost:** 3  
@@ -460,9 +494,22 @@ When cast on creatures in combat the active adrenaline in their body makes the s
 
 Creatures fall prone when they fall asleep. This spell's mana cost and difficulty increases by 2 for each additional creature you target.
 
+## Speak with Animals
+
+**Specializations:** Animism (Bonus: Trained)  
+**Difficulty:** 7 (Moderate)
+
+**Mana Cost:** 1  
+**Action Speed:** Standard
+
+**Target:** Self  
+**Duration:** Indefinite (concentration)
+
+You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to speak to animals receiving a response you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
+
 ## Suggestion
 
-**Specializations:** Enchantment, Evocation, Fire  
+**Specializations:** Authority, Enchantment, Evocation, Fire  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -488,11 +535,11 @@ You make a simple request of a creature (no longer than two sentences). If that 
 **Duration:** Instant or 5 minutes (concentration, range)  
 **Resist:** Willpower
 
-You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects moved can only move a total of 6m at once, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
+You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
 
 ## Water Breathing
 
-**Specializations:** Air, Enchantment, Transmutation, Water  
+**Specializations:** Air, Enchantment, Shouki, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  

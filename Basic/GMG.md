@@ -68,8 +68,8 @@ This stat is represented by a single number. This number is a comparative value 
 You can find the combat rating of any character or creature by finding three specific values, then multiplying them together:
 
 Health pool and damage rating: (Maximum health + maximum endurance) ÷ 20  
-Offense rating: (Highest combat or spellcasting skill rating) ÷ 10  
-Defense rating: (Highest of deflection rating or evasion rating + damage reduction) ÷ 10
+Offense rating: (Highest of combat skill or spellcasting skill rating) ÷ 10  
+Defense rating: (Highest of deflection or evasion rating + damage reduction) ÷ 10
 
 A challenge rating of 1 is found by assuming all stats are average (r10), a proficiency in a combat skill (r10), any basic weapon, and wearing a piece of armour with a combined armour class and damage reduction of 5.
 
@@ -77,7 +77,13 @@ Challenging combat encounters have equivalent combat ratings on both sides. Some
 
 ### Creature Rarity
 
-Creatures come in three rarities: *common*, *elite*, and *legendary*. By default the listed statistics for a creature represent their stats as if they were an elite. A creature's resource stats (health, endurance, stamina, and mana) should be modified depending on their rarity. Common creatures will have half the listed value of their resources stats (rounded down), and since they aren't particularly notable they should use their special abilities sparingly if at all. Legendary creatures, however, will have double the listed value of their resource stats. The challenge rating that creature is also modified the same way.
+Creatures come in three rarities: *common*, *elite*, and *legendary*. By default the listed statistics for a creature represent their stats as if they were an elite. The stats of a given creature are different depending on their rarity, and take actions slightly differently.
+
+Common creatures are simple, and easier to defeat in combat. Instead of tracking multiple resources for each of them, ignore all but their endurance. Have them become unconscious or dying (as it fits the narrative) when their endurance reaches zero. Since you are ignoring their stamina and mana, instead limit them to up to one or two uses of maneuvers or spells. This will allow you to more easily make decisions for those creatures without requiring that you track multiple statistics about them.
+
+Elite creatures represent a more serious challenge to players, showing up in fewer numbers, and should use their abilities more frequently. Tracking their resources ensures that they meet this standard and are used fairly.
+
+Legendary creatures are basically bosses or lone creatures. They should be given double the amount of all their resources. If you want to make encounters with these kinds of creatures more interesting and unpredictable, you can choose to treat their stamina or mana as infinite, give them a bonus action on pivotal turns, or provide them with additional actions beyond their listed statistics. Try to utilize these kinds of bonuses within reason, as the goal is not to defeat the players, but to keep them guessing.
 
 # Creating Creatures
 
