@@ -28,7 +28,7 @@ The difficulty value to craft an item is based on its cost. This can be determin
 
 After you have determined the item's cost and difficulty, make a craft check. Your roll determines the percentage of your crafting progress and how much you will pay immediately, representing the raw ingredients that are used up to create the item. The amount you pay immediately is equal to the cost of the item, multiplied by the amount of progress, made multiplied by a modifier value determined by how well you rolled:
 
-***Double Critical:*** Gain 100% progress and pay half price.
+***Double Critical:*** Gain 100% progress and pay half price.  
 ***Critical:*** Gain 50% progress and pay half price.  
 ***Success:*** Gain 20% progress and pay three quarters price.  
 ***Graze:*** Gain 10% progress and pay full price.  
@@ -210,7 +210,7 @@ In short: the total cost = base item cost + combined cost of all magical effects
 
 There are a few decisions that are requried to determine the cost of magical effects. If it s a standard magic effect: the *spell required* to create the effect, the *application of the spell*, and *how many magical effects* are present on the item. The spell required determines the base magic cost, while the other decisions act as multipliers on this value.
 
-In addition to a standard magic effect, there is also a bonus magic effect. Bonus magic effects include: [triggered effects](#triggered-effects), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing). These bonus effects don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a base magic effect.
+In addition to a standard magic effect, there is also a bonus magic effect. Bonus magic effects include: [triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing). These bonus effects don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a base magic effect.
 
 Below is a table to use as a shortcut for determining costs and multipliers:
 
@@ -339,7 +339,7 @@ Magic items are not limited to a single magic effect, but there is an additional
 
 In short: the total cost = base item cost + combined cost of all magical effects × (1 + the number of additional effects × ½)
 
-Bonus magic effects, like [triggered effects](#triggered-effects), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing), also contribute to the total number of effects. These bonus effects don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a base magic effect.
+Bonus magic effects, like [triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing), also contribute to the total number of effects. These bonus effects don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a base magic effect.
 
 Attuning to a single item with multiple continuous effects allows you to use any combination of those effects, even simultaneously.
 
