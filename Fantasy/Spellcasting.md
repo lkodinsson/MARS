@@ -45,13 +45,14 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
 | [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
+| [Animal Form](#animal-form) | 2 | 10 | Animism (Bonus: Practiced) |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Arcane, Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment, Militarism |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Darkness, Entropy |
-| [Debilitate](#debilitate) | 2 | 10 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
+| [Debilitate](#debilitate) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury, Authority, Light |
-| [Enhance](#enhance) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
-| [Enhance Self](#enhance-self) | 3 | 14 | Swift | Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve) |
+| [Enhance](#enhance) | 4 | 19 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
+| [Enhance Self](#enhance-self) | 4 | 19 | Swift | Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve) |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Air, Discipline, Enchantment, Kiai, Liberty, Transmutation |
 | [Grease](#grease) | 2 | 10 | Standard | Conjuration, Water |
 | [Harm](#harm) | 2 | 10 | Standard | Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water |
@@ -92,6 +93,25 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 Increase or decrease the size category of a creature or object. You may change size an additional size category by raising mana cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
 
 For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 mana with a difficulty of 14.
+
+## Animal Form
+
+**Specializations:** Animism (Bonus: Practiced)  
+**Difficulty:** 10 (Hard)
+
+**Mana Cost:** 2  
+**Action Speed:** Standard
+
+**Target:** Self  
+**Duration:** Indefinite (concentration)
+
+You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost.
+
+While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making a roll (such as when rolling deflection, evasion, fortitude, willpower, etc.)
+
+Additionally, you acquire any natural weapons, abilities (but not talents), and even movement speed that beast might have. While in this form your physical equipment still exists and can still provide magical effects, but otherwise you are no longer considered to have your weapons and armour eqiupped. You lose the ability to speak normally, and you may not cast other spells (you may still cast this spell if you wanted to change directly into another animal).
+
+For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 mana with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
 
 ## Arcane Missiles
 
@@ -148,9 +168,9 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 ## Debilitate
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence)  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 2  
+**Mana Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -158,7 +178,7 @@ You touch an object or surface, causing it to consume nearly all light in a 10m 
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the mana cost to 1.
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the mana cost to 2.
 
 ## Detect Thoughts
 
@@ -181,9 +201,9 @@ Allows you to read the active thoughts of another creature without them knowing 
 ## Enhance
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 19 (Challenging)
 
-**Mana Cost:** 3  
+**Mana Cost:** 4  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -191,14 +211,14 @@ Allows you to read the active thoughts of another creature without them knowing 
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the mana cost to 2.
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the mana cost to 3.
 
 ## Enhance Self
 
 **Specializations:** Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve)  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 19 (Challenging)
 
-**Mana Cost:** 3  
+**Mana Cost:** 4  
 **Action Speed:** Swift
 
 **Target:** Self  
@@ -331,7 +351,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Duration:** 1 hour (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object or surface, causing it to radiate light like a torch in a 10m radius. In daylight or a well lit area the magical light is unnoticeable. Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
+You touch an object or surface, causing it to radiate light like a torch in a 10m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
 
 ## Magic Weapon
 

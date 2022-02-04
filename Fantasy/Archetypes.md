@@ -3,21 +3,21 @@
 ##### Table: Fantasy Archetypes
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
-| [Artificer](#artificer) | Arcana (Any) (r6), Charisma (r6), Craft (r6),<br/>Perception (r6), Sleight (r6) | Always Prepared | INT |
-| [Assassin](#assassin) | Acrobatics (r4), Finesse or Ranged (r6),<br/>Perception (r4), Medicine (r6), Stealth (r8) | Ambidexterity (-3) | DEX |
-| [Bard](#bard) | Arcana (Any) (r4), Charisma (r8), Finesse or Ranged (r6),<br/>Contacts, Knowledge, or Lore (r6), Perception (r4)  | Inspirational Charisma (+0),<br/>and Toughness (+4) | RES |
-| [Berserker](#berserker) | Athletics (r6), Charimsa (r6), Martial (r8),<br/>Unarmed (r4), Wild Empathy (r4) | Rage (+1),<br/>and Toughness (+4) | STR and RES |
-| [Cleric](#cleric) | Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | Divine Devotion | RES |
-| [Druid](#druid) | Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8),<br/>Medicine (r4), Perception (r6), Wild Empathy (r6) | Wild Magic | RES |
-| [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | Toughness (+8) | STR or DEX |
-| [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | Meditative Rest | RES |
-| [Paladin](#paladin) | Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | Divine Axiom (Any),<br/>and Toughness (+4) | RES |
-| [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | Deduction,<br/>and Toughness (+4) | INT |
-| [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | Danger Sense | DEX |
-| [Sorcerer](#sorcerer) | Acrobatics or Athletics (r4), Charisma (r6),<br/>Contacts (r4), Power (Any) (r8), Wild Empathy (r6) | Esoteric Will | RES |
-| [Theurge](#theurge) | Arcana (Any) (r8), Charisma (r4), Faith (Any) (r6),<br/>Knowledge, Lore, or Medicine (r6), Perception (r4) | Metamagic (Any) | INT or RES |
-| [Warmage](#warmage) | Athletics (r6), Arcana (Enchantment or Transmutation) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | Eldritch Infusion,<br/>and Toughness (+4) | INT |
-| [Wizard](#wizard) | Arcana (Any) (r8), Charisma (r4), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | Arcane Precision | INT |
+| [Artificer](#artificer) | Arcana (Any) (r6), Charisma (r6), Craft (r6),<br/>Perception (r6), Sleight (r6) | [Always Prepared](/Basic/Talents.md#always-prepared) | INT |
+| [Assassin](#assassin) | Acrobatics (r4), Finesse or Ranged (r6),<br/>Perception (r4), Medicine (r6), Stealth (r8) | [Ambidexterity (-3)](/Basic/Talents.md#ambidexterity) | DEX |
+| [Bard](#bard) | Arcana (Any) (r4), Charisma (r8), Finesse or Ranged (r6),<br/>Contacts, Knowledge, or Lore (r6), Perception (r4)  | [Inspirational Charisma (+0)](/Basic/Talents.md#inspirational-charisma),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
+| [Berserker](#berserker) | Athletics (r6), Charimsa (r6), Martial (r8),<br/>Unarmed (r4), Wild Empathy (r4) | [Rage (+1)](/Basic/Talents.md#rage),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | STR *and* RES |
+| [Cleric](#cleric) | Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | [Divine Devotion (1/Rest)](/Fantasy/Talents.md#divine-devotion) | RES |
+| [Druid](#druid) | Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8),<br/>Medicine (r4), Perception (r6), Wild Empathy (r6) | [Wild Magic](/Fantasy/Talents.md#wild-magic) | RES |
+| [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | [Toughness (+8)](/Basic/Talents.md#toughness) | STR or DEX |
+| [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | [Meditative Rest](/Basic/Talents.md#meditative-rest) | RES |
+| [Paladin](#paladin) | Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
+| [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | [Deduction](/Basic/Talents.md#deduction),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
+| [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | [Danger Sense](/Basic/Talents.md#danger-sense) | DEX |
+| [Sorcerer](#sorcerer) | Acrobatics or Athletics (r4), Charisma (r6),<br/>Contacts (r4), Power (Any) (r8), Wild Empathy (r6) | [Esoteric Will](/Fantasy/Talents.md#esoteric-will) | RES |
+| [Theurge](#theurge) | Arcana (Any) (r8), Charisma (r4), Faith (Any) (r6),<br/>Knowledge, Lore, or Medicine (r6), Perception (r4) | [Metamagic (Any)](/Fantasy/Talents.md#metamagic) | INT or RES *13+* |
+| [Warmage](#warmage) | Athletics (r6), Arcana (Enchantment or Transmutation) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | [Eldritch Infusion](/Fantasy/Talents.md#eldritch-infusion),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
+| [Wizard](#wizard) | Arcana (Any) (r8), Charisma (r4), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | [Arcane Precision](/Fantasy/Talents.md#arcane-precision) | INT |
 
 ## Artificer
 
@@ -25,16 +25,16 @@ Artificers are gifted craftspersons, that are capable of inventing all kinds of 
 
 **Skills** Arcana (Any) (r6), Charisma (r6), Craft (r6), Perception (r6), Sleight (r6)  
 **Spells** Artificer starts with two spells.  
-**Talent** Always Prepared  
+**Talent** [Always Prepared](/Basic/Talents.md#always-prepared)  
 **Primary Stat** Artificer must start with a maximum intelligence of 11 or greater.
 
 ## Assassin
 
-Rogues may have a bad reputation in some circles, but that's really the fault of assassins. It's not entirely without reason, however, as both assassins and rogues slink in the shadows. Assassins excel primarily at inflicting death. While this is true, they owe it to their medicinal knowledge. This type of knowledge allows them to prepare both poisons and antidotes.
+Rogues may have a bad reputation in some circles, but that's mostly the fault of assassins. It's not entirely without reason, however, as both assassins and rogues prefer to slink in the shadows. Assassins excel primarily at inflicting death. While this is true, they owe it to their medicinal knowledge. This type of knowledge allows them to prepare both poisons and antidotes.
 
 **Skills** Acrobatics (r4), Finesse or Ranged (r6), Perception (r4), Medicine (r6), Stealth (r8)  
 **Maneuvers** Assassins start with one maneuver.  
-**Talent** Ambidexterity (-3)  
+**Talent** [Ambidexterity (-3)](/Basic/Talents.md#ambidexterity)  
 **Primary Stat** Assassins must start with a maximum dexterity of 11 or greater.
 
 ## Bard
@@ -44,7 +44,7 @@ Bards, much like wizards, are educated and personable. Bards use cleverness, ski
 **Skills** Arcana (Any) (r4), Charisma (r8), Finesse or Ranged (r6), Contacts, Knowledge, or Lore (r6), Perception (r4)  
 **Maneuvers** Bards start with one maneuver.  
 **Spells** Bards start with one spell.  
-**Talent** Inspirational Charisma (+0), Toughness (+4)  
+**Talent** [Inspirational Charisma (+0)](/Basic/Talents.md#inspirational-charisma), [Toughness (+4)](/Basic/Talents.md#toughness)  
 **Primary Stat** Bards must start with a maximum resolve of 11 or greater.
 
 ## Berserker
@@ -53,7 +53,7 @@ While fighters might choose diplomacy, or paladins might seek to protect their a
 
 **Skills** Athletics (r6), Charimsa (r6), Martial (r8), Unarmed (r4), Wild Empathy (r4)  
 **Maneuvers** Berserkers start with two maneuvers for martial, and one maneuver for unarmed.  
-**Talent** Rage (+1), Toughness (+4)  
+**Talent** [Rage (+1)](/Basic/Talents.md#rage), [Toughness (+4)](/Basic/Talents.md#toughness)  
 **Primary Stat** Berserkers must start with a maximum strength and a maximum resolve of 11 or greater.
 
 ## Cleric
@@ -62,7 +62,7 @@ Many people have a code they follow that defines who they are, but clerics make 
 
 **Skills** Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6), Medicine (r6), Perception (r4)  
 **Spells** Clerics start with three spells, and one bonus spell (depending on their specialization).  
-**Talent** Divine Devotion (1/Rest)  
+**Talent** [Divine Devotion (1/Rest)](/Fantasy/Talents.md#divine-devotion)  
 **Primary Stat** Clerics must start with a maximum resolve of 11 or greater.
 
 ## Druid
@@ -71,7 +71,7 @@ Druids are magic users that are in tune with the forces of nature. Druids are ra
 
 **Skills** Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8), Medicine (r4), Perception (r6), Wild Empathy (r6)  
 **Spells** Druids start with three spells, and two bonus spells: Speak with Animals and Animal Form.  
-**Talent** Wild Magic  
+**Talent** [Wild Magic](/Fantasy/Talents.md#wild-magic)  
 **Primary Stat** Druids must start with a maximum resolve of 11 or greater.
 
 ## Fighter
@@ -80,7 +80,7 @@ No matter the reason, either to defend the weak, for honor, for glory, or for re
 
 **Skills** Athletics (r6), Charisma (r4), Medicine (r6), Finesse, Martial, or Ranged (r8), Stealth or Perception (r4)  
 **Maneuvers** Fighters start with two maneuvers.  
-**Talent** Toughness (+8)  
+**Talent** [Toughness (+8)](/Basic/Talents.md#toughness)  
 **Primary Stat** Fighters must start with either a maximum strength or maximum dexterity of 11 or greater.
 
 ## Monk
@@ -90,7 +90,7 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 **Skills** Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6), Ki (Any) (r8), Medicine (r4), Perception (r4)  
 **Maneuvers** Monks start with one maneuver.  
 **Spells** Monks start with three spells.  
-**Talent** Meditative Rest  
+**Talent** [Meditative Rest](/Basic/Talents.md#meditative-rest)  
 **Primary Stat** Monks must start with a maximum resolve of 11 or greater.
 
 ## Paladin
@@ -100,7 +100,7 @@ While clerics can represent the full spectrum of the devoted, paladins represent
 **Skills** Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
 **Maneuvers** Paladins start with one maneuver.  
 **Spells** Paladins start with two spells.  
-**Talent** Divine Axiom (Any), Toughness (+4)  
+**Talent** [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom), [Toughness (+4)](/Basic/Talents.md#toughness)  
 **Primary Stat** Paladins must start with a maximum resolve of 11 or greater.
 
 ## Ranger
@@ -109,7 +109,7 @@ Some people prefer to live among nature, where insight is a key component to sur
 
 **Skills** Athletics or Stealth (r6), Medicine (r6), Perception (r6), Finesse, Martial, or Ranged (r6), Wild Empathy (r6)  
 **Maneuvers** Rangers start with one maneuver.  
-**Talent** Deduction, Toughness (+4)  
+**Talent** [Deduction](/Basic/Talents.md#deduction), [Toughness (+4)](/Basic/Talents.md#toughness)  
 **Primary Stat** Rangers must start with a maximum intelligence of 11 or greater.
 
 ## Rogue
@@ -118,7 +118,7 @@ The world is full of dangers and unknowns. Rogues live and breathe in the world 
 
 **Skills** Acrobatics or Charisma (r4), Finesse or Ranged (r6), Perception (r6), Sleight (r8), Stealth (r4)  
 **Maneuvers** Rogues start with one maneuver.  
-**Talent** Danger Sense  
+**Talent** [Danger Sense](/Basic/Talents.md#danger-sense)  
 **Primary Stat** Rogues must start with a maximum dexterity of 11 or greater.
 
 ## Sorcerer
@@ -127,7 +127,7 @@ Sorcerers are like wizards in that they are known for their magic, but it is not
 
 **Skills** Acrobatics or Athletics (r4), Charisma (r6), Contacts (r4), Power (Any) (r8), Wild Empathy (r6)  
 **Spells** Sorcerers start with three spells, and one of those spells is designated as a signature spell.  
-**Talent** Esoteric Will  
+**Talent** [Esoteric Will](/Fantasy/Talents.md#esoteric-will)  
 **Primary Stat** Sorcerers must start with a maximum resolve of 11 or greater.
 
 ## Theurge
@@ -136,7 +136,7 @@ Theurges are powerful spellcasters dedicated to the pursuit of occult mastery. I
 
 **Skills** Arcana (Any) (r8), Charisma (r4), Faith (Any) (r6), Knowledge, Lore, or Medicine (r6), Perception (r4)  
 **Spells** Theurges start with three spells in arcana, two spells in faith, and one bonus spell in faith (depending on their specialization).  
-**Talent** Metamagic (Any)  
+**Talent** [Metamagic (Any)](/Fantasy/Talents.md#metamagic)  
 **Primary Stat** Theurges must start with a maximum intelligence or maximum resolve of 13 or greater.
 
 ## Warmage
@@ -146,7 +146,7 @@ Where fighters might represent more varied martial roles, warmages are trained s
 **Skills** Athletics (r6), Arcana (Enchantment or Transmutation) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
 **Maneuvers** Warmages start with one maneuver.  
 **Spells** Warmages start with two spells.  
-**Talent** Eldritch Infusion, Toughness (+4)  
+**Talent** [Eldritch Infusion](/Fantasy/Talents.md#eldritch-infusion), [Toughness (+4)](/Basic/Talents.md#toughness)  
 **Primary Stat** Warmages must start with a maximum intelligence of 11 or greater.
 
 ## Wizard
@@ -155,5 +155,5 @@ Although wizards are known for feats of magical performance and knowledge of anc
 
 **Skills** Arcana (Any) (r8), Charisma (r4), Knowledge or Lore (r6), Medicine (r6), Perception (r4)  
 **Spells** Wizards start with three spells.  
-**Talent** Arcane Precision  
+**Talent** [Arcane Precision](/Fantasy/Talents.md#arcane-precision)  
 **Primary Stat** Wizards must start with a maximum intelligence of 11 or greater.

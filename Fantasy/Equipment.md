@@ -18,8 +18,10 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Adventuring Gear
 | Name | Price | Weight |
 |:-|:-:|:-:|
+| Alchemical base | 1sp | ½kg |
 | Backpack<sup>1</sup> | 1sp | 1kg |
 | Bedroll<sup>1</sup> | 1sp | 1kg |
+| Belt | 5cp | ¼kg |
 | Book, 50 pages | 1sp | ¼kg |
 | Candles (10) | 5cp | 1kg |
 | Clothes, common<sup>1</sup> | 2sp | 1kg |
@@ -27,11 +29,18 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Clothes, luxurious (fine doublet) | 15sp | 4kg |
 | Flint & steel<sup>1</sup> | 1sp | ¼kg |
 | Food, rations (4)<sup>1</sup> | 8cp | 2kg |
+| Gemstone, rough | 2sp | - |
+| Gemstone, fine | 10sp | - |
+| Gemstone, magnificient | 200sp | - |
 | Grappling hook | 2sp | 2kg |
+| Hat | 5cp | ¼kg |
 | Lantern | 2sp | 1kg |
 | Lantern oil (36 hrs) | 3sp | ¼kg |
 | Musical Instrument | 8sp | 1½kg |
 | Rope, 18m | 2sp | 3kg |
+| Ring, copper | 2cp | - |
+| Ring, silver | 2sp | - |
+| Ring, gold | 200sp | - |
 | Toolkit, small<sup>2</sup> | 3sp | 1½kg |
 | Toolkit, large<sup>2</sup> | 8sp | 5kg |
 | Torch | 5cp | 1kg |
@@ -55,7 +64,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Drink, bottle of fine wine | 10sp | 2kg |
 | Food, average | 2cp | ½kg |
 | Food, high quality | 5cp | ¾kg |
-| Food, fine dining | 1sp | 1kg |
+| Food, fine dining | 2sp | 1kg |
 
 ## Weapons
 

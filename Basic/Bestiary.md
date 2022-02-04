@@ -72,7 +72,7 @@ These flying creatures are bigger and faster than you might expect. While their 
 **Speed** 2m (60m while flying)
 
 **Flight (60m)** Ratpors can fly at a speed of 60m.  
-**Defensive reflexes (+2)** Raptors have exception reflexes, providing them with an AC of 2.  
+**Defensive reflexes (+2)** Raptors have exceptional reflexes, providing them with an AC of 2.  
 **Natural weapon, bite** Deals STR piercing damage (crit +8), has the features: Bypass 2, Swift  
 **Natural weapon, claw** Deals STR+r2 piercing damage (crit +2), has the feature: Swift
 

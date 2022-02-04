@@ -633,11 +633,11 @@ Some armours will have a strength value listed. This value is the recommended st
 
 ### Weapons
 
-Weapons are the means to inflict attacks upon opponents using the combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons have a listed damage dice and type as some combatants and armours may be weaker to certain damage types. Additionally, although unarmed attacks are not actually made with weapons, they are usually listed as a weapon for clarity on their stats.
+Weapons are the means to inflict attacks upon opponents using the combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category clarity on their stats.
 
 ### Carrying Capacity
 
-Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the carrying capacity of a character. This is determined as a product of their size and maximum strength. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
+Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the your carrying capacity. This is determined as a product your size and maximum strength. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
 
 ##### Table: Carrying Capacity
 | Modifier | Formula |

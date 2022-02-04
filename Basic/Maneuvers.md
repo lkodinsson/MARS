@@ -227,7 +227,7 @@ Make a melee attack with +2 to hit against a target moving through your attack r
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack. The target gets –2 to armour class (to a minimum of 0).
+Make an attack. The target gets –2 to armour class.
 
 ## Pinning Shot
 

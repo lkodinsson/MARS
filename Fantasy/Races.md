@@ -6,11 +6,11 @@
 | [Dwarf](#dwarf) | STR +2, RES +1, DEX –1 | Stability | Medium | 6m |
 | [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
-| [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Variable | 7m |
+| [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Small to Large | 7m |
 | [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Scaly Vigor<br/> and Natural Weapons | Medium or Large | 7m |
 | [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 7m |
 | [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong | Medium or Large | 7m |
-| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Variable | 6m |
+| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Small to Large | 6m |
 | [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Nimble<br/> and Natural Weapons | Small or Medium | 8m |
 
 ## Dwarf

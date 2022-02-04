@@ -63,7 +63,7 @@ You always have craft materials available as long as you have your belongings, a
 
 When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
 
-Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, this applies to defensive maneuvers (both of maneuvers defend yourself and maneuvers that defend others). If you do, rolls made to perform those maneuvers get a +1 bonus.
+Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, this applies to defensive maneuvers (both maneuvers that defend yourself and maneuvers that defend others). If you do, rolls made to perform those maneuvers get a +1 bonus.
 
 Additionally, regardless of the choice made, should you choose to attack or defend a target that directly contradicts the ideologies of your faith's specialization (as determined by the game master) you will automatically fail to attack or defend that target. This still spends any resources used to do so.
 
@@ -129,9 +129,11 @@ You can control two spells that require concentration instead of one.
 
 When you acquire this talent you will choose a metamagic category from the table below. This talent can be taken multiple times (once for each category).
 
-Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must adjustments to that spell to pay for the metamagic: a mana cost adjustment and/or a spellcasting difficulty adjustment. You will apply these adjustments, per each use of metamagic.
+Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must make adjustments to that spell to pay for the metamagic: a mana cost adjustment and a spellcasting difficulty adjustment. You will apply both of these adjustments, per each use of metamagic.
 
 Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the mana cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
+
+Spells be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced.
 
 ###### Table: Metamagic Categories & Modifiers
 | Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
@@ -139,14 +141,19 @@ Each spell you cast can be modified by metamagics a combined number of times equ
 | Bloodied | –1 | +1 | The spell causes you to lose 2 health |
 | Channelled | –1 | –1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
 | Empowered | +1 | +1 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
+| Fickle | - | –1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
 | Intensified | +2 | +2 | The spell inflicts effects to a degree of one higher |
 | Persistent | +1 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Quickened | +1 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
 | Reaching | +2 | +2 | The spell has its range doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Reactive | +1 | +3 | The spell can be cast as a reaction if it has a speed of swift or faster |
-| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 5 minutes, until released or triggered) |
+| Reduced | - | –1 | This spell has its area halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Shortened | - | –1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, until released or triggered) |
 | Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+
+For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.
 
 ## Wild Magic
 
