@@ -4,6 +4,7 @@
 | Name | Cost | Requirements |
 |:-|:-:|:-|
 | [Arcane Precision](#arcane-precision) | 10 | INT 11+, Can cast spells |
+| [Arcane Synthesis](#arcane-synthesis) | 8, 10, 12 | INT 11+, Can cast spells, Craft |
 | [Chaotic Magic](#chaotic-magic) | 6 | RES 11+, Can cast spells |
 | [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
 | [Divine Axiom](#divine-axiom) | 6 | RES 11+, Faith (Militarist), Any combat skill |
@@ -24,6 +25,22 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 **Requirements:** Max Intelligence 11+, Can cast spells
 
 After rolling to cast a spell, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced. This additional mana spent is considered an increase on that spell's mana cost.
+
+## Arcane Synthesis
+
+**Cost:** Variable  
+**Requirements:** Max Intelligence 11+, Can cast spells, Trained in craft
+
+Instead of making a craft check to craft a magic item you may instead spend mana equal to half its cost in silver (rounded up) to craft that item. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day.
+
+Use of this ability is a swift action, and it can be used a number of times based on its advancement.
+
+##### Table: Arcane Synthesis Steps & Cost
+| Step Cost | Total Cost | Number of Uses |
+|:-:|:-:|:-:|
+| 8 | 8 | 1/rest |
+| 10 | 18 | 2/rest |
+| 12 | 30 | 3/rest |
 
 ## Chaotic Magic
 
@@ -63,25 +80,27 @@ You always have craft materials available as long as you have your belongings, a
 
 When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
 
-Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, this applies to defensive maneuvers (both maneuvers that defend yourself and maneuvers that defend others). If you do, rolls made to perform those maneuvers get a +1 bonus.
+Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. This mana cost is equal to that maneuver's stamina cost plus 1. If you picked Judgment, this applies to offensive maneuvers (maneuvers that make an attack or target an enemy). If you picked Protection, this applies to defensive maneuvers (that provide defensive bonuses or target allies). If you do, rolls made to perform those maneuvers get a +1 bonus.
 
 Additionally, regardless of the choice made, should you choose to attack or defend a target that directly contradicts the ideologies of your faith's specialization (as determined by the game master) you will automatically fail to attack or defend that target. This still spends any resources used to do so.
+
+This ability can be used a number of times based on its advancement.
 
 ## Divine Devotion
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell is cast with +1 to the spellcasting roll with half the mana cost. If that spell was provided to you as a bonus spell from your specialization, it gets +2 and costs no mana instead. If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell is cast with +1 to the spellcasting roll. If that spell was provided to you as a bonus spell from your specialization, it gets +2 and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
 
 This ability can be used a number of times based on its advancement.
 
 ##### Table: Divine Devotion Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
 |:-:|:-:|:-:|
-| 8 | 8 | 1/Rest |
-| 10 | 18 | 2/Rest |
-| 12 | 30 | 3/Rest |
+| 8 | 8 | 1/rest |
+| 10 | 18 | 2/rest |
+| 12 | 30 | 3/rest |
 
 ## Eldritch Infusion
 
@@ -140,7 +159,7 @@ Spells be adjusted simultaneously by metamagics that have opposite modifiers, li
 |:-|:-:|:-:|:-|
 | Bloodied | –1 | +1 | The spell causes you to lose 2 health |
 | Channelled | –1 | –1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
-| Empowered | +1 | +1 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
+| Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
 | Fickle | - | –1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
 | Intensified | +2 | +2 | The spell inflicts effects to a degree of one higher |
@@ -150,7 +169,7 @@ Spells be adjusted simultaneously by metamagics that have opposite modifiers, li
 | Reactive | +1 | +3 | The spell can be cast as a reaction if it has a speed of swift or faster |
 | Reduced | - | –1 | This spell has its area halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Shortened | - | –1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, until released or triggered) |
+| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until released or triggered) |
 | Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.

@@ -45,7 +45,7 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
 |:-|:-:|:-:|:-:|:-|
 | [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
-| [Animal Form](#animal-form) | 2 | 10 | Animism (Bonus: Practiced) |
+| [Animal Form](#animal-form) | 2 | 10 | Standard | Animism (Bonus: Practiced) |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Arcane, Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment, Militarism |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Darkness, Entropy |
@@ -103,7 +103,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 **Action Speed:** Standard
 
 **Target:** Self  
-**Duration:** Indefinite (concentration)
+**Duration:** 24 hours (concentration)
 
 You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost.
 
@@ -144,7 +144,7 @@ You shoot arcane missiles dealing r8+1 arcane damage. These missiles always hit 
 **Duration:** 5 minutes (concentration)  
 **Resist:** Willpower
 
-You create a suit of magical armour on the target of your spell. It has an armour class and damage reduction similar to armour, but it has no weight or strength requirements. Additionally, this armour is capable of reducing magical damage unlike real armour. If a character wearing the arcane armour is also wearing real body armour, use whatever values are higher between the arcane and real armour. Even so, arcane armour will always remove any weaknesses that the real armour would have had, and still provides the ability to reduce damage from magic. It does not remove any other features of the real armour (such as the weight, strength requirement, or any noise it might produce).
+You create a suit of magical armour on the target of your spell. It has an armour class and damage reduction similar to armour, but it has no weight or strength requirements. Additionally, this armour is capable of reducing magical damage unlike real armour. If a character wearing the magical armour is also wearing real body armour, use whatever values are higher between the magical and real armour. Even so, the magical armour will always remove any weaknesses that the real armour would have, and still provides the ability to reduce damage from magic. It does not remove any other features of the real armour (such as the weight, strength requirement, or any noise it might produce).
 
 ***Critical:*** 5 armour class and 7 damage reduction.  
 ***Success:*** 3 armour class and 5 damage reduction.  
@@ -365,7 +365,7 @@ You touch an object or surface, causing it to radiate light like a torch in a 10
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (bypassing half damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
+You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (this means it bypasses half normal damage reduction). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
 
 ***Arcane:*** The attacked target loses r4 mana.  
 ***Cold:*** The attacked target loses r4 stamina.  
@@ -414,7 +414,7 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 **Action Speed:** Swift
 
 **Range:** Touch  
-**Duration:** Indefinite (concentration, range of 30m)
+**Duration:** 24 hours (concentration, range of 30m)
 
 You create the illusion of a small object, very tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight.
 
@@ -477,7 +477,7 @@ Inflict sickness upon a creature, causing it to perform tasks worse and suffer l
 
 **Range:** Touch  
 **Target:** One creature  
-**Duration:** Indefinite (concentration, range of 30m)  
+**Duration:** 24 hours (concentration, range of 30m)  
 **Resist:** Willpower
 
 Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the target adjusts naturally to any degree of light or darkness.
@@ -505,14 +505,16 @@ You project your sight as though it is coming from another body. This effect beg
 
 **Range:** 10m  
 **Target:** One or more creatures  
-**Duration:** 30 minutes or 1 minute (for combatants)  
+**Duration:** 1 minute (combatants), 30 minutes (stealth), 8 hours (trying to sleep)
 **Resist:** Willpower
 
-The targets succumb to a magical sleep. When cast on unsuspecting creatures they enter a deep sleep for duration of 30 minutes (long enough to count as a short rest). It is quite hard to wake creatures under this sleep unless they are attacked or dealt damage.
+The targets succumb to a magical sleep. When cast on unsuspecting creatures they enter a deep sleep for duration of 30 minutes (a short rest). It is challenging to wake creatures under this spell unless they are dealt damage. If the target was already trying to get to sleep, it lasts for 8 hours (a long rest).
 
-When cast on creatures in combat the active adrenaline in their body makes the sleep much more temporary, and only lasts for 1 minute. Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Attacking or dealing damage will automatically wake these creatures.
+Creatures fall prone when they fall asleep.
 
-Creatures fall prone when they fall asleep. This spell's mana cost and difficulty increases by 2 for each additional creature you target.
+When cast on creatures in combat, the active adrenaline in their body makes the sleep lasts for only 1 minute. Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Dealing damage to these creatures will automatically wake them.
+
+This spell's mana cost and difficulty increases by 2 for each additional creature you target.
 
 ## Speak with Animals
 
@@ -523,7 +525,7 @@ Creatures fall prone when they fall asleep. This spell's mana cost and difficult
 **Action Speed:** Standard
 
 **Target:** Self  
-**Duration:** Indefinite (concentration)
+**Duration:** 24 hours (concentration)
 
 You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to speak to animals receiving a response you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
 

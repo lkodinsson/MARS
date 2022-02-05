@@ -1,5 +1,24 @@
 # Item Crafting
 
+* [Normal Item Crafting](#normal-item-crafting)
+* [Upgrading Items](#upgrading-items)
+* [Bulk Crafting](#bulk-crafting)
+* [Long-term Crafting](#long-term-crafting)
+* [Magic Item Crafting](#magic-item-crafting)
+* [Base Magic Cost](#base-magic-cost)
+* [Scrolls](#scrolls)
+* [Limited Use Items](#limited-use-items)
+* [Multiple Use Items](#multiple-use-items)
+* [Continuous Use Items](#continuous-use-items)
+* [Multiple Effects](#multiple-effects)
+* [Triggered Effects](#triggered-effects)
+* [Curses](#curses)
+* [Magic Stabilization](#magic-stabilization)
+* [Charge Bonding](#charge-bonding)
+* [Mana Focusing](#mana-focusing)
+
+## Normal Item Crafting
+
 The first step to crafting an item is just a matter of roleplaying: is a workshop or marketplace available, or do you carry the tools and materials necessary to build this item? Afterwards, there are three basic steps:
 
 * Determine the total cost and craft difficulty
@@ -26,18 +45,16 @@ The difficulty value to craft an item is based on its cost. This can be determin
 | 169sp+ | 17 | 729sp+ | 31 |
 | 196sp+ | 18 | 784sp+ | 32 |
 
-After you have determined the item's cost and difficulty, make a craft check. Your roll determines the percentage of your crafting progress and how much you will pay immediately, representing the raw ingredients that are used up to create the item. The amount you pay immediately is equal to the cost of the item, multiplied by the amount of progress, made multiplied by a modifier value determined by how well you rolled:
+Your craft roll determines both the amount of progress made and the immediate cost of that progress. Any costs paid represent the raw ingredients that are used to craft the item. Make sure to prepare enough money to pay for the item. If you can't pay for your progress, then no progress is made. The cost you pay is equal to the cost of the item, multiplied by the amount of progress made, multiplied by a modifier value:
 
-***Double Critical:*** Gain 100% progress and pay half price.  
-***Critical:*** Gain 50% progress and pay half price.  
-***Success:*** Gain 20% progress and pay three quarters price.  
-***Graze:*** Gain 10% progress and pay full price.  
-***Fail:*** Gain 2% progress and pay full price.  
+***Double Critical:*** Gain 100% progress paying 50% of the cost.  
+***Critical:*** Gain 50% progress paying 50% of the cost.  
+***Success:*** Gain 20% progress paying 75% of the cost.  
+***Graze:*** Gain 10% progress paying 100% of the cost.  
+***Fail:*** Gain 2% progress paying 100% of the cost.  
 ***Fumble:*** Lose 5% progress.
 
 If you roll three times the difficulty or higher, that is considered a double critical.
-
-Make sure to prepare enough money to pay for the item. If you can't pay for your progress, then no progress is made.
 
 Each craft check made represents a single day's worth of crafting time spent on that item.
 
@@ -70,15 +87,9 @@ Each craft check made represents a single day's worth of crafting time spent on 
 
 ### Upgrading Items
 
-Crafting can also be used to improve items from one quality to the next by treating the difference in item value as the cost of the item. You cannot upgrade into a quality with a cost reduction.
+Crafting can also be used to upgrade items from one quality to the next by treating the difference in item value as the cost of the item. You cannot upgrade into a quality with a cost reduction.
 
 > ##### Upgrade Example
-> ___
-> **Craft:** r12
->
-> **Intelligence:** r12+1
->
-> **Craft Check Roll:** r24+1
 > ___
 > **Item:** Longsword -> Fine Longsword
 >
@@ -101,17 +112,11 @@ Items in progress cannot be used until they are completed.
 
 ### Bulk Crafting
 
-Some items are cheap and easy enough to make that you may want to produce them in large quantities. In this case simply treat the combined value of those items as if they were a single item in terms of total cost and crafting difficulty. Items can only be crafted in bulk in this way if all items produced are exactly the same.
+Some items are cheap and easy enough to make that you may want to produce them in large quantities. Treat the combined value of those items as if they were a single item for determining total cost and crafting difficulty. Items can only be crafted in bulk if all items being produced are exactly the same.
 
-If partial progress on the bulk of items is enough to represent several complete items, treat those items as completed. This also means that fumbles can only cause you to lose progress only on the quantity of items still in progress.
+If partial progress is enough to represent one or more complete items, treat those items as completed. This also means that fumbles can only cause you to lose progress only on the quantity of items still in progress.
 
 > ##### Bulk Crafting Example
-> ___
-> **Craft:** r12
->
-> **Intelligence:** r12+1
->
-> **Craft Check Roll:** r24+1
 > ___
 > **Item:** 5 Javelins
 >
@@ -133,12 +138,6 @@ In this example, 70% of five javelins was crafted over two days. This translates
 This progress can be resumed at a later date, leading us to the next example:
 
 > ##### Bulk Crafting Example (Precrafted)
-> ___
-> **Craft:** r12
->
-> **Intelligence:** r12+1
->
-> **Craft Check Roll:** r24+1
 > ___
 > **Item:** 5 Javelins
 >
@@ -165,7 +164,7 @@ The maximum number of items that can be crafted at once is twenty, regardless of
 
 ### Long-term Crafting
 
-If a crafting process is expected to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with your average roll. To determine your average roll, take half your maximum craft roll, add any bonuses, then add 1 for every two dice you would roll. This shortcut is only available if it is expected that the item (as a whole) will take much longer than 5 days to craft. This can be done by checking if your average roll is less than the crafting difficulty.
+If you expect a craft project to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process the crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with your average roll. To determine your average roll, take half your maximum craft roll, add any bonuses, then add 1 for every two dice you would roll. This shortcut is only available if it is expected that the item (as a whole) will take much longer than 5 days to craft. This can be done by checking if your average roll is less than the crafting difficulty.
 
 > ##### Long-term Example
 > ___
@@ -202,13 +201,13 @@ If a crafting process is expected to take a large amount of time (upwards of 50 
 >
 > **Total Cost:** 142sp 5cp (95% of cost)
 
-# Magical Item Crafting
+## Magic Item Crafting
 
-Magical items can be crafted in two ways, similar to normal items: You can build the whole item at once, or you can build the original item then apply improvements to it (in this case a magical effect). This cost is determined by combining two values together: the *base item cost* (which is the cost of the item modified by any adjustments from [equipment properties](/Fantasy/Equipment.md#equipment-properties)) plus the *combined cost of all magical effects*.
+Similar to normal items, magic items can be crafted in two ways: you can craft the whole item, or you can craft the base item then craft magic effects onto it after. This cost for this is determined by combining two values together: the *base item cost* (which is the cost of the item including any adjustments from [equipment properties](/Fantasy/Equipment.md#equipment-properties)) plus the *combined cost of all magic effects*.
 
-In short: the total cost = base item cost + combined cost of all magical effects
+In short: the total cost = base item cost + combined cost of all magic effects
 
-There are a few decisions that are requried to determine the cost of magical effects. If it s a standard magic effect: the *spell required* to create the effect, the *application of the spell*, and *how many magical effects* are present on the item. The spell required determines the base magic cost, while the other decisions act as multipliers on this value.
+There are a few decisions that are requried to determine the cost of magic effects. If its a standard magic effect: the *spell required* to create the effect, the *application of the spell*, and *how many magical effects* are present on the item. The spell required determines the base magic cost, while the other decisions act as multipliers on this value.
 
 In addition to a standard magic effect, there is also a bonus magic effect. Bonus magic effects include: [triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing). These bonus effects don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a base magic effect.
 
@@ -222,20 +221,6 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 | Uses per Day | Base Magic Cost × Uses × 2 |
 | Continuous Use | Base Magic Cost × 5 |
 | Multiple<br/>Effects | Combined Magic Costs<br/>× (1 + Number of Additional Effects × ½) |
-
-An explanation of these and how to use them are explained further below:
-
-* [Base Magic Cost](#base-magic-cost)
-* [Scrolls](#scrolls)
-* [Limited Use Items](#limited-use-items)
-* [Multiple Use Items](#multiple-use-items)
-* [Continuous Use Items](#continuous-use-items)
-* [Multiple Effects](#multiple-effects)
-* [Triggered Effects](#triggered-effects)
-* [Curses](#curses)
-* [Magic Stabilization](#magic-stabilization)
-* [Charge Bonding](#charge-bonding)
-* [Mana Focusing](#mana-focusing)
 
 ### Base Magic Cost
 
@@ -259,9 +244,9 @@ Only the bare minimum base magic cost of a single spell is required for determin
 
 ### Limited Use Items
 
-These types of items can take two forms: *potions* and *spellstones*. In either case, they use the same cost multiplier. This multipler is equal to a ratio of how many uses it holds divided by 5.
+These types of items can take two forms: *potions* and *spellstones*. Both use the same cost multiplier. This multipler is equal to a ratio of how many uses it holds divided by 5.
 
-Potions can only be single use, and provide their effect to their imbiber. Potions are simple items that can be used as a swift action during encounters. They can even be applied to other characters, so long as they are either willing or unconscious. The base item cost to create potions is 1 silver, or an alchemical base.
+Potions can only be made as single use items, while spellstones can be made with any quantity of uses. The base item cost is 1 silver (or an alchemical base) to create potions, and 2 silver (or a rough gemstone) to create spellstones.
 
 > ##### Potion Crafting Example
 > ___
@@ -279,11 +264,9 @@ Potions can only be single use, and provide their effect to their imbiber. Potio
 >
 > **Difficulty:** 6
 
-Spellstones can hold one or more uses of a single spell, and can be activated to cast spells stored in them. This activation requires the same amount of time that it would take to normally cast that spell, and can be done even if the user could not normally cast that spell. The base item cost to create spellstones is 2 silver, or a rough gemstone.
-
 > ##### Spellstone Crafting Example
 > ___
-> **Item:** Spellstone of Ignition (5 Uses)
+> **Item:** Spellstone of Ignition (5 uses)
 >
 > **Spell:** Ignite
 >
@@ -297,25 +280,19 @@ Spellstones can hold one or more uses of a single spell, and can be activated to
 >
 > **Difficulty:** 7
 
-Spellstones can also be placed into another item, allowing that item to cast spells through the use of that spellstone. The primary use for this, is to place spellstones into rings. This way you can equip that ring and freeing your hand to perform other tasks. Additionally, this would no longer require you to brandish that spellstone before using it.
-
-No crafting check is necessary to socket spellstones into other items, however, they will be unusable if the item is already magical or has other spellstones socketed. This restriction can be circumvented with the bonus magic effect of [magic stabilization](#magic-stabilization).
-
-Alternatively, multiple magic effects can be placed onto a single spellstone.
+Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items, however, they will be unusable if the item is already magical or has other spellstones socketed. This restriction can be circumvented with the bonus magic effect of [magic stabilization](#magic-stabilization), or by crafting multiple effects onto one spellstone (avoiding the problem entirely).
 
 ### Multiple Use Items
 
-These types of items are very similar to limited use items. They even take the same two forms: *potions* and *spellstones*. The primary difference is that rather than having a total limited number of uses, these types of items can be used a limited number of times *per day*. The cost multipler for this type of item is equal to twice the number of times per day it can be used.
+These types of items are very similar to limited use items. They even take the same two forms: *potions* and *spellstones*. The primary difference is that rather than having a total limited number of uses, these types of items can be used a limited number of times *per day*. The cost multiplier for this type of item is equal to twice the number of times per day it can be used.
 
-Potions are still limited to only one use, however, that is now one use per day. These are known as refilling potions. All other applications and costs of potions crafted this way remain exactly the same.
-
-Spellstones function similarly, but with no crafting upper limit on uses per day. These are known as fine spellstones, and they now require higher value gemstones. The base item cost to create fine spellstones is 10 silver, or a fine gemstone.
+Multiple use potions are called refilling potions and can only be used once per day. Spellstones can still be crafted with any number of uses and are called fine spellstones when reusable. The base item cost is still 1 silver (or an alchemical base) to create refilling potions, but 10 silver (or a fine gemstone) to create fine spellstones.
 
 ### Continuous Use Items
 
 Continuous effects are placed on items that are used or worn. Spells used to make these types of items effect either their wearer or the item itself. Only spells that require concentration can be chosen. These types of items must be attuned to activate their effect. The cost multipler for this type of item is 5.
 
-Typically this effect is placed on articles of clothing, like boots, gloves, cloaks, belts, etc. When crafting this type of item, consider the base item cost to be 1 silver, or access to non-magical clothing. It is likely that this type of craft is performed on existing items, rather than from scratch, but both options are allowed.
+Typically this effect is placed on articles of clothing, like boots, gloves, cloaks, belts, etc. The base item cost is 1 silver to create items of this kind on articles of clothing. It is likely that this type of craft is performed on existing items, rather than from scratch, but both options are allowed.
 
 > ##### Continuous Use Item Upgrade Example
 > ___

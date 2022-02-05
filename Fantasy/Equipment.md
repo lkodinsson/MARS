@@ -1,5 +1,16 @@
 # Equipment
 
+* [Currency](#currency)
+* [Adventuring Gear](#adventuring-gear)
+* [Goods & Services](#goods--services)
+* [Weapons](#weapons)
+* [Weapon Features](#weapon-features)
+* [Armour](#armour)
+* [Armour Features](#armour-features)
+* [Equipment Properties](#equipment-properties)
+
+Click [here](/Fantasy/MagicEquipment.md) for the page on magic equipment.
+
 ## Currency
 
 There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last. All characters start with 25 silver pieces to spend on starting equipment.
@@ -11,7 +22,7 @@ There are various types of currency that represent the money your character need
 | 1 Electrum (ep) | 10 Silver (sp) |
 | 1 Gold (gp) | 10 Electrum (ep) |
 
-These denominations exist to add more flavour to roleplaying, as most prices of any items are determined simply by their value in silver. Sometimes copper is used for very cheap items, or as a partial amount of silver.
+These denominations exist to add more flavour to roleplaying. Most prices of items are determined simply by their value in silver. Sometimes copper is used for very cheap items, or as a partial amount of silver.
 
 ## Adventuring Gear
 
@@ -37,6 +48,9 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 | Lantern | 2sp | 1kg |
 | Lantern oil (36 hrs) | 3sp | ¼kg |
 | Musical Instrument | 8sp | 1½kg |
+| Mirror, small, bronze | 1sp | ½kg |
+| Mirror, small, silvered | 5sp | ½kg |
+| Mirror, large, silvered | 200sp | 5kg |
 | Rope, 18m | 2sp | 3kg |
 | Ring, copper | 2cp | - |
 | Ring, silver | 2sp | - |
@@ -68,6 +82,10 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 ## Weapons
 
+Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and *features*.
+
+Any weapon can also be thrown as if it has *Thrown 2m/20m*.
+
 ##### Table: Basic Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
@@ -81,7 +99,7 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 ##### Table: Finesse Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/35m |
+| Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/40m |
 | Dueling Sword | 5sp | STR+r6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry r6, Swift |
 | Parrying Dagger | 5sp | STR+r4 Piercing | +6 | Finesse | ½kg | Parry r8, Swift |
 
@@ -174,10 +192,15 @@ These denominations exist to add more flavour to roleplaying, as most prices of 
 
 **Versatile** Attacks may be made two-handed with an advantage to damage and –2 to hit. Attacks made single-handed are made normally.
 
-### Additional Rules
+### Improvised Weapons
 
-* Any object can be used as an improvised weapon. The type of the weapon is whichever is most similar to the object being used, but has –1 to hit and damage.
-* Any object or melee weapon can be thrown as if it has *Thrown 2m/20m*.
+Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have –1 to hit and damage. For other objects use the following table:
+
+##### Table: Improvised Weapons
+| Name | Damage | Crit | Type | Weight | Features |
+|:-|:-:|:-:|:-:|:-:|:-:|:-|
+| Rock | STR+r2 Blunt | +8 | Finesse/Ranged | - | Swift, Thrown 3m/40m |
+| Potion | STR+r2 Blunt | +8 | Finesse/Ranged | - | Swift, Thrown 3m/30m |
 
 ## Armour
 

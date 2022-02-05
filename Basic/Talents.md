@@ -146,9 +146,9 @@ You may spend 2 mana to gain an advantage on your next roll (including dice that
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
 |:-:|:-:|:-:|
-| 6 | 6 | 1/Rest |
-| 8 | 14 | 2/Rest |
-| 10 | 24 | 3/Rest |
+| 6 | 6 | 1/rest |
+| 8 | 14 | 2/rest |
+| 10 | 24 | 3/rest |
 
 ## Meditative Rest
 

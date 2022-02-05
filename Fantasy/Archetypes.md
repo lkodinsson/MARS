@@ -3,15 +3,15 @@
 ##### Table: Fantasy Archetypes
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
-| [Artificer](#artificer) | Arcana (Any) (r6), Charisma (r6), Craft (r6),<br/>Perception (r6), Sleight (r6) | [Always Prepared](/Basic/Talents.md#always-prepared) | INT |
+| [Artificer](#artificer) | Arcana (Any) (r6), Charisma (r6), Craft (r6),<br/>Perception (r6), Sleight (r6) | [Arcane Synthesis (1/rest)](/Fantasy/Talents.md#arcane-synthesis) | INT |
 | [Assassin](#assassin) | Acrobatics (r4), Finesse or Ranged (r6),<br/>Perception (r4), Medicine (r6), Stealth (r8) | [Ambidexterity (-3)](/Basic/Talents.md#ambidexterity) | DEX |
 | [Bard](#bard) | Arcana (Any) (r4), Charisma (r8), Finesse or Ranged (r6),<br/>Contacts, Knowledge, or Lore (r6), Perception (r4)  | [Inspirational Charisma (+0)](/Basic/Talents.md#inspirational-charisma),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
 | [Berserker](#berserker) | Athletics (r6), Charimsa (r6), Martial (r8),<br/>Unarmed (r4), Wild Empathy (r4) | [Rage (+1)](/Basic/Talents.md#rage),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | STR *and* RES |
-| [Cleric](#cleric) | Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | [Divine Devotion (1/Rest)](/Fantasy/Talents.md#divine-devotion) | RES |
+| [Cleric](#cleric) | Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | [Divine Devotion (1/rest)](/Fantasy/Talents.md#divine-devotion) | RES |
 | [Druid](#druid) | Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8),<br/>Medicine (r4), Perception (r6), Wild Empathy (r6) | [Wild Magic](/Fantasy/Talents.md#wild-magic) | RES |
 | [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | [Toughness (+8)](/Basic/Talents.md#toughness) | STR or DEX |
 | [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | [Meditative Rest](/Basic/Talents.md#meditative-rest) | RES |
-| [Paladin](#paladin) | Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6),<br/>Finesse, Martial, or Ranged (r6), Lore or Medicine (r6),<br/>Stealth or Perception (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
+| [Paladin](#paladin) | Athletics (r6), Faith (Militarist) (r6), Finesse, Martial, or Ranged (r6),<br/>Lore or Medicine (r6), Stealth or Perception (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
 | [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | [Deduction](/Basic/Talents.md#deduction),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
 | [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | [Danger Sense](/Basic/Talents.md#danger-sense) | DEX |
 | [Sorcerer](#sorcerer) | Acrobatics or Athletics (r4), Charisma (r6),<br/>Contacts (r4), Power (Any) (r8), Wild Empathy (r6) | [Esoteric Will](/Fantasy/Talents.md#esoteric-will) | RES |
@@ -25,7 +25,7 @@ Artificers are gifted craftspersons, that are capable of inventing all kinds of 
 
 **Skills** Arcana (Any) (r6), Charisma (r6), Craft (r6), Perception (r6), Sleight (r6)  
 **Spells** Artificer starts with two spells.  
-**Talent** [Always Prepared](/Basic/Talents.md#always-prepared)  
+**Talent** [Arcane Synthesis (1/rest)](/Fantasy/Talents.md#arcane-synthesis)  
 **Primary Stat** Artificer must start with a maximum intelligence of 11 or greater.
 
 ## Assassin
@@ -62,7 +62,7 @@ Many people have a code they follow that defines who they are, but clerics make 
 
 **Skills** Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6), Medicine (r6), Perception (r4)  
 **Spells** Clerics start with three spells, and one bonus spell (depending on their specialization).  
-**Talent** [Divine Devotion (1/Rest)](/Fantasy/Talents.md#divine-devotion)  
+**Talent** [Divine Devotion (1/rest)](/Fantasy/Talents.md#divine-devotion)  
 **Primary Stat** Clerics must start with a maximum resolve of 11 or greater.
 
 ## Druid
@@ -97,7 +97,7 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 
 While clerics can represent the full spectrum of the devoted, paladins represent the militaristic strong arm of these ideologies. They are there to protect those they declare in need, primarly those who follow tenets resembling their own. They are often drafted as mercenaries to empires who show loyalty to their cause.
 
-**Skills** Athletics (r6), Faith (Anarchy, War, Justice, or Order) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
+**Skills** Athletics (r6), Faith (Militarist) (r6), Finesse, Martial, or Ranged (r6), Lore or Medicine (r6), Stealth or Perception (r6)  
 **Maneuvers** Paladins start with one maneuver.  
 **Spells** Paladins start with two spells.  
 **Talent** [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom), [Toughness (+4)](/Basic/Talents.md#toughness)  
