@@ -113,6 +113,7 @@ Spellstones can be made of gemstones ranging several degrees of quality. The qua
 
 ##### Table: Spellstone Qualities & Spellcasting Bonuses
 | Name | Price<br/>Increase | Spellcasting<br/>Bonus |
+|:-|:-:|:-:|
 | Gemstone, fine | 8sp | +1 |
 | Gemstone, exceptional | 48sp | +2 |
 | Gemstone, magnificent | 98sp | +3 |
