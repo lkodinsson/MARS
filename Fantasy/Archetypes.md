@@ -10,7 +10,7 @@
 | [Cleric](#cleric) | Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6),<br/>Medicine (r6), Perception (r4) | [Divine Devotion (1/rest)](/Fantasy/Talents.md#divine-devotion) | RES |
 | [Druid](#druid) | Acrobatics, Athletics, or Stealth (r4), Animism (Any) (r8),<br/>Medicine (r4), Perception (r6), Wild Empathy (r6) | [Wild Magic](/Fantasy/Talents.md#wild-magic) | RES |
 | [Fighter](#fighter) | Athletics (r6), Charisma (r4), Medicine (r6),<br/>Finesse, Martial, or Ranged (r8), Stealth or Perception (r4) | [Toughness (+8)](/Basic/Talents.md#toughness) | STR or DEX |
-| [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | [Meditative Rest](/Basic/Talents.md#meditative-rest) | RES |
+| [Monk](#monk) | Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6),<br/>Ki (Any) (r8), Medicine (r4), Perception (r4) | [Meditative Rest (+2)](/Basic/Talents.md#meditative-rest) | RES |
 | [Paladin](#paladin) | Athletics (r6), Faith (Militarist) (r6), Finesse, Martial, or Ranged (r6),<br/>Lore or Medicine (r6), Stealth or Perception (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
 | [Ranger](#ranger) | Athletics or Stealth (r6), Medicine (r6), Perception (r6),<br/>Finesse, Martial, or Ranged (r6), Wild Empathy (r6) | [Deduction](/Basic/Talents.md#deduction),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
 | [Rogue](#rogue) | Acrobatics or Charisma (r4), Finesse or Ranged (r6),<br/>Perception (r6), Sleight (r8), Stealth (r4) | [Danger Sense](/Basic/Talents.md#danger-sense) | DEX |
@@ -90,7 +90,7 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 **Skills** Acrobatics or Athletics (r6), Finesse, Martial, or Unarmed (r6), Ki (Any) (r8), Medicine (r4), Perception (r4)  
 **Maneuvers** Monks start with one maneuver.  
 **Spells** Monks start with three spells.  
-**Talent** [Meditative Rest](/Basic/Talents.md#meditative-rest)  
+**Talent** [Meditative Rest (+2)](/Basic/Talents.md#meditative-rest)  
 **Primary Stat** Monks must start with a maximum resolve of 11 or greater.
 
 ## Paladin

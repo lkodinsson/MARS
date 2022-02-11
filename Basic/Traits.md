@@ -28,7 +28,7 @@ Things you have seen, especially written words, are permanently available to you
 
 ## Efficient Sleeper
 
-You only need to spend half as much time as anyone else to get the same benefits of rest.
+You need to only spend half as much time as anyone else to get the same benefits of rest.
 
 ## Involuntary Transformation
 

@@ -8,11 +8,11 @@ There are several different ways to cast spells, as represented by these skills:
 | r4 | Trained | 7 (Moderate) |
 | r6 | Adept | 10 (Hard) |
 | r8 | Practiced | 10 (Hard) |
-| r10 | Proficient | 14 (Challenging) |
+| r10 | Proficient | 10 (Hard) |
 | r12 | Exceptional | 14 (Challenging) |
 | r14 | Disciplined | 14 (Challenging) |
-| r16 | Accomplished | 19 (Ambitious) |
-| r18 | Expert | 19 (Ambitious) |
+| r16 | Accomplished | 14 (Challenging) |
+| r18 | Expert | 14 (Challenging) |
 | r20 | Master | 19 (Ambitious) |
 
 To cast a spell you must perform the following steps:
@@ -23,36 +23,34 @@ To cast a spell you must perform the following steps:
 4. Perform the effects of that spell based on your degree of success.
 5. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
-Although failing to cast a spell causes it to do nothing (while still spending 1 mana), *fumbling* a spell causes unintended effects based on the spell fumbled. The exact nature of these effects is to be determined by the game master based on the spell attempted. 
+Unless otherwise specified by the spell, matching the spell difficulty is considered a success. For some spells this is considered a graze, and for those spells you must exceed the difficulty to succeed. Regardless of your degree of success, you may choose to downgrade how well you cast a spell if you want to cast a lesser version instead (your roll is the same, and you choose a lower success category). Although failing to cast a spell causes it to do nothing (while still spending 1 mana), *fumbling* a spell causes unintended effects based on the spell fumbled. The exact nature of these effects is to be determined by the game master based on the spell attempted.
 
-If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell. If the recipients of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value.
+If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. Unless a spell states otherwise, resisting a spell negates all effects of that spell on that target. Resist rolls that graze instead result in a halved duration or amount of damage (as appropriate). When a target rolls to resist that spell, they are rolling an opposed check against the roll you already made to cast that spell. If the recipients of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value.
 
 Whenever a spell refers to your *spellcasting stat* it means the stat that your spellcasting skill is associated with.
-
-You may choose to downgrade how well you cast a spell if you want to cast a lesser version instead (your roll is the same, and you choose a lower success category).
 
 # Spells
 
 Even though many different spellcasting skills have different methods and motivations, they may cast some similar spells. Spells will have listed specializations of a spellcasting skill required to learn those spells. Most spells can be used by at least a couple specializations.
 
-Spells may deal various types of *magical damage*. By default, all magical damage bypasses damage reduction, unless the spell is blocked. Magical damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of magical damage are: *arcane*, *cold*, *electric*, and *fire*.
+Spells may deal various types of *magical damage*. By default, all magical damage bypasses damage reduction, unless the spell is blocked. Magical damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of magical damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
 
 Some spells will have a listed duration with the word *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. You may only concentrate on a single spell requiring it any given time. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.
 
 Additional spells cast during the same turn get a –2 penalty to cast for each spell cast before it in the same turn. This penalty applies to all forms of spells cast. This is known as the *multiple spell penalty*. Spells cast as a reaction are exempt from this penalty (such as by a readied action).
 
 ##### Table: List of Spells
-| Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations | 
+| Name | Mana<br/>Cost | Difficulty | Action Speed | Specializations |
 |:-|:-:|:-:|:-:|:-|
 | [Alter Size](#alter-size) | 2 | 10 | Standard | Enchantment, Transmutation |
 | [Animal Form](#animal-form) | 2 | 10 | Standard | Animism (Bonus: Practiced) |
 | [Arcane Missiles](#arcane-missiles) | 2 | 10 | Swift | Arcane, Conjuration, Evocation |
 | [Armour](#armour) | 2 | 10 | Standard | Arcane, Conjuration, Enchantment, Militarism |
 | [Darkness](#darkness) | 2 | 10 | Swift | Conjuration, Darkness, Entropy |
-| [Debilitate](#debilitate) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
+| [Debilitate](#debilitate) | 2 | 10 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence) |
 | [Detect Thoughts](#detect-thoughts) | 3 | 14 | Swift | Augury, Authority, Light |
-| [Enhance](#enhance) | 4 | 19 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
-| [Enhance Self](#enhance-self) | 4 | 19 | Swift | Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve) |
+| [Enhance](#enhance) | 3 | 14 | Standard | Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence) |
+| [Enhance Self](#enhance-self) | 3 | 14 | Swift | Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve) |
 | [Feather Fall](#feather-fall) | 1 | 7 | Reaction | Air, Discipline, Enchantment, Kiai, Liberty, Transmutation |
 | [Grease](#grease) | 2 | 10 | Standard | Conjuration, Water |
 | [Harm](#harm) | 2 | 10 | Standard | Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water |
@@ -61,10 +59,11 @@ Additional spells cast during the same turn get a –2 penalty to cast for each 
 | [Jolt](#jolt) | 1 | 7 | Swift | Air, Evocation, Impulse, Transmutation |
 | [Knock](#knock) | 3 | 14 | Extended<br/>(1 minute) | Augury, Authority, Entropy, Light, Transmutation |
 | [Light](#light) | 1 | 7 | Swift | Altruism, Augury, Conjuration, Enchantment, Fire, Harmony, Liberty, Light |
-| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Air (Electric), Arcane, Enchantment, Fire, Militarism, Transmutation, Water (Cold) |
+| [Magic Weapon](#magic-weapon) | 2 | 10 | Standard | Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, Water (Cold) |
 | [Mend](#mend) | 2 | 10 | Standard | Altruism, Balance, Charity (Bonus: Adept), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki |
 | [Message](#message) | 1 | 7 | Swift | Air, Augury, Enchantment, Liberty, Light, Shouki |
 | [Minor Illusion](#minor-illusion) | 1 | 7 | Swift | Arcane, Authority, Conjuration, Darkness |
+| [Restoration](#restoration) | 3 | 14 | Standard | Altruism, Genki, Harmony, Transmutation, Liberty, Light, Yuuki |
 | [Seek Guidance](#seek-guidance) | 2 | 10 | Extended<br/>(1 minute) | Augury, Authority, Balance, Service (Bonus: Adept), Entropy, Harmony, Light |
 | [Shield](#shield) | 2 | 10 | Reaction | Arcane, Conjuration, Enchantment, Militarism, Shouki |
 | [Sickness](#sickness) | 2 | 10 | Standard | Conjuration, Earth, Militarism, Transmutation, Water |
@@ -163,14 +162,14 @@ You create a suit of magical armour on the target of your spell. It has an armou
 **Duration:** 30 minutes (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object or surface, causing it to consume nearly all light in a 10m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
+You touch an object or surface, causing it to consume nearly all light in a 5m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
 
 ## Debilitate
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence)  
-**Difficulty:** 14 (Hard)
+**Difficulty:** 10 (Hard)
 
-**Mana Cost:** 3  
+**Mana Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -193,17 +192,18 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 **Duration:** Instant or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Allows you to read the active thoughts of another creature without them knowing you are doing so. You may also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
+Allows you to read the active thoughts of another creature. You may also choose to read their deep thoughts and memories, but if you do, the target will know you are in their mind. The target may only resist the spell if they know that their thoughts are being read, and may do so at any time (once per round).
 
-***Critical:*** Allows you to read deep thoughts without alerting the target to your presence.  
-***Graze:*** The target will know you are reading their thoughts.
+***Critical:*** Allows you to read deep thoughts without the target knowing.  
+***Success:*** Allows you to read only the active thoughts.  
+***Graze:*** Allows you to read only the active thoughts but the target will know what you are doing.
 
 ## Enhance
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
-**Difficulty:** 19 (Challenging)
+**Difficulty:** 14 (Challenging)
 
-**Mana Cost:** 4  
+**Mana Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -216,9 +216,9 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 ## Enhance Self
 
 **Specializations:** Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve)  
-**Difficulty:** 19 (Challenging)
+**Difficulty:** 14 (Challenging)
 
-**Mana Cost:** 4  
+**Mana Cost:** 3  
 **Action Speed:** Swift
 
 **Target:** Self  
@@ -236,10 +236,12 @@ This spell functions exactly like the spell enhance, but it can only be cast on 
 
 **Range:** 10m  
 **Target:** One or more creatures or objects  
-**Duration:** 1 minute (concentration, landing)  
+**Duration:** 5 minutes (concentration, landing)  
 **Resist:** Willpower
 
-Reduces the speed that you fall to a slow enough speed that you can always land safely. This spell can also be used to double the length of a jump due to the reduced falling speed. This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
+Reduces the speed of a creature so that it falls slowly enough to always land safely. When used on weapons or ammunition in this way it doubles any range increments provided by the *ranged* or *thrown* features. All objects and creatures under this spell are essentially half their weight, making them easier to carry, and allowing them to travel twice as far in the air.
+
+This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
 
 ## Grease
 
@@ -270,9 +272,9 @@ Creates a thin pool of slippery grease in a 3m radius. Any character who starts 
 
 This spell can be used to destroy small mundane objects made of wood or stone, break part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have same effect on undead creatures as the spell mend does on living creatures.
 
-***Critical:*** Deal r24 damage, and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
-***Success:*** Deal r16 damage.  
-***Graze:*** Deal r8 damage.
+***Critical:*** Deal r24 void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
+***Success:*** Deal r16 void damage.  
+***Graze:*** Deal r8 void damage.
 
 ## Ignite
 
@@ -288,9 +290,9 @@ This spell can be used to destroy small mundane objects made of wood or stone, b
 
 You apply a small burst of heat to a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet targets get advantage to resist this spell, but if they fail they become dry instead of taking damage.
 
-***Critical:*** Deal r12 fire damage, and the target gets burning 2.  
-***Success:*** Deal r10 fire damage, and the target gets burning 1.  
-***Graze:*** Deal r8 fire damage.
+***Critical:*** Deal r12 fire damage and the target gets burning 2, or light a wet object on fire.  
+***Success:*** Deal r10 fire damage and the target gets burning 1, light a dry object on fire, or dry a wet object.  
+***Graze:*** Deal r8 fire damage, or light a dry object on fire.
 
 ## Inspire
 
@@ -302,7 +304,7 @@ You apply a small burst of heat to a nearby object or creature, dealing fire dam
 
 **Range:** Touch or 20m  
 **Target:** One creature  
-**Duration:** 1 minute (until used)  
+**Duration:** 5 minutes (until used)  
 **Resist:** Willpower
 
 You lay your hand upon another creature, providing it comfort and a feeling of greater confidence. They get an advantage to the next skill check they perform. You may cast this spell at a range by speaking inspiring words, but the spell will cost 3 mana instead.
@@ -319,9 +321,9 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 **Target:** One creature or object  
 **Resist:** Deflection
 
-You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point, contained or connected to that body of water.
+You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water.
 
-***Critical:*** Deal r20 electric damage, and the target becomes stunned.  
+***Critical:*** Deal r20 electric damage and the target becomes stunned.  
 ***Success:*** Deal r14 electric damage.  
 ***Graze:*** Deal r8 electric damage.
 
@@ -351,11 +353,11 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Duration:** 1 hour (concentration, range of 30m)  
 **Resist:** Willpower
 
-You touch an object or surface, causing it to radiate light like a torch in a 10m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
+You touch an object or surface, causing it to radiate light like a torch in a 5m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
 
 ## Magic Weapon
 
-**Specializations:** Air (Electric), Arcane, Enchantment, Fire, Militarism, Transmutation, Water (Cold)  
+**Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, Water (Cold)  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -370,7 +372,9 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 ***Arcane:*** The attacked target loses r4 mana.  
 ***Cold:*** The attacked target loses r4 stamina.  
 ***Electric:*** The attacked target becomes stunned.  
-***Fire:*** The attacked target gets burning 1.
+***Fire:*** The attacked target gets burning 1.  
+***Radiant:*** The attacked target takes r4 more radiant damage if undead.
+***Void:*** The attacked target gets sickness 1 (lasting 1 week) if living.
 
 ## Mend
 
@@ -384,7 +388,7 @@ You touch a weapon, granting it temporary magical properties. It deals half of i
 **Target:** One object or creature  
 **Resist:** Fortitude
 
-This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures.
+This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures, but dealing radiant instead of void damage.
 
 ***Critical:*** Restore 1 health, and r24 endurance.  
 ***Success:*** Restore r16 endurance.  
@@ -398,12 +402,14 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 **Mana Cost:** 1  
 **Action Speed:** Swift
 
-**Range:** 3m  
+**Range:** Touch or 3m  
 **Target:** One creature  
 **Duration:** Instant or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Allows you to speak a message (one or two sentences) telepathically into the mind of another creature. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them (and end the spell), or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer conversation. Any communications made are done so without requiring a specific language; the intent of the message is translated into a language the receiver can always understand.
+Allows you to speak a message (one or two sentences) telepathically into the mind of another creature. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them (and end the spell), or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer conversation.
+
+Communicating in this way does not guarantee an understanding. Creatures must be able to speak the language in the received message in order to understand it. Optionally, messages can be sent in the form of a mental image. This improves the chance of an understanding, but it is not guaranteed.
 
 ## Minor Illusion
 
@@ -413,10 +419,29 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 **Mana Cost:** 1  
 **Action Speed:** Swift
 
-**Range:** Touch  
+**Range:** 1m  
 **Duration:** 24 hours (concentration, range of 30m)
 
 You create the illusion of a small object, very tiny creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight.
+
+## Restoration
+
+**Specializations:** Altruism, Genki, Harmony, Transmutation, Liberty, Light, Yuuki  
+**Difficulty:** 14 (Challenging)
+
+**Mana Cost:** 3  
+**Action Speed:** Standard
+
+**Range:** Touch  
+**Target:** One creature or object  
+**Resist:** Willpower
+
+**Duration:** Instant or 1 week (blindness)
+
+You restore a creature to good health, removing negative conditions of a mundane nature. While this spell cannot dispel magical effects directly, it can restore natural conditions caused by spells. The degree of success determines which conditions this spell is capable of removing, but only one condition can be removed at a time. Additionally, any creatures affected by this spell are automatically stabilized. This spell can even temporarily cure blindness (for 1 week).
+
+***Critical:*** Restore 1 health, and remove one of the following conditions: debilitation, sickness, sleep, burning, or blindness (1 week).  
+***Graze/Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.
 
 ## Seek Guidance
 
@@ -451,7 +476,7 @@ You create a magical shield. It acts like a shield in that it has a block value,
 
 ## Sickness
 
-**Specializations:** Conjuration, Earth, Militarism, Transmutation, Water  
+**Specializations:** Conjuration, Darkness, Earth, Militarism, Transmutation, Water  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -462,7 +487,7 @@ You create a magical shield. It acts like a shield in that it has a block value,
 **Duration:** 1 week  
 **Resist:** Fortitude
 
-Inflict sickness upon a creature, causing it to perform tasks worse and suffer loss of health from long-term exposure. Whenever the duration is met, the target may make a fortitude check to reduce their sickness by 1.
+Inflict sickness upon a living creature, causing it to perform tasks worse and suffer loss of health from long-term exposure. Whenever the duration is met, the target may make a fortitude check to reduce their sickness by 1.
 
 ***Critical:*** The target gets sickness 2.  
 ***Graze/Success:*** The target gets sickness 1.
@@ -557,7 +582,7 @@ You make a simple request of a creature (no longer than two sentences). If that 
 **Duration:** Instant or 5 minutes (concentration, range)  
 **Resist:** Willpower
 
-You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
+You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
 
 ## Water Breathing
 
@@ -568,7 +593,7 @@ You can manipulate any object or creature as you could manually with your hands,
 **Action Speed:** Standard
 
 **Range:** 10m  
-**Target:** One or more creatures or objects  
+**Target:** One or more creatures  
 **Duration:** 30 minutes (concentration)  
 **Resist:** Willpower
 

@@ -3,6 +3,7 @@
 * [Currency](#currency)
 * [Adventuring Gear](#adventuring-gear)
 * [Goods & Services](#goods--services)
+* [Trade Goods](#trade-goods)
 * [Weapons](#weapons)
 * [Weapon Features](#weapon-features)
 * [Armour](#armour)
@@ -13,7 +14,9 @@ Click [here](/Fantasy/MagicEquipment.md) for the page on magic equipment.
 
 ## Currency
 
-There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last. All characters start with 25 silver pieces to spend on starting equipment.
+There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last.
+
+All characters start with 60 silver pieces which they can spend on starting equipment, in addition to some free adventuring gear (listed below).
 
 ##### Table: Currency
 | Currency | Equivalent |
@@ -29,39 +32,33 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 ##### Table: Adventuring Gear
 | Name | Price | Weight |
 |:-|:-:|:-:|
-| Alchemical base | 1sp | ½kg |
 | Backpack<sup>1</sup> | 1sp | 1kg |
 | Bedroll<sup>1</sup> | 1sp | 1kg |
-| Belt | 5cp | ¼kg |
+| Belt<sup>1</sup> | 5cp | ¼kg |
 | Book, 50 pages | 1sp | ¼kg |
-| Candles (10) | 5cp | 1kg |
+| Boots<sup>1</sup> | 1sp | ½kg |
+| Candles (10) | 1sp | 1kg |
+| Cloak | 2sp | 1kg |
 | Clothes, common<sup>1</sup> | 2sp | 1kg |
 | Clothes, fancy (doublet) | 5sp | 4kg |
 | Clothes, luxurious (fine doublet) | 15sp | 4kg |
 | Flint & steel<sup>1</sup> | 1sp | ¼kg |
 | Food, rations (4)<sup>1</sup> | 8cp | 2kg |
-| Gemstone, rough | 2sp | - |
-| Gemstone, fine | 10sp | - |
-| Gemstone, magnificient | 200sp | - |
+| Glasses<sup>1</sup> | 2sp | - |
+| Gloves<sup>1</sup> | 5cp | ¼kg |
 | Grappling hook | 2sp | 2kg |
 | Hat | 5cp | ¼kg |
 | Lantern | 2sp | 1kg |
-| Lantern oil (36 hrs) | 3sp | ¼kg |
-| Musical Instrument | 8sp | 1½kg |
-| Mirror, small, bronze | 1sp | ½kg |
-| Mirror, small, silvered | 5sp | ½kg |
-| Mirror, large, silvered | 200sp | 5kg |
+| Lantern oil (36 hours) | 3sp | ¼kg |
+| Musical instrument | 8sp | 1½kg |
 | Rope, 18m | 2sp | 3kg |
-| Ring, copper | 2cp | - |
-| Ring, silver | 2sp | - |
-| Ring, gold | 200sp | - |
 | Toolkit, small<sup>2</sup> | 3sp | 1½kg |
 | Toolkit, large<sup>2</sup> | 8sp | 5kg |
-| Torch | 5cp | 1kg |
+| Torch | 2cp | 1kg |
 | Waterskin, empty | 1sp | ¼kg |
-| Waterskin, full<sup>1</sup> | 1sp | 2kg |
+| Waterskin, full<sup>1</sup> | 1sp | 2¼kg |
 
-<sup>1</sup>All characters start with a backpack, bedroll, common clothes, flint & steel, four rations, and a full waterskin for free (these have a combined weight of 7¼kg).
+<sup>1</sup>All characters start with a backpack, bedroll, common clothes (including a belt, gloves, and boots), flint & steel, four rations, and a full waterskin for free (these have a combined weight of 8½kg). Glasses are optional, but free. Tracking use of food and water is optional.
 
 <sup>2</sup>Toolkits contain all necessary tools to performing certain skillsets or crafts. When you buy a toolkit you must specify the skillset or craft it is for, rather than simply its size. For example, small toolkits could be used for cartography, cooking, fletching, jewelry making, lock picking, sewing, woodworking, and writing. Some skillsets require a larger amount of tools, such as alchemy, engineering, pottery, smithing, and trapmaking.
 
@@ -79,10 +76,32 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 | Food, average | 2cp | ½kg |
 | Food, high quality | 5cp | ¾kg |
 | Food, fine dining | 2sp | 1kg |
+| Inn, average | 4c | - |
+| Inn, high quality | 1sp | - |
+| Inn, very high quality | 4sp | - |
+
+## Trade Goods
+
+##### Table: Trade Goods by 
+| Name | Price | Weight |
+|:-|:-:|:-:|
+| Alchemical base | 1sp | ½kg |
+| Crystal ball | 5sp | 1kg |
+| Gemstone, rough | 2sp | - |
+| Gemstone, fine | 10sp | - |
+| Gemstone, exceptional | 50sp | - |
+| Gemstone, magnificent | 100sp | - |
+| Mirror, small, bronze | 1sp | ½kg |
+| Mirror, small, silvered | 2sp | ½kg |
+| Mirror, large, silvered | 200sp | 5kg |
+| Ring, copper | 2cp | - |
+| Ring, silver | 2sp | - |
+| Ring, gold | 200sp | - |
+| Iron, by weight | 1sp | 1kg |
 
 ## Weapons
 
-Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and *features*.
+Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and several *features*. Features provide special abilities to weapons 
 
 Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
@@ -197,10 +216,11 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have –1 to hit and damage. For other objects use the following table:
 
 ##### Table: Improvised Weapons
-| Name | Damage | Crit | Type | Weight | Features |
-|:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Rock | STR+r2 Blunt | +8 | Finesse/Ranged | - | Swift, Thrown 3m/40m |
-| Potion | STR+r2 Blunt | +8 | Finesse/Ranged | - | Swift, Thrown 3m/30m |
+| Name | Damage | Crit | Type | Features |
+|:-|:-:|:-:|:-:|:-:|:-|
+| Rock or Gemstone | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/40m |
+| Shield or Dish | STR+r8 Blunt | +6 | Martial/Unarmed | Thrown 3m/30m |
+| Potion | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/30m |
 
 ## Armour
 
@@ -227,13 +247,16 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 | Plated Bracers | 10sp | 1 | - | Wrists | Metal | 1kg | - |
 | Vambraces | 20sp | 1 | 1 | Wrists | Metal | 1½kg | - |
 | Gauntlets<sup>2</sup> | 20sp | 1 | 1 | Wrists | Metal | 2kg | Locking Grip, Noisy |
-| Hood<sup>1</sup> or Mask | 1sp | - | - | Head | Cloth | ¼kg | Identity Obscuring |
+| Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
+| Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
 | Small Helm | 5sp | 1 | - | Head | Metal | 1kg | - |
 | Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Identity Obscuring,<br/>Limited Vision |
 
-<sup>1</sup>Characters start with boots and a hooded cloak for free.
+<sup>1</sup>Characters start with boots for free.
 
 <sup>2</sup>Making unarmed attacks with a gauntlet on is considered attacking with a cestus.
+
+<sup>2</sup>Hoods are considered parts of cloaks.
 
 ##### Table: Shields
 | Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
@@ -255,7 +278,7 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 **Locking Grip** You have advantage against attempts to disarm.
 
-**Noisy** Each piece of noisy armour gives you disadvantage to stealth.
+**Noisy** Wearing any amount of of noisy armour gives you disadvantage to stealth.
 
 **Open Back** Halve your total damage reduction provided by armour when attacked from behind.
 
@@ -267,7 +290,7 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 Weapons and armour can also be given various properties, making them better or worse. Equipment may have up to two different properties simultaneously: *quality*, and *weight*. When determining which cost adjustment to use for the properties you have chosen for your item, always choose the most expensive options first. Apply any cost reductions last.
 
-Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. There is one exception, where gauntlets can be treated like the weapon cestus, and can be given properties as if they were a melee weapon.
+Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. Shields and gauntlets can be given properties as though they are melee weapons.
 
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
@@ -294,4 +317,4 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Slow | Two-Handed |
 | Very Slow | Two-Handed, –1 to hit, +1 damage |
 
-<sup>1</sup>When a weapon becomes normal speed they become versatile. Finesse weapons, however, do not.
+<sup>1</sup>When a non-finesse weapon becomes normal speed, it also becomes versatile.

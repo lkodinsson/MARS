@@ -90,17 +90,17 @@ The first skill check you make after a rest is made with advantage.
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, only use the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, use only the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
-##### Table: Inspirational Charisma Steps, Cost, & Bonus
-| Step Cost | Total Cost | Bonus |
+##### Table: Inspirational Charisma Steps, Cost, & Roll Bonuses
+| Step Cost | Total Cost | Roll Bonus |
 |:-:|:-:|:-:|
 | 6 | 6 | +0 |
 | 8 | 14 | +3 |
 | 10 | 24 | +6 |
 | 12 | 36 | +9 |
 
-##### Table: Inspirational Charisma Thresholds
+##### Table: Inspirational Charisma Thresholds & Assist Bonuses
 | Assist Roll<br/>Threshold | Assist Bonus |
 |:-:|:-:|
 | 7 (Moderate) | +1 |
@@ -152,10 +152,17 @@ You may spend 2 mana to gain an advantage on your next roll (including dice that
 
 ## Meditative Rest
 
-**Cost:** 8 EXP  
+**Cost:** Variable  
 **Requirements:** Max Resolve 11+
 
-Restore 2 more endurance, stamina, and mana during rests of any duration.
+Restore more stamina and mana during rests of any duration, but only once each day. The amount restored is dependent on the advancement of this talent.
+
+##### Table: Meditative Rest Steps, Cost, & Bonuses
+| Step Cost | Total Cost | Bonus |
+|:-:|:-:|:-:|
+| 8 | 8 | +2 |
+| 10 | 18 | +3 |
+| 12 | 30 | +4 |
 
 ## Mobility
 

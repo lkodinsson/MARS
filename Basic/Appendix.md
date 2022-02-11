@@ -48,6 +48,7 @@ The following tables are example tasks at various difficulties for some of the b
 | Stabilize a dying character | 7 (Moderate) |
 | Staunching a bleeding wound | 10 (Hard) |
 | Treat a resting wounded character | 10 (Hard) |
+| Treat a resting injured character | 14 (Challenging) |
 
 ##### Table: Perception Common Tasks
 | Task | Difficulty |

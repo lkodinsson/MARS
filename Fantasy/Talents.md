@@ -24,14 +24,14 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 **Cost:** 10 EXP  
 **Requirements:** Max Intelligence 11+, Can cast spells
 
-After rolling to cast a spell, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced. This additional mana spent is considered an increase on that spell's mana cost.
+After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced. This additional mana spent is considered an increase on that spell's mana cost.
 
 ## Arcane Synthesis
 
 **Cost:** Variable  
 **Requirements:** Max Intelligence 11+, Can cast spells, Trained in craft
 
-Instead of making a craft check to craft a magic item you may instead spend mana equal to half its cost in silver (rounded up) to craft that item. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day.
+Instead of making a craft check to craft a magic item, you may instead spend mana equal to half its magic cost in silver (rounded up) to craft that item. You still pay for the base item cost. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day. Items crafted using this talent must satisfy all other normal crafting requirements.
 
 Use of this ability is a swift action, and it can be used a number of times based on its advancement.
 
@@ -91,7 +91,7 @@ This ability can be used a number of times based on its advancement.
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell is cast with +1 to the spellcasting roll. If that spell was provided to you as a bonus spell from your specialization, it gets +2 and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty reduced by 1. If that spell was provided to you as a bonus spell from your specialization, it reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
 
 This ability can be used a number of times based on its advancement.
 
@@ -152,7 +152,7 @@ Before casting any spell, you may choose to modify it using any metamagic talent
 
 Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the mana cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
 
-Spells be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced.
+Spells cannot be adjusted by metamagics that change features they do not have. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, for it would result in no change.
 
 ###### Table: Metamagic Categories & Modifiers
 | Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
@@ -162,14 +162,14 @@ Spells be adjusted simultaneously by metamagics that have opposite modifiers, li
 | Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
 | Fickle | - | –1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
-| Intensified | +2 | +2 | The spell inflicts effects to a degree of one higher |
+| Intensified | +1 | +3 | The spell inflicts effects to a degree of one higher |
 | Persistent | +1 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Quickened | +1 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
-| Reaching | +2 | +2 | The spell has its range doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Reaching | +1 | +3 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Reactive | +1 | +3 | The spell can be cast as a reaction if it has a speed of swift or faster |
 | Reduced | - | –1 | This spell has its area halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Shortened | - | –1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until released or triggered) |
+| Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until concentration lost or the spell triggered) |
 | Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.

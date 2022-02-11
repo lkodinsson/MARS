@@ -14,8 +14,8 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 * [Traits](/Basic/Traits.md)
 * [Skills](/Basic/PHB.md#skills-1)
-* [Talents](/Basic/Talents.md)
 * [Maneuvers](/Basic/Maneuvers.md)
+* [Talents](/Basic/Talents.md)
 
 ### Fantasy
 
@@ -23,10 +23,13 @@ Once you have learned the rules and are ready to create a character, you will ne
 * [Backgrounds](/Fantasy/Backgrounds.md)
 * [Archetypes](/Fantasy/Archetypes.md)
 * [Skills](/Fantasy/Skills.md)
-* [Talents](/Fantasy/Talents.md)
-* [Equipment](/Fantasy/Equipment.md)
 * [Maneuvers](/Fantasy/Maneuvers.md)
+* [Talents](/Fantasy/Talents.md)
 * [Spellcasting](/Fantasy/Spellcasting.md)
+* [Equipment](/Fantasy/Equipment.md)
+* [Magic Equipment](/Fantasy/MagicEquipment.md)
+* [Item Crafting](/Fantasy/ItemCrafting.md)
+* [Artifact Equipment](/Fantasy/ArtifactEquipment.md)
 
 # Game Mastering
 
@@ -40,8 +43,16 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 # Advanced (Variant) Rules
 
+The following rules are entirely optional, and their use is determined by the Game Master.
+
 ### Universal
 
 * [Custom Archetypes](/Advanced/CustomArchetypes.md)
+* [Custom Backgrounds]/Advanced/CustomBackgrounds.md)
 * [Epic Characters](/Advanced/EpicCharacters.md)
 * [Half-Race Characters](/Advanced/HalfRaceCharacters.md)
+* [Injuries and Exhaustion](/Advanced/InjuriesAndExhaustion.md)
+
+### Fantasy
+
+* [Professions and Wages](/Advanced/Fantasy/ProfessionsAndWages.md)

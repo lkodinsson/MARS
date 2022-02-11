@@ -28,7 +28,6 @@ As you advance in animism you also get bonus spells at specific ranks, regardles
 | r4 | Trained | [Speak with Animals](/Fantasy/Spellcasting.md#speak-with-animals) |
 | r8 | Practiced | [Animal Form](/Fantasy/Spellcasting.md#animal-form) |
 | r12 | Exceptional | Control Plants (?) |
-| r16 | Accomplished | Alter Weather (?) |
 
 ### Balance
 
@@ -76,9 +75,9 @@ Transmuters can change one thing into something else, or repair what is broken. 
 
 ## Craft (INT)
 
-Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create normal everyday items and equipment, including arrows, swords, and armour. It can also be used to create powerful magic items. The primary limitation to this skill, is that it requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so (this is just a matter of roleplaying).
+Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create normal everyday items and equipment, including arrows, swords, and armour. It can also be used to create powerful magic items. This skill is considered to be a core advanced skill unique to the fantasy setting.
 
-The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
+This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so (this is just a matter of roleplaying). The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
 
 ## Faith
 
@@ -106,7 +105,7 @@ As you advance in faith you also get bonus spells at specific ranks, depending o
 | Roll Value | Step Name | Charity | Family | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | r6 | Adept | Mend | ? | ? | Seek Guidance | ? | ? | ? | ? |
-| r10 | Proficient | ? | ? | ? | ? | ? | ? | ? | ? |
+| r12 | Exceptional | ? | ? | ? | ? | ? | ? | ? | ? |
 | r16 | Accomplished | ? | ? | ? | ? | ? | ? | ? | ? |
 
 ## Ki

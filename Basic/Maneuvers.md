@@ -14,7 +14,7 @@
 | [Escape](#escape) | 2 | Swift | Finesse, Ranged |
 | [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
 | [Hard Parry](#hard-parry) | 1 | Reaction | Finesse, Martial |
-| [Heavy Strike](#heavy-strike) | 3 | Standard | Martial, Unarmed |
+| [Heavy Strike](#heavy-strike) | 2 | Standard | Martial, Unarmed |
 | [Hook Parry](#hook-parry) | 1 | Reaction | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | Finesse, Martial, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Martial, Unarmed |
@@ -24,7 +24,7 @@
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Ranged |
 | [Point-blank Shot](#point-blank-shot) | 1 | Swift | Ranged |
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Finesse, Ranged |
-| [Precise Strike](#precise-strike) | 3 | Standard | Finesse, Ranged, Unarmed |
+| [Precise Strike](#precise-strike) | 2 | Standard | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
 | [Shield Bash](#shield-bash) | 1 | Standard | Martial, Unarmed |
 | [Stunning Strike](#stunning-strike) | 2 | Standard | Finesse, Martial, Unarmed |
@@ -154,10 +154,10 @@ While wielding a weapon that can deal slashing damage, instead of using deflecti
 
 **Specializations:** Martial, Unarmed
 
-**Stamina Cost:** 3  
+**Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack with –2 to hit but advantage to damage.
+Make an attack with –2 to hit but +2 to damage.
 
 ## Hook Parry
 
@@ -166,7 +166,7 @@ Make an attack with –2 to hit but advantage to damage.
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding an axe or hooked object, give an incoming melee attack disadvantage to hit. If your combat skill is exceptional (r12) or better, give the incoming attack double disadvantage instead.
+While wielding an axe or hooked object, give an incoming melee attack disadvantage to hit.
 
 ## Intercept
 
@@ -220,6 +220,8 @@ Make an acrobatics check if leaping over an obstacle (1m between you and target)
 
 Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
 
+This maneuver cannot be used while prone.
+
 ## Penetrating Strike
 
 **Specializations:** Finesse, Ranged
@@ -272,10 +274,10 @@ Performing this maneuver, or pre-applying a poison, can only be done with access
 
 **Specializations:** Finesse, Ranged, Unarmed
 
-**Stamina Cost:** 3  
+**Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack with –2 to damage but advantage to hit.
+Make an attack with –2 to damage but +2 to hit.
 
 ## Provoke
 
@@ -322,7 +324,7 @@ Make a melee attack. If the weapon you use does not deal blunt damage or you mak
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
-Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration. If your charisma is exceptional (r12) or better, give the target double disadvantage instead.
+Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration.
 
 ## Trip
 

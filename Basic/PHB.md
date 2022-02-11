@@ -344,7 +344,7 @@ While most basic skills and actions can be performed in a matter of a couple sec
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll an additional time (for every degree of advantage you have) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst. Paired instances of advantage and disadvantage cancel each other out.
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll one additional time (even if you have multiple sources granting advantage) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst result. Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
 
 ### Group Actions
 
@@ -469,7 +469,7 @@ Declare any standard, swift, or free action to use as a reaction given a specifi
 
 **Action Speed:** Swift
 
-If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged attacks and spells made against your deflection and evasion. You can also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged actions made against your deflection and evasion. You can also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
 
 #### Use Skill
 
@@ -481,7 +481,7 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction. No matter how much damage reduction a character has, the minimum amount of damage they must take is 1.
 
-Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are given the unconscious condition.
+Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are only given the unconscious condition.
 
 Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition when applicable. If nonlethal attacks bring a character to negative health equal to their maximum health, then they are given the dying condition.
 
@@ -537,7 +537,7 @@ Multiple sickness effects do not add their degree of effect together, instead on
 
 #### Stunned
 
-At the beginning of a stunned character's turn, they lose the stunned effect and a swift action.
+At the beginning of a stunned character's turn, they lose the stunned effect and a swift action. Until then, stunned characters cannot perform reactions.
 
 #### Unconscious
 
@@ -546,6 +546,8 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 # Resting
 
 At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are three different types of rests: the short rest, moderate rest, and long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
+
+Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep, each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/InjuriesAndExhaustion.md). Both short and moderate rests are optional, but a character make take up to two short rests and one moderate rest each day.
 
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Moderate Rest | Long Rest |
@@ -595,7 +597,7 @@ Click [here](/Fantasy/Archetypes.md) for a list of fantasy archetypes.
 
 ### Trait
 
-Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. Typically they provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
+Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. They provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
 
 The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
 
@@ -656,20 +658,13 @@ Casual carrying of items over extended periods of time is different than momenta
 
 # Advancing a Character
 
-As you play the game your character will acquire experience points. As a baseline each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 2 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 3 experience points. These points can be spent to improve your character's stats and skills, and to acquire new abilities. The cost to improve your stats and skills depend on what your current dice step is. 
+As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 
-##### Table: Primary Stat Steps & Cost
-| Step Cost | Total Cost | Roll Value | Step Name |
-|:-:|:-:|:-:|:-|
-| - | - | r8 | Below Average |
-| 10 | 10 | r10 | Average |
-| 12 | 22 | r12 | Above Average |
-| 14 | 36 | r14 | Great |
-| 16 | 52 | r16 | Superb |
-| 18 | 70 | r18 | Powerful |
-| 20 | 90 | r20 | Epic |
+The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 2 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 1 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 2 experience points.
 
-Although you do not spend experience points to obtain your starting primary stats, the costs for each step are still listed. This helps provide context for the value of your stats.
+### Improving Skills
+
+Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value. For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it would cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2. 
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -686,7 +681,43 @@ Although you do not spend experience points to obtain your starting primary stat
 
 <sup>1</sup>Becoming trained in any advanced skill costs 4 experience points, while basic skills cost 2.
 
-Talents can also be acquired at varying costs depending on the specific talent. These will provide more breadth of ability to your character rather than raw numerical improvement. You can even acquire talents that other archetypes start with.
+Languages cost half as much as other advanced skills (rounded up):
+
+##### Table: Language Steps & Cost
+| Step Cost | Total Cost | Roll Value | Step Name |
+|:-:|:-:|:-:|:-|
+| 2 | 2 | r4 | Trained |
+| 2 | 4 | r6 | Adept |
+| 2 | 6 | r8 | Practiced |
+| 3 | 9 | r10 | Proficient |
+| 3 | 12 | r12 | Exceptional |
+| 4 | 16 | r14 | Disciplined |
+| 4 | 20 | r16 | Accomplished |
+| 5 | 25 | r18 | Expert |
+| 5 | 30 | r20 | Master (Fluent) |
+
+### Improving Primary Stats
+
+Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead equal to the roll value. For example: if you are improving a primary stat from a roll value of r12 to a roll value of r14 it would cost 14 experience points.
+
+##### Table: Primary Stat Steps & Cost
+| Step Cost | Total Cost | Roll Value | Step Name |
+|:-:|:-:|:-:|:-|
+| - | - | r8 | Below Average |
+| 10 | 10 | r10 | Average |
+| 12 | 22 | r12 | Above Average |
+| 14 | 36 | r14 | Great |
+| 16 | 52 | r16 | Superb |
+| 18 | 70 | r18 | Powerful |
+| 20 | 90 | r20 | Epic |
+
+There is also a second way that primary stats are improved: as your total experience gained reaches certain checkpoints you get additional bonuses to your stats for free. For every 50 total experience points gained, you will choose one of your primary stats and apply an additional +1 bonus to it. You may only choose a single primary stat twice to receive this bonus.
+
+### Acquiring Talents
+
+While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability. Talents have varying experience costs,  and they are listed along with their description. Some of them can even have multiple steps similar to stats and skills, such as the [toughness](/Basic/Talents.md#toughness) talent.
+
+Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring that archetype's starting talent.
 
 Click [here](/Basic/Talents.md) for the list of universal talents.
 

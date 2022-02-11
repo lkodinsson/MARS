@@ -59,9 +59,11 @@ Stats and skills will also be given *ratings*, which are approximations of the a
 
 Whenever you need to roll for a group of creatures you can either take the given rating for that roll, then adjust it plus or minus 1 until you have provided a roll for each creature, or you can roll then do the same. For example: You have a group of creatures that all need an initiative roll, so you roll their initiative and get a value of 6. You can then assign them values of 4, 5, 6, 7, and 8 as their rolls.
 
-Advantage and disadvantage on rolls can also be approximated. For the first degree of advantage or disadvantage, add or subtract, respectively, a number equal to the amount of dice. For each additional degree, add or subtract that many reduced by 1, until you are only left adjusting by 1. For example: if you would roll 3 dice for a creature's skill check, but they have advantage, add 3. If that creature had triple advantage, add 3+2+1, for a total of 6. If that creature only rolled 2 dice, instead add 2+1+1, for a total of 5.
+Advantage and disadvantage on rolls can also be approximated: add a bonus or penalty equal to the number of dice they would have rolled.
 
 ### Challenge Rating (CR)
+
+THIS IS LIKELY TO BE REPLACED WITH SOMETHING MUCH SIMPLER
 
 This stat is represented by a single number. This number is a comparative value between the combat effectiveness of a creature and the combat effectiveness of a character. Newly created characters are expected to be rated at a challenge rating of 1 to 2, with much more experienced characters reaching as high as 20.
 
@@ -87,7 +89,7 @@ Legendary creatures are basically bosses or lone creatures. They should be given
 
 # Creating Creatures
 
-Imagine how you would describe that creature, then assign values to its stats and skill based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Use them as a baseline, however, so that they still function as you would expect from any other character. Try to avoid directly adding modifers to stats and skills, use dice steps instead. If you do feel the need to manually add modifiers to stats, you can give them +1 to two stats, or +2, +1 and -1 among three stats.
+Imagine how you would describe that creature, then assign values to its stats and skills based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Do use them as a baseline so that they still function as you would expect from any other character. Try to avoid adding modifers directly to stats and skills, and use dice steps instead. If you do feel the need to manually add modifiers to stats, you can give them +1 to two stats, or +2, +1 and –1 among three stats.
 
 ##### Table: All Stat and Skill Steps
 | Dice Step | Stat Step | Skill Step |
