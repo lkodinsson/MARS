@@ -52,4 +52,4 @@ The following rules are entirely optional, and their use is determined by the Ga
 * [Epic Characters](/Advanced/EpicCharacters.md)
 * [Half-Race Characters](/Advanced/HalfRaceCharacters.md)
 * [Injuries and Exhaustion](/Advanced/InjuriesAndExhaustion.md)
-* [Professions and Wages](/Advanced/Fantasy/ProfessionsAndWages.md)
+* [Professions and Wages](/Advanced/ProfessionsAndWages.md)
