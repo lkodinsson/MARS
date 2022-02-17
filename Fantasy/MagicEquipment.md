@@ -12,7 +12,7 @@
 
 Click [here](/Fantasy/Equipment.md) for the page on normal equipment.
 
-In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and rarer still to be available for purchase. Even in wealthy cities, some magic items might not be available. More expensive magical items (with a magic effect valuing more than 100sp) will require the use of the [craft skill](/Fantasy/Skills.md#craft-int).
+In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and rarer still to be available for purchase. Even in wealthy cities, some magic items might not be available. Very expensive magical items (with a magic effect valuing more than 100sp) or items requiring someone exceptionally skilled, will require the use of the [craft skill](/Fantasy/Skills.md#craft-int).
 
 Activating any spell effect without the use of a spellstone does not count as casting a spell.
 
@@ -33,20 +33,19 @@ All potions have the same weight: ½kg.
 ##### Table: Potions
 | Name | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|
-| Potion of Electricity | 2sp 6cp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 8 (Success) |
-| Potion of Electricity, Critical | 3sp 8cp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 14 (Critical) |
-| Potion of Feather Fall | 2sp 4cp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) | 7 (Graze/Success) |
-| Potion of Fire | 2sp 6cp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 8 (Success) |
-| Potion of Fire, Critical | 3sp 8cp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 14 (Critical) |
-| Potion of Inspiration | 5sp | [Inspire](/Fantasy/Spellcasting.md#inspire) | 10 (Graze/Succes) |
-| Potion of Mending | 5sp 4cp | [Mend](/Fantasy/Spellcasting.md#mend) | 11 (Success) |
-| Potion of Mending, Critical | 9sp | [Mend](/Fantasy/Spellcasting.md#mend) | 20 (Critical) |
-| Potion of Restoration | 9sp 4sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 14 (Graze/Success) |
-| Potion of Restoration, Critical | 17sp 8sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 28 (Critical) |
-| Potion of Sickness | 5sp | [Sickness](/Fantasy/Spellcasting.md#sickness) | 10 (Graze/Success) |
-| Potion of Sickness, Critical | 9sp | [Sickness](/Fantasy/Spellcasting.md#sickness) | 20 (Critical) |
-| Potion of Sleep | 9sp 4cp | [Sleep](/Fantasy/Spellcasting.md#sleep) | 14 (Graze/Success) |
-| Potion of Water Breathing | 5sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) | 10 (Graze/Success) |
+| Potion of Electricity | 2sp 4cp | [Jolt](/Fantasy/Spells.md#jolt) | 7 (Success) |
+| Potion of Electricity, Critical | 3sp 8cp | [Jolt](/Fantasy/Spells.md#jolt) | 14 (Critical) |
+| Potion of Feather Fall | 2sp 4cp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 (Success) |
+| Potion of Fire | 2sp 4cp | [Ignite](/Fantasy/Spells.md#ignite) | 7 (Success) |
+| Potion of Fire, Critical | 3sp 8cp | [Ignite](/Fantasy/Spells.md#ignite) | 14 (Critical) |
+| Potion of Inspiration | 5sp | [Inspire](/Fantasy/Spells.md#inspire) | 10 (Succes) |
+| Potion of Mending | 5sp | [Mend](/Fantasy/Spells.md#mend) | 10 (Success) |
+| Potion of Mending, Critical | 9sp | [Mend](/Fantasy/Spells.md#mend) | 20 (Critical) |
+| Potion of Restoration | 9sp 4sp | [Restoration](/Fantasy/Spells.md#restoration) | 14 (Success) |
+| Potion of Sickness | 5sp | [Sickness](/Fantasy/Spells.md#sickness) | 10 (Success) |
+| Potion of Sickness, Critical | 9sp | [Sickness](/Fantasy/Spells.md#sickness) | 20 (Critical) |
+| Potion of Sleep | 9sp 4cp | [Sleep](/Fantasy/Spells.md#sleep) | 14 (Success) |
+| Potion of Water Breathing | 5sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 (Success) |
 
 ## Refilling Potions
 
@@ -55,14 +54,14 @@ Some potions are capable of automatically refilling. These potions are usuable o
 ##### Table: Refilling Potions
 | Name | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|
-| Refilling Potion of Feather Fall | 15sp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) | 7 (Graze/Success) |
-| Refilling Potion of Grease | 41sp | [Grease](/Fantasy/Spellcasting.md#grease) | 10 (Graze/Success) |
-| Refilling Potion of Grease, Critical | 81sp | [Grease](/Fantasy/Spellcasting.md#grease) | 20 (Critical) |
-| Refilling Potion of Inspiration | 41sp | [Inspire](/Fantasy/Spellcasting.md#inspire) | 10 (Graze/Success) |
-| Refilling Potion of Mending | 45sp | [Mend](/Fantasy/Spellcasting.md#mend) | 11 (Success) |
-| Refilling Potion of Mending, Critical | 81sp | [Mend](/Fantasy/Spellcasting.md#mend) | 20 (Critical) |
-| Refilling Potion of Restoration | 85sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 14 (Graze/Success) |
-| Refilling Potion of Water Breathing | 41sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) | 10 (Graze/Success) |
+| Refilling Potion of Feather Fall | 15sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 (Success) |
+| Refilling Potion of Grease | 41sp | [Grease](/Fantasy/Spells.md#grease) | 10 (Success) |
+| Refilling Potion of Grease, Critical | 81sp | [Grease](/Fantasy/Spells.md#grease) | 20 (Critical) |
+| Refilling Potion of Inspiration | 41sp | [Inspire](/Fantasy/Spells.md#inspire) | 10 (Success) |
+| Refilling Potion of Mending | 41sp | [Mend](/Fantasy/Spells.md#mend) | 10 (Success) |
+| Refilling Potion of Mending, Critical | 81sp | [Mend](/Fantasy/Spells.md#mend) | 20 (Critical) |
+| Refilling Potion of Restoration | 85sp | [Restoration](/Fantasy/Spells.md#restoration) | 14 (Success) |
+| Refilling Potion of Water Breathing | 41sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 (Success) |
 
 ## Scrolls
 
@@ -82,28 +81,28 @@ Spellstones hold one or more uses of a single spell, and can be activated to cas
 
 Spellstones (unlike potions) actually require the spells inside them to be cast and are not given automatic spellcasting rolls. Instead they are given an automatic minimum. When used, the user of the spellstone makes an appropriate spellcasting roll if possible. If they do not have a skill capable of casting that spell, then they instead roll their intelligence or resolve (whichever they want). Even if the user does not have the spell learned, they may still use the appropriate skill (one where it is learnable). Then, if the roll made is less than that spellstone's automatic minimum for that spell (including bonuses), their roll gets upgraded to the minimum. If the spell effect is caused by the destruction of the spellstone (such as from throwing it), it is given an automatic roll equal to twice the minimum roll.
 
-Spellstones are typically crafted with one of two primary uses in mind: to always guarantee at least some degree of success, or to always prevent serious spell failure. Spellstones that have a limited number of uses are typically used by non-spellcasters who want access to spell effects. These are cheaper to create and are usually good enough to guarantee a grazing success.
+Spellstones are typically crafted with one of two primary uses in mind: to always guarantee at least some degree of success, or to always prevent spell failure. Spellstones that have a limited number of uses are typically used by non-spellcasters who want access to spell effects. These are cheaper to create and are usually good enough to guarantee a grazing success.
 
 ##### Table: Spellstones (Limited Uses)
 | Name | Price | Spell | Spellcasting<br/>Minimum | Attunement |
 |:-|:-:|:-:|:-:|:-:|
-| Spellstone of Electricity (5 uses) | 16sp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 7 (Graze) | No |
-| Spellstone of Ignition (5 uses) | 16sp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 7 (Graze) | No |
-| Spellstone of Light (5 uses) | 16sp | [Light](/Fantasy/Spellcasting.md#light) | 7 (Graze/Success) | Yes |
-| Spellstone of Mending (5 uses) | 42sp | [Mending](/Fantasy/Spellcasting.md#mending) | 10 (Graze) | No |
-| Spellstone of Telekinesis (5 uses) | 16sp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) | 7 (Graze/Success) | Optional |
+| Spellstone of Electricity (5 uses) | 16sp | [Jolt](/Fantasy/Spells.md#jolt) | 7 (Success) | No |
+| Spellstone of Ignition (5 uses) | 16sp | [Ignite](/Fantasy/Spells.md#ignite) | 7 (Success) | No |
+| Spellstone of Light (5 uses) | 16sp | [Light](/Fantasy/Spells.md#light) | 7 (GSuccess) | Yes |
+| Spellstone of Mending (5 uses) | 42sp | [Mending](/Fantasy/Spells.md#mending) | 10 (Success) | No |
+| Spellstone of Telekinesis (5 uses) | 16sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 7 (Success) | Optional |
 
 Spellstones that are reusable (providing daily uses) are typically used by trained spellcasters, as they usually only safeguard against spellcasting fumbles.
 
 ##### Table: Spellstones (Per Day)
 | Name | Price | Spell | Spellcasting<br/>Minimum | Attunement |
 |:-|:-:|:-:|:-:|:-:|
-| Spellstone of Electricity (1/day) | 18sp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 4 (Fail) | No |
-| Spellstone of Ignition (1/day) | 18sp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 4 (Fail) | No |
-| Spellstone of Knock (1/day) | 98sp | [Knock](/Fantasy/Spellcasting.md#knock) | 8 (Fail) | No |
-| Spellstone of Light (1/day) | 18sp | [Light](/Fantasy/Spellcasting.md#light) | 4 (Fail) | Yes |
-| Spellstone of Mending (1/day) | 50sp | [Mending](/Fantasy/Spellcasting.md#mending) | 6 (Fail) | No |
-| Spellstone of Telekinesis (1/day) | 18sp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) | 4 (Fail) | Optional |
+| Spellstone of Electricity (1/day) | 18sp | [Jolt](/Fantasy/Spells.md#jolt) | 4 (Graze) | No |
+| Spellstone of Ignition (1/day) | 18sp | [Ignite](/Fantasy/Spells.md#ignite) | 4 (Graze) | No |
+| Spellstone of Knock (1/day) | 98sp | [Knock](/Fantasy/Spells.md#knock) | 8 (Graze) | No |
+| Spellstone of Light (1/day) | 18sp | [Light](/Fantasy/Spells.md#light) | 4 (Graze) | Yes |
+| Spellstone of Mending (1/day) | 50sp | [Mending](/Fantasy/Spells.md#mending) | 6 (Graze) | No |
+| Spellstone of Telekinesis (1/day) | 18sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 4 (Graze) | Optional |
 
 Spellstones can also be socketed into another item (such as a ring or staff), allowing you to use that item to cast spells from the spellstone. Unfortunately, spellstones socketed into items conflict with other spellstones and other magic effects on the same item. This renders all of these items and effects unusable until the conflict is resolved, or *all* of the items are [magically stabilized](/Fantasy/ItemCrafting.md#magic-stabilization) by someone with the craft skill, allowing them to work together.
 
@@ -120,19 +119,19 @@ Spellstones can be made of gemstones ranging several degrees of quality. The qua
 
 ## Magic Weapons
 
-Magic weapons require attunement to provide their effects, and may do so continuously. They deal half magical damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spellcasting.md#magic-weapon)).
+Magic weapons require attunement to provide their effects, and may do so continuously. They deal half magical damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
 
 All magic weapons cost exactly 100sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
 
 ##### Table: Magic Weapons
 | Name | Base Item | Price | Spell |
 |:-|:-:|:-:|:-:|
-| Arcane Crossbow | Crossbow | 116sp | [Magic Weapon (arcane)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Chilling Battleaxe | Battleaxe | 108sp | [Magic Weapon (cold)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Flaming Longsword | Longsword | 108sp | [Magic Weapon (fire)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Lightning Warhammer | Warhammer | 108sp | [Magic Weapon (electric)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Necrotic Dagger | Dagger | 105sp | [Magic Weapon (void)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Radiant Warstaff | Warstaff | 108sp | [Magic Weapon (radiant)](/Fantasy/Spellcasting.md#magic-weapon) |
+| Arcane Crossbow | Crossbow | 116sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
+| Chilling Battleaxe | Battleaxe | 108sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
+| Flaming Longsword | Longsword | 108sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
+| Lightning Warhammer | Warhammer | 108sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
+| Necrotic Dagger | Dagger | 105sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
+| Radiant Warstaff | Warstaff | 108sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
 
 ## Magic Armour
 
@@ -147,8 +146,8 @@ Most magic gear requires attunement to provide their effects, and may do so cont
 ##### Table: Magic Gear
 | Name | Base Item | Price | Spell |
 |:-|:-:|:-:|:-:|
-| Cloak of Feather Fall | Cloak | 37sp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) |
-| Gloves of Telekinesis | Gloves | 35sp 5cp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) |
-| Mask of Water Breathing | Mask | 101sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) |
-| Spectacles of Sight | Glasses | 37sp | [Sight](/Fantasy/Spellcasting.md#sight) |
-| Sunrod | Small Iron Rod (1kg) | 36sp | [Light](/Fantasy/Spellcasting.md#light) |
+| Cloak of Feather Fall | Cloak | 37sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) |
+| Gloves of Telekinesis | Gloves | 35sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) |
+| Mask of Water Breathing | Mask | 101sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) |
+| Spectacles of Sight | Glasses | 37sp | [Sight](/Fantasy/Spells.md#sight) |
+| Sunrod | Small Iron Rod (1kg) | 36sp | [Light](/Fantasy/Spells.md#light) |

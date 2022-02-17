@@ -177,11 +177,11 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Backswing** If you miss with this weapon, your next attack with it on the same target gets a +2 bonus to hit (in addition to the multiple attack penalty). This bonus does not stack.
 
-**Bypass** Attacks made reduce the defender’s armour class by the given value during that attack.
+**Bypass** Attacks made have a reduced threshold to get a critical equal to the given value.
 
 **Cleave** Additional attacks made against new targets don’t suffer from the multiple attack penalty.
 
-**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks at all next to walls, ceilings, or obstacles within 1m. If used within a 1m range of friendly characters you have a chance to hit them instead if you miss your target (roll an attack to hit your ally).
+**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks while next to walls, ceilings, or obstacles within 1m. If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack to hit your ally).
 
 **Mechanical** This weapon does not add strength to damage, and can be preloaded before attacking with it.
 
@@ -249,8 +249,8 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 | Gauntlets<sup>2</sup> | 20sp | 1 | 1 | Wrists | Metal | 2kg | Locking Grip, Noisy |
 | Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
 | Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
-| Small Helm | 5sp | 1 | - | Head | Metal | 1kg | - |
-| Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Identity Obscuring,<br/>Limited Vision |
+| Small Helm | 5sp | 1 | - | Head | Metal | 1kg | Critical Defense |
+| Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Critical Defense,<br/>Identity Obscuring,<br/>Limited Vision |
 
 <sup>1</sup>Characters start with boots for free.
 
@@ -269,6 +269,8 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 ### Armour Features
 
 **Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you block projectiles, add the given value to your armour class instead.
+
+**Critical Defense** Increase the threshold to land a critical hit against you by 1.
 
 **Guiding** You gain a +1 bonus to hit with non-mechanical projectile weapons.
 

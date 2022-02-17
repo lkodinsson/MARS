@@ -1,12 +1,12 @@
 # Maneuvers
 
 ##### Table: Fantasy Maneuvers
-| Name | Stamina<br/>Cost | Action<br/>Speed | Specializations |
-|:-|:-:|:-:|:-|
-| [Distracting Strike](#distracting-strike) | 2 | Standard | Finesse, Martial, Unarmed |
-| [Spell Deflection](#spell-deflection) | 1 | Reaction | Finesse, Martial, Ranged, Unarmed |
-| [Spell Evasion](#spell-evasion) | 1 | Reaction | Finesse, Ranged, Unarmed |
-| [Spell Strike](#spell-strike) | 1 | Standard | Finesse, Martial, Ranged, Unarmed |
+| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Specializations |
+|:-|:-:|:-:|:-:|:-|
+| [Distracting Strike](#distracting-strike) | 2 | Standard | Willpower | Finesse, Martial, Unarmed |
+| [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Finesse, Martial, Ranged, Unarmed |
+| [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Finesse, Ranged, Unarmed |
+| [Spell Strike](#spell-strike) | 1 | Standard | None | Finesse, Martial, Ranged, Unarmed |
 
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
 
@@ -37,7 +37,7 @@ Get a +1 bonus to resist an incoming spell that targets only you. If you also ha
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to resist a spell instead of making the normal resist roll. For spells that deal damage, if you succeed the resist they are upgraded to a graze unless you critically succeed the resist, where they are instead resisted normally. After you evade, you may move a distance up to half your speed.
+Roll your evasion to resist a spell instead of making the normal resist roll. If the incoming spell grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed. If the spell targets an area, and you are still in the area at the end of free the move from evading, grazes are treats as normal instead.
 
 ## Spell Strike
 

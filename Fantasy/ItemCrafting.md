@@ -1,22 +1,22 @@
 # Item Crafting
 
 * [Normal Item Crafting](#normal-item-crafting)
-* [Upgrading Items](#upgrading-items)
-* [Bulk Crafting](#bulk-crafting)
-* [Long-term Crafting](#long-term-crafting)
-* [Rushed Crafting](#rushed-crafting)
+	* [Upgrading Items](#upgrading-items)
+	* [Bulk Crafting](#bulk-crafting)
+	* [Long-term Crafting](#long-term-crafting)
+	* [Rushed Crafting](#rushed-crafting)
 * [Magic Item Crafting](#magic-item-crafting)
-* [Base Magic Cost](#base-magic-cost)
-* [Scrolls](#scrolls)
-* [Limited Use Items](#limited-use-items)
-* [Multiple Use Items](#multiple-use-items)
-* [Continuous Use Items](#continuous-use-items)
-* [Multiple Effects](#multiple-effects)
-* [Triggered Effects](#triggered-effects)
-* [Curses](#curses)
-* [Magic Stabilization](#magic-stabilization)
-* [Charge Bonding](#charge-bonding)
-* [Mana Focusing](#mana-focusing)
+	* [Base Magic Cost](#base-magic-cost)
+	* [Scrolls](#scrolls)
+	* [Limited Use Items](#limited-use-items)
+	* [Multiple Use Items](#multiple-use-items)
+	* [Continuous Use Items](#continuous-use-items)
+	* [Multiple Effects](#multiple-effects)
+	* [Triggered Effects](#triggered-effects)
+	* [Curses](#curses)
+	* [Magic Stabilization](#magic-stabilization)
+	* [Charge Bonding](#charge-bonding)
+	* [Mana Focusing](#mana-focusing)
 
 Click [here](/Fantasy/MagicEquipment.md) for examples of low cost magic equipment, or [here](/Fantasy/ArtifactEquipment.md) for examples of high cost magic equipment.
 
@@ -57,11 +57,10 @@ Your craft roll determines both the amount of progress made and the immediate co
 ***Double Critical:*** Gain 100% progress paying 50% of the cost.  
 ***Critical:*** Gain 50% progress paying 50% of the cost.  
 ***Success:*** Gain 20% progress paying 75% of the cost.  
-***Graze:*** Gain 10% progress paying 90% of the cost.  
-***Fail:*** Gain 2% progress paying 100% of the cost.  
-***Fumble:*** Lose 5% progress.
+***Graze:*** Gain 2% progress paying 90% of the cost.  
+***Fail:*** Lose 5% progress.
 
-If you roll three times the difficulty or higher, that is considered a double critical.
+If you roll 20 above the difficulty or higher, that is considered a double critical.
 
 Each craft check made represents a single day's worth of crafting time spent on that item.
 
@@ -83,14 +82,14 @@ Each craft check made represents a single day's worth of crafting time spent on 
 > |:-:|:-:|:-:|
 > | 12 (Success) | +20% = 20% | 6sp (75%) |
 > | 16 (Success) | +20% = 40% | 6sp (75%) |
-> | 10 (Graze) | +10% = 50% | 3sp 6cp (90%) |
-> | 6 (Fail) | +2% = 52% | 8cp (100%) |
-> | 13 (Success) | +20% = 72% | 6sp (75%) |
-> | 21 (Critical) | +50% (28%) = 100% | 5sp 6cp (50%) |
+> | 10 (Success) | +20% = 60% | 6sp (75%) |
+> | 5 (Fail) | +2% = 62% | 8cp (90%) |
+> | 13 (Success) | +20% = 82% | 6sp (75%) |
+> | 21 (Critical) | +50% (18%) = 100% | 3sp 6cp (50%) |
 > ___
 > **Time Spent:** 6 Days
 >
-> **Total Cost:** 28sp (70% of cost)
+> **Total Cost:** 28sp 4cp (71% of cost)
 
 ### Upgrading Items
 
@@ -106,14 +105,14 @@ Crafting can also be used to upgrade items from one quality to the next by treat
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
-> | 7 (Graze) | +10% = 10% | 9cp (90%) |
-> | 17 (Critical) | +50% = 60% | 2sp 5cp (50%) |
-> | 11 (Success) | +20% = 80% | 1sp 5cp (75%) |
-> | 19 (Critical) | +50% (20%) = 100% | 1sp (50%) |
+> | 6 (Graze) | +20% = 20% | 1sp 5cp (75%) |
+> | 17 (Critical) | +50% = 70% | 2sp 5cp (50%) |
+> | 11 (Success) | +20% = 90% | 1sp 5cp (75%) |
+> | 19 (Critical) | +50% (10%) = 100% | 5cp (50%) |
 > ___
 > **Time Spent:** 4 Days
 >
-> **Total Cost:** 5sp 9cp (59% of cost)
+> **Total Cost:** 6sp (60% of cost)
 
 Items in progress cannot be used until they are completed.
 
@@ -125,53 +124,55 @@ If partial progress is enough to represent one or more complete items, treat tho
 
 > ##### Bulk Crafting Example
 > ___
-> **Item:** 5 Javelins
+> **Item:** 8 Javelins
 >
-> **Cost:** 10sp (2sp × 5)
+> **Cost:** 20sp (2sp × 10)
 >
 > **Difficulty:** 7
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
-> | 13 (Success) | +20% = 20% | 1sp 5cp (75%) |
-> | 16 (Critical) | +50% = 70% | 2sp 5cp (50%) |
+> | 13 (Success) | +20% = 20% | 3sp (75%) |
+> | 17 (Critical) | +50% = 70% | 5sp (50%) |
 > ___
 > **Time Spent:** 2 Days
 >
-> **Total Cost:** 4sp (40% of cost)
+> **Total Cost:** 8sp (40% of cost)
 
-In this example, 70% of five javelins was crafted over two days. This translates to three complete javelins (which can be used immediately), half of one, and prepared work for another.
+In this example, 70% of ten javelins was crafted over two days. This translates to seven complete javelins (which can be used immediately), and prepared work for another three.
 
 This progress can be resumed at a later date, leading us to the next example:
 
 > ##### Bulk Crafting Example (Precrafted)
 > ___
-> **Item:** 5 Javelins
+> **Item:** 10 Javelins
 >
 > **Precrafted:** 70%
 >
-> **Cost:** 10sp (2sp × 5)
+> **Cost:** 20sp (2sp × 10)
 >
 > **Difficulty:** 7
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
 > | - | 70% | - |
-> | 7 (Graze) | +10% = 80% | 9cp (90%) |
-> | 3 (Fumble) | –5% (0%) = 80% | - |
-> | 12 (Success) | +20% = 100% | 1sp 5cp (75%) |
+> | 8 (Success) | +20% = 90% | 3sp (75%) |
+> | 2 (Fail) | –5% (0%) = 90% | - |
+> | 12 (Success) | +10% = 100% | 1sp 5cp (75%) |
 > ___
 > **Time Spent:** 3 Days
 >
-> **Total Cost:** 2sp 4cp (24% of remaining cost)
+> **Total Cost:** 4sp 5cp (22.5% of cost)
+>
+> **Combined Total Cost:** 12sp 5cp (62.5% of cost)
 
-You might notice that on the second of these last three days, that no progress was actually lost. This is because upon reaching 80% of the total progress the day before, a whole javelin was crafted. Since there was no partially crafted javelin remaining, progress could not be lost on any partially created items.
+You might notice that on the second of these last three days, that no progress was actually lost. This is because upon reaching 90% of the total progress the day before, another two whole javelins were crafted. Since there are no partially crafted javelins, progress could not be lost.
 
 The maximum number of items that can be crafted at once is twenty, regardless of the percentage of crafting gained.
 
 ### Long-term Crafting
 
-If you expect a craft project to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process the crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with your average roll. To determine your average roll, take half your maximum craft roll, add any bonuses, then add 1 for every two dice you would roll. This shortcut is only available if it is expected that the item (as a whole) will take much longer than 5 days to craft. This can be done by checking if your average roll is less than the crafting difficulty.
+If you expect a craft project to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process the crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with your average roll. To determine your average roll, take half your maximum craft roll, add any bonuses, then add 1 for every two dice you would roll. This shortcut is only available if it is expected that the item (as a whole) will take much longer than 5 days to craft. This can be done by checking if your average roll is less than the crafting difficulty, but not low enough to fail.
 
 > ##### Long-term Crafting Example
 > ___
@@ -192,21 +193,20 @@ If you expect a craft project to take a large amount of time (upwards of 50 in-g
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
 > | 18 (Success) | +20% = 20% | 22sp 5cp (75%) |
-> | 14 (Fail, Auto ×5) | +2% ×5 (10%) = 30% | 3sp (100%) ×5 (15sp) |
-> | 11 (Fail) | +2% = 32% | 3sp (100%) |
-> | 14 (Fail, Auto ×5) | +2% ×5 (10%) = 42% | 3sp (100%) ×5 (15sp) |
-> | 16 (Graze) | +10% = 52% | 13sp 5cp (90%) |
-> | 14 (Fail, Auto ×5) | +2% ×5 (10%) = 62% | 3sp (100%) ×5 (15sp) |
-> | 8 (Fumble) | –5% = 57% | - |
-> | 14 (Fail, Auto ×5) | +2% ×5 (10%) = 67% | 3sp (100%) ×5 (15sp) |
-> | 17 (Success) | +20% = 87% | 22sp 5cp (75%) |
-> | 14 (Fail, Auto ×5) | +2% ×5 (10%) = 97% | 3sp (100%) ×5 (15sp) |
-> | 13 (Fail) | +2% = 99% | 3sp (100%) |
-> | 14 (Fail, Auto ×1) | +2% (1%) = 100% | 1sp 5cp (100%) |
+> | Auto (Graze ×5) | +2% ×5 (10%) = 30% | 2sp 7cp (90%) ×5 (13sp 5cp) |
+> | 12 (Graze) | +2% = 32% | 2sp 7sp (90%) |
+> | Auto (Graze ×5) | +2% ×5 (10%) = 42% | 2sp 7cp (90%) ×5 (13sp 5cp) |
+> | 16 (Success) | +20% = 62% | 22sp 5cp (75%) |
+> | Auto (Graze ×5) | +2% ×5 (10%) = 72% | 2sp 7cp (90%) ×5 (13sp 5cp) |
+> | 11 (Fail) | –5% = 67% | - |
+> | Auto (Graze ×5) | +2% ×5 (10%) = 77% | 2sp 7cp (90%) ×5 (13sp 5cp) |
+> | 15 (Graze) | +2% = 79% | 2sp 7sp (90%) |
+> | Auto (Graze ×5) | +2% ×5 (10%) = 89% | 2sp 7cp (90%) ×5 (13sp 5cp) |
+> | 17 (Success) | +20% (11%) = 100% | 12sp 4cp (75%) |
 > ___
-> **Time Spent:** 32 Days
+> **Time Spent:** 31 Days
 >
-> **Total Cost:** 141sp (94% of cost)
+> **Total Cost:** 130sp 3cp (86.9% of cost)
 
 ### Rushed Crafting
 
@@ -215,9 +215,8 @@ If speed is more important than cost you can "rush" your craft check. You can ma
 ***Double Critical:*** Gain 100% progress paying 75% of the cost.  
 ***Critical:*** Gain 75% progress paying 75% of the cost.  
 ***Success:*** Gain 50% progress paying 90% of the cost.  
-***Graze:*** Gain 20% progress paying 100% of the cost.  
-***Fail:*** Gain 5% progress paying 125% of the cost.  
-***Fumble:*** Lose 10% progress.
+***Graze:*** Gain 5% progress paying 100% of the cost.  
+***Fail:*** Lose 10% progress.
 
 > ##### Rushed Crafting Example
 > ___
@@ -255,17 +254,17 @@ If speed is more important than cost you can "rush" your craft check. You can ma
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
 > | 18 (Success) | +50% = 50% | 67sp 5cp (90%) |
-> | 14 (Fail, Auto x5) | +5% ×5 (25%) = 75% | 9sp 4cp (125%) ×5 (47sp) |
-> | 11 (Fail) | +5% = 80% | 9sp 4cp (125%) |
-> | 14 (Fail, Auto x4) | +5% ×4 (20%) = 100% | 9sp 4cp ×4 (125%) (37sp 6cp) |
+> | Auto (Graze x5) | +5% ×5 (25%) = 75% | 7sp 5cp (100%) ×5 (37sp 5cp) |
+> | 12 (Graze) | +5% = 80% | 7sp 5cp (100%) |
+> | Auto (Graze x4) | +5% ×4 (20%) = 100% | 7sp 5cp (100%) ×5 (37sp 5cp) |
 > ___
 > **Time Spent:** 11 Days
 >
-> **Total Cost:** 161sp 5cp (107.7% of cost)
+> **Total Cost:** 142sp 5cp (95% of cost)
 
 ## Magic Item Crafting
 
-The cost for determining a magic item craft is found by combining two values together: the *base item cost*(which is the cost of the item including any adjustments from [equipment properties](/Fantasy/Equipment.md#equipment-properties)), and *magic effect cost*.
+The cost for determining a magic item craft is found by combining two values together: the *base item cost* (which is the cost of the item including any adjustments from [equipment properties](/Fantasy/Equipment.md#equipment-properties)), and *magic effect cost*.
 
 As an equation: the total cost = the base item cost + the magic effect cost
 
@@ -282,7 +281,7 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 | Limited Uses | Base Magic Cost × Uses ÷ 5 |
 | Uses per Day | Base Magic Cost × Uses × 2 |
 | Continuous Use | Base Magic Cost × 5 |
-| Multiple<br/>Effects | Combined Magic Costs<br/>× (1 + Number of Additional Effects × ½) |
+| Multiple<br/>Effects | Combined Magic Costs<br/>× (½ + Number of Effects × ½) |
 
 ### Base Magic Cost
 
@@ -324,15 +323,15 @@ Potions are limited to certain types of spells. Only spells that can target a cr
 >
 > **Mana Cost:** 2
 >
-> **Spell Difficulty:** 11 (+1 for success effect)
+> **Spell Difficulty:** 10
 >
-> **Effect Cost:** 4.4 = 2 × 11 × 1 ÷ 5 (1 limited use)
+> **Effect Cost:** 4 = 2 × 10 × 1 ÷ 5 (1 limited use)
 >
-> **Cost:** 5sp 4cp (1sp for the alchemical base, 4sp 4cp for the effect)
+> **Cost:** 5sp (1sp for the alchemical base, 4sp for the effect)
 >
 > **Difficulty:** 6
 
-Any spell can be chosen when crafting spellstones. For spellstones, the spellcasting difficulty determines the automatic minimum that they are cast with. This value is equal to half of the spellcasting difficulty chosen for the craft.
+Any spell can be chosen when crafting spellstones. For spellstones, the spellcasting difficulty determines the automatic minimum that they are cast with. This value is equal to half of the spellcasting difficulty (rounded down) chosen for the craft.
 
 > ##### Spellstone Crafting Example
 > ___
@@ -350,7 +349,7 @@ Any spell can be chosen when crafting spellstones. For spellstones, the spellcas
 >
 > **Difficulty:** 7
 
-Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items, however, they will be unusable if the item is already magical or has other spellstones socketed. This restriction can be circumvented with the bonus magic effect of [magic stabilization](#magic-stabilization), or by crafting multiple effects onto one spellstone (avoiding the problem entirely).
+Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items, but they will be unusable if the item is already magical or has other spellstones socketed. This restriction can be circumvented with the bonus magic effect of [magic stabilization](#magic-stabilization), or by crafting multiple effects onto one spellstone (avoiding the problem entirely).
 
 ### Multiple Use Items
 
@@ -384,7 +383,7 @@ Typically this effect is placed on articles of clothing, like boots, gloves, clo
 
 Magic items are not limited to a single magic effect, but there is an additional multipler for items that have more than one. You start by combining the costs of each individual effect, then you apply a multiplier to this combined cost. This multiplier is equal to one plus one half for each magical effect beyond the first.
 
-As an equation: the total cost = the base item cost + the combined cost of all magical effects × (1 + the number of additional effects × ½)
+As an equation: the total cost = the base item cost + the combined cost of all magical effects × (½ + the number of effects × ½)
 
 Bonus magic effects ([triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing)) don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a normal magic effect.
 
@@ -402,7 +401,7 @@ Attuning to a single item with multiple continuous effects allows you to use any
 >
 > **Effect Cost:** 8 = 1 × 8 × 5 ÷ 5 (5 limited uses) (both spells)
 >
-> **Combined Cost, with Multiplier:** 24 = (8 + 8) × (1 + 1 × ½) = 16 × 1½ (one additional effect)
+> **Combined Cost, with Multiplier:** 24 = (8 + 8) × (1 + 1 × ½) = 16 × 1½ (two effects)
 >
 > **Cost (Difference):** 26sp (2sp for the gemstone, 24sp for the effect)
 >
@@ -416,7 +415,7 @@ Most metamagics provide small adjustments to spells in terms of mana cost and sp
 
 Triggers that apply under conditions outside of the user's control simply happen and do not require the use of actions. Any triggers that require user activation are considered swift actions. Once an item is triggered, if it requires attunement, the item's user is alerted (if it happened outside of their control) and they must decide in that moment if they want to attune to it. They may choose to manually attune to it so long as the condition for that trigger is met.
 
-Triggers on items follow the same rules as usual for triggered metamagics with one bonus rule: any condition is valid so long as it is knowable by the user, provided by the context of the spell, or involves detection of details within 100m from the user's location (even if not otherwise known).
+Triggers on items follow the same rules as usual for triggered metamagics with one bonus rule: any condition is valid so long as it is knowable by the user, provided by the context of the spell, or involves detection of details within 100m from the user's location (even if not otherwise known). A magic item can only perform one trigger at a time.
 
 > ##### Triggered Item Upgrade Example
 > ___

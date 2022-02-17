@@ -6,30 +6,35 @@ The **Modular Adventure Role-playing System** or **MARS** is a [generic role-pla
 
 All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md). Additional information and reference tables can be found in the [**Appendix**](/Basic/Appendix.md).
 
-# Creating a Character
-
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play. Everything under the *universal* heading is available in all genres.
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play (everything under the *universal* heading is available in all genres):
 
 ### Universal
 
-* [Traits](/Basic/Traits.md)
-* [Skills](/Basic/PHB.md#skills-1)
-* [Maneuvers](/Basic/Maneuvers.md)
-* [Talents](/Basic/Talents.md)
+* Character Creation
+	* [Traits](/Basic/Traits.md)
+	* [Skills](/Basic/PHB.md#skills-1)
+* Character Abilities
+	* [Talents](/Basic/Talents.md)
+	* [Maneuvers](/Basic/Maneuvers.md)
 
 ### Fantasy
 
-* [Races](/Fantasy/Races.md)
-* [Backgrounds](/Fantasy/Backgrounds.md)
-* [Archetypes](/Fantasy/Archetypes.md)
-* [Skills](/Fantasy/Skills.md)
-* [Maneuvers](/Fantasy/Maneuvers.md)
-* [Talents](/Fantasy/Talents.md)
-* [Spellcasting](/Fantasy/Spellcasting.md)
-* [Equipment](/Fantasy/Equipment.md)
-* [Magic Equipment](/Fantasy/MagicEquipment.md)
-* [Item Crafting](/Fantasy/ItemCrafting.md)
-* [Artifact Equipment](/Fantasy/ArtifactEquipment.md)
+* Character Creation
+	* [Races](/Fantasy/Races.md)
+	* [Backgrounds](/Fantasy/Backgrounds.md)
+	* [Archetypes](/Fantasy/Archetypes.md)
+	* [Skills](/Fantasy/Skills.md)
+* Character Abilities
+	* [Talents](/Fantasy/Talents.md)
+	* [Maneuvers](/Fantasy/Maneuvers.md)
+	* [Spellcasting](/Fantasy/Spellcasting.md)
+	* [Spells](/Fantasy/Spells.md)
+	* [Spells Index](/Fantasy/SpellIndex.md)
+* Items and Equipment
+	* [Equipment](/Fantasy/Equipment.md)
+	* [Magic Equipment](/Fantasy/MagicEquipment.md)
+	* [Item Crafting](/Fantasy/ItemCrafting.md)
+	* [Artifact Equipment](/Fantasy/ArtifactEquipment.md)
 
 # Game Mastering
 

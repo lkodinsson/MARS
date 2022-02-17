@@ -24,7 +24,7 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 **Cost:** 10 EXP  
 **Requirements:** Max Intelligence 11+, Can cast spells
 
-After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty value of that spell, at a cost of 1 mana per point of difficulty reduced. This additional mana spent is considered an increase on that spell's mana cost.
+After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty and critical threshold of that spell, at a cost of 1 mana per point reduced. This additional mana spent is considered an increase on that spell's mana cost.
 
 ## Arcane Synthesis
 
@@ -66,6 +66,8 @@ Before casting any spell you may choose to invoke the power of chaos, forcibly a
 
 You always have craft materials available as long as you have your belongings, and all new crafts are made with partial progress for free.
 
+At least one craft check must be made to qualify for the free progress. This free bonus is applied before the results of that craft roll, but only if that roll succeeds or better (and is paid for).
+
 ##### Table: Craft Preparation Steps & Cost
 | Step Cost | Total Cost | Free Progress |
 |:-:|:-:|:-:|
@@ -91,7 +93,7 @@ This ability can be used a number of times based on its advancement.
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using your faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty reduced by 1. If that spell was provided to you as a bonus spell from your specialization, it reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty and critical threshold reduced by 1. If that spell was provided to you as a bonus spell from your specialization, these are reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
 
 This ability can be used a number of times based on its advancement.
 
@@ -107,18 +109,19 @@ This ability can be used a number of times based on its advancement.
 **Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+ or Max Resolve 11+, Can cast spells
 
-Spells you cast that target yourself or your own equipment cannot fail or fumble. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself, refund half of the mana cost of that spell (after adjustments).
+Spells you cast that target yourself or your own equipment cannot fail. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell (after adjustments).
 
 ## Esoteric Will
 
 **Cost:** 10 EXP  
 **Requirements:** Max Resolve 11+, Can cast spells
 
-You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to double your negative mana. Make this check after casting a spell in this way.
+You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to your negative mana. Make this check after casting a spell in this way.
 
-***Graze:*** You lose 1 health.  
-***Fail:*** You lose health equal to half that spell's mana cost, rounded up, and cannot cast the same spell until you take a short rest.  
-***Fumble:*** You lose health equal to that spell's mana cost, and cannot cast any spells until you take a long rest.
+***Critical:*** Nothing bad happens.   
+***Success:*** You lose 1 health.  
+***Graze:*** You lose health equal to half that spell's mana cost, rounded up, and cannot cast the same spell until you take a short rest.  
+***Fail:*** You lose health equal to that spell's mana cost, and cannot cast any spells until you take a long rest.
 
 ## Inherent Focus
 
@@ -132,7 +135,7 @@ When you become unconscious or stunned, instead of immediately losing concentrat
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 13+
 
-You get advantage to resist all non-damaging effects against spells that apply to you. Whenever a spell that requires concentration is applying an effect to you, every 6s (or 1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
+Whenever a spell that requires concentration is applying an effect to you, every 6s (or 1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
 
 ## Mental Balance
 
@@ -162,15 +165,15 @@ Spells cannot be adjusted by metamagics that change features they do not have. S
 | Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
 | Fickle | - | –1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
-| Intensified | +1 | +3 | The spell inflicts effects to a degree of one higher |
-| Persistent | +1 | +3 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Quickened | +1 | +3 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
-| Reaching | +1 | +3 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Reactive | +1 | +3 | The spell can be cast as a reaction if it has a speed of swift or faster |
-| Reduced | - | –1 | This spell has its area halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Intensified | +1 | +2 | The spell inflicts effects to a degree of one higher |
+| Persistent | +1 | +2 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Quickened | +1 | +2 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
+| Reaching | +1 | +2 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Reactive | +1 | +2 | The spell can be cast as a reaction if it has a speed of swift or faster |
+| Reduced | - | –1 | This spell has its area or radius halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Shortened | - | –1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until concentration lost or the spell triggered) |
-| Widened | +2 | +3 | The spell has its area doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+| Widened | +2 | +2 | The spell has its area or radius doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.
 

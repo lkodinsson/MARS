@@ -205,7 +205,7 @@ You can speak many languages well enough that you can easily figure out new ones
 **Cost:** Variable  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
 
-You gain an ability allowing you to fly into a rage at the cost of 1 health and 2 stamina as a swift action, giving you a temporary bonus to damage (as if from strength) and damage reduction (this bonus is halved while wearing body armour, rounded up). These bonuses vary depending on the advancement of this talent. These bonuses come with an additional –2 penalty to armour class. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
+You gain an ability allowing you to fly into a rage at the cost of 1 health and 2 stamina as a swift action, giving you a temporary bonus to attack damage (as if from strength) and damage reduction. The damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional –2 penalty to armour class. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
 
 ##### Table: Rage Steps, Cost, & Bonuses
 | Step Cost | Total Cost | Bonus |

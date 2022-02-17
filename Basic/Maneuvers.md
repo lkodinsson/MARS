@@ -1,37 +1,37 @@
 # Maneuvers
 
 ##### Table: Universal Maneuvers
-| Name | Stamina<br/>Cost | Action<br/>Speed | Specializations |
-|:-|:-:|:-:|:-|
-| [Advancing Strike](#advancing-strike) | 1 | Swift | Finesse, Martial, Unarmed |
-| [Back-step Strike](#back-step-strike) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Battle Cry](#battle-cry) | 2 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Bullrush](#bullrush) | 2 | Full-round | Martial, Unarmed |
-| [Crippling Strike](#crippling-strike) | 2 | Standard | Martial, Ranged |
-| [Dancing Strike](#dancing-strike) | 1 | Standard | Finesse, Unarmed |
-| [Disarm](#disarm) | 2 | Standard | Finesse, Unarmed |
-| [Double Shot](#double-shot) | 1 | Standard | Ranged |
-| [Escape](#escape) | 2 | Swift | Finesse, Ranged |
-| [Feint](#feint) | 2 | Swift | Finesse, Martial, Unarmed |
-| [Hard Parry](#hard-parry) | 1 | Reaction | Finesse, Martial |
-| [Heavy Strike](#heavy-strike) | 2 | Standard | Martial, Unarmed |
-| [Hook Parry](#hook-parry) | 1 | Reaction | Finesse, Martial |
-| [Intercept](#intercept) | 1 | Reaction | Finesse, Martial, Unarmed |
-| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Martial, Unarmed |
-| [Knock Down](#knock-down) | 2 | Standard | Martial, Ranged, Unarmed |
-| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | Finesse, Martial, Unarmed |
-| [Penetrating Strike](#penetrating-strike) | 2 | Standard | Finesse, Ranged |
-| [Pinning Shot](#pinning-shot) | 1 | Standard | Ranged |
-| [Point-blank Shot](#point-blank-shot) | 1 | Swift | Ranged |
-| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Finesse, Ranged |
-| [Precise Strike](#precise-strike) | 2 | Standard | Finesse, Ranged, Unarmed |
-| [Provoke](#provoke) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Shield Bash](#shield-bash) | 1 | Standard | Martial, Unarmed |
-| [Stunning Strike](#stunning-strike) | 2 | Standard | Finesse, Martial, Unarmed |
-| [Taunt](#taunt) | 1 | Swift | Finesse, Martial, Ranged, Unarmed |
-| [Trip](#trip) | 1 | Standard | Finesse, Martial, Unarmed |
-| [Triple Shot](#triple-shot) | 2 | Full-round | Ranged |
-| [Wild Strike](#wild-strike) | 1 | Swift | Martial, Unarmed |
+| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Specializations |
+|:-|:-:|:-:|:-:|:-|
+| [Advancing Strike](#advancing-strike) | 1 | Swift | None | Finesse, Martial, Unarmed |
+| [Back-step Strike](#back-step-strike) | 1 | Swift | None | Finesse, Martial, Ranged, Unarmed |
+| [Battle Cry](#battle-cry) | 2 | Swift | None | Finesse, Martial, Ranged, Unarmed |
+| [Bullrush](#bullrush) | 2 | Full-round | None | Martial, Unarmed |
+| [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Martial, Ranged |
+| [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Finesse, Unarmed |
+| [Disarm](#disarm) | 2 | Standard | Athletics | Finesse, Unarmed |
+| [Double Shot](#double-shot) | 1 | Standard | None | Ranged |
+| [Escape](#escape) | 2 | Swift | Perception | Finesse, Ranged |
+| [Feint](#feint) | 2 | Swift | Willpower | Finesse, Martial, Unarmed |
+| [Hard Parry](#hard-parry) | 1 | Reaction | None | Finesse, Martial |
+| [Heavy Strike](#heavy-strike) | 2 | Standard | None | Martial, Unarmed |
+| [Hook Parry](#hook-parry) | 1 | Reaction | None | Finesse, Martial |
+| [Intercept](#intercept) | 1 | Reaction | None | Finesse, Martial, Unarmed |
+| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Martial, Unarmed |
+| [Knock Down](#knock-down) | 2 | Standard | Fortitude | Martial, Ranged, Unarmed |
+| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Finesse, Martial, Unarmed |
+| [Penetrating Strike](#penetrating-strike) | 2 | Standard | None | Finesse, Ranged |
+| [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Ranged |
+| [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Ranged |
+| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Finesse, Ranged |
+| [Precise Strike](#precise-strike) | 2 | Standard | None | Finesse, Ranged, Unarmed |
+| [Provoke](#provoke) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
+| [Shield Bash](#shield-bash) | 1 | Standard | Fortitude | Martial, Unarmed |
+| [Stunning Strike](#stunning-strike) | 2 | Standard | Fortitude | Finesse, Martial, Unarmed |
+| [Taunt](#taunt) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
+| [Trip](#trip) | 1 | Standard | Acrobatics | Finesse, Martial, Unarmed |
+| [Triple Shot](#triple-shot) | 2 | Full-round | None | Ranged |
+| [Wild Strike](#wild-strike) | 1 | Swift | None | Martial, Unarmed |
 
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
@@ -148,7 +148,7 @@ Make a charisma check against a target within melee range. If successful, the ne
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If the incoming attack grazes, it is considered a successful hit instead.
+While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If the incoming attack grazes against your combat roll, it is considered a failure instead.
 
 ## Heavy Strike
 
@@ -187,7 +187,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 **Duration:** 1 Round  
 **Resist:** Willpower
 
-Make a charisma check against a target within melee range. If successful, the target gets –2 to hit on all attacks for the duration. Then make a melee attack against that target.
+Make a charisma check against a target within melee range. If successful, the target gets –2 on all rolls that target their enemies for the duration. Then make a melee attack against that target.
 
 ## Knock Down
 
@@ -207,7 +207,7 @@ Make an attack with –2 to hit. If successful, the target becomes prone.
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an acrobatics check if leaping over an obstacle (1m between you and target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit.
+Make an acrobatics check if leaping over an obstacle (1m between you and target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
 
 ## Opportunity Strike
 
@@ -229,7 +229,7 @@ This maneuver cannot be used while prone.
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an attack. The target gets –2 to armour class.
+Make an attack. Reduce your threshold to get a critical by 2 during that attack.
 
 ## Pinning Shot
 

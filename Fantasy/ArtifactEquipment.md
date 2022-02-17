@@ -23,7 +23,7 @@ Minor artifacts follow all the normal rules of magic item creation, and as such 
 
 This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to empowered in both strength and size. 
 
-Attuning to this item provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spellcasting.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spellcasting.md#alter-size)). This size change provides a +2 bonus to strength and a -1 penalty to dexterity.
+Attuning to this item provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spells.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spells.md#alter-size)). This size change provides a +2 bonus to strength and a -1 penalty to dexterity.
 
 ### Scrying Orb
 
@@ -36,25 +36,25 @@ The following spells can each be used 1 time per day, with a +1 bonus to their r
 
 | Spell | Spellcasting<br/>Minimum | Attunement |
 |:-|:-:|:-:|
-| Seek Guidance | 10 (Graze) | No |
-| Sight Projection | 10 (Graze) | Yes |
+| [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | 10 (Success) | No |
+| [Sight Projection](/Fantasy/Spells.md#sight-projection) | 10 (Success) | Yes |
 
 ### Staff of the Magi
 
 **Base Item:** Fine Staff  
 **Price:** 642sp
 
-This staff is capable of casting several spells via a charged bonded exceptional spellstone socketed in it, which can be removed or replaced. The spellstone in this item does not protect from fumbling spellcasting attempts, so the use of this staff by non-spellcasters can result in serious spell failure.
+This staff is capable of casting several spells via a charged bonded exceptional spellstone socketed in it, which can be removed or replaced. The spellstone in this item does not protect from failing spellcasting attempts, so the use of this staff by non-spellcasters can result in spell failure.
 
 The following spells can be used collectively 5 times per day, with a +2 bonus to their rolls:
 
 | Spell | Spellcasting<br/>Minimum | Attunement |
 |:-|:-:|:-:|
-| Ignite | 3 (Fumble) | No |
-| Knock | 7 (Fumble) | No |
-| Light | 3 (Fumble) | Yes |
-| Mend | 5 (Fumble) | No |
-| Telekinesis | 3 (Fumble) | Optional |
+| [Ignite](/Fantasy/Spells.md#ignite) | 3 (Fail) | No |
+| [Knock](/Fantasy/Spells.md#knock) | 7 (Fail) | No |
+| [Light](/Fantasy/Spells.md#light) | 3 (Fail) | Yes |
+| [Mend](/Fantasy/Spells.md#mend) | 5 (Fail) | No |
+| [Telekinesis](/Fantasy/Spells.md#telekinesis) | 3 (Fail) | Optional |
 
 ### Thundergod's Warhammer
 
@@ -63,7 +63,7 @@ The following spells can be used collectively 5 times per day, with a +2 bonus t
 
 This is a masterwork heavy warhammer with a large head and a short handle. Carved into it are glowing runic symbols. Those who do not possess enough physical strength perceive this item as having an impossibly heavy weight and cannot lift it. While attuned this item crackles with lightning and appears to weigh as little as a feather.
 
-Attuning to this item provides it the effect of electric magic damage (from the spell [magic weapon (electric)](/Fantasy/Spellcasting.md#magic-weapon)), and its user the spell effect of [feather fall](/Fantasy/Spellcasting.md#feather-fall). Additionally, the item can be thrown as if it has the feature *thrown 4m/40m* (from the spell [feather fall](/Fantasy/Spellcasting.md#feather-fall)). If thrown, it can be returned by the spell effect of [reaching](/Fantasy/Talents.md#metamagic) [telekinesis](/Fantasy/Spellcasting.md#telekinesis) as long as the weapon is within 6m of its user. The combination of these two effects allows it to make ranged attacks a combined thrown and return distance of up to 12m (within a radius of 6m) in a single turn before requiring the use of the *thrown* feature. It can even be thrown from a start position away from that of its user, as long as it is within 6m of its user.
+Attuning to this item provides it the effect of electric magic damage (from the spell [magic weapon (electric)](/Fantasy/Spells.md#magic-weapon)), and its user the spell effect of [feather fall](/Fantasy/Spells.md#feather-fall). Additionally, the item can be thrown as if it has the feature *thrown 4m/40m* (from the spell [feather fall](/Fantasy/Spells.md#feather-fall)). If thrown, it can be returned by the spell effect of [reaching](/Fantasy/Talents.md#metamagic) [telekinesis](/Fantasy/Spells.md#telekinesis) as long as the weapon is within 6m of its user. The combination of these two effects allows it to make ranged attacks a combined thrown and return distance of up to 12m (within a radius of 6m) in a single turn before requiring the use of the *thrown* feature. It can even be thrown from a start position away from that of its user, as long as it is within 6m of its user.
 
 The item is under a [limitation curse](/Fantasy/ItemCrafting.md#curses) that only allows those with a maximum strength of 16 or greater to lift and attune to the item.
 

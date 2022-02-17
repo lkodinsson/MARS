@@ -1,24 +1,30 @@
 # Table of Contents
 
-* [The Basics](#the-basics)
-* [Primary Stats](#primary-stats)
-* [Secondary Stats](#secondary-stats)
-* [Skills](#skills-1)
-* [Basic Skills](#basic-skills)
-* [Advanced Skills](#advanced-skills)
-* [Combat Skills](#combat-skills)
-* [Maneuvers](#maneuvers)
-* [Languages](#languages)
-* [Genre Specific Skills](#genre-specific-skills)
-* [Playing the Game](#playing-the-game)
-* [Encounters](#encounters)
-* [Actions](#actions)
-* [Damage](#damage)
-* [Effects](#effects)
-* [Resting](#resting)
-* [Creating a Character](#creating-a-character)
-* [Equipment](#equipment)
-* [Advancing a Character](#advancing-a-character)
+* Part 1: Introduction 
+	* [The Basics](#the-basics)
+	* [Playing the Game](#playing-the-game)
+* Part 2: The Parts of a Character
+	* [Primary Stats](#primary-stats)
+	* [Secondary Stats](#secondary-stats)
+	* [Skills](#skills-1)
+		* [Basic Skills](#basic-skills)
+		* [Advanced Skills](#advanced-skills)
+		* [Combat Skills](#combat-skills)
+		* [Languages](#languages)
+		* [Other Skills](#other-skills)
+		* [Skill Checks](#skill-checks)
+* Part 3: Encounters & Abilities
+	* [Encounters](#encounters)
+		* [Actions](#actions)
+	* [Damage](#damage)
+	* [Effects](#effects)
+	* [Concentration](#concentration)
+	* [Maneuvers](#maneuvers)
+	* [Resting](#resting)
+* Part 4: Character Creation & Advancement
+	* [Creating a Character](#creating-a-character)
+		* [Equipment](#equipment)
+	* [Advancing a Character](#advancing-a-character)
 
 # The Basics
 
@@ -49,7 +55,7 @@ Roll value will typically have one or two numbers like so: *r14+1*. Where the fi
 | r28 | 2d10+1d8 |
 | r30 | 3d10 |
 
-This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating the average value quite fast as it is simply half of the roll value (then any additional bonuses or penalties).
+This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating a near approximaation of the average value quite fast as it is simply half of the roll value (then any additional bonuses or penalties).
 
 ### Stats
 
@@ -57,7 +63,7 @@ Stats represent the innate capabilities of a character. The two types of stats a
 
 ### Skills
 
-Skills represent what your character is practiced in. Like primary stats, skills are represented a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. The types of advanced skills that a character can learn are mostly dependant on the type of genre you are playing. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
+Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. The types of advanced skills that a character can learn are mostly dependant on the type of genre you are playing. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
 
 ### Talents
 
@@ -66,6 +72,14 @@ Talents are powerful abilities that characters can learn. They usually provide y
 ### Traits
 
 Traits are unique abilities that usually only belong to a single character. Typically they are something that one can do or have, and provide opportunities to roleplay in a unique way. Traits help characters stand out from other characters that would otherwise be very similar to them.
+
+# Playing the Game
+
+Typically game sessions go as follows: the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses. Through the act of description and exposition, your characters and the world they inhabit become alive.
+
+It is important to focus on describing what it is your character does, rather than declaring the exact game action your character takes. It is up to the Game Master to decide what actual game action you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
+
+While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Rolling dice to determine the outcome of your actions is only necessary when the outcome of that action is uncertain, or failure carries potential consequence. Your Game Master is otherwise responsible for deciding the results of your actions.
 
 # Primary Stats
 
@@ -200,7 +214,7 @@ Like primary stats, skill values are represented by roll values. All skills have
 | r18 | Expert |
 | r20 | Master |
 
-# Basic Skills
+## Basic Skills
 
 All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *acrobatics*, *athletics*, *charisma*, *perception*, and *stealth*.
 
@@ -224,7 +238,7 @@ Perception is used to track animals, monsters, or people, to detect stealthy ind
 
 You’re skilled in concealing yourself effectively in different environments. You know how to avoid standing out, pick good hiding spots, and move silently. It can also be used to disguise your identity.
 
-# Advanced Skills
+## Advanced Skills
 
 Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are six core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
 
@@ -252,7 +266,7 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use the charisma skill to persuade someone. While it appears that this allows you to speak with animals, it does not. This skill allows you to provide an emotional confidence or trust in that animal. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
-# Combat Skills
+## Combat Skills
 
 There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons. There are also cross-skill weapons which have multiple listed types. Any type listed can be used with those weapons.
 
@@ -272,25 +286,7 @@ Ranged combat includes the use of all weapons that involve projectiles, such as 
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
 
-# Maneuvers
-
-Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
-
-Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
-
-For example: You advanced your Martial skill and learned Heavy Strike. Since you are also trained in Unarmed, you can also use Heavy Strike with the Unarmed skill.
-
-When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If they succeed the resist, then they do not suffer the effects of that maneuver. If they graze, they suffer the effect at half the duration (if any), otherwise it counts as a success and they suffer no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
-
-Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attacks specified in that maneuver with a –2 penalty, and it costs twice as much stamina. If that maneuver is a swift action, it becomes a standard action instead.
-
-For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
-
-Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
-
-Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
-
-# Languages
+## Languages
 
 When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with your Intelligence.
 
@@ -298,36 +294,34 @@ Whenever your character tries to read, write, speak, or listen to a language tha
 
 The availability of languages to your character are determined by the genre or setting that you are in. If you're not playing in a modern or historic genre, usually there is a "common" language that all races speak, and languages for every race. In the fantasy genre it is common for most monstrous creatures to also share an "undercommon" language between them.
 
-# Genre Specific Skills
+## Other Skills
 
 There may be additional skills available depending on the genre you are playing.
 
 Click [here](/Fantasy/Skills.md) for the list of fantasy skills.
 
-Click [here](/Fantasy/Spellcasting.md) for the rules and a table of spells for fantasy spellcasting.
+Click [here](/Fantasy/Spellcasting.md) for the rules for fantasy spellcasting.
 
-# Playing the Game
+## Skill Checks
 
-Typically game sessions run as follows: the Game Master describes the scene, then the players describe their actions and the game progresses. Through the act of description and exposition, your characters and the world they inhabit become alive.
-
-It is important to focus on describing what it is your character does, rather than declaring the exact game action your character takes. It is up to the Game Master to decide what actual game action you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
-
-While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Your Game Master is responsible for deciding the results of your actions. It is also important to note that you should only need to roll dice to determine the success of your actions when the outcome of that action is uncertain, or failure carries potential consequence.
-
-### Skill Checks
-
-If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The resulting roll of any skill check is determined by its relationship to the difficulty value. This can result in multiple degrees of success or failure.
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in multiple degrees of success or failure.
 
 For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength.
 
-Generally if you roll less than the difficulty, you fail, and succeed if you roll higher than the difficulty. If you tie with the difficulty, you partially succeed (also known as a *graze*). In circumstances like this you generally succeed at reduced effectiveness, or with some degree of consequence. Success and failure can be made better or worse if you roll exceptionally high or low. If you roll half of the difficulty or less, you *critically fail* (also known as a *fumble*). If you roll double the difficulty or more, you *critically succeed*. These success categories apply to any comparison of a dice roll to either a difficulty value, or against another dice roll. Comparing dice rolls from skill checks against one another is called an *opposed check*, where one is trying to succeed over the other.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 10 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 5 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
+
+Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal.
+
+For example: A character attacks another and the defender rolls deflection to defend against damage. If the attacker succeeds, they do full damage, but on a graze they do half damage.
+
+For other types of opposed checks where only one side can win (such as an arm wrestling contest), grazes aren't possible and are simply considered failures.
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range as described by the following table. Although more difficult challenges may present themselves, they are increasingly rare.
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
 
 ##### Table: Challenge Difficulties
-| Difficulty Value | Difficulty Name |
+| Difficulty<br/>Value | Difficulty Name |
 |:-:|:-|
 | 5 | Easy |
 | 7 | Moderate |
@@ -338,9 +332,24 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 32 | Improbable |
 | 40 | Impossible |
 
+For a visualization on what rolls represent different outcomes in relation to various difficulty values:
+
+##### Table: Roll vs Difficulty as Outcomes
+| Roll | 7<br/>(Moderate) | 10<br/>(Hard) | 14<br/>(Challenging) | 19<br/>(Ambitious) |
+|:-:|:-:|:-:|:-:|:-:|
+| 5 | Graze | Fail | Fail | Fail |
+| 7 | Success | Graze | Fail | Fail |
+| 10 | Success | Success | Graze | Fail |
+| 12 | Success | Success | Graze | Fail |
+| 15 | Success | Success | Success | Graze |
+| 17 | Critical | Success | Success | Graze |
+| 20 | Critical | Critical | Success | Success |
+
+A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded)).
+
 ### Skill Duration
 
-While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skill and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. Some actions may even take several hours.
+While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skills and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. Some actions may even take several hours.
 
 ### Advantage & Disadvantage
 
@@ -387,7 +396,7 @@ Some encounters are considered complex challenges: there is a limited amount of 
 
 Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while player characters must suffer damage before becoming unconscious or even killed.
 
-# Actions
+## Actions
 
 During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, *reaction*, and *free*.
 
@@ -435,7 +444,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes, it is considered a successful hit instead. After you evade, you may move a distance up to half your speed.
+Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed.
 
 #### Interact
 
@@ -457,7 +466,7 @@ If the terrain you are moving over is rough or difficult to navigate, then you c
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Use a wielded item with the parry feature to block an attack, adding its parry value to your deflection. While parrying, attacks made against you that result in a graze are instead considered a success.
+Use a wielded item with the parry feature to defend against an attack, adding its parry value to your deflection. If the incoming attack grazes against your deflection roll, it is considered a failure instead.
 
 #### Ready
 
@@ -511,7 +520,7 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 #### Dying
 
-When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to double their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and fumbles count as two failures. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
+When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and grazes count as neither a success or failure. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
 #### Encumbered
 
@@ -535,6 +544,8 @@ Sickness is an effect that has multiple degrees, as specified by a number. This 
 
 Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
+If a sickness effect does not specify a duration, that duration is assumed to be 1 week. After reaching this duration the target will attempt a fortitude check to resist the sickness. If successful, the degree of effect is reduced by 1. If no difficulty is specified, it is assumed to be 10.
+
 #### Stunned
 
 At the beginning of a stunned character's turn, they lose the stunned effect and a swift action. Until then, stunned characters cannot perform reactions.
@@ -542,6 +553,32 @@ At the beginning of a stunned character's turn, they lose the stunned effect and
 #### Unconscious
 
 Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual.
+
+# Concentration
+
+Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and one to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
+
+Concetration also requires an active and conscious mind. If at any point you become stunned or unconscious, you automatically lose your concentration.
+
+# Maneuvers
+
+Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
+
+Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
+
+For example: You advanced your Unarmed skill and learned Heavy Strike. Since you are also trained in Martial, you can also use Heavy Strike with the Martial skill.
+
+When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+
+For example: You perform a Crippling Strike against a target and it grazes. This is still considered a hit (even though it only deals half damage), and the target rolls to resist. If your maneuver roll is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only last 1 round instead of 2.
+
+Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attacks specified in that maneuver with a –2 penalty, and it costs twice as much stamina. If that maneuver is a swift action, it becomes a standard action instead.
+
+For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
+
+Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
+
+Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 # Resting
 
@@ -617,7 +654,7 @@ Some motivations may represent more circumstantial character developmental ordea
 
 Example: To find a lost family member; or to avenge a death.
 
-# Equipment
+## Equipment
 
 Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a fantasy setting, but a torch or a sword is.
 
@@ -694,7 +731,7 @@ Languages cost half as much as other advanced skills (rounded up):
 | 4 | 16 | r14 | Disciplined |
 | 4 | 20 | r16 | Accomplished |
 | 5 | 25 | r18 | Expert |
-| 5 | 30 | r20 | Master (Fluent) |
+| 5 | 30 | r20 | Master |
 
 ### Improving Primary Stats
 

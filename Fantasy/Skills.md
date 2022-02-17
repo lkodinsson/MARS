@@ -12,7 +12,11 @@
 
 Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.
 
-Click [here](/Fantasy/Spellcasting.md) for the rules and a table of spells for fantasy spellcasting.
+Click [here](/Fantasy/Spellcasting.md) for the rules on spellcasting.
+
+Click [here](/Fantasy/Spells.md) for the full list of spells and their descriptions.
+
+Click [here](/Fantasy/SpellsIndex.md) for a list of spells sorted by specialization and tier.
 
 ## Animism (RES)
 
@@ -25,21 +29,22 @@ As you advance in animism you also get bonus spells at specific ranks, regardles
 ##### Table: Animism Bonus Spells
 | Roll Value | Step Name | Bonus Spell |
 |:-:|:-|:-|
-| r4 | Trained | [Speak with Animals](/Fantasy/Spellcasting.md#speak-with-animals) |
-| r8 | Practiced | [Animal Form](/Fantasy/Spellcasting.md#animal-form) |
+| r4 | Trained | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) |
+| r8 | Practiced | [Animal Form](/Fantasy/Spells.md#animal-form) |
 | r12 | Exceptional | Control Plants (?) |
+| r16 | Accomplished | Control Weather (?) |
 
 ### Balance
 
 Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
 
-### Harmony
-
-Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
-
 ### Entropy
 
 All things must come to an end. This is the mantra of entropy, and you are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
+
+### Harmony
+
+Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
 
 ## Arcana (INT)
 
@@ -105,8 +110,32 @@ As you advance in faith you also get bonus spells at specific ranks, depending o
 | Roll Value | Step Name | Charity | Family | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | r6 | Adept | Mend | ? | ? | Seek Guidance | ? | ? | ? | ? |
-| r12 | Exceptional | ? | ? | ? | ? | ? | ? | ? | ? |
+| r10 | Proficient | ? | ? | ? | ? | ? | ? | ? | ? |
 | r16 | Accomplished | ? | ? | ? | ? | ? | ? | ? | ? |
+
+### Altruism
+
+When others are in need, it is you who will provide. This ideology spans the providence of both supportive actions and the gifting of material goods. Being altruistic is more than just providing when it is necessary, it is also the search for such opportunities.
+
+### Militarism
+
+While kindness is an option, it is easier to demonstrate the cost of failure with a show of force. Militarism is not solely about violence: it is the drive to demonstrate your ideals even if others do not agree. What people want is not necessarily what people need.
+
+### Impulse
+
+Opportunity is essentially a divine portent. Whenever opportunities arise that align with your goals they must be taken. Any other action is a failure to utilize the divine gift given to you. Searching for opportunities is not necessarily a goal, rather that opportunities are everywhere and just waiting to be seen.
+
+### Discipline
+
+Action itself is less important than recognizing when that action is necessary. Although it may appear as though opportunities are constant, many of which can easily become distractions that prevent you from truly exemplifying your ideals at a better time.
+
+### Liberty
+
+Freedom in all forms matters more to you than any one rule can provide. Although others are free to follow their own paths, if an individual or group's cause stands in the way of the freedom others, then that path is a restriction guised by a mask of freedom.
+
+### Authority
+
+Governance without rule of law can quickly devolve into chaos. Without the guide of authority, actions are easily taken with disregard for consequence. This reckless behaviour can very easily have unintended effects. It is safer to follow law than act without guidance.
 
 ## Ki
 
