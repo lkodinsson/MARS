@@ -29,7 +29,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 	* [Maneuvers](/Fantasy/Maneuvers.md)
 	* [Spellcasting](/Fantasy/Spellcasting.md)
 	* [Spells](/Fantasy/Spells.md)
-	* [Spells Index](/Fantasy/SpellIndex.md)
+	* [Spells Index](/Fantasy/SpellsIndex.md)
 * Items and Equipment
 	* [Equipment](/Fantasy/Equipment.md)
 	* [Magic Equipment](/Fantasy/MagicEquipment.md)

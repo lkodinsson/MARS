@@ -32,11 +32,7 @@
 	* [Light](#light)
 	* [Darkness](#darkness)
 	* [Arcane](#arcane)
-
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
-|:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [](/Fantasy/Spells.md#) |
-
+	
 ## Animism
 
 ### Balance

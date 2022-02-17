@@ -438,7 +438,7 @@ You create the illusion of a miniscule object or creature, or various small magi
 You restore a living creature to good health, removing negative conditions of a mundane nature. While this spell cannot dispel magical effects directly, it can restore natural conditions caused by spells. The degree of success determines which conditions this spell is capable of removing, but only one condition can be removed at a time. Additionally, any creatures that have health restored by this spell are automatically stabilized. This spell can even temporarily cure blindness (for 1 week).
 
 ***Critical:*** Restore 1 health, and remove one of the following conditions: debilitation, sickness, sleep, burning, or blindness (1 week).  
-***Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.
+***Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.  
 ***Graze:*** Remove one of the following conditions: sickness, burning, or sleep.
 
 ## Seek Guidance
@@ -531,7 +531,7 @@ You project your sight as though it is coming from another body. This effect beg
 
 **Range:** 10m  
 **Target:** One or more creatures  
-**Duration:** 1 minute (combatants), 30 minutes (stealth), 8 hours (trying to sleep)
+**Duration:** 1 minute (combatants), 30 minutes (stealth), 8 hours (trying to sleep)  
 **Resist:** Willpower
 
 The targets succumb to a magical sleep. When cast on unsuspecting creatures they enter a deep sleep for duration of 30 minutes (a short rest). It is challenging to wake creatures under this spell unless they are dealt damage. If the target was already trying to get to sleep, it lasts for 8 hours (a long rest).
