@@ -1,6 +1,6 @@
 # Table of Contents
 
-* Part 1: Introduction 
+* Part 1: Introduction
 	* [The Basics](#the-basics)
 	* [Playing the Game](#playing-the-game)
 * Part 2: The Parts of a Character
@@ -102,7 +102,7 @@ Strength measures physical power, and general fortitude. This stat is important 
 
 ### Dexterity (DEX)
 
-Dexterity measures the reaction speed, balance, and precision of your character. It is an important stat for characters who want to use stealth, use sleight of hand, or tinker with devices. 
+Dexterity measures the reaction speed, balance, and precision of your character. It is an important stat for characters who want to use stealth, use sleight of hand, or tinker with devices.
 
 ### Intelligence (INT)
 
@@ -318,7 +318,7 @@ For other types of opposed checks where only one side can win (such as an arm wr
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
 
 ##### Table: Challenge Difficulties
 | Difficulty<br/>Value | Difficulty Name |
@@ -345,7 +345,7 @@ For a visualization on what rolls represent different outcomes in relation to va
 | 17 | Critical | Success | Success | Graze |
 | 20 | Critical | Critical | Success | Success |
 
-A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded)).
+A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
 
 ### Skill Duration
 
@@ -540,7 +540,9 @@ Prone characters are either kneeling or laying down on the ground. Ranged attack
 
 #### Sickness
 
-Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that passes while you are sick you lose health equal to half this sickness value, rounded up.
+Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that passes while you are sick you lose health (after recovering health from resting, if applicable) equal to half this sickness value (rounded up). Stamina, mana, and endurance recovered during rests are also reduced by half this value (rounded up) to a minimum of one.
+
+For example: If you have a sickness of 3 and you take a long rest, you will recover 1 health, then lose 2. You will also recover 2 less stamina, mana, and endurance during that rest.
 
 Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
@@ -570,9 +572,9 @@ For example: You advanced your Unarmed skill and learned Heavy Strike. Since you
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
 
-For example: You perform a Crippling Strike against a target and it grazes. This is still considered a hit (even though it only deals half damage), and the target rolls to resist. If your maneuver roll is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only last 1 round instead of 2.
+For example: You perform a Crippling Strike against a target and it grazes. This is still considered a hit (even though it only deals half damage), and the target rolls to resist. If your maneuver's roll is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only lasts 1 round instead of 2.
 
-Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attacks specified in that maneuver with a –2 penalty, and it costs twice as much stamina. If that maneuver is a swift action, it becomes a standard action instead.
+Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a –2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
 
 For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
 
@@ -584,31 +586,35 @@ Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are three different types of rests: the short rest, moderate rest, and long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
 
-Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep, each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/InjuriesAndExhaustion.md). Both short and moderate rests are optional, but a character make take up to two short rests and one moderate rest each day.
-
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Moderate Rest | Long Rest |
 |:-|:-:|:-:|:-:|
 | Health | None | None | 1 |
-| Endurance | Quarter | Half | All |
-| Stamina | Eighth of<br/>Fortitude | Quarter of<br/>Fortitude | Half of<br/>Fortitude |
-| Mana | Eighth of<br/>Willpower | Quarter of<br/>Willpower | Half of<br/>Willpower |
+| Endurance | 1 | Eighth of<br/>Maximum<br/>Fortitude | Quarter of<br/>Maximum<br/>Fortitude |
+| Stamina | 1 | Eighth of<br/>Maximum<br/>Initiative | Quarter of<br/>Maximum<br/>Initiative |
+| Mana | 1 | Eighth of<br/>Maximum<br/>Willpower | Quarter of<br/>Maximum<br/>Willpower |
+
+Abilties that can be used a number of times per rest are restored on the first moderate or long rest each day.
+
+Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/InjuriesAndExhaustion.md). Both short and moderate rests are optional, but a character may take up to two short rests and one moderate rest each day.
 
 ### Short Rest
 
-A short rest is basically like a break. Whenever you take a break to make preparations over a period of thirty minutes to an hour, that would be considered a short rest.
+A short rest is basically like a break. Whenever you take a break to make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
 
 ### Moderate Rest
 
-Moderate resting involves relaxation for an extended period of about four hours. Sleep is not necessary to qualify as a short rest. A single activity can even be taken during this period, such as performing research or crafting an item.
-
-Abilties that can be used a number of times per rest can only be restored from a moderate or long rest unless otherwise specified.
+Moderate rests involve relaxation for an extended period of about four hours. A single activity can even be taken during this period, such as performing research or crafting an item with a low difficulty (of 10 or less). This rest may be interrupted so long as it is resumed relatively quickly (within thirty minutes).
 
 ### Long Rest
 
 A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a moderate rest instead.
 
 Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
+
+For the purposes of recovering resources, any short and moderate rests not taken are considered taken during a long rest.
+
+For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short and moderate rest. If you didn't take any rests during that day, then it would be as if all your rests were combined.
 
 # Creating a Character
 
@@ -701,7 +707,7 @@ The rate at which characters gain experience is determined by what happens durin
 
 ### Improving Skills
 
-Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value. For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it would cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2. 
+Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value. For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it would cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |

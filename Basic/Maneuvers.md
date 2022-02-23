@@ -14,23 +14,23 @@
 | [Escape](#escape) | 2 | Swift | Perception | Finesse, Ranged |
 | [Feint](#feint) | 2 | Swift | Willpower | Finesse, Martial, Unarmed |
 | [Hard Parry](#hard-parry) | 1 | Reaction | None | Finesse, Martial |
-| [Heavy Strike](#heavy-strike) | 2 | Standard | None | Martial, Unarmed |
+| [Heavy Strike](#heavy-strike) | 1 | Swift | None | Martial, Unarmed |
 | [Hook Parry](#hook-parry) | 1 | Reaction | None | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | None | Finesse, Martial, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Martial, Unarmed |
 | [Knock Down](#knock-down) | 2 | Standard | Fortitude | Martial, Ranged, Unarmed |
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Finesse, Martial, Unarmed |
-| [Penetrating Strike](#penetrating-strike) | 2 | Standard | None | Finesse, Ranged |
+| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Finesse, Ranged |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Ranged |
 | [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Ranged |
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Finesse, Ranged |
-| [Precise Strike](#precise-strike) | 2 | Standard | None | Finesse, Ranged, Unarmed |
+| [Precise Strike](#precise-strike) | 1 | Swift | None | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
-| [Shield Bash](#shield-bash) | 1 | Standard | Fortitude | Martial, Unarmed |
+| [Shield Bash](#shield-bash) | 1 | Swift | Fortitude | Martial, Unarmed |
 | [Stunning Strike](#stunning-strike) | 2 | Standard | Fortitude | Finesse, Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
 | [Trip](#trip) | 1 | Standard | Acrobatics | Finesse, Martial, Unarmed |
-| [Triple Shot](#triple-shot) | 2 | Full-round | None | Ranged |
+| [Triple Shot](#triple-shot) | 1 | Full-round | None | Ranged |
 | [Wild Strike](#wild-strike) | 1 | Swift | None | Martial, Unarmed |
 
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
@@ -122,12 +122,12 @@ Make a single ranged attack with -2 to hit against two targets.
 
 **Specializations:** Finesse, Ranged
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Swift
 
 **Resist:** Perception
 
-Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected.
+Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then take a move action or lose the benefits of this maneuver.
 
 ## Feint
 
@@ -154,10 +154,12 @@ While wielding a weapon that can deal slashing damage, instead of using deflecti
 
 **Specializations:** Martial, Unarmed
 
-**Stamina Cost:** 2  
-**Action Speed:** Standard
+**Stamina Cost:** 1  
+**Action Speed:** Swift
 
-Make an attack with –2 to hit but +2 to damage.
+Make an attack with –1 to hit but +2 to damage.
+
+You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Hook Parry
 
@@ -227,9 +229,11 @@ This maneuver cannot be used while prone.
 **Specializations:** Finesse, Ranged
 
 **Stamina Cost:** 2  
-**Action Speed:** Standard
+**Action Speed:** Swift
 
 Make an attack. Reduce your threshold to get a critical by 2 during that attack.
+
+You may spend an additional 1 stamina to double the threshold reduction. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Pinning Shot
 
@@ -250,7 +254,7 @@ Make an attack with a projectile weapon. If successful, the target can't move on
 **Stamina Cost:** 1  
 **Actions Speed:** Swift
 
-Make an attack with a projectile weapon against a target 2m or closer. This attack is made with +1 to damage if they are 2m away, or +2 to damage if they are 1m away.
+Make an attack with a projectile weapon against a target 2m or closer. This attack is made with –1 to hit, but +1 to damage if they are 2m away, or +2 to damage if they are 1m away.
 
 ## Poisonous Strike
 
@@ -274,10 +278,12 @@ Performing this maneuver, or pre-applying a poison, can only be done with access
 
 **Specializations:** Finesse, Ranged, Unarmed
 
-**Stamina Cost:** 2  
-**Action Speed:** Standard
+**Stamina Cost:** 1  
+**Action Speed:** Swift
 
-Make an attack with –2 to damage but +2 to hit.
+Make an attack with –1 to damage but +2 to hit.
+
+You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Provoke
 
@@ -296,11 +302,11 @@ Make a charisma check against a target within 20m. If successful, the target mus
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
-**Action Speed:** Standard
+**Action Speed:** Swift
 
 **Resist:** Fortitude
 
-Make an attack with a shield as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield or similar item as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Stunning Strike
 
@@ -312,7 +318,7 @@ Make an attack with a shield as if it was a weapon that deals r8 blunt damage an
 **Duration:** 1 Turn  
 **Resist:** Fortitude
 
-Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit. This attack always deals blunt damage. If successful, the target becomes stunned.
+Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit and damage. This attack always deals blunt damage. If successful, the target becomes stunned.
 
 ## Taunt
 
@@ -341,7 +347,7 @@ Make an attack with –2 to hit and only dealing half damage. If successful, the
 
 **Specializations:** Ranged
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Full-round
 
 Make a single ranged attack with –2 to hit against three targets.
@@ -355,4 +361,6 @@ Make a single ranged attack with –2 to hit against three targets.
 
 **Duration:** 1 Round
 
-Make a single attack with +1 to hit and damage, but you get –2 to your armour class until your next turn.
+Make a single attack with +1 to hit and damage, but you get –1 to your armour class until your next turn.
+
+You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.

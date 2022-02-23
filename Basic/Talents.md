@@ -155,7 +155,7 @@ You may spend 2 mana to gain an advantage on your next roll (including dice that
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+
 
-Restore more stamina and mana during rests of any duration, but only once each day. The amount restored is dependent on the advancement of this talent.
+Restore more stamina, mana, and endurance during rests of any duration, but only once each day. The amount restored is dependent on the advancement of this talent.
 
 ##### Table: Meditative Rest Steps, Cost, & Bonuses
 | Step Cost | Total Cost | Bonus |
@@ -247,6 +247,8 @@ You have an increased amount of endurance. This bonus starts at +4 and advances 
 | 8 | 35 | +16 |
 | 9 | 44 | +18 |
 | 10 | 54 | +20 |
+
+For the purpose of calculating endurance recovered during rests, treat your maximum fortitude as though it is increased by your toughness.
 
 ## Weightlifter
 

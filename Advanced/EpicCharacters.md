@@ -2,7 +2,7 @@
 
 The upper limit of power that characters can achieve is high enough to overcome most but not all difficulty challenge ratings with consistency. In this way, certain challenges can remain significantly difficult yet technically achievable by utilizing circumstance and advantage. However, if you really want to push the upper power limit of characters, you can. This is useful for adventures where you want characters to act more like demigods or superheroes.
 
-Epic characters have their growth accelerate and receive double the experience points. Additionally, both the primary stat and skill steps table are extended beyond their previous limit:
+Epic characters have their growth accelerated and receive double the experience points. The tables for skill steps, toughness, and primary stats are all extended to accomodate the increase in experience:
 
 ##### Table: Skill Steps & Cost Extended
 | Step Cost | Total Cost | Dice Step | Step Name |
@@ -13,6 +13,15 @@ Epic characters have their growth accelerate and receive double the experience p
 | 14 | 50 | r28 | Exalted |
 | 15 | 65 | r30 | Grandmaster |
 
+##### Table: Toughness Steps & Cost Extended
+| Step Cost | Total Cost | Bonus<br/>Endurance |
+|:-:|:-:|:-:|
+| 11 | 11 | +22 |
+| 12 | 23 | +24 |
+| 13 | 36 | +26 |
+| 14 | 50 | +28 |
+| 15 | 65 | +30 |
+
 ##### Table: Primary Stat Steps & Cost Extended
 | Step Cost | Total Cost | Dice Step | Step Name |
 |:-:|:-:|:-:|:-|
@@ -22,13 +31,4 @@ Epic characters have their growth accelerate and receive double the experience p
 | 28 | 100 | r28 | Mythical |
 | 30 | 130 | r30 | Legendary |
 
-The toughness talent is also extended beyond its limit, as it is improved much like a skill:
-
-##### Table: Toughness Steps & Cost Extended
-| Step Cost | Total Cost | Bonus<br/>Endurance |
-|:-:|:-:|:-:|
-| 11 | 11 | +22 |
-| 12 | 23 | +24 |
-| 13 | 36 | +26 |
-| 14 | 50 | +28 |
-| 15 | 65 | +30 |
+Additionally, the bonus to primary stats from reaching the 50 experience checkpoint can be applied to the same primary stat three times instead of two.
