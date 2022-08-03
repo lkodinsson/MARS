@@ -109,7 +109,7 @@ This ability can be used a number of times based on its advancement.
 **Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+ or Max Resolve 11+, Can cast spells
 
-Spells you cast that target yourself or your own equipment cannot fail. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell (after adjustments).
+Spells you cast that target yourself or your own equipment cannot fail. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell (after other adjustments).
 
 ## Esoteric Will
 
@@ -135,7 +135,7 @@ When you become unconscious or stunned, instead of immediately losing concentrat
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 13+
 
-Whenever a spell that requires concentration is applying an effect to you, every 6s (or 1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
+Whenever a spell that requires concentration is applying an effect to you, every 6s (1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
 
 ## Mental Balance
 

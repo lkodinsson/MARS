@@ -52,9 +52,9 @@ The following rules are entirely optional, and their use is determined by the Ga
 
 ### Universal
 
+* [Advanced Ailments](/Advanced/AdvancedAilments.md)
 * [Custom Archetypes](/Advanced/CustomArchetypes.md)
 * [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
 * [Epic Characters](/Advanced/EpicCharacters.md)
 * [Half-Race Characters](/Advanced/HalfRaceCharacters.md)
-* [Injuries and Exhaustion](/Advanced/InjuriesAndExhaustion.md)
 * [Professions and Wages](/Advanced/ProfessionsAndWages.md)

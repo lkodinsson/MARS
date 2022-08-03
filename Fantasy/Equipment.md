@@ -217,7 +217,7 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 ##### Table: Improvised Weapons
 | Name | Damage | Crit | Type | Features |
-|:-|:-:|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-:|:-|
 | Rock or Gemstone | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/40m |
 | Shield or Dish | STR+r8 Blunt | +6 | Martial/Unarmed | Thrown 3m/30m |
 | Potion | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/30m |

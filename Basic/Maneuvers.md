@@ -7,6 +7,7 @@
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Finesse, Martial, Ranged, Unarmed |
 | [Bullrush](#bullrush) | 2 | Full-round | None | Martial, Unarmed |
+| [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Martial, Ranged |
 | [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Finesse, Unarmed |
 | [Disarm](#disarm) | 2 | Standard | Athletics | Finesse, Unarmed |
@@ -27,7 +28,6 @@
 | [Precise Strike](#precise-strike) | 1 | Swift | None | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
 | [Shield Bash](#shield-bash) | 1 | Swift | Fortitude | Martial, Unarmed |
-| [Stunning Strike](#stunning-strike) | 2 | Standard | Fortitude | Finesse, Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
 | [Trip](#trip) | 1 | Standard | Acrobatics | Finesse, Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 1 | Full-round | None | Ranged |
@@ -74,6 +74,18 @@ Each ally within 30m gets +2 to their next attack or defense roll (whichever is 
 **Action Speed:** Full-round
 
 Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage. If you also have the Knock Down maneuver, you may pay 1 more stamina to forgo the +2 bonus to hit and damage to instead make an attack at the end of your movement as per the Knock Down maneuver.
+
+## Concussive Strike
+
+**Specializations:** Martial, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+**Duration:** 1 Turn (if stunned)  
+**Resist:** Fortitude
+
+Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit and damage. This attack always deals blunt damage. If successful and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
 
 ## Crippling Strike
 
@@ -307,18 +319,6 @@ Make a charisma check against a target within 20m. If successful, the target mus
 **Resist:** Fortitude
 
 Make an attack with a shield or similar item as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
-
-## Stunning Strike
-
-**Specializations:** Finesse, Martial, Unarmed
-
-**Stamina Cost:** 2  
-**Action Speed:** Standard
-
-**Duration:** 1 Turn  
-**Resist:** Fortitude
-
-Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit and damage. This attack always deals blunt damage. If successful, the target becomes stunned.
 
 ## Taunt
 
