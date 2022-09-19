@@ -29,7 +29,7 @@ After rolling to cast a spell using the arcana skill, you may spend mana to decr
 ## Arcane Synthesis
 
 **Cost:** Variable  
-**Requirements:** Max Intelligence 11+, Can cast spells, Trained in craft
+**Requirements:** Max Intelligence 11+, Can cast spells, Trained in Craft
 
 Instead of making a craft check to craft a magic item, you may instead spend mana equal to half its magic cost in silver (rounded up) to craft that item. You still pay for the base item cost. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day. Items crafted using this talent must satisfy all other normal crafting requirements.
 
@@ -82,18 +82,16 @@ At least one craft check must be made to qualify for the free progress. This fre
 
 When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
 
-Before performing any maneuver, depending on the choice made, you may spend mana instead of stamina to perform that maneuver. This mana cost is equal to that maneuver's stamina cost plus 1. If you picked Judgment, this applies to offensive maneuvers (maneuvers that make an attack or target an enemy). If you picked Protection, this applies to defensive maneuvers (that provide defensive bonuses or target allies). If you do, rolls made to perform those maneuvers get a +1 bonus.
+Depending on your choice, you may spend mana instead of stamina to perform certain maneuvers. This mana cost is equal to its cost stamina cost plus 1. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, then this applies to defensive maneuvers.
 
-Additionally, regardless of the choice made, should you choose to attack or defend a target that directly contradicts the ideologies of your faith's specialization (as determined by the game master) you will automatically fail to attack or defend that target. This still spends any resources used to do so.
-
-This ability can be used a number of times based on its advancement.
+Performing a maneuver in this way gives you a +1 bonus to rolls made with those maneuvers. However, should the use of that maneuver directly contradict the ideologies of your faith specialization (as determined by the game master), the maneuver automatically fails and any resources spent to perform this maneuver remain spent.
 
 ## Divine Devotion
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty and critical threshold reduced by 1. If that spell was provided to you as a bonus spell from your specialization, these are reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty and critical threshold reduced by 1. If that spell was provided to you as a bonus spell from your specialization, these are reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your faith specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
 
 This ability can be used a number of times based on its advancement.
 
@@ -109,7 +107,7 @@ This ability can be used a number of times based on its advancement.
 **Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+ or Max Resolve 11+, Can cast spells
 
-Spells you cast that target yourself or your own equipment cannot fail. The lowest degree of success you can achieve with these spells is to graze. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell (after other adjustments).
+The lowest degree of success that you can get with spells that target yourself or your own equipment is a graze instead of a fail. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell.
 
 ## Esoteric Will
 
@@ -128,14 +126,14 @@ You may cast spells putting your mana into the negative. If you do, make a willp
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Max Resolve 11+, Can cast spells
 
-When you become unconscious or stunned, instead of immediately losing concentration on spells, you may instead attempt to maintain concentration. If you do, roll as if you were casting that spell, and use the result to determine continued concentration.
+When you become unconscious or stunned, instead of immediately losing concentration on spells, you may instead attempt to maintain concentration. If you do, roll as if you were casting that spell. Use the lowest of that roll and your original roll to determine continued concentration on that spell.
 
 ## Magic Resistance
 
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 13+
 
-Whenever a spell that requires concentration is applying an effect to you, every 6s (1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
+Whenever a spell that requires concentration is applying an effect to you, every 6s (1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the location of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
 
 ## Mental Balance
 

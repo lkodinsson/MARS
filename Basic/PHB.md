@@ -382,29 +382,29 @@ Encounters from start to end follow this sequence:
 
 ### Initiative
 
-When it comes time to *roll for initiative* each player will simply roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. Break ties by rolling opposed initiative checks.
+When it comes time to *roll for initiative* each player will roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. If there are any ties, players can decide amongst each other who goes first.
 
 ### Rounds
 
-Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. Each round’s activity begins with the character with the highest initiative result and then proceeds in order from the next highest to the lowest. When a character's turn comes up in the initiative sequence, that character performs up to their entire round's worth of actions.
+Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. During each round characters will take turns as previously determined by their initiative rolls. Each character will perform up to their entire turn's worth of actions.
 
-When the rules refer to a *full-round* or a number of rounds, they usually mean a span of time from a particular initiative count in one round to the same initiative count in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
+When the rules refer to a *full-round* or a number of rounds, this means from the start of the turn in which that duration began to the start of that turn in a future round. This means that a full-round effect ends before that character starts their next turn, but is still occuring before that turn.
 
 ### Complex Challenges
 
 Some encounters are considered complex challenges: there is a limited amount of time to complete them, or a series of skill checks are required to overcome them. In these encounters the exact duration of a player's turn is abstract and non-specific. Since players will usually be performing skill checks, the average duration of a turn is the average time it takes to perform all of the player's skill checks and minor actions (assuming they all take about the same amount of time).
 
-Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while player characters must suffer damage before becoming unconscious or even killed.
+Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while elite enemies will require more significant damage before becoming defeated.
 
 ## Actions
 
 During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, *reaction*, and *free*.
 
-Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn takes up one second of your turn.
+Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn is considered a swift action.
 
-Reactions are two seconds long (like a swift action), but you can only use them if you meet the conditions for that action. If you use a reaction when it is not your turn, it uses two seconds worth of time from your next turn and you cannot use a reaction again until your next turn begins.
+Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they can be interrupted at any point in their duration, so long as it is your turn.
 
-Extended actions take time that is longer than a single turn (longer than six seconds). Once started they can be interrupted at any point in their duration, so long as it is your turn.
+Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. Reactions can only be used once each round, and only if you meet the conditions to use that reaction.
 
 In addition to the following basic actions, characters may perform maneuvers or cast spells with an action speed specified by those actions.
 
@@ -416,7 +416,7 @@ Make an attack on a target with one of your wielded weapons or with your bare ha
 
 When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazes deal half damage, and criticals deal bonus damage as specified by that weapon.
 
-Additional attacks made during the same turn get a –4 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
+Additional attacks made during the same turn get a –4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
 
@@ -484,7 +484,7 @@ If you are next to a barricade, or the edge of a wall, or some similar structure
 
 **Action Speed:** Variable
 
-Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenges. As some skills may take more than a few minutes, this means that most characters who attempt to use advanced skills during a combat encounter may effectively find themselves removed from combat (unless they leave their attempt as incomplete).
+Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenge. Some skills may take more than a few minutes to complete. This means that most characters who attempt to use advanced skills during an encounter may find themselves unable to perform other actions until the action is completed (unless they leave their attempt as incomplete).
 
 # Damage
 
@@ -504,7 +504,7 @@ Temporary effects that alter your primary stats, do not also alter your resource
 
 For example: A character with a strength of r12 is given an effect with alters their size, increasing their strength by +2. This results in a strength of r12+2, which changes their athletic, fortitude, and damage rolls, but it does not change their maximum health from 12 to 14.
 
-Permanent effecs that alter your primary stats, however, do alter your resource stats.
+Permanent effects that alter your primary stats do alter your resource stats.
 
 #### Blind
 

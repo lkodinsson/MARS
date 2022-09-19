@@ -20,8 +20,8 @@
 | [Mobility](#mobility) | 8 | STR 13+, Athletics |
 | [Natural Intuition](#natural-intuition) | 6 | INT 11+, Perception |
 | [Opportunist](#opportunist) | 6 | DEX 11+ or INT 11+, Opportunity Strike |
-| [Prepared Defense](#prepared-defense) | 6 | DEX 11+ or RES 11+, Any combat skill |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
+| [Prepared Defense](#prepared-defense) | 6 | DEX 11+ or RES 11+, Any combat skill |
 | [Rage](#rage) | 6, 8, 10, 12 | STR 11+, RES 11+, Any combat skill |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 8 | INT 11+, Charisma |
@@ -184,14 +184,7 @@ Your ability to notice and remember details has expanded your natural perception
 **Cost:** 6 EXP  
 **Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in the Opportunity Strike maneuver
 
-The first Opportunity Strike you use each turn does not cost your reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target.
-
-## Prepared Defense
-
-**Cost:** 6 EXP  
-**Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
-
-The first defenseive action (such as block, evade, or parry, including defensive maneuvers), that you use each turn does not cost your reaction. Additionally, you may use defensive maneuvers twice each turn instead of only once.
+The first Opportunity Strike you use each round does not cost your reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target.
 
 ## Polyglot
 
@@ -199,6 +192,13 @@ The first defenseive action (such as block, evade, or parry, including defensive
 **Requirements:** Max Intelligence 11+, Trained in at least four languages
 
 You can speak many languages well enough that you can easily figure out new ones. You can make language checks in all languages, even if you are not trained.
+
+## Prepared Defense
+
+**Cost:** 6 EXP  
+**Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
+
+The first defensive action (such as block, evade, parry, or a defensive maneuver) that you use each round does not cost your reaction. Additionally, you may use defensive maneuvers twice each turn instead of only once.
 
 ## Rage
 
