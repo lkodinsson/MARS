@@ -30,7 +30,7 @@ Spells are broken down into tiers which determine both their difficulty to cast,
 | 3 | Greater | 3 | 14 |
 | 4 | Heroic | 4 | 19 |
 
-The highest tier spell you can learn is determined by the dice step you are advancing to. This only restricts the highest tier of spell you can learn at each advancement, so you may still choose to learn spells of a lower tier.
+The highest tier spell you can learn is determined by the dice step you are advancing to. You may still choose to learn spells of a lower tier when you advance.
 
 ##### Table: Spell Learning Tier Limit
 | Roll Value | Step Name | Highest Tier |

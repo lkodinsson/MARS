@@ -10,7 +10,8 @@
 * [Magic Armour](#magic-armour)
 * [Magic Gear](#magic-gear)
 
-Click [here](/Fantasy/Equipment.md) for the page on normal equipment.
+Click [here](/Fantasy/Equipment.md) for the page on normal equipment.  
+Click [here](/Fantasy/ArtifactEquipment.md) for the page on artifact equipment.
 
 In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and rarer still to be available for purchase. Even in wealthy cities, some magic items might not be available. Very expensive magical items (with a magic effect valuing more than 100sp) or items requiring someone exceptionally skilled, will require the use of the [craft skill](/Fantasy/Skills.md#craft-int).
 

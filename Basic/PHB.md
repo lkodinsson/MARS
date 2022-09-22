@@ -34,7 +34,7 @@ If at any point during the game you are required to perform math that results in
 
 ### Roll Value
 
-Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
+Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
 Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Whenever you add multiple roll values together they merge into a combined roll value: *r14* plus *r8* equals *r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
@@ -55,11 +55,11 @@ Roll value will typically have one or two numbers like so: *r14+1*. Where the fi
 | r28 | 2d10+1d8 |
 | r30 | 3d10 |
 
-This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating a near approximaation of the average value quite fast as it is simply half of the roll value (then any additional bonuses or penalties).
+This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating an approximation of the average value quite fast, as it is simply half of the roll value (then any additional bonuses or penalties).
 
 ### Stats
 
-Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers, and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
+Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
 
 ### Skills
 
@@ -110,7 +110,7 @@ Intelligence determines how well your character learns and reasons. It is import
 
 ### Resolve (RES)
 
-Resolve is the determination, willpower, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate with others and animals.
+Resolve is the determination, willpower, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate with others.
 
 # Secondary Stats
 
@@ -298,13 +298,12 @@ The availability of languages to your character are determined by the genre or s
 
 There may be additional skills available depending on the genre you are playing.
 
-Click [here](/Fantasy/Skills.md) for the list of fantasy skills.
-
+Click [here](/Fantasy/Skills.md) for the list of fantasy skills.  
 Click [here](/Fantasy/Spellcasting.md) for the rules for fantasy spellcasting.
 
 ## Skill Checks
 
-If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in multiple degrees of success or failure.
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure.
 
 For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength.
 
@@ -314,7 +313,7 @@ Some circumstances may require a contest between two sources, such as an attacke
 
 For example: A character attacks another and the defender rolls deflection to defend against damage. If the attacker succeeds, they do full damage, but on a graze they do half damage.
 
-For other types of opposed checks where only one side can win (such as an arm wrestling contest), grazes aren't possible and are simply considered failures.
+For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in a tie or lower are all considered failures. Grazes are not possible in this type of opposed check.
 
 ### Challenge Difficulty
 
@@ -353,7 +352,11 @@ While most basic skills and actions can be performed in a matter of a couple sec
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. If you have an advantage in any moment where you are required to roll dice, the advantage modifies how you roll. Instead of simply rolling and keeping the result, you roll one additional time (even if you have multiple sources granting advantage) and keep the best result. Disadvantage works similarly, but instead of keeping the better result, you must keep the worst result. Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
+
+Disadvantage works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
+
+Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
 
 ### Group Actions
 
@@ -418,7 +421,7 @@ When making an attack, first roll your appropriate combat skill to hit your targ
 
 Additional attacks made during the same turn get a –4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
-Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack.
+Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack. If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
 
 #### Block
 
@@ -578,8 +581,7 @@ Although maneuvers must be learned in order to use normally, you can improvise m
 
 For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
 
-Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
-
+Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.  
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 # Resting
@@ -670,13 +672,13 @@ Click [here](/Fantasy/Equipment.md) to see the rules and tables for fantasy equi
 
 ### Armour
 
-Although a character can wear any amount of gear, such as boots, cloaks, clothes, gloves, helmets, rings, and so on, only some of these items are considered as *armour*. Armour exists in a few specific *equipment slots* when worn: *body*, *head*, *wrist*, and *feet*. Armour items will have some minor features, but usually they also have an armour class and a damage reduction. These values from all your slots are added together to provide a total armour class and damage reduction.
+Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour class and a damage reduction. These values from all your slots are added together to provide a total armour class and damage reduction.
 
 Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty to your dexterity equal to half of the difference (rounded up). For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will get –3 to your dexterity. This is known as the *armour penalty*.
 
 ### Weapons
 
-Weapons are the means to inflict attacks upon opponents using the combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category clarity on their stats.
+Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category clarity on their stats.
 
 ### Carrying Capacity
 
@@ -697,7 +699,7 @@ Many items will have a listed weight. Although it is optional to keep track of t
 
 If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
-Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, or drag something weighing twice that amount over a moderate distance (up to four times that amount if assisted by wheels).
+Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, and push or drag something weighing four times that amount over a moderate distance (up to ten times that amount if assisted by wheels).
 
 # Advancing a Character
 
@@ -762,6 +764,5 @@ While stats and skills typically represent incremental numerical improvements to
 
 Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring that archetype's starting talent.
 
-Click [here](/Basic/Talents.md) for the list of universal talents.
-
+Click [here](/Basic/Talents.md) for the list of universal talents.  
 Click [here](/Fantasy/Talents.md) for the list of fantasy talents.

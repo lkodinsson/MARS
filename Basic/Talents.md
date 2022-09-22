@@ -10,6 +10,7 @@
 | [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
 | [Enthusiastic](#enthusiastic) | 8 | RES 11+ |
+| [Extra Maneuver](#extra-maneuver) | 4 | Any combat skill |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
@@ -83,7 +84,14 @@ You gain an advantage to fortitude checks made to stabilize and you may choose t
 **Cost:** 8 EXP  
 **Requirements:** Max Resolve 11+
 
-The first skill check you make after a rest is made with advantage.
+The first skill check you make after a long rest is made with advantage.
+
+## Extra Maneuver
+
+**Cost:** 4  
+**Requirements:** Any combat skill
+
+When you acquire this talent you will learn a new maneuver for a combat skill you already have. This talent can be taken multiple times.
 
 ## Inspirational Charisma
 
@@ -141,7 +149,7 @@ Your speed is increased by 2m, and your second move action each turn does not co
 **Cost:** Variable  
 **Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in Sleight
 
-You may spend 2 mana to gain an advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
+You may spend 2 mana to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
 
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |

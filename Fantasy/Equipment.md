@@ -101,7 +101,7 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 
 ## Weapons
 
-Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and several *features*. Features provide special abilities to weapons 
+Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and may have one or more *features*. Features provide special abilities to weapons to differentiate them from one another.
 
 Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
@@ -224,6 +224,8 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 ## Armour
 
+Weapons have several properties: *armour class*, *damage reduction*, *strength requirement*, *armour slot*, *material type*, *weight*, and may have one or more *features*. Most features of armour are drawbacks of their design, but some of them provide bonuses.
+
 ##### Table: Body Armours
 | Name | Price | AC | DR | STR Req | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
@@ -241,22 +243,22 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 ##### Table: Additional Armours
 | Name | Price | AC | DR | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
-| Boots<sup>1</sup> | 1sp | - | - | Feet | Leather | ½kg | - |
-| Greaves | 10sp | 1 | - | Feet | Metal | 2kg | Noisy |
-| Leather Bracers | 5sp | - | - | Wrists | Leather | ½kg | Guiding |
-| Plated Bracers | 10sp | 1 | - | Wrists | Metal | 1kg | - |
-| Vambraces | 20sp | 1 | 1 | Wrists | Metal | 1½kg | - |
-| Gauntlets<sup>2</sup> | 20sp | 1 | 1 | Wrists | Metal | 2kg | Locking Grip, Noisy |
 | Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
 | Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
 | Small Helm | 5sp | 1 | - | Head | Metal | 1kg | Critical Defense |
 | Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Critical Defense,<br/>Identity Obscuring,<br/>Limited Vision |
+| Leather Bracers | 5sp | - | - | Hands | Leather | ½kg | Guiding |
+| Plated Bracers | 10sp | 1 | - | Hands | Metal | 1kg | - |
+| Vambraces | 20sp | 1 | 1 | Hands | Metal | 1½kg | - |
+| Gauntlets<sup>2</sup> | 20sp | 1 | 1 | Hands | Metal | 2kg | Locking Grip, Noisy |
+| Boots<sup>1</sup> | 1sp | - | - | Feet | Leather | ½kg | - |
+| Greaves | 10sp | 1 | - | Feet | Metal | 2kg | Noisy |
 
 <sup>1</sup>Characters start with boots for free.
 
 <sup>2</sup>Making unarmed attacks with a gauntlet on is considered attacking with a cestus.
 
-<sup>2</sup>Hoods are considered parts of cloaks.
+<sup>3</sup>Hoods are considered parts of cloaks or other pieces of clothing.
 
 ##### Table: Shields
 | Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
@@ -270,7 +272,7 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 **Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you block projectiles, add the given value to your armour class instead.
 
-**Critical Defense** Increase the threshold to land a critical hit against you by 1.
+**Critical Defense** Increase the threshold to land a critical hit against you from an attack by 1.
 
 **Guiding** You gain a +1 bonus to hit with non-mechanical projectile weapons.
 
@@ -280,7 +282,7 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 **Locking Grip** You have advantage against attempts to disarm.
 
-**Noisy** Wearing any amount of of noisy armour gives you disadvantage to stealth.
+**Noisy** Wearing any amount of noisy armour gives you disadvantage to stealth while moving.
 
 **Open Back** Halve your total damage reduction provided by armour when attacked from behind.
 
@@ -292,14 +294,14 @@ Any object can be used as an improvised weapon. Objects that are similar enough 
 
 Weapons and armour can also be given various properties, making them better or worse. Equipment may have up to two different properties simultaneously: *quality*, and *weight*. When determining which cost adjustment to use for the properties you have chosen for your item, always choose the most expensive options first. Apply any cost reductions last.
 
-Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. Shields and gauntlets can be given properties as though they are melee weapons.
+Only weapons and body armours can be given equipment qualities, and only melee weapons and body armour can have their weight adjusted. Shields and gauntlets can be given properties as if they were melee weapons.
 
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
 | Improvised | –1 to hit, –1 damage | –1 armour class, –1 damage reduction | ×½ |
-| Crude | –1 to hit | –1 deflection | ×¾ |
-| Fine | +1 to hit | +1 deflection | ×1½ or +10sp |
+| Crude | –1 to hit | –1 armour class | ×¾ |
+| Fine | +1 to hit | +1 armour class | ×1½ or +10sp |
 | Superior | +1 to hit, +1 damage | +1 armour class, +1 damage reduction | ×2 or +25sp |
 | Exceptional | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×2½ or +45sp |
 | Masterwork | +3 to hit, +3 damage | +3 armour class, +3 damage reduction | ×3 or +70sp |

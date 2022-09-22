@@ -80,7 +80,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 **Target:** Self  
 **Duration:** 24 hours (concentration)
 
-You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost.
+You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost and difficulty.
 
 While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making a roll (such as when rolling deflection, evasion, fortitude, willpower, etc.)
 
@@ -102,7 +102,7 @@ For example: If you are a Medium sized creature and you wanted to transform into
 **Target:** One or more creatures or objects  
 **Resist:** Deflection (for half damage)
 
-You shoot arcane missiles dealing r8+1 arcane damage. The missiles *always* hit their targets, but deal half damage if it grazes or fails against a target's resistance.
+You shoot arcane missiles dealing r8+1 arcane damage. The missiles *always* hit their targets, but deal half damage if it grazes or fails against a target's resistance. If multiple missiles hit the same target, they deal their damage together in one roll.
 
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
@@ -257,7 +257,7 @@ Creates a thin pool of slippery grease in a 3m radius. Any character who starts 
 **Target:** One object or creature  
 **Resist:** Fortitude (graze for half damage)
 
-This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have same effect on undead creatures as the spell mend does on living creatures. This spell deals half damage if it grazes against a target's resistance.
+This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have the same effect on undead creatures as the spell mend does on living creatures. This spell deals half damage if it grazes against a target's resistance.
 
 ***Critical:*** Deal r24 void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
 ***Success:*** Deal r16 void damage.  
@@ -361,13 +361,13 @@ You touch an object or surface, causing it to radiate light like a torch in a 5m
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it temporary magical properties. It deals half of its damage as a magical damage type of your choice (this means it bypasses half damage reduction, rounded up). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
+You touch a weapon, granting it magical properties. It deals half of its damage as a magical damage type of your choice (this means it bypasses half damage reduction, rounded up). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
 
 ***Arcane:*** The attacked target loses r4 mana.  
 ***Cold:*** The attacked target loses r4 stamina.  
 ***Electric:*** The attacked target becomes stunned.  
 ***Fire:*** The attacked target gets burning 1.  
-***Radiant:*** The attacked target takes r4 more weapon damage if undead.  
+***Radiant:*** The attacked target takes r6 more weapon damage if undead.  
 ***Void:*** The attacked target gets sickness 1 (lasting 1 week) if living.
 
 ***Graze:*** The weapons deals half elemental damage as normal, but provides no additional effect on a critical hit with the weapon.
@@ -407,7 +407,7 @@ Allows you to speak a message (one or two sentences) telepathically into the min
 
 Communicating in this way does not guarantee an understanding. Creatures must be able to speak the language in the received message in order to understand it. Optionally, messages can be sent in the form of a mental image. This improves the chance of an understanding, but it is not guaranteed.
 
-***Graze:*** Only a single message can be sent back and forth, then the effect is lost.
+***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
 ## Prestidigitation
 
@@ -420,7 +420,7 @@ Communicating in this way does not guarantee an understanding. Creatures must be
 **Range:** 1m  
 **Duration:** Instant or 24 hours (concentration, range of 30m)
 
-You create the illusion of a miniscule object or creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and as such can be felt to have a solid form and real weight. Any effects created are of an obviously conjured appearance.
+You create the illusion of a miniscule object or creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and can be felt to have a solid form, weight and odour. Any effects created are of an obviously conjured appearance. The illusion is not strong enough in form to be used for weapons or tools, but can be used to clean very minor messes like dirty clothes, or to apply an altered smell.
 
 ## Restoration
 
@@ -466,7 +466,7 @@ Provides you with some information about any subject. Only information that can 
 **Target:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast in a moment to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so.
+You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast as a reaction to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so. If this spell was only cast as a reaction and not maintained, it costs 1 less mana.
 
 ***Critical:*** Block 6.  
 ***Success:*** Block 5.  
@@ -538,7 +538,7 @@ The targets succumb to a magical sleep. When cast on unsuspecting creatures they
 
 Creatures fall prone when they fall asleep.
 
-When cast on creatures in combat, the active adrenaline in their body makes the sleep lasts for only 1 minute. Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Dealing damage to these creatures will automatically wake them.
+When cast on creatures in combat, the active adrenaline in their body makes the sleep last for only 1 minute (10 rounds). Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Dealing damage to these creatures will automatically wake them.
 
 This spell's mana cost and difficulty increases by 2 for each additional creature you target.
 
@@ -557,7 +557,7 @@ This spell's mana cost and difficulty increases by 2 for each additional creatur
 
 You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to speak to animals receiving a response you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
 
-***Graze:*** Only a single message can be sent back and forth, then the effect is lost.
+***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
 ## Suggestion
 

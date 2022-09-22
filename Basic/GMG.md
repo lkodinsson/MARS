@@ -1,28 +1,35 @@
 # Table of Contents
 
 * [Worldbuilding](#worldbuilding)
+    * [Lore](#lore)
+    * [Scenarios](#scenarios)
+    * [Scenes](#scenes)
 * [Bestiary](#bestiary)
 * [Creating Creatures](#creating-creatures)
 
 # Worldbuilding
 
-A major part of being a game master is being prepared to present an entire world to the players. This can be a lot of work, especially when players may choose to completely subvert your setup. Regardless of your degree of preparation, below there is a framework for building content for players. This can be a useful tool when you need to improvise content.
+Being a game master means being in control of an entire world that players directly interact with. It can be a lot of work to both prepare and to actively run that world, especially if the players completely subvert your preparations. The following guide is designed to streamline the worldbuilding process, allowing that world to be played as soon as possible.
 
-Each type of content listed will also be given a list of questions to ask. These questions are useful for quickly providing answers for the types of actions your players will take when presented with the information contained in the given situations.
+### Lore
 
-### Storyline Emblems
+BUILDING BLOCKS OF WORLD
+INTUITIVE LORE DOESN'T NEED TO BE DEFINED
+DON'T INFO-DUMP PLAYERS
+PROVIDE LORE VIA CONTEXT CUES AND REQUEST BY PLAYERS
+DON'T MAKE TOO MUCH LORE (YOU CAN GO FOREVER)
 
 ### Scenarios
 
-Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world.
+Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world. Many scenarios can be prepared in advance, FLEXIBILITY FOR GM
 
 Example: A village is having their farms raided by nearby monsters, and they are in need of assistance if they are to continue feeding their population.
 
-It is important not to decide in the framing of your scenario exactly how it is to be resolved by the players. This is an important distinction to remember, as players may surprise you in how they decide to solve or complete your proposed scenarios. Having multiple scenarios prepared can be useful if players intend to compeltely subvert your originally planned scenario.
+It is important in the framing of your scenario not to decide exactly how it will be resolved. This is an important distinction to remember, as players may surprise you in how they decide to solve or complete your proposed scenarios. Having multiple scenarios prepared can be useful if players intend to completely subvert your originally planned scenario.
 
 #### Scenarios: Questions
 
-* What notable characters or entities exist that can provide more information for players?
+* What notable characters or objects exist that can provide more information for players?
 * What are the consequences if the scenario is resolved with violence? What about diplomacy?
 * Are there any other ways to resolve the scenario?
 * Where can the players go if they completely subvert the scenario?
@@ -32,6 +39,8 @@ It is important not to decide in the framing of your scenario exactly how it is 
 When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details given to be given for the reason of intentional interaction.
 
 Example: There is a room with a locked door. The players know that there is something behind this door they want. The door can be broken into, lock picked, or you can break into the room by climbing into the window from the outside. There is also a key to the door hidden in the room.
+
+SCENES ARE GENERALLY IMPROVISED
 
 #### Scenes: Questions
 

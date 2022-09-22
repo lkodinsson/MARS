@@ -11,6 +11,7 @@
 | [Divine Devotion](#divine-devotion) | 8, 10, 12 | RES 11+, Faith |
 | [Eldritch Infusion](#eldritch-infusion) | 6 | INT 11+ or RES 11+, Can cast spells |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
+| [Extra Spell](#extra-spell) | Variable | Can cast spells |
 | [Inherent Focus](#inherent-focus) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Magic Resistance](#magic-resistance) | 8 | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | INT 13+, Can cast spells |
@@ -120,6 +121,23 @@ You may cast spells putting your mana into the negative. If you do, make a willp
 ***Success:*** You lose 1 health.  
 ***Graze:*** You lose health equal to half that spell's mana cost, rounded up, and cannot cast the same spell until you take a short rest.  
 ***Fail:*** You lose health equal to that spell's mana cost, and cannot cast any spells until you take a long rest.
+
+## Extra Spell
+
+**Cost:** Variable  
+**Requirements:** Can cast spells
+
+When you acquire this talent you will learn a new spell to cast with a spellcasting skill you already have. The highest tier spell you can learn with this talent is determined by the highest tier spell you can learn from advancement. The cost to acquire this talent is determined by the tier of spell you learn with it.
+
+This talent can be taken multiple times.
+
+##### Table: Extra Spells Cost
+| Exp Cost | Tier | Tier Name |
+|:-:|:-:|:-:|
+| 4 | 1 | Cantrip |
+| 6 | 2 | Lesser |
+| 8 | 3 | Greater |
+| 10 | 4 | Heroic |
 
 ## Inherent Focus
 
