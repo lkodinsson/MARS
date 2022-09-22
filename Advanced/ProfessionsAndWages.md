@@ -16,7 +16,7 @@ The following values are calculated including any mandatory costs that a charact
 
 ### Fantasy Wages
 
-Wages in the fantasy genre are calculated per day, then extrapolated over the period of time that you character is working. How much you make per day is equal to your roll multiplied by 2, then subtracting 10 (to a minimum of 0). This is the total amount of money made in copper. Divide this by 10 to get that value in silver instead. Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn). To remove the cost of living from the income calculation, don't subtract the 10 copper. For other circumstances, use your average roll.
+Wages in the fantasy genre are calculated per day, then extrapolated over the period of time that your character is working. How much you make per day is equal to your roll multiplied by 2, then subtracting 10 (to a minimum of 0). This is the total amount of money made in copper. To remove the cost of living from the income calculation, don't subtract the 10 copper. Divide the total by 10 to get that value in silver instead. Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn). For other circumstances, use your average roll (such as performing work over a week or month).
 
 The average person makes money assuming their average roll is a 7, while specialized workers would have an average roll of 10 to 14.
 
@@ -24,6 +24,7 @@ The following table provides examples at each difficulty breakpoint, rather than
 
 ##### Table: Fantasy Wages
 | Roll | Income/Day | Income/Week | Income/Month<br/>(4 Weeks) |
+|:-:|:-:|:-:|:-:|
 | 7 | 4cp | 2sp 8cp | 11sp 2cp |
 | 10 | 1sp | 7sp | 28sp |
 | 14 | 1sp 8cp | 12sp 6cp | 50sp 4cp |
