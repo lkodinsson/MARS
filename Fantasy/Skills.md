@@ -7,15 +7,12 @@
 | [Arcana](#arcana-int) | Intelligence |
 | [Craft](#craft-int) | Intelligence |
 | [Faith](#faith-res) | Resolve |
-| [Ki](#ki) | Varies |
+| [Ki](#ki) | Variable |
 | [Power](#power-res) | Resolve |
 
-Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.
-
-Click [here](/Fantasy/Spellcasting.md) for the rules on spellcasting.
-
-Click [here](/Fantasy/Spells.md) for the full list of spells and their descriptions.
-
+Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.  
+Click [here](/Fantasy/Spellcasting.md) for the rules on spellcasting.  
+Click [here](/Fantasy/Spells.md) for the full list of spells and their descriptions.  
 Click [here](/Fantasy/SpellsIndex.md) for a list of spells sorted by specialization and tier.
 
 ## Animism (RES)
@@ -84,7 +81,7 @@ Someone must create all the items and artifacts that you use, and that someone c
 
 This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so (this is just a matter of roleplaying). The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
 
-## Faith
+## Faith (RES)
 
 Most forms of spellcasting come from an internal source, either force of personality, or years of study. When it comes to faith, however, that power is granted to an individual from a divine entity. Faith represents your devotion to following a code of beliefs that align with that divine entity, and the additional sacrifice of acting on behalf of that entity. Those who follow this lifestyle are often called clerics.
 
@@ -217,11 +214,11 @@ Force and stability are the earth's primary strengths. The element of earth is a
 
 ### Fire
 
-If you try hard enough just about anything can be burned. Strong emotions like anger and love are also aspects of fire.
+If you try hard enough just about anything can be burned. Strong emotions like anger and love are also aspects of fire. Fire is about passion and intensity.
 
 ### Water
 
-Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water. Cold temperatures and cold elemental damage is associated with water.
+Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water. Cold temperatures and cold elemental damage is also associated with water.
 
 ### Light
 

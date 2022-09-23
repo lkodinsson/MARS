@@ -88,7 +88,7 @@ The first skill check you make after a long rest is made with advantage.
 
 ## Extra Maneuver
 
-**Cost:** 4  
+**Cost:** 4 EXP  
 **Requirements:** Any combat skill
 
 When you acquire this talent you will learn a new maneuver for a combat skill you already have. This talent can be taken multiple times.
@@ -163,14 +163,16 @@ You may spend 2 mana to gain advantage on your next roll (including dice that yo
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+
 
-Restore more stamina, mana, and endurance during rests of any duration, but only once each day. The amount restored is dependent on the advancement of this talent.
+Restore more stamina, mana, and endurance during rests of any duration, but only once each day. The amount restored is determined by the advancement of this talent.
+
+Additionally, a number of uses of per rest abilities are also restored in the same way: during a short rest, but only once each day. The total number of uses recovered is determined by the advancement of this ability, and may be divided among one or more abilities.
 
 ##### Table: Meditative Rest Steps, Cost, & Bonuses
-| Step Cost | Total Cost | Bonus |
-|:-:|:-:|:-:|
-| 8 | 8 | +2 |
-| 10 | 18 | +3 |
-| 12 | 30 | +4 |
+| Step Cost | Total Cost | Bonus | Ability Uses<br/>Recovered |
+|:-:|:-:|:-:|:-:|
+| 8 | 8 | +2 | 1 |
+| 10 | 18 | +3 | 2 |
+| 12 | 30 | +4 | 3 |
 
 ## Mobility
 
@@ -192,7 +194,7 @@ Your ability to notice and remember details has expanded your natural perception
 **Cost:** 6 EXP  
 **Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in the Opportunity Strike maneuver
 
-The first Opportunity Strike you use each round does not cost your reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target.
+The first Opportunity Strike you use each round does not cost a reaction, and you may use Opportunity Strike twice each turn instead of only once. You may only use Opportunity Strike once per unique target each round.
 
 ## Polyglot
 
@@ -206,7 +208,7 @@ You can speak many languages well enough that you can easily figure out new ones
 **Cost:** 6 EXP  
 **Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
 
-The first defensive action (such as block, evade, parry, or a defensive maneuver) that you use each round does not cost your reaction. Additionally, you may use defensive maneuvers twice each turn instead of only once.
+The first defensive action (such as block, evade, parry, or a defensive maneuver) that you use each round does not cost a reaction. Additionally, you may use each defensive maneuver twice each round instead of only once.
 
 ## Rage
 

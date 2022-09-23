@@ -11,7 +11,7 @@
 | [Divine Devotion](#divine-devotion) | 8, 10, 12 | RES 11+, Faith |
 | [Eldritch Infusion](#eldritch-infusion) | 6 | INT 11+ or RES 11+, Can cast spells |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
-| [Extra Spell](#extra-spell) | Variable | Can cast spells |
+| [Extra Spell](#extra-spell) | 4, 6, 8, 10 | Can cast spells |
 | [Inherent Focus](#inherent-focus) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Magic Resistance](#magic-resistance) | 8 | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | INT 13+, Can cast spells |
@@ -132,7 +132,7 @@ When you acquire this talent you will learn a new spell to cast with a spellcast
 This talent can be taken multiple times.
 
 ##### Table: Extra Spells Cost
-| Exp Cost | Tier | Tier Name |
+| EXP Cost | Tier | Tier Name |
 |:-:|:-:|:-:|
 | 4 | 1 | Cantrip |
 | 6 | 2 | Lesser |

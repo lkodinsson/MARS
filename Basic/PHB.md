@@ -586,37 +586,35 @@ Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 # Resting
 
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are three different types of rests: the short rest, moderate rest, and long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest and the long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
 
 ##### Table: Rest Recovery Rates
-| Resource | Short Rest | Moderate Rest | Long Rest |
-|:-|:-:|:-:|:-:|
-| Health | None | None | 1 |
-| Endurance | 1 | Eighth of<br/>Maximum<br/>Fortitude | Quarter of<br/>Maximum<br/>Fortitude |
-| Stamina | 1 | Eighth of<br/>Maximum<br/>Initiative | Quarter of<br/>Maximum<br/>Initiative |
-| Mana | 1 | Eighth of<br/>Maximum<br/>Willpower | Quarter of<br/>Maximum<br/>Willpower |
+| Resource | Short Rest | Long Rest |
+|:-|:-:|:-:|
+| Health | None | 1 |
+| Endurance | 1 | Half of<br/>Maximum<br/>Fortitude |
+| Stamina | 1 | Half of<br/>Maximum<br/>Initiative |
+| Mana | 1 | Half of<br/>Maximum<br/>Willpower |
 
-Abilties that can be used a number of times per rest are restored on the first moderate or long rest each day.
+Abilties that can be used a number of times per rest are restored after a complete long rest.
 
-Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/InjuriesAndExhaustion.md). Both short and moderate rests are optional, but a character may take up to two short rests and one moderate rest each day.
+Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short and moderate rests are optional, and a character may take up to two short rests each day.
 
 ### Short Rest
 
-A short rest is basically like a break. Whenever you take a break to make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
+A short rest is basically a short break. Whenever you take a break to relax, meditate, or make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
 
-### Moderate Rest
-
-Moderate rests involve relaxation for an extended period of about four hours. A single activity can even be taken during this period, such as performing research or crafting an item with a low difficulty (of 10 or less). This rest may be interrupted so long as it is resumed relatively quickly (within thirty minutes).
+An extended period up to about four hours containing a single simple activity, such as performing research or crafting an item with a low difficulty (of 10 or less) can also be considered a short rest.
 
 ### Long Rest
 
-A long rest requires about eight hours of sleep. This sleep may be interrupted so long as it is resumed relatively quickly (within one hour). If such a rest is interrupted part way and not resumed, then it is considered to be a moderate rest instead.
+A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
 Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
 
-For the purposes of recovering resources, any short and moderate rests not taken are considered taken during a long rest.
+For the purposes of recovering resources, any short rests not taken are considered taken during a long rest.
 
-For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short and moderate rest. If you didn't take any rests during that day, then it would be as if all your rests were combined.
+For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short. If you didn't take any rests during that day, then it would be as if all your rests were combined.
 
 # Creating a Character
 

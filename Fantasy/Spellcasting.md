@@ -1,6 +1,6 @@
 # Spellcasting
 
-There are several different ways to cast spells, as represented by the spellcasting skills: *animism*, *arcana*, *faith*, *ki*, and *power*. Regardless of the skill used, they all effectively function the same way.
+There are several different ways to cast spells, as represented by the spellcasting skills: [*animism*](/Fantasy/Skills.md#animism-res), [*arcana*](/Fantasy/Skills.md#arcana-int), [*faith*](/Fantasy/Skills.md#faith-res), [*ki*](/Fantasy/Skills.md#ki), and [*power*](/Fantasy/Skills.md#power-res). Regardless of the skill used, they all effectively function the same way.
 
 To cast a spell you must perform the following steps:
 

@@ -27,4 +27,4 @@ When a character accumulating fatigue properly meets the requirements of their b
 
 For example: when a starving character finally eats a full day's worth of meals, they remove up to two degrees of fatigue from starvation. Continuing to eat a full day's worth of meals will continue to remove accumulated fatigue in this way, but it will never remove any degrees of fatigue caused by dehydration or lack of sleep.
 
-Special abilities that can remove sickness can also remove fatigue, but only up to degrees at a time and only to a single source of fatigue.
+Special abilities that can remove sickness can also remove fatigue, but only up to two degrees at a time and only from a single source of fatigue.
