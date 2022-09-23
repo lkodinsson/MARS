@@ -80,7 +80,7 @@ Legendary creatures are basically bosses or lone creatures. They should be given
 
 # Creating Creatures
 
-Imagine how you would describe that creature, then assign values to its stats and skills based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Do use them as a baseline so that they still function as you would expect from any other character. Try to avoid adding modifers directly to stats and skills, and use dice steps instead. If you do feel the need to manually add modifiers to stats, you can give them +1 to two stats, or +2, +1 and –1 among three stats.
+Imagine how you would describe that creature, then assign values to its stats and skills based on your descriptions. Use the names of dice steps to help you decide what it should have. Because you are using description to determine the exact features of a creature, you don't need to limit yourself to normal character building or advancement rules. Do use them as a baseline so that they still function as you would expect from any other character. Try to avoid adding modifers directly to stats and skills, and use dice steps instead. If you do feel the need to manually add modifiers to stats, you can give them +1 to two stats, or +2, +1 and -1 among three stats.
 
 ##### Table: All Stat and Skill Steps
 | Dice Step | Stat Step | Skill Step |

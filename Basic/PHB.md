@@ -188,13 +188,13 @@ Size is measured in size categories. Most characters will normally be considered
 ##### Table: Size & Size Modifiers
 | Size | Avg. Height | Avg. Weight | Strength | Dexterity |
 |:-|:-:|:-:|:-:|:-:|
-| Tiny | ½~¾m | 5~15kg | –3 | +2 |
-| Very Small | ¾~1m | 15~30kg | –2 | +1 |
-| Small | 1~1½m | 30~60kg | –1 | +1 |
-| Medium | 1½~2m | 40~90kg | – | – |
-| Large | 2~2½m | 60~150kg | +1 | –1 |
-| Very Large | 2½~3m | 90~250kg | +2 | –1 |
-| Huge | 3~4m | 150~500kg | +3 | –2 |
+| Tiny | ½~¾m | 5~15kg | -3 | +2 |
+| Very Small | ¾~1m | 15~30kg | -2 | +1 |
+| Small | 1~1½m | 30~60kg | -1 | +1 |
+| Medium | 1½~2m | 40~90kg | - | - |
+| Large | 2~2½m | 60~150kg | +1 | -1 |
+| Very Large | 2½~3m | 90~250kg | +2 | -1 |
+| Huge | 3~4m | 150~500kg | +3 | -2 |
 
 # Skills
 
@@ -419,7 +419,7 @@ Make an attack on a target with one of your wielded weapons or with your bare ha
 
 When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazes deal half damage, and criticals deal bonus damage as specified by that weapon.
 
-Additional attacks made during the same turn get a –4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
+Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack. If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
 
@@ -447,7 +447,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed.
+Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed or drop prone.
 
 #### Interact
 
@@ -577,9 +577,9 @@ When you perform a maneuver on a target it may have a chance for the target to r
 
 For example: You perform a Crippling Strike against a target and it grazes. This is still considered a hit (even though it only deals half damage), and the target rolls to resist. If your maneuver's roll is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only lasts 1 round instead of 2.
 
-Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a –2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
+Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
 
-For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a –2 penalty on your charisma check to perform the maneuver.
+For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver.
 
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.  
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
@@ -672,7 +672,7 @@ Click [here](/Fantasy/Equipment.md) to see the rules and tables for fantasy equi
 
 Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour class and a damage reduction. These values from all your slots are added together to provide a total armour class and damage reduction.
 
-Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty to your dexterity equal to half of the difference (rounded up). For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will get –3 to your dexterity. This is known as the *armour penalty*.
+Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty to your dexterity equal to half of the difference (rounded up). For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will get -3 to your dexterity. This is known as the *armour penalty*.
 
 ### Weapons
 

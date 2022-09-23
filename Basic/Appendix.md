@@ -1,17 +1,17 @@
 # Table of Contents
 
 * [Challenge Difficulties](#challenge-difficulties)
-* [Common Tasks](#)
-	* [Acrobatics](#)
-	* [Athletics](#)
-	* [Language](#)
-	* [Medicine](#)
-	* [Perception](#)
-	* [Sleight](#)
-* [Roll Values](#)
-* [Sizes](#)
-	* [Carrying Capacity](#)
-	* [Modifiers](#)
+* [Common Tasks](#common-tasks)
+	* [Acrobatics](#table-acrobatics-common-tasks)
+	* [Athletics](#table-athletics-common-tasks)
+	* [Language](#table-language-common-tasks)
+	* [Medicine](#table-medicine-common-tasks)
+	* [Perception](#table-perception-common-tasks)
+	* [Sleight](#table-sleight-common-tasks)
+* [Roll Values](#roll-values)
+* [Sizes](#sizes)
+	* [Carrying Capacity](#table-carrying-capacity-all-sizes)
+	* [Size Modifiers](#table-size--size-modifiers-all-sizes)
 
 ## Challenge Difficulties
 
@@ -196,21 +196,21 @@ This table encompasses all size categories available to living creatures.
 ##### Table: Size & Size Modifiers, All Sizes
 | Size | Avg. Height | Avg. Weight | Strength | Dexterity |
 |:-|:-:|:-:|:-:|:-:|
-| Miniscule | ¼m or less | ½kg or less | –5 | +3 |
-| Very Tiny | ¼m~½m | ½kg~5kg | –4 | +2 |
-| Tiny | ½~¾m | 5~15kg | –3 | +2 |
-| Very Small | ¾~1m | 15~30kg | –2 | +1 |
-| Small | 1~1½m | 30~60kg | –1 | +1 |
-| Medium | 1½~2m | 40~90kg | – | – |
-| Large | 2~2½m | 60~150kg | +1 | –1 |
-| Very Large | 2½~3m | 90~250kg | +2 | –1 |
-| Huge | 3~4m | 150~500kg | +3 | –2 |
-| Very Huge | 4~6m | 250kg~1.5t | +4 | –2 |
-| Gigantic | 6~9m | 500kg~3t | +5 | –3 |
-| Very Gigantic | 9~12m | 1.5~5t | +6 | –3 |
-| Enormous | 12~15m | 3~10t | +7 | –4 |
-| Very Enormous | 15~18m | 5~15t | +8 | –4 |
-| Colossal | 18~21m | 10~20t | +9 | –5 |
-| Titanic | 21~24m | 15~25t | +10 | –5 |
+| Miniscule | ¼m or less | ½kg or less | -5 | +3 |
+| Very Tiny | ¼m~½m | ½kg~5kg | -4 | +2 |
+| Tiny | ½~¾m | 5~15kg | -3 | +2 |
+| Very Small | ¾~1m | 15~30kg | -2 | +1 |
+| Small | 1~1½m | 30~60kg | -1 | +1 |
+| Medium | 1½~2m | 40~90kg | - | - |
+| Large | 2~2½m | 60~150kg | +1 | -1 |
+| Very Large | 2½~3m | 90~250kg | +2 | -1 |
+| Huge | 3~4m | 150~500kg | +3 | -2 |
+| Very Huge | 4~6m | 250kg~1.5t | +4 | -2 |
+| Gigantic | 6~9m | 500kg~3t | +5 | -3 |
+| Very Gigantic | 9~12m | 1.5~5t | +6 | -3 |
+| Enormous | 12~15m | 3~10t | +7 | -4 |
+| Very Enormous | 15~18m | 5~15t | +8 | -4 |
+| Colossal | 18~21m | 10~20t | +9 | -5 |
+| Titanic | 21~24m | 15~25t | +10 | -5 |
 
 Anything smaller than Miniscule is considered Microscopic and cannot be seen by the naked eye. They are also small enough that they cannot be directly interacted with without specialized tools.

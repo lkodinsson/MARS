@@ -28,7 +28,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 **STR** r10+1, **DEX** r12+1, **INT** r10, **RES** r10
 
 **Languages** Common (native)  
-**Acrobatics** 7/–, **Athletics** 8/r4, **Charisma** 8/r6  
+**Acrobatics** 7/-, **Athletics** 8/r4, **Charisma** 8/r6  
 **Perception** 10/r6, **Stealth** 10/r6, **Charisma (intimidate)** 11<sup>a</sup>/r6  
 **Contacts** 7/r4, **Sleight** 11/r8
 
@@ -69,7 +69,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **STR** r8-1, **DEX** r8+2, **INT** r8, **RES** r8+1
 
 **Languages** Goblin (native), undercommon (native)  
-**Acrobatics** 8/r4, **Athletics** 3/–, **Charisma** 5/–  
+**Acrobatics** 8/r4, **Athletics** 3/-, **Charisma** 5/-  
 **Perception** 8/r4, **Stealth** 8/r4
 
 **Martial** 9/r6, **Ranged** 8/r4  
@@ -102,8 +102,8 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 **STR** r12+1, **DEX** r12+1, **INT** r10, **RES** r10
 
 **Languages** Common (native)  
-**Acrobatics** 7/–, **Athletics** 11/r8, **Charisma** 8/r6  
-**Perception** 11/r8, **Stealth** 5<sup>dd</sup>/–
+**Acrobatics** 7/-, **Athletics** 11/r8, **Charisma** 8/r6  
+**Perception** 11/r8, **Stealth** 5<sup>dd</sup>/-
 
 **Martial** 12/r10, **Unarmed** 10/r6  
 **Maneuvers** Battle Cry, Intercept, Opportunity Strike
@@ -142,7 +142,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 **STR** r8-1, **DEX** r10+2, **INT** r8+1, **RES** r10
 
 **Languages** Kobold (native), undercommon (native)  
-**Acrobatics** 9/r4, **Athletics** 5/r4, **Charisma** 5/–  
+**Acrobatics** 9/r4, **Athletics** 5/r4, **Charisma** 5/-  
 **Perception** 10/r6, **Stealth** 10/r6
 
 **Finesse** 10/r6, **Ranged** 9/r4  
@@ -178,8 +178,8 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **STR** r16+2, **DEX** r14-1, **INT** r16+1, **RES** r14
 
 **Languages** Common (native), minotaur (native), undercommon (fluent)  
-**Acrobatics** 6/–, **Athletics** 18/r16, **Charisma** 10/r6  
-**Perception** 10/r8, **Stealth** 3<sup>dd</sup>/–  
+**Acrobatics** 6/-, **Athletics** 18/r16, **Charisma** 10/r6  
+**Perception** 10/r8, **Stealth** 3<sup>dd</sup>/-  
 **Knowledge** 17<sup>a</sup>/r10, **Lore** 17<sup>a</sup>/r10
 
 **Martial** 14/r16, **Unarmed** 11/r10  
@@ -214,7 +214,7 @@ Your average every day peasant. They come in all shapes, sizes, and race. Some s
 **STR** r10+1, **DEX** r10, **INT** r8, **RES** r10+1
 
 **Languages** Common (native)  
-**Acrobatics** 5/–, **Athletics** 9/r6, **Charisma** 7/r4  
+**Acrobatics** 5/-, **Athletics** 9/r6, **Charisma** 7/r4  
 **Perception** 7/r4, **Stealth** 7/r4  
 **Craft** 6/r4
 
@@ -248,8 +248,8 @@ Pale bones from a humanoid creature enchanted to wander and attack those who dis
 **STR** r12+1, **DEX** r10, **INT** r6, **RES** r10+1
 
 **Languages** None  
-**Acrobatics** 5/–, **Athletics** 8/–, **Charisma** 8/r4  
-**Perception** 5/–, **Stealth** 5/–, **Charisma (intimidate)** 11<sup>a</sup>/r4
+**Acrobatics** 5/-, **Athletics** 8/-, **Charisma** 8/r4  
+**Perception** 5/-, **Stealth** 5/-, **Charisma (intimidate)** 11<sup>a</sup>/r4
 
 **Martial** 9/r8 or **Ranged** 9/r8, **Unarmed** 7/r4  
 **Maneuvers (if Martial)** Advancing Strike, Intimidating Strike  
@@ -304,8 +304,8 @@ Deep pale or bluish skin, rotting clothes and skin, it is clear this creature wa
 **STR** r12+1, **DEX** r8, **INT** r6, **RES** r8+1
 
 **Languages** None  
-**Acrobatics** 4/–, **Athletics** 7/–, **Charisma** 4/–  
-**Perception** 4/–, **Stealth** 4/–, **Charisma (intimidate)** 5<sup>a</sup>/–
+**Acrobatics** 4/-, **Athletics** 7/-, **Charisma** 4/-  
+**Perception** 4/-, **Stealth** 4/-, **Charisma (intimidate)** 5<sup>a</sup>/-
 
 **Unarmed** 6/r4  
 **Maneuvers** Heavy Strike

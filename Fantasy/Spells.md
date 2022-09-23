@@ -88,7 +88,7 @@ Additionally, you acquire any natural weapons, abilities (but not talents), and 
 
 For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 mana with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
 
-***Graze:*** Lasts for half the duration, with a –2 penalty to the transformed physical stats.
+***Graze:*** Lasts for half the duration, with a -2 penalty to the transformed physical stats.
 
 ## Arcane Missiles
 

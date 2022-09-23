@@ -53,7 +53,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 
 **Duration:** 1 Round
 
-Make an attack with –2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
+Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
 
 ## Battle Cry
 
@@ -85,7 +85,7 @@ Move up to three times your speed in a straight line over a distance of at least
 **Duration:** 1 Turn (if stunned)  
 **Resist:** Fortitude
 
-Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a –1 penalty to hit and damage. This attack always deals blunt damage. If successful and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
+Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a -1 penalty to hit and damage. This attack always deals blunt damage. If successful and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
 
 ## Crippling Strike
 
@@ -119,7 +119,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Resist:** Athletics
 
-Make a combat check with a –1 penalty against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
+Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
 
 ## Double Shot
 
@@ -139,7 +139,7 @@ Make a single ranged attack with -2 to hit against two targets.
 
 **Resist:** Perception
 
-Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then take a move action or lose the benefits of this maneuver.
+Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then follow up with a move action or lose the benefits of this maneuver.
 
 ## Feint
 
@@ -169,7 +169,7 @@ While wielding a weapon that can deal slashing damage, instead of using deflecti
 **Stamina Cost:** 1  
 **Action Speed:** Swift
 
-Make an attack with –1 to hit but +2 to damage.
+Make an attack with -1 to hit but +2 to damage.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
@@ -201,7 +201,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 **Duration:** 1 Round  
 **Resist:** Willpower
 
-Make a charisma check against a target within melee range. If successful, the target gets –2 on all rolls that target their enemies for the duration. Then make a melee attack against that target.
+Make a charisma check against a target within melee range. If successful, the target gets -2 on all rolls that target their enemies for the duration. Then make a melee attack against that target.
 
 ## Knock Down
 
@@ -212,7 +212,7 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 **Resist:** Fortitude
 
-Make an attack with –2 to hit. If successful, the target becomes prone.
+Make an attack with -2 to hit. If successful, the target becomes prone.
 
 ## Leap Strike
 
@@ -266,7 +266,7 @@ Make an attack with a projectile weapon. If successful, the target can't move on
 **Stamina Cost:** 1  
 **Actions Speed:** Swift
 
-Make an attack with a projectile weapon against a target 2m or closer. This attack is made with –1 to hit, but +1 to damage if they are 2m away, or +2 to damage if they are 1m away.
+Make an attack with a projectile weapon against a target 2m or closer. This attack is made with -1 to hit, but +1 to damage if they are 2m away, or +2 to damage if they are 1m away.
 
 ## Poisonous Strike
 
@@ -293,7 +293,7 @@ Performing this maneuver, or pre-applying a poison, can only be done with access
 **Stamina Cost:** 1  
 **Action Speed:** Swift
 
-Make an attack with –1 to damage but +2 to hit.
+Make an attack with -1 to damage but +2 to hit.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
@@ -341,7 +341,7 @@ Make a charisma check against a target within 20m. If successful, the target get
 
 **Resist:** Acrobatics
 
-Make an attack with –2 to hit and only dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it is considered to be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the –2 to hit.
+Make an attack with -2 to hit and only dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it is considered to be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
 
 ## Triple Shot
 
@@ -350,7 +350,7 @@ Make an attack with –2 to hit and only dealing half damage. If successful, the
 **Stamina Cost:** 1  
 **Action Speed:** Full-round
 
-Make a single ranged attack with –2 to hit against three targets.
+Make a single ranged attack with -2 to hit against three targets.
 
 ## Wild Strike
 
@@ -361,6 +361,6 @@ Make a single ranged attack with –2 to hit against three targets.
 
 **Duration:** 1 Round
 
-Make a single attack with +1 to hit and damage, but you get –1 to your armour class until your next turn.
+Make a single attack with +1 to hit and damage, but you get -1 to your armour class until your next turn.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.

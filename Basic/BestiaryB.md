@@ -44,8 +44,8 @@ They are twice as large as the average humanoid. Since they are very strong, fas
 
 **STR** r16+3, **DEX** r14-1, **INT** r10, **RES** r14+1
 
-**Acrobatics** 6/–, **Athletics** 15/r8  
-**Perception** 9/r6, **Stealth** 6/–
+**Acrobatics** 6/-, **Athletics** 15/r8  
+**Perception** 9/r6, **Stealth** 6/-
 
 **Unarmed** 12/r12  
 **Maneuvers** Bullrush, Crippling Strike, Knock Down
@@ -78,8 +78,8 @@ These flying creatures are bigger and faster than you might expect. While their 
 
 **STR** r8, **DEX** r14+1, **INT** r6+1, **RES** r8
 
-**Acrobatics** 10/r4, **Athletics** 4/–  
-**Perception** 14/r12, **Stealth** 8/–
+**Acrobatics** 10/r4, **Athletics** 4/-  
+**Perception** 14/r12, **Stealth** 8/-
 
 **Unarmed** 10/r4  
 **Maneuvers** Precise Strike
@@ -110,8 +110,8 @@ Stout and hairy creatures that are timid and defensive. If tamed they can be qui
 
 **STR** r12+1, **DEX** r8+1, **INT** r8, **RES** r10
 
-**Acrobatics** 6/–, **Athletics** 10/r6  
-**Perception** 8/r4, **Stealth** 6/–
+**Acrobatics** 6/-, **Athletics** 10/r6  
+**Perception** 8/r4, **Stealth** 6/-
 
 **Unarmed** 8/r6  
 **Maneuvers** Bullrush
@@ -143,7 +143,7 @@ Strong animals known for their care free majesty and speed. When pushed into a c
 **STR** r14+2, **DEX** r12, **INT** r6, **RES** r10
 
 **Acrobatics** 9/r6, **Athletics** 14/r10  
-**Perception** 6/–, **Stealth** 6/–
+**Perception** 6/-, **Stealth** 6/-
 
 **Unarmed** 10/r8  
 **Maneuvers** Bullrush, Knock Down
@@ -175,7 +175,7 @@ These creatures are truly pack animals at heart. While it is not rare to find th
 
 **STR** r12+1, **DEX** r12+1, **INT** r6, **RES** r10
 
-**Acrobatics** 6/–, **Athletics** 11/r8  
+**Acrobatics** 6/-, **Athletics** 11/r8  
 **Perception** 12/r8, **Stealth** 11/r6
 
 **Unarmed** 11/r8  

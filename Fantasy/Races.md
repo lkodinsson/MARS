@@ -3,9 +3,9 @@
 ##### Table: Fantasy Races
 | Name | Stat Modifiers | Racial Ability | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
-| [Dwarf](#dwarf) | STR +2, RES +1, DEX –1 | Stability | Medium | 6m |
-| [Elf](#elf) | INT +2, DEX +1, STR –1 | Cognition | Medium | 7m |
-| [Halfling](#halfling) | DEX +2, RES +1, STR –1 | Gold-hearted | Small | 7m |
+| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Stability | Medium | 6m |
+| [Elf](#elf) | INT +2, DEX +1, STR -1 | Cognition | Medium | 7m |
+| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Gold-hearted | Small | 7m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Small to Large | 7m |
 | [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Scaly Vigor<br/> and Natural Weapons | Medium or Large | 7m |
 | [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 7m |
@@ -17,7 +17,7 @@
 
 Dwarves tend to live in isolated communities deep within caves and mountains. Typically they are known for their strength and combat prowess. Although there are not many notable dwarven scholars, they are still known for their unique runic magics and inventive craftsdwarfship.
 
-**Stats** Dwarves get +2 Strength, +1 Resolve, and –1 Dexterity.
+**Stats** Dwarves get +2 Strength, +1 Resolve, and -1 Dexterity.
 
 **Stability** Dwarves get advantage on skill checks to resist any effects that would knock them back, knock them prone, or poison them (such as getting drunk from alcohol). Additionally, they have a carrying capacity as though they were one size larger.
 
@@ -31,7 +31,7 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 Elves are proud noble creatures fond of nature. They are not well known for living in communities amongst the other races, but it does happen. Although they are very similar to humans, there is an air of magic and beauty about them that is unmistakeable.
 
-**Stats** Elves get +2 Intelligence, +1 Dexterity, and –1 Strength.
+**Stats** Elves get +2 Intelligence, +1 Dexterity, and -1 Strength.
 
 **Cognition** Elves have exceptional memories due to their long life span, and exceptional perception due to living in the wilds. They get a +1 to knowledge, and +1 to any perception checks made while in the wild.
 
@@ -45,7 +45,7 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 Halfling are a lot like any other folk, but they mostly keep to their own communities. They care more for food, drink, and entertainment more than the dramatic affairs of others. Even so, they are not shy to gossip about strangers passing through their parts of the world, as anything can be made into a good story, even rumors about what would be nothing at all.
 
-**Stats** Halflings get +2 Dexterity, +1 Resolve, and –1 Strength.
+**Stats** Halflings get +2 Dexterity, +1 Resolve, and -1 Strength.
 
 **Gold-hearted** Halflings are brave when it really matters. They get an advantage to willpower checks to resist fear. Additionally, they get +2 to charisma checks that involve telling stories, and when using the Inspirational Charisma talent to assist and inspire someone.
 

@@ -197,10 +197,10 @@ Sorcerers have it a bit easier than others when it comes to casting spells. As y
 ##### Table: Power Signature Spell Difficulty Reduction
 | Roll Value | Step Name | Difficulty<br/>Reduction |
 |:-:|:-|:-:|
-| r8 | Practiced | –1 |
-| r12 | Exceptional | –2 |
-| r16 | Accomplished | –3 |
-| r20 | Master | –4 |
+| r8 | Practiced | -1 |
+| r12 | Exceptional | -2 |
+| r16 | Accomplished | -3 |
+| r20 | Master | -4 |
 
 Whenever you pick a spell that is usable by multiple elements, it may limit your choices in exactly how that spell is cast. For example, if that spell has multiple magic type choices you may only pick the magic type that corresponds to the specialization that spell was learned from. Other restrictions may be listed as a part of the specialization requirement of that spell.
 

@@ -21,10 +21,10 @@
 
 ## Artificer
 
-Artificers are gifted craftspersons, that are capable of inventing all kinds of devices with the assistance of magic. Some of these devices they use themselves, but some artificers prefer craft solely to witness others benefit from their inventions.
+Artificers are gifted craftspersons that are capable of inventing all kinds of devices with the assistance of magic. Some of these devices they use themselves, but some artificers prefer to craft solely to witness others benefit from their inventions.
 
 **Skills** Arcana (Any) (r6), Charisma (r6), Craft (r6), Perception (r6), Sleight (r6)  
-**Spells** Artificer starts with two spells.  
+**Spells** Artificers start with two spells.  
 **Talent** [Arcane Synthesis (1/rest)](/Fantasy/Talents.md#arcane-synthesis)  
 **Primary Stat** Artificer must start with a maximum intelligence of 11 or greater.
 
@@ -39,7 +39,7 @@ Rogues may have a bad reputation in some circles, but that's mostly the fault of
 
 ## Bard
 
-Bards, much like wizards, are educated and personable. Bards use cleverness, skill, and a sharp tongue to overcome challenges. Given the more well-rounded education and breadth of skill that a bard possesses they might be considered a jack-of-all-trades and are often a reasonable substitute where a specialist is unavailable. At the very least, the bard may know someone who can help, and how to convince them.
+Bards, much like wizards, are educated and personable. Bards use cleverness and a sharp tongue to overcome challenges. Given the more well-rounded education and breadth of skill that a bard possesses they might be considered a jack-of-all-trades. They are often a reasonable substitute where a specialist is unavailable. At the very least, the bard may know someone who can help and how to persuade them.
 
 **Skills** Arcana (Any) (r4), Charisma (r8), Finesse or Ranged (r6), Contacts, Knowledge, or Lore (r6), Perception (r4)  
 **Maneuvers** Bards start with one maneuver.  
@@ -58,7 +58,7 @@ While fighters might choose diplomacy, or paladins might seek to protect their a
 
 ## Cleric
 
-Many people have a code they follow that defines who they are, but clerics make it a part of their life's work. Clerics are often guides and teachers. Despite the work put into their faith and those involved, they typically do not create their own following. They are more likely to gather a following in the name of whatever divine entity they believe in, than for themselves.
+Many people have a code they follow that defines who they are, but clerics make it a part of their life's work. Clerics are often guides and teachers. Despite the work put into their faith and those involved, they typically do not create their own following. They are more likely to gather a following in the name of whatever divine entity they believe in, rather than for themselves.
 
 **Skills** Charisma (r4), Faith (Any) (r8), Knowledge or Lore (r6), Medicine (r6), Perception (r4)  
 **Spells** Clerics start with three spells, and one bonus spell (depending on their specialization).  
@@ -76,7 +76,7 @@ Druids are magic users that are in tune with the forces of nature. Druids are ra
 
 ## Fighter
 
-No matter the reason, either to defend the weak, for honor, for glory, or for revenge, fighters are skilled in the arts of combat and warfare. Through the use of various combat maneuvers, fighters are vital to winning various conflicts of physical prowess. Although fighters are primarily combatants, they are also often skilled in the application of medicine, and voices of diplomacy.
+No matter the reason, either to defend the weak, for honor, for glory, or for revenge, fighters are skilled in the arts of combat and warfare. Through the use of various combat maneuvers, fighters are vital to winning various conflicts of physical prowess. Although fighters are primarily combatants, they are also often skilled in the application of medicine and diplomacy.
 
 **Skills** Athletics (r6), Charisma (r4), Medicine (r6), Finesse, Martial, or Ranged (r8), Stealth or Perception (r4)  
 **Maneuvers** Fighters start with two maneuvers.  

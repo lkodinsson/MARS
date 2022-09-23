@@ -114,8 +114,8 @@
 ##### Table: Animism Bonus Spells by Rank
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist | Rank |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None | r4<br/>(Trained) |
-| [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None | r8<br/>(Practiced) |
+| [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None | Trained (r4) |
+| [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None | Practiced (r8) |
 
 ## Arcana
 
@@ -221,7 +221,7 @@
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch<br/>or 20m | One creature | 5 minutes | No | Willpower |
 | [Suggestion](/Fantasy/Spells.md#suggestion) | Swift | 10m | One creature | 1 hour | No | Willpower |
 
-##### Table: Evocation Lesser Spells (Tier 3 Spells)
+##### Table: Evocation Greater Spells (Tier 3 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Sleep](/Fantasy/Spells.md#sleep) | Full-round | 10m | One or more<br/>creatures | 1 minute,<br/>30 minutes,<br/>or 8 hours | No | Willpower |
@@ -415,8 +415,8 @@
 ##### Table: Faith Bonus Lesser Spells (Tier 2 Spells) by Specialization and Rank
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist | Specialization<br/>and Rank |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude | Charity (r6)<br/>(Adept) |
-| [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | Extended<br/>(1 minute) | None | None | Instant | No | None | Service (r6)<br/>(Adept) |
+| [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude | Charity <br/>(Adept) (r6) |
+| [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | Extended<br/>(1 minute) | None | None | Instant | No | None | Service<br/>(Adept) (r6) |
 
 ##### Table: Faith Bonus Greater Spells (Tier 3 Spells) by Specialization and Rank
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist | Specialization<br/>and Rank |

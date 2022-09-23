@@ -66,7 +66,7 @@ Some potions are capable of automatically refilling. These potions are usuable o
 
 ## Scrolls
 
-While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as it only provides them a benefit. The cost of a scroll depends on the mana cost and difficulty to cast a spell. All spells that share these values will cost the same amount to buy.
+While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as they only provides users of arcana a benefit. The cost of a scroll depends on the mana cost and difficulty to cast a spell. All spells that share these values will cost the same amount to buy.
 
 ##### Table: Scrolls Cost
 | Mana<br/>Cost | Spellcasting<br/>Difficulty | Price |

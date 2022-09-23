@@ -14,7 +14,7 @@ Most spells have varying degrees of effect based on how well you roll to cast th
 
 If the targets of your spells choose to resist them, they roll their stat to resist as specified by that spell. They are rolling an opposed check against the roll you already made to cast that spell. If the targets of that spell are granted future opportunities to resist that spell, they will continue to roll resist checks against the same value. Unless a spell states otherwise, if a spell grazes against a resist roll, all effects are negated. Spells that deal damage typically deal half damage when grazing against a target's resistance.
 
-Additional spells cast during the same turn get a –2 penalty to cast for each spell you cast before it in the same turn. This is known as the *multiple spell penalty*. Spells cast as a reaction are exempt from this penalty (such as by a readied action).
+Additional spells cast during the same turn get a -2 penalty to cast for each spell you cast before it in the same turn. This is known as the *multiple spell penalty*. Spells cast as a reaction are exempt from this penalty (such as by a readied action).
 
 ## Learning Spells
 

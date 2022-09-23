@@ -185,7 +185,7 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Mechanical** This weapon does not add strength to damage, and can be preloaded before attacking with it.
 
-**Mode** This weapon can make attacks with a different damage type (as listed), but with –1 to hit when doing so.
+**Mode** This weapon can make attacks with a different damage type (as listed), but with -1 to hit when doing so.
 
 **Momentum** This weapon does gets +2 to damage against targets you have already hit during the same turn, including hits made with other weapons.
 
@@ -193,27 +193,27 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Parry** When you use this item to perform a parry action, add the given value to your Deflection.
 
-**Range** Attacks made work normally up to the first given range. Attacks beyond that range get –1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
+**Range** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
 
 **Reach** Functions like ranged, but it is still considered melee.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon. Reloading the weapon in this way requires the use of both hands. Unless otherwise specified, it takes a swift action to reload the weapon, or a standard action if it is two-handed.
 
-**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half to –2 and –4 (from –4 and –8).
+**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half to -2 and -4 (from -4 and -8).
 
 **Thrown** Attacks can be made as if they were ranged, but they then must be retrieved after use.
 
-**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with –2 to hit, and deals half damage. If successful, the target can use acrobatics to resist being tripped or drop prone.
+**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with -2 to hit, and deals half damage. If successful, the target can use acrobatics to resist being tripped or drop prone.
 
-**Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get –1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand.
+**Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get -1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand.
 
-**Unfit** Attacks made at the given range or closer get –2 to hit.
+**Unfit** Attacks made at the given range or closer get -2 to hit.
 
-**Versatile** Attacks may be made two-handed with an advantage to damage and –2 to hit. Attacks made single-handed are made normally.
+**Versatile** Attacks may be made two-handed with an advantage to damage and -2 to hit. Attacks made single-handed are made normally.
 
 ### Improvised Weapons
 
-Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have –1 to hit and damage. For other objects use the following table:
+Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have -1 to hit and damage. For other objects use the following table:
 
 ##### Table: Improvised Weapons
 | Name | Damage | Crit | Type | Features |
@@ -299,8 +299,8 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Improvised | –1 to hit, –1 damage | –1 armour class, –1 damage reduction | ×½ |
-| Crude | –1 to hit | –1 armour class | ×¾ |
+| Improvised | -1 to hit, -1 damage | -1 armour class, -1 damage reduction | ×½ |
+| Crude | -1 to hit | -1 armour class | ×¾ |
 | Fine | +1 to hit | +1 armour class | ×1½ or +10sp |
 | Superior | +1 to hit, +1 damage | +1 armour class, +1 damage reduction | ×2 or +25sp |
 | Exceptional | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×2½ or +45sp |
@@ -319,6 +319,6 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Fast | Swift |
 | Normal | Versatile or none<sup>1</sup> |
 | Slow | Two-Handed |
-| Very Slow | Two-Handed, –1 to hit, +1 damage |
+| Very Slow | Two-Handed, -1 to hit, +1 damage |
 
 <sup>1</sup>When a non-finesse weapon becomes normal speed, it also becomes versatile.

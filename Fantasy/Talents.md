@@ -3,7 +3,7 @@
 ##### Table: Fantasy Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
-| [Arcane Precision](#arcane-precision) | 10 | INT 11+, Can cast spells |
+| [Arcane Precision](#arcane-precision) | 10 | INT 11+, Arcana |
 | [Arcane Synthesis](#arcane-synthesis) | 8, 10, 12 | INT 11+, Can cast spells, Craft |
 | [Chaotic Magic](#chaotic-magic) | 6 | RES 11+, Can cast spells |
 | [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
@@ -23,9 +23,9 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 ## Arcane Precision
 
 **Cost:** 10 EXP  
-**Requirements:** Max Intelligence 11+, Can cast spells
+**Requirements:** Max Intelligence 11+, Arcana
 
-After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty and critical threshold of that spell, at a cost of 1 mana per point reduced. This additional mana spent is considered an increase on that spell's mana cost.
+After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty of that spell, at a cost of 1 mana per 2 points reduced. This additional mana spent is considered an increase on that spell's mana cost.
 
 ## Arcane Synthesis
 
@@ -58,7 +58,7 @@ Before casting any spell you may choose to invoke the power of chaos, forcibly a
 | 4 | The spell costs half mana, rounded up (after adjustments) |
 | 3 | The spell is cast at one action speed faster (extended spells ignore this effect) |
 | 2 | Cast the spell normally |
-| 1 | –2 to your spellcasting roll |
+| 1 | -2 to your spellcasting roll |
 
 ## Craft Preparation
 
@@ -83,16 +83,16 @@ At least one craft check must be made to qualify for the free progress. This fre
 
 When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
 
-Depending on your choice, you may spend mana instead of stamina to perform certain maneuvers. This mana cost is equal to its cost stamina cost plus 1. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, then this applies to defensive maneuvers.
+Depending on your choice, you may spend mana instead of stamina when performing certain maneuvers. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, then this applies to defensive maneuvers.
 
-Performing a maneuver in this way gives you a +1 bonus to rolls made with those maneuvers. However, should the use of that maneuver directly contradict the ideologies of your faith specialization (as determined by the game master), the maneuver automatically fails and any resources spent to perform this maneuver remain spent.
+Performing a maneuver in this way costs mana equal to that maneuver's stamina cost plus 1, and gives you a +1 bonus to all rolls made with that maneuver. This talent can only be used to perform learned maneuvers, and not improvised maneuvers.
 
 ## Divine Devotion
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty and critical threshold reduced by 1. If that spell was provided to you as a bonus spell from your specialization, these are reduced by 2 instead and with half the mana cost (rounded up). If the use of that spell directly contradicts the ideologies of your faith specialization (as determined by the game master), the spell automatically fails and you still spend your use of this ability.
+Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty reduced by 2. If that spell was provided to you as a bonus spell from your specialization, it is reduced by 4 instead and with half the mana cost (rounded up).
 
 This ability can be used a number of times based on its advancement.
 
@@ -127,7 +127,9 @@ You may cast spells putting your mana into the negative. If you do, make a willp
 **Cost:** Variable  
 **Requirements:** Can cast spells
 
-When you acquire this talent you will learn a new spell to cast with a spellcasting skill you already have. The highest tier spell you can learn with this talent is determined by the highest tier spell you can learn from advancement. The cost to acquire this talent is determined by the tier of spell you learn with it.
+When you acquire this talent you will learn a new spell for a spellcasting skill you already have. The highest tier spell you can learn with this talent is determined by the highest tier spell have learned from advancement. The cost to acquire this talent is determined by the tier of spell you learn.
+
+This talent cannot be used to learn new spells for the arcana skill, as new spells can only be learned this way by purchasing scrolls or by advancing arcana directly.
 
 This talent can be taken multiple times.
 
@@ -176,18 +178,18 @@ Spells cannot be adjusted by metamagics that change features they do not have. S
 ###### Table: Metamagic Categories & Modifiers
 | Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
 |:-|:-:|:-:|:-|
-| Bloodied | –1 | +1 | The spell causes you to lose 2 health |
-| Channelled | –1 | –1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
+| Bloodied | -1 | +1 | The spell causes you to lose 2 health |
+| Channelled | -1 | -1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
 | Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
-| Fickle | - | –1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Fickle | - | -1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | +1 | The spell gets +1 to its difficulty to resist |
 | Intensified | +1 | +2 | The spell inflicts effects to a degree of one higher |
 | Persistent | +1 | +2 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Quickened | +1 | +2 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
 | Reaching | +1 | +2 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 | Reactive | +1 | +2 | The spell can be cast as a reaction if it has a speed of swift or faster |
-| Reduced | - | –1 | This spell has its area or radius halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Shortened | - | –1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Reduced | - | -1 | This spell has its area or radius halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
+| Shortened | - | -1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Triggered | +1 | +1 | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until concentration lost or the spell triggered) |
 | Widened | +2 | +2 | The spell has its area or radius doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 

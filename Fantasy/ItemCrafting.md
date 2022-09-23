@@ -157,7 +157,7 @@ This progress can be resumed at a later date, leading us to the next example:
 > |:-:|:-:|:-:|
 > | - | 70% | - |
 > | 8 (Success) | +20% = 90% | 3sp (75%) |
-> | 2 (Fail) | –5% (0%) = 90% | - |
+> | 2 (Fail) | -5% (0%) = 90% | - |
 > | 12 (Success) | +10% = 100% | 1sp 5cp (75%) |
 > ___
 > **Time Spent:** 3 Days
@@ -198,7 +198,7 @@ If you expect a craft project to take a large amount of time (upwards of 50 in-g
 > | Auto (Graze ×5) | +2% ×5 (10%) = 42% | 2sp 7cp (90%) ×5 (13sp 5cp) |
 > | 16 (Success) | +20% = 62% | 22sp 5cp (75%) |
 > | Auto (Graze ×5) | +2% ×5 (10%) = 72% | 2sp 7cp (90%) ×5 (13sp 5cp) |
-> | 11 (Fail) | –5% = 67% | - |
+> | 11 (Fail) | -5% = 67% | - |
 > | Auto (Graze ×5) | +2% ×5 (10%) = 77% | 2sp 7cp (90%) ×5 (13sp 5cp) |
 > | 15 (Graze) | +2% = 79% | 2sp 7sp (90%) |
 > | Auto (Graze ×5) | +2% ×5 (10%) = 89% | 2sp 7cp (90%) ×5 (13sp 5cp) |
@@ -427,7 +427,7 @@ Triggers on items follow the same rules as usual for triggered metamagics with o
 >
 > **Mana Cost:** 1
 >
-> **Spell Difficulty:** 6 (–1 from reduced)
+> **Spell Difficulty:** 6 (-1 from reduced)
 >
 > **Effect Cost:** 45 = 1 × 6 × 5 × 1.5 (continuous, triggered)
 >
