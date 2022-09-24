@@ -82,11 +82,13 @@ For example: If your target was Medium sized and you increased it to Huge (three
 
 You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost and difficulty.
 
-While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making a roll (such as when rolling deflection, evasion, fortitude, willpower, etc.)
-
-Additionally, you acquire any natural weapons, abilities (but not talents), and even movement speed that beast might have. While in this form your physical equipment still exists and can still provide magical effects, but otherwise you are no longer considered to have your weapons and armour eqiupped. You lose the ability to speak normally, and you may not cast other spells (you may still cast this spell if you wanted to change directly into another animal).
-
 For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 mana with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
+
+While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making rolls (such as when rolling deflection, evasion, fortitude, and willpower).
+
+Additionally, you acquire any natural weapons, abilities (but not talents), and even movement speed that beast might have. While in this form your physical equipment still exists and can still provide magical effects from attunement, but you are otherwise no longer considered to have your weapons and armour equipped.
+
+As an animal you lose the ability to speak normally and cast other spells. You may still speak to other animals that are similar to you and cast this spell to transform directly into other animals. Casting this spell in this way is treated is if casting it from your normal form.
 
 ***Graze:*** Lasts for half the duration, with a -2 penalty to the transformed physical stats.
 
@@ -207,7 +209,7 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 **Target:** Self  
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)
 
-This spell functions exactly like the spell enhance, but it can only be cast on yourself. This spell has the added bonus of being faster to cast (swift instead of standard action speed).
+This spell functions exactly like the spell [Enhance](#enhance), but is faster to cast and can only be cast on yourself. 
 
 ## Feather Fall
 
@@ -557,7 +559,7 @@ This spell's mana cost and difficulty increases by 2 for each additional creatur
 **Target:** Self  
 **Duration:** 24 hours (concentration)
 
-You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to speak to animals receiving a response you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
+You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to receive a responses you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
 
 ***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
