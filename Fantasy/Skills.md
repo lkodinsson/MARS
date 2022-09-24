@@ -49,11 +49,19 @@ Arcana is the educated wizard's style of spellcasting, and has five different sp
 
 Since arcana is a book-learned style of spellcasting, it only functions well if you have a book containing scrolls of known spells. Scrolls are essentially a page's worth of spellcasting information on a single spell. As a practicing and inventive wizard, you acquire a new scroll of any spell matching your school when you advance your arcana skill (this represents how you learn spells).
 
-Although you will choose a school to train in, you may cast spells from any school (assuming you have scrolls for those spells). However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools if you want to avoid this limitation and attempt to master all schools.
+Although you will choose a school to train in, you may cast spells from any school (assuming you have scrolls for those spells). However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools to avoid this limitation.
 
-Wizards are not entirely incapable if they don't have scrolls or their spell books to practice from. If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. Spells can only be cast in this way if you are at least trained in that spell's school (you must understand the basics of casting those spells without assistance).
+Wizards are not entirely incapable if they don't have scrolls or their spell books to practice from. You may cast a spell in any school you are at least trained in (you must understand the basics of casting those spells without assistance). If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. If you have that spell learned directly from advancement, you may increase the mana cost of that spell by 1 to cast it as normal.
 
-Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement). These cost an amount of silver equal to that spell's mana cost multiplied by their difficulty.
+Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement). The cost of these scrolls depends on the tier of the spell.
+
+##### Table: Scrolls Cost
+| Tier | Tier Name | Price |
+|:-:|:-:|:-:|
+| 1 | Cantrip | 10sp 5cp |
+| 2 | Lesser | 30sp |
+| 3 | Greater | 63sp |
+| 4 | Heroic | 114sp |
 
 ### Augury
 

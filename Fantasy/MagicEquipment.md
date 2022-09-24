@@ -19,15 +19,15 @@ Activating any spell effect without the use of a spellstone does not count as ca
 
 ## Scrolls
 
-While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as they are only usable by users of the arcana skill. The cost of a scroll depends on the mana cost and difficulty to cast a spell. All spells that share these values will cost the same amount to buy.
+While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as they are only usable by users of the arcana skill. The cost of these scrolls depends on the tier of the spell.
 
 ##### Table: Scrolls Cost
-| Mana<br/>Cost | Spellcasting<br/>Difficulty | Price |
-|:-|:-:|:-:|
-| 1 | 7 | 10sp 5cp |
-| 2 | 10 | 30sp |
-| 3 | 14 | 63sp |
-| 4 | 19 | 114sp |
+| Tier | Tier Name | Price |
+|:-:|:-:|:-:|
+| 1 | Cantrip | 10sp 5cp |
+| 2 | Lesser | 30sp |
+| 3 | Greater | 63sp |
+| 4 | Heroic | 114sp |
 
 ## Attunement
 

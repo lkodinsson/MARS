@@ -129,8 +129,6 @@ You may cast spells putting your mana into the negative. If you do, make a willp
 
 When you acquire this talent you will learn a new spell for a spellcasting skill you already have. The highest tier spell you can learn with this talent is determined by the highest tier spell have learned from advancement. The cost to acquire this talent is determined by the tier of spell you learn.
 
-This talent cannot be used to learn new spells for the arcana skill, as new spells can only be learned this way by purchasing scrolls or by advancing arcana directly.
-
 This talent can be taken multiple times.
 
 ##### Table: Extra Spells Cost
