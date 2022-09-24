@@ -79,7 +79,7 @@ Transmuters can change one thing into something else, or repair what is broken. 
 
 Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create normal everyday items and equipment, including arrows, swords, and armour. It can also be used to create powerful magic items. This skill is considered to be a core advanced skill unique to the fantasy setting.
 
-This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so (this is just a matter of roleplaying). The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
+This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so. The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
 
 ## Faith (RES)
 
@@ -192,15 +192,15 @@ Power is the natural wizard's style of spellcasting. Those who wield magic in th
 
 Sorcerers do not require or use scrolls or spell books. The power they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your power skill. You can take this skill multiple times to learn how to cast different elements. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
 
-Sorcerers have it a bit easier than others when it comes to casting spells. As you advance your power skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast based on your advancement. This reduction only applies to signature spells in the same specialization.
+Sorcerers have it a bit easier than others when it comes to casting spells. As you advance your power skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and mana cost based on your advancement. This reduction only applies to signature spells in the same specialization.
 
 ##### Table: Power Signature Spell Difficulty Reduction
-| Roll Value | Step Name | Difficulty<br/>Reduction |
-|:-:|:-|:-:|
-| r8 | Practiced | -1 |
-| r12 | Exceptional | -2 |
-| r16 | Accomplished | -3 |
-| r20 | Master | -4 |
+| Roll Value | Step Name | Difficulty<br/>Reduction | Mana Cost<br/>Reduction |
+|:-:|:-|:-:|:-:|
+| r8 | Practiced | -1 | -0 |
+| r12 | Exceptional | -2 | -1 |
+| r16 | Accomplished | -3 | -1 |
+| r20 | Master | -4 | -2 |
 
 Whenever you pick a spell that is usable by multiple elements, it may limit your choices in exactly how that spell is cast. For example, if that spell has multiple magic type choices you may only pick the magic type that corresponds to the specialization that spell was learned from. Other restrictions may be listed as a part of the specialization requirement of that spell.
 

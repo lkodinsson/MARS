@@ -3,15 +3,15 @@
 ##### Table: Fantasy Races
 | Name | Stat Modifiers | Racial Ability | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
-| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Stability | Medium | 6m |
-| [Elf](#elf) | INT +2, DEX +1, STR -1 | Cognition | Medium | 7m |
-| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Gold-hearted | Small | 7m |
-| [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Small to Large | 7m |
-| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Scaly Vigor<br/> and Natural Weapons | Medium or Large | 7m |
-| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 7m |
-| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong | Medium or Large | 7m |
-| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Small to Large | 6m |
-| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Nimble<br/> and Natural Weapons | Small or Medium | 8m |
+| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Stability | Medium | 5m |
+| [Elf](#elf) | INT +2, DEX +1, STR -1 | Cognition | Medium | 6m |
+| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Gold-hearted | Small | 6m |
+| [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Small to Large | 6m |
+| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Scaly Vigor<br/> and Natural Weapons | Medium or Large | 6m |
+| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 6m |
+| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong | Medium or Large | 6m |
+| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Small to Large | 5m |
+| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Nimble<br/> and Natural Weapons | Small or Medium | 7m |
 
 ## Dwarf
 
@@ -23,7 +23,7 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 **Size** Dwarves are medium sized, but are as short as a small sized creature and weigh as much as a large sized creature.
 
-**Speed** Dwarves have a movement speed of 6m.
+**Speed** Dwarves have a movement speed of 5m.
 
 **Languages** Dwarves start with the common and dwarven languages.
 
@@ -37,7 +37,7 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 **Size** Elves are medium sized, but can be as tall as a large sized creature.
 
-**Speed** Elves have a movement speed of 7m.
+**Speed** Elves have a movement speed of 6m.
 
 **Languages** Elves start with the common and elven languages.
 
@@ -51,7 +51,7 @@ Halfling are a lot like any other folk, but they mostly keep to their own commun
 
 **Size** Halflings are small sized.
 
-**Speed** Halflings have a movement speed of 7m.
+**Speed** Halflings have a movement speed of 6m.
 
 **Languages** Halflings start with common and one additional language of their choice.
 
@@ -65,7 +65,7 @@ Humans are known for being good at generally anything, but aren't well known for
 
 **Size** Humans can be small, medium, or large sized, but are typically medium sized.
 
-**Speed** Humans have a movement speed of 7m.
+**Speed** Humans have a movement speed of 6m.
 
 **Languages** Humans start with common and one additional language of their choice.
 
@@ -82,7 +82,7 @@ Typically found dwelling in dark and damp environments, they do not often intera
 
 **Size** Lizardfolk can be be medium or large sized, but are typically medium sized.
 
-**Speed** Lizardfolk have a movement speed of 7m, including swimming.
+**Speed** Lizardfolk have a movement speed of 6m, including swimming.
 
 **Languages** Lizardfolk start with the common and lizardfolk languages.
 
@@ -99,7 +99,7 @@ Lupines are humanoid wolves with hardy, imposing builds. They live in tight-knit
 
 **Size** Lupines can be be medium or large sized, but are typically large sized.
 
-**Speed** Lupines have a movement speed of 7m.
+**Speed** Lupines have a movement speed of 6m.
 
 **Languages** Lupines start with the common and lupine languages.
 
@@ -113,7 +113,7 @@ Known for their size and muscular structure, orcs they are often mistakenly labe
 
 **Size** Orcs are medium or large sized, but weigh as much as a creature one size larger.
 
-**Speed** Orcs have a movement speed of 7m.
+**Speed** Orcs have a movement speed of 6m.
 
 **Languages** Orcs start with the common and orc languages.
 
@@ -127,7 +127,7 @@ Mycelians are large, mobile fungus folk roughly in the shape of humanoids. The b
 
 **Size** Mycelians can be small, medium, or large sized, but are typically medium sized.
 
-**Speed** Mycelians have a movement speed of 6m.
+**Speed** Mycelians have a movement speed of 5m.
 
 **Languages** Mycelians start with common and one additional language of their choice.
 
@@ -143,6 +143,6 @@ Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend t
 
 **Size** Vulpines can be be small or medium sized, but are typically medium sized.
 
-**Speed** Vulpines have a movement speed of 8m.
+**Speed** Vulpines have a movement speed of 7m.
 
 **Languages** Vulpines start with the common and vulpine languages.

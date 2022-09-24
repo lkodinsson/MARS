@@ -307,7 +307,7 @@ If you have taken an action and success is not guaranteed, you will need to make
 
 For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength.
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 10 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 5 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 7 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 7 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
 
 Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal.
 
@@ -336,12 +336,12 @@ For a visualization on what rolls represent different outcomes in relation to va
 ##### Table: Roll vs Difficulty as Outcomes
 | Roll | 7<br/>(Moderate) | 10<br/>(Hard) | 14<br/>(Challenging) | 19<br/>(Ambitious) |
 |:-:|:-:|:-:|:-:|:-:|
-| 5 | Graze | Fail | Fail | Fail |
+| 5 | Graze | Graze | Fail | Fail |
 | 7 | Success | Graze | Fail | Fail |
 | 10 | Success | Success | Graze | Fail |
 | 12 | Success | Success | Graze | Fail |
-| 15 | Success | Success | Success | Graze |
-| 17 | Critical | Success | Success | Graze |
+| 15 | Critical | Success | Success | Graze |
+| 17 | Critical | Critical | Success | Graze |
 | 20 | Critical | Critical | Success | Success |
 
 A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
@@ -569,20 +569,30 @@ Concetration also requires an active and conscious mind. If at any point you bec
 
 Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
 
-Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. You gain additional maneuvers for every two rank advancements beyond that in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could normally also be learned by it.
+### Acquiring Maneuvers
+
+Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. These specializations match the combat skills. You gain additional maneuvers for every two rank advancements beyond the first rank in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could also be learned by that skill.
 
 For example: You advanced your Unarmed skill and learned Heavy Strike. Since you are also trained in Martial, you can also use Heavy Strike with the Martial skill.
 
-When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
-
-For example: You perform a Crippling Strike against a target and it grazes. This is still considered a hit (even though it only deals half damage), and the target rolls to resist. If your maneuver's roll is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only lasts 1 round instead of 2.
-
-Although maneuvers must be learned in order to use normally, you can improvise maneuvers. To do so you must be trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
-
-For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver.
-
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.  
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
+
+Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. These types mostly serve as categorization, but other abilities may refer to the specific use of these types of maneuvers.
+
+Typically offensive maneuvers perform attacks, defensive maneuvers can be used to defend yourself or others, and tactical maneuvers provide other forms of actions.
+
+### Performing Maneuvers
+
+When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+
+For example: You perform a Crippling Strike against a target. First you make an attack, then if the attack hits or grazes, the target rolls to resist. If your maneuver's roll to hit is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only lasts 1 round instead of 2.
+
+### Improvising Maneuvers
+
+Although maneuvers must normally be learned in order to use, you can improvise maneuvers. To do so, you must be at least trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
+
+For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver.
 
 # Resting
 
@@ -592,19 +602,21 @@ At some point during an adventure you may find yourself low on your resources (h
 | Resource | Short Rest | Long Rest |
 |:-|:-:|:-:|
 | Health | None | 1 |
-| Endurance | 1 | Half of<br/>Maximum<br/>Fortitude |
-| Stamina | 1 | Half of<br/>Maximum<br/>Initiative |
-| Mana | 1 | Half of<br/>Maximum<br/>Willpower |
+| Endurance | Minimum<br/>Fortitude | Half of<br/>Maximum<br/>Fortitude |
+| Stamina | Minimum<br/>Initiative | Half of<br/>Maximum<br/>Initiative |
+| Mana | Minimum<br/>Willpower | Half of<br/>Maximum<br/>Willpower |
 
-Abilties that can be used a number of times per rest are restored after a complete long rest.
+You can calculate the minimum of a stat by counting the number of dice you would roll and then adding any bonuses.
 
 Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short and moderate rests are optional, and a character may take up to two short rests each day.
+
+Abilties that can be used a number of times per rest are restored after a complete long rest.
 
 ### Short Rest
 
 A short rest is basically a short break. Whenever you take a break to relax, meditate, or make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
 
-An extended period up to about four hours containing a single simple activity, such as performing research or crafting an item with a low difficulty (of 10 or less) can also be considered a short rest.
+An extended period up to about four hours containing a single simple activity, such as performing research or crafting an item with a very low difficulty (of 5 or less) can also be considered a short rest.
 
 ### Long Rest
 

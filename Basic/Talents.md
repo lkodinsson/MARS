@@ -36,7 +36,7 @@ Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 13+, Trained in Acrobatics
 
-Your speed is increased by 2m, and you can move your full speed when you evade (from half).
+Your speed is increased by 2m, and you can move a quarter of your speed when you evade (from 1m).
 
 ## Always Prepared
 
@@ -139,7 +139,7 @@ You gain a second trait.
 
 ## Long-distance Running
 
-**Cost:** 8  
+**Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Trained in Athletics
 
 Your speed is increased by 2m, and your second move action each turn does not cost stamina.
@@ -230,7 +230,7 @@ You gain an ability allowing you to fly into a rage at the cost of 1 health and 
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Dexterity 11+, Trained in Athletics
 
-Your speed is increased by 2m, and you may spend 2 stamina on your first move action each turn to move double speed.
+Your speed is increased by 2m, and you may spend 1 stamina on your first move action each turn to move double speed.
 
 ## Teamwork
 
@@ -258,7 +258,7 @@ You have an increased amount of endurance. This bonus starts at +4 and advances 
 | 9 | 44 | +18 |
 | 10 | 54 | +20 |
 
-For the purpose of calculating endurance recovered during rests, treat your maximum fortitude as though it is increased by your toughness.
+For the purpose of calculating endurance recovered during rests, treat your maximum fortitude as though it is increased by your toughness, and your minimum fortitude as though it is increased by half your toughness.
 
 ## Weightlifter
 

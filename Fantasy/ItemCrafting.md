@@ -14,7 +14,6 @@
 	* [Multiple Effects](#multiple-effects)
 	* [Triggered Effects](#triggered-effects)
 	* [Curses](#curses)
-	* [Magic Stabilization](#magic-stabilization)
 	* [Charge Bonding](#charge-bonding)
 	* [Mana Focusing](#mana-focusing)
 
@@ -60,9 +59,9 @@ Your craft roll determines both the amount of progress made and the immediate co
 ***Graze:*** Gain 2% progress paying 90% of the cost.  
 ***Fail:*** Lose 5% progress.
 
-If you roll 20 above the difficulty or higher, that is considered a double critical.
+If you roll 14 above the difficulty or higher, that is considered a double critical.
 
-Each craft check made represents a single day's worth of crafting time spent on that item.
+Each craft check made represents a single day's worth of crafting time spent on that item. While an item is in progress, it cannot be used until it is completed.
 
 > ##### Crafting Example
 > ___
@@ -83,13 +82,13 @@ Each craft check made represents a single day's worth of crafting time spent on 
 > | 12 (Success) | +20% = 20% | 6sp (75%) |
 > | 16 (Success) | +20% = 40% | 6sp (75%) |
 > | 10 (Success) | +20% = 60% | 6sp (75%) |
-> | 5 (Fail) | +2% = 62% | 8cp (90%) |
-> | 13 (Success) | +20% = 82% | 6sp (75%) |
-> | 21 (Critical) | +50% (18%) = 100% | 3sp 6cp (50%) |
+> | 5 (Fail) | -5% = 55% | - |
+> | 13 (Success) | +20% = 75% | 6sp (75%) |
+> | 21 (Critical) | +25% (50%) = 100% | 5sp (50%) |
 > ___
 > **Time Spent:** 6 Days
 >
-> **Total Cost:** 28sp 4cp (71% of cost)
+> **Total Cost:** 29sp (72.5% of cost)
 
 ### Upgrading Items
 
@@ -105,16 +104,14 @@ Crafting can also be used to upgrade items from one quality to the next by treat
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
-> | 6 (Graze) | +20% = 20% | 1sp 5cp (75%) |
-> | 17 (Critical) | +50% = 70% | 2sp 5cp (50%) |
-> | 11 (Success) | +20% = 90% | 1sp 5cp (75%) |
-> | 19 (Critical) | +50% (10%) = 100% | 5cp (50%) |
+> | 6 (Graze) | +2% = 2% | 2cp (90%) |
+> | 17 (Critical) | +50% = 52% | 2sp 5cp (50%) |
+> | 11 (Success) | +20% = 72% | 1sp 5cp (75%) |
+> | 19 (Critical) | +28% (50%) = 100% | 1sp 4cp (50%) |
 > ___
 > **Time Spent:** 4 Days
 >
-> **Total Cost:** 6sp (60% of cost)
-
-Items in progress cannot be used until they are completed.
+> **Total Cost:** 5sp 6cp (56% of cost)
 
 ### Bulk Crafting
 
@@ -124,11 +121,11 @@ If partial progress is enough to represent one or more complete items, treat tho
 
 > ##### Bulk Crafting Example
 > ___
-> **Item:** 8 Javelins
+> **Item:** 10 Javelins
 >
 > **Cost:** 20sp (2sp × 10)
 >
-> **Difficulty:** 7
+> **Difficulty:** 8
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
@@ -151,14 +148,14 @@ This progress can be resumed at a later date, leading us to the next example:
 >
 > **Cost:** 20sp (2sp × 10)
 >
-> **Difficulty:** 7
+> **Difficulty:** 8
 >
 > | Roll | Progress | Cost |
 > |:-:|:-:|:-:|
 > | - | 70% | - |
 > | 8 (Success) | +20% = 90% | 3sp (75%) |
-> | 2 (Fail) | -5% (0%) = 90% | - |
-> | 12 (Success) | +10% = 100% | 1sp 5cp (75%) |
+> | 1 (Fail) | -0% (-5%) = 90% | - |
+> | 10 (Success) | +10% = 100% | 1sp 5cp (75%) |
 > ___
 > **Time Spent:** 3 Days
 >
@@ -202,7 +199,7 @@ If you expect a craft project to take a large amount of time (upwards of 50 in-g
 > | Auto (Graze ×5) | +2% ×5 (10%) = 77% | 2sp 7cp (90%) ×5 (13sp 5cp) |
 > | 15 (Graze) | +2% = 79% | 2sp 7sp (90%) |
 > | Auto (Graze ×5) | +2% ×5 (10%) = 89% | 2sp 7cp (90%) ×5 (13sp 5cp) |
-> | 17 (Success) | +20% (11%) = 100% | 12sp 4cp (75%) |
+> | 17 (Success) | +11% (20%) = 100% | 12sp 4cp (75%) |
 > ___
 > **Time Spent:** 31 Days
 >
@@ -256,7 +253,7 @@ If speed is more important than cost you can "rush" your craft check. You can ma
 > | 18 (Success) | +50% = 50% | 67sp 5cp (90%) |
 > | Auto (Graze x5) | +5% ×5 (25%) = 75% | 7sp 5cp (100%) ×5 (37sp 5cp) |
 > | 12 (Graze) | +5% = 80% | 7sp 5cp (100%) |
-> | Auto (Graze x4) | +5% ×4 (20%) = 100% | 7sp 5cp (100%) ×5 (37sp 5cp) |
+> | Auto (Graze x4) | +5% ×4 (20%) = 100% | 7sp 5cp (100%) ×4 (30sp) |
 > ___
 > **Time Spent:** 11 Days
 >
@@ -270,7 +267,7 @@ As an equation: the total cost = the base item cost + the magic effect cost
 
 There are a few decisions that are requried to determine the cost of magic effects: the *spell required* to create the effect, the *application of the spell*, and *how many magical effects* are present on the item. The spell required determines the *base magic cost*, while the other decisions act as multipliers on this value.
 
-In addition to this there are also bonus magic effects, which include: [triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing). These bonus effects don't have a base magic cost, but do count as additional effects for the purposes of acting as a cost multiplier. An item cannot have a bonus magic effect if they do not also have a normal magic effect.
+In addition to this there are also bonus magic effects, which include: [triggered effects](#triggered-effects), [curses](#curses), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing). These bonus effects don't have a base magic cost, but do count as additional effects for the purposes of acting as a cost multiplier. An item cannot have a bonus magic effect if they do not also have a normal magic effect.
 
 Below is a table to use as a shortcut for determining costs and multipliers:
 
@@ -278,6 +275,7 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 | Modifier | Cost Formula |
 |:-|:-|
 | Base Magic Cost | Mana Cost × Spell Difficulty |
+| Spell Scroll | Base Magic Cost × 1½ |
 | Limited Uses | Base Magic Cost × Uses ÷ 5 |
 | Uses per Day | Base Magic Cost × Uses × 2 |
 | Continuous Use | Base Magic Cost × 5 |
@@ -285,9 +283,9 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 
 ### Base Magic Cost
 
-At its simplest, the base magic cost is equal to the mana cost of the spell multiplied by the difficulty to cast that spell. This provides access to the spell at its minimum possible effectiveness (a graze).
+The base magic cost of an item is equal to the mana cost of the spell multiplied by the difficulty to cast that spell.
 
-For example: if you choose the spell *mend*, this would by 2 multiplied by 10, for a total of 20.
+For example: if you choose the spell *mend*, this would be 2 multiplied by 10, for a total of 20.
 
 The effectiveness of a magic effect is determined by the spell difficulty, which can be changed to any value. At a minimum this value must be at least equal to the spell's required difficulty, and at a maximum no higher than the maximum possible roll to cast that spell (after bonuses and penalties) that you or an assistant can cast.
 
@@ -303,9 +301,9 @@ For example: continuous use items cannot be made with either the channelled or f
 
 This is the simplest form of magic item craft. Scrolls are made by inscribing the details of how to cast a spell into a some form of paper (generally of negligible value) or a page in a book. A scroll can only contain enough information for one spell. While technically the scroll itself is not magical, it does use the same crafting rules. Only spells provided by the arcana skill can be made into scrolls.
 
-Only the bare minimum base magic cost of a single spell is required for determining the cost of scrolls. No other multipliers are applied.
+The cost to make a scroll is equal to the base magic cost multiplied by 1½.
 
-For example: if you wanted to make a scroll of the spell *arcane missiles*, it would simply be 2 multiplied by 20, for a total of 20.
+For example: if you wanted to make a scroll of the spell *arcane missiles*, it would be 2 multiplied by 10, for a base magic cost of 20. Multiply that by 2, for a total cost of 40.
 
 ### Limited Use Items
 
@@ -331,7 +329,7 @@ Potions are limited to certain types of spells. Only spells that can target a cr
 >
 > **Difficulty:** 6
 
-Any spell can be chosen when crafting spellstones. For spellstones, the spellcasting difficulty determines the automatic minimum that they are cast with. This value is equal to half of the spellcasting difficulty (rounded down) chosen for the craft.
+Any spell can be chosen when crafting spellstones.
 
 > ##### Spellstone Crafting Example
 > ___
@@ -341,15 +339,15 @@ Any spell can be chosen when crafting spellstones. For spellstones, the spellcas
 >
 > **Mana Cost:** 1
 >
-> **Spell Difficulty:** 8 (automatic minimum of 4)
+> **Spell Difficulty:** 7
 >
-> **Effect Cost:** 8 = 1 × 8 × 5 ÷ 5 (5 limited uses)
+> **Effect Cost:** 7 = 1 × 3 × 5 ÷ 5 (5 limited uses)
 >
-> **Cost:** 10sp (2sp for the gemstone, 8sp for the effect)
+> **Cost:** 9sp (2sp for the gemstone, 7sp for the effect)
 >
 > **Difficulty:** 7
 
-Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items, but they will be unusable if the item is already magical or has other spellstones socketed. This restriction can be circumvented with the bonus magic effect of [magic stabilization](#magic-stabilization), or by crafting multiple effects onto one spellstone (avoiding the problem entirely).
+Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items.
 
 ### Multiple Use Items
 
@@ -359,7 +357,7 @@ Multiple use potions are called refilling potions and can only be used once per 
 
 ### Continuous Use Items
 
-Continuous effects are placed on items that are used or worn. Spells used to make these types of items effect either their wearer or the item itself. Only spells that require concentration can be chosen. These types of items must be attuned to activate their effect. The cost multipler for this type of item is 5.
+Continuous effects are placed on items that are used or worn. Spells used to make these types of items effect either their wearer or the item itself. Only spells that require concentration can be chosen. A character must attune to this type of item to activate their effect. The cost multipler for this type of item is 5.
 
 Typically this effect is placed on articles of clothing, like boots, gloves, cloaks, belts, etc. It is likely that this type of craft is performed on existing items, rather than from scratch, but both options are allowed.
 
@@ -381,11 +379,11 @@ Typically this effect is placed on articles of clothing, like boots, gloves, clo
 
 ### Multiple Effects
 
-Magic items are not limited to a single magic effect, but there is an additional multipler for items that have more than one. You start by combining the costs of each individual effect, then you apply a multiplier to this combined cost. This multiplier is equal to one plus one half for each magical effect beyond the first.
+Magic items are not limited to a single magic effect, but there is an additional multipler for items that have more than one effect. You start by combining the costs of each individual effect, then you apply a multiplier to this combined cost. This multiplier is equal to ½ plus ½ for each magical effect.
 
 As an equation: the total cost = the base item cost + the combined cost of all magical effects × (½ + the number of effects × ½)
 
-Bonus magic effects ([triggered effects](#triggered-effects), [curses](#curses), [magic stabilization](#magic-stabilization), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing)) don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a normal magic effect.
+Bonus magic effects ([triggered effects](#triggered-effects), [curses](#curses), [charge bonding](#charge-bonding), and [mana focusing](#mana-focusing)) don't have a base magic cost, but do count as additional effects. As additional effects they will contribute a multiplier which increases the cost of the item. An item cannot have a bonus magic effect if they do not have a normal magic effect.
 
 Attuning to a single item with multiple continuous effects allows you to use any combination of those effects, even simultaneously.
 
@@ -397,15 +395,15 @@ Attuning to a single item with multiple continuous effects allows you to use any
 >
 > **Mana Cost:** 1 (both spells)
 >
-> **Spell Difficulty:** 8 (automatic minimum of 4) (both spells)
+> **Spell Difficulty:** 7 (both spells)
 >
-> **Effect Cost:** 8 = 1 × 8 × 5 ÷ 5 (5 limited uses) (both spells)
+> **Effect Cost:** 7 = 1 × 7 × 5 ÷ 5 (5 limited uses) (both spells)
 >
-> **Combined Cost, with Multiplier:** 24 = (8 + 8) × (1 + 1 × ½) = 16 × 1½ (two effects)
+> **Combined Cost, with Multiplier:** 21 = (7 + 7) × (½ + 2 × ½) = 14 × 1½ (two effects)
 >
-> **Cost (Difference):** 26sp (2sp for the gemstone, 24sp for the effect)
+> **Cost:** 23sp (2sp for the gemstone, 21sp for the effect)
 >
-> **Difficulty:** 9
+> **Difficulty:** 8
 
 ### Triggered Effects
 
@@ -447,37 +445,13 @@ All cursed items have conditions, even if they are not always known to their use
 
 Curses follow similar conditions to triggered effects: any condition is valid so long as it is knowable by the user, provided by the context of the curse, or involves detection of details within 100m from the user's location (even if not otherwise known).
 
-### Magic Stabilization
-
-Spellstones socketed into items conflict with other spellstones and other magic effects on those items. This renders all of these items unusable until the conflict is resolved. In order to circumvent this problem and allow compatibility, both spellstones and other items can be magic stabilized. Items with this effect are only compatible with other items that also have this effect.
-
-Magic stabilization is a bonus effect, so it has no base magic cost. This means it has no base mana cost, but still increases the multiplier for having multiple effects.
-
-> ##### Magic Stabilization Upgrade Example
-> ___
-> **Item:** Spellstone of Ignition (5 Uses) -> Stabilized
->
-> **Spell:** Ignite
->
-> **Mana Cost:** 1
->
-> **Spell Difficulty:** 8 (+1 for success effect)
->
-> **Effect Cost:** 8 = 1 × 8 × 5 ÷ 5 (5 limited uses)
->
-> **Combined Cost, with Multiplier:** 12 = 8 × (1 + 1 × ½) = 8 × 1½ (one additional effect) 
->
-> **Cost (Difference):** 4sp (4sp for the effect, on a 10sp item)
->
-> **Difficulty:** 6
-
 ### Charge Bonding
 
-Like magic stabilization this is a bonus effect. Meaning it has no base mana cost, but still increases the multiplier for having multiple effects.
+Charge bonding is a bonus effect. Meaning it has no base mana cost, but still increases the multiplier for having multiple effects.
 
-The purpose of charge bonding is to unify the collective usage effects on spellstones. For example, if a spellstone can cast the spells inspire and suggestion each once a day. After that spellstone is charge bonded, it can cast either of them, collectively, twice a day. So one day it could be used to cast inspire twice, then the next day suggestion twice.
+The purpose of charge bonding is to unify the collective usage effects on spellstones. For example, if a spellstone can cast the spells *inspire* and *suggestion* each once a day. After that spellstone is charge bonded, it can cast either of them, collectively, twice a day. So one day it could be used to cast inspire twice, then the next day suggestion twice.
 
-This effect only to all spells in that spellstone, but only those collectively that are of the same category of spell usage (limited use or per day), even if those spells have a different mana cost or spell difficulty.
+This effect applies to all spells in that spellstone that are of the same category of spell usage (limited use or per day), even if those spells have a different mana cost or spell difficulty.
 
 For example: A spellstone with limited uses of jolt but per day uses of inspire and suggestion, could interchangably use inspire and suggestion. It could not use its per day uses to cast jolt, and vice versa.
 
@@ -485,6 +459,6 @@ For example: A spellstone with limited uses of jolt but per day uses of inspire 
 
 Mana focusing is another bonus effect. Meaning it has no base mana cost, but still increases the multiplier for having multiple effects.
 
-This effect, like charge bonding, increases the versatility of spellstones. Spellstones with this effect are no longer limited by their per day uses, but in order to cast spells exceeding their per day limit, those spells will cost mana instead. Casting spells in this way is only possible to characters who have a skill appropriate to cast those spells, even if they do not have that spell learned.
+This effect, like charge bonding, increases the versatility of spellstones. Spellstones with this effect are no longer limited by their per day uses, but in order to cast spells exceeding their per day limit those spells will cost mana instead. Casting spells in this way is only possible to characters who have a skill appropriate to cast those spells, even if they do not have that spell learned.
 
 Limited use magic effects gain no bonus from mana focusing.

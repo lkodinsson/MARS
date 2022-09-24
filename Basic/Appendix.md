@@ -18,46 +18,46 @@
 ##### Table: Roll vs Difficulty as Outcomes, Expanded
 | Roll | 7 (Moderate) | 10 (Hard) | 14 (Challenging) | 19 (Ambitious) | 25 (Absurd) | 32 (Improbable) | 40 (Impossible) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | Fail | Fail | Fail | Fail | Fail | Fail | Fail |
-| 2 | Fail | Fail | Fail | Fail | Fail | Fail | Fail |
+| 1 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
+| 2 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
 | 3 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
-| 4 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
-| 5 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
+| 4 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
+| 5 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
 | 6 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
 | 7 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
-| 8 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
-| 9 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
+| 8 | Success | Graze | Graze | Fail | Fail | Fail | Fail |
+| 9 | Success | Graze | Graze | Fail | Fail | Fail | Fail |
 | 10 | Success | Success | Graze | Fail | Fail | Fail | Fail |
 | 11 | Success | Success | Graze | Fail | Fail | Fail | Fail |
 | 12 | Success | Success | Graze | Fail | Fail | Fail | Fail |
-| 13 | Success | Success | Graze | Fail | Fail | Fail | Fail |
-| 14 | Success | Success | Success | Fail | Fail | Fail | Fail |
-| 15 | Success | Success | Success | Graze | Fail | Fail | Fail |
-| 16 | Success | Success | Success | Graze | Fail | Fail | Fail |
-| 17 | Critical | Success | Success | Graze | Fail | Fail | Fail |
-| 18 | Critical | Success | Success | Graze | Fail | Fail | Fail |
-| 19 | Critical | Success | Success | Success | Fail | Fail | Fail |
-| 20 | Critical | Critical | Success | Success | Fail | Fail | Fail |
-| 21 | Critical | Critical | Success | Success | Graze | Fail | Fail |
-| 22 | Critical | Critical | Success | Success | Graze | Fail | Fail |
-| 23 | Critical | Critical | Success | Success | Graze | Fail | Fail |
+| 13 | Success | Success | Graze | Graze | Fail | Fail | Fail |
+| 14 | Critical | Success | Success | Graze | Fail | Fail | Fail |
+| 15 | Critical | Success | Success | Graze | Fail | Fail | Fail |
+| 16 | Critical | Success | Success | Graze | Fail | Fail | Fail |
+| 17 | Critical | Critical | Success | Graze | Fail | Fail | Fail |
+| 18 | Critical | Critical | Success | Graze | Fail | Fail | Fail |
+| 19 | Critical | Critical | Success | Success | Graze | Fail | Fail |
+| 20 | Critical | Critical | Success | Success | Graze | Fail | Fail |
+| 21 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
+| 22 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
+| 23 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
 | 24 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
 | 25 | Critical | Critical | Critical | Success | Success | Fail | Fail |
-| 26 | Critical | Critical | Critical | Success | Success | Fail | Fail |
-| 27 | Critical | Critical | Critical | Success | Success | Fail | Fail |
-| 28 | Critical | Critical | Critical | Success | Success | Graze | Fail |
+| 26 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
+| 27 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
+| 28 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
 | 29 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
 | 30 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
 | 31 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
-| 32 | Critical | Critical | Critical | Critical | Success | Success | Fail |
-| 33 | Critical | Critical | Critical | Critical | Success | Success | Fail |
-| 34 | Critical | Critical | Critical | Critical | Success | Success | Fail |
-| 35 | Critical | Critical | Critical | Critical | Critical | Success | Fail |
+| 32 | Critical | Critical | Critical | Critical | Critical | Success | Fail |
+| 33 | Critical | Critical | Critical | Critical | Critical | Success | Fail |
+| 34 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
+| 35 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
 | 36 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
 | 37 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
 | 38 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
-| 39 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
-| 40 | Critical | Critical | Critical | Critical | Critical | Success | Success |
+| 39 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
+| 40 | Critical | Critical | Critical | Critical | Critical | Critical | Success |
 
 ## Common Tasks
 

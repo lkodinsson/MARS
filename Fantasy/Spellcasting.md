@@ -45,10 +45,10 @@ The highest tier spell you can learn is determined by the dice step you are adva
 | r18 | Expert | 4 (Heroic) |
 | r20 | Master | 4 (Heroic) |
 
-## Additional Spellcasting Rules
+## Magical Damage
 
 Spells may deal various types of *magical damage*. By default, all magical damage bypasses damage reduction, unless it is blocked. Magical damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of magical damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
 
-Some spells will have a listed duration with *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.
+## Concentration
 
-Whenever a spell refers to your *spellcasting stat* it means the stat that your spellcasting skill is associated with.
+Some spells will have a listed duration with *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.

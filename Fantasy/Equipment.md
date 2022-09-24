@@ -2,12 +2,12 @@
 
 * [Currency](#currency)
 * [Adventuring Gear](#adventuring-gear)
-* [Goods & Services](#goods--services)
-* [Trade Goods](#trade-goods)
+    * [Goods & Services](#goods--services)
+    * [Trade Goods](#trade-goods)
 * [Weapons](#weapons)
-* [Weapon Features](#weapon-features)
+    * [Weapon Features](#weapon-features)
 * [Armour](#armour)
-* [Armour Features](#armour-features)
+    * [Armour Features](#armour-features)
 * [Equipment Properties](#equipment-properties)
 
 Click [here](/Fantasy/MagicEquipment.md) for the page on magic equipment.
@@ -62,7 +62,7 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 
 <sup>2</sup>Toolkits contain all necessary tools to performing certain skillsets or crafts. When you buy a toolkit you must specify the skillset or craft it is for, rather than simply its size. For example, small toolkits could be used for cartography, cooking, fletching, jewelry making, lock picking, sewing, woodworking, and writing. Some skillsets require a larger amount of tools, such as alchemy, engineering, pottery, smithing, and trapmaking.
 
-## Goods & Services
+### Goods & Services
 
 ##### Table: Goods & Services
 | Name | Price | Weight |
@@ -80,7 +80,7 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 | Inn, high quality | 1sp | - |
 | Inn, very high quality | 4sp | - |
 
-## Trade Goods
+### Trade Goods
 
 ##### Table: Trade Goods by 
 | Name | Price | Weight |
@@ -147,9 +147,9 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 ##### Table: Ranged Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Sling | 1sp | STR+r6 Blunt | +6 | Ranged | ½kg | Range 20m/400m, Reload, Unfit 2m |
-| Shortbow | 5sp | STR+r8 Piercing | +6 | Ranged | 1½kg | Range 25m/250m, Two-Handed |
-| Longbow | 12sp | STR+r10 Piercing | +6 | Ranged | 2½kg | Range 30m/300m, Two-Handed |
+| Sling | 1sp | STR+r6 Blunt | +6 | Ranged | ½kg | Ranged 20m/400m, Reload, Unfit 2m |
+| Shortbow | 5sp | STR+r8 Piercing | +6 | Ranged | 1½kg | Ranged 25m/250m, Two-Handed |
+| Longbow | 12sp | STR+r10 Piercing | +6 | Ranged | 2½kg | Ranged 30m/300m, Two-Handed |
 
 ##### Table: Cross-Skill Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -159,17 +159,17 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 | Longsword | 8sp | STR+r8 Slashing | +6 | Finesse/Martial | 2kg | Mode Piercing, Parry r6, Versatile |
 | Javelin | 2sp | STR+r6 Piercing | +8 | Finesse/Martial/<br/>Ranged | 1kg | Thrown 9m/90m |
 | Shortspear | 5sp | STR+r6 Piercing | +6 | Finesse/Martial/<br/>Ranged | 2kg | Thrown 6m/60m, Versatile |
-| Darts (20) | 2sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
-| Hand Crossbow | 8sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Range 15m/150m, Reload, Mechanical |
-| Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Range 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
-| Siege Crossbow | 20sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Range 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
-| Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/4m, Trip |
+| Darts (20) | 5sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
+| Hand Crossbow | 8sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Ranged 15m/150m, Reload, Mechanical |
+| Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Ranged 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
+| Siege Crossbow | 20sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
+| Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/3m, Trip |
 
 ##### Table: Projectile Weapon Ammunition
 | Name | Price | Weight | Weapon |
 |:-|:-:|:-:|:-|
 | Sling bullets (20) | 5c | 1kg | Sling |
-| Arrows (20) | 1sp | 1kg | Longbow, Shortbow |
+| Arrows (20) | 2sp | 1kg | Longbow, Shortbow |
 | Bolts (20) | 1sp | ½kg | Crossbow, Hand Crossbow |
 | Siege bolts (20) | 2sp | 1kg | Siege Crossbow |
 
@@ -193,9 +193,9 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Parry** When you use this item to perform a parry action, add the given value to your Deflection.
 
-**Range** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
+**Ranged** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
 
-**Reach** Functions like ranged, but it is still considered melee.
+**Reach** Functions like the ranged feature, but attacks are still considered melee.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon. Reloading the weapon in this way requires the use of both hands. Unless otherwise specified, it takes a swift action to reload the weapon, or a standard action if it is two-handed.
 
@@ -245,7 +245,7 @@ Weapons have several properties: *armour class*, *damage reduction*, *strength r
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
 | Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
-| Small Helm | 5sp | 1 | - | Head | Metal | 1kg | Critical Defense |
+| Half Helm | 5sp | 1 | - | Head | Metal | 1kg | Critical Defense |
 | Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Critical Defense,<br/>Identity Obscuring,<br/>Limited Vision |
 | Leather Bracers | 5sp | - | - | Hands | Leather | ½kg | Guiding |
 | Plated Bracers | 10sp | 1 | - | Hands | Metal | 1kg | - |
@@ -309,16 +309,15 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 ##### Table: Equipment Weight
 | Quality Name | Melee Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Heavy | ×1¼ Weight and reduced speed | ×1¼ Weight and STR requirement | ×¾ |
-| Light | ×¾ Weight and increased speed | ×¾ Weight and STR requirement | ×1½ or +10sp |
+| Heavy | ×1¼ Weight and modified abilities<sup>1</sup> | ×1¼ Weight and STR requirement | ×¾ |
+| Light | ×¾ Weight and modified abilities<sup>1</sup> | ×¾ Weight and STR requirement | ×1½ or +10sp |
 
-##### Table: Melee Weapon Speed
-| Speed | Weapon Features |
-|:-:|:-|
-| Very Fast | Swift, +1 to hit |
-| Fast | Swift |
-| Normal | Versatile or none<sup>1</sup> |
-| Slow | Two-Handed |
-| Very Slow | Two-Handed, -1 to hit, +1 damage |
+<sup>1</sup>Weapons will have one or none of the following features: *Swift*, *Versatile*, and *Two-Handed*. When a weapon becomes heavier or lighter, it has this ability changed into another ability depending on which ability it starts with.
 
-<sup>1</sup>When a non-finesse weapon becomes normal speed, it also becomes versatile.
+##### Table: Melee Weapon Weight
+| Default<br/>Ability | Heavier | Lighter |
+|:-:|:-:|:-:|
+| Swift | Versatile | Swift,<br/>+1 to hit |
+| None | Versatile | Swift |
+| Versatile | Two-Handed | Swift |
+| Two-Handed | Two-Handed,<br/>-1 to hit,<br/>+1 damage | Versatile |

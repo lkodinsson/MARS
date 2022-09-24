@@ -1,17 +1,18 @@
 # Maneuvers
 
 ##### Table: Fantasy Maneuvers
-| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Specializations |
+| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
 |:-|:-:|:-:|:-:|:-|
-| [Distracting Strike](#distracting-strike) | 2 | Standard | Willpower | Finesse, Martial, Unarmed |
-| [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Finesse, Martial, Ranged, Unarmed |
-| [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Finesse, Ranged, Unarmed |
-| [Spell Strike](#spell-strike) | 1 | Standard | None | Finesse, Martial, Ranged, Unarmed |
+| [Distracting Strike](#distracting-strike) | 2 | Standard | Willpower | Offensive | Finesse, Martial, Unarmed |
+| [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed |
+| [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Defensive | Finesse, Ranged, Unarmed |
+| [Spell Strike](#spell-strike) | 1 | Standard | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
 
 ## Distracting Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 2  
@@ -23,6 +24,7 @@ Make a melee attack with +1 to hit. If successful, the target must lose concentr
 
 ## Spell Deflection
 
+**Type:** Defensive  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -32,6 +34,7 @@ Get a +1 bonus to resist an incoming spell that targets only you. If you also ha
 
 ## Spell Evasion
 
+**Type:** Defensive  
 **Specializations:** Finesse, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -41,6 +44,7 @@ Roll your evasion to resist a spell instead of making the normal resist roll. If
 
 ## Spell Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  

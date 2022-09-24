@@ -71,7 +71,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 
 ## Animal Form
 
-**Specializations:** Animism (Bonus: Practiced)  
+**Specializations:** Animism (Bonus: Practiced (r8))  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -241,7 +241,9 @@ This spell's mana cost and difficulty increase by 1 for each additional creature
 **Duration:** 5 minutes  
 **Resist:** Acrobatics (vs grease), Fortitude (vs ignition)
 
-Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or they fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area. The grease can be ignited, which also gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
+Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area.
+
+The grease can be ignited, which gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
@@ -277,7 +279,7 @@ This spell can be used to destroy small mundane objects made of wood or stone, b
 
 You fire a small burst of flame at a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet targets get advantage to resist this spell, but if they fail they become dry instead of taking damage. This spell deals half damage if it grazes against a target's resistance.
 
-***Critical:*** Deal r12 fire damage and the target gets burning 2, or light a wet object on fire.  
+***Critical:*** Deal r12 fire damage and the target gets burning 2, light a dry object on fire, or dry a wet object.  
 ***Success:*** Deal r10 fire damage and the target gets burning 1, light a dry object on fire, or dry a wet object.  
 ***Graze:*** Deal r8 fire damage, or light a dry object on fire.
 
@@ -310,7 +312,7 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 **Target:** One creature or object  
 **Resist:** Deflection (graze for half damage)
 
-You apply a small pulse of electricity to a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
+You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
 
 ***Critical:*** Deal r20 electric damage and the target becomes stunned.  
 ***Success:*** Deal r14 electric damage.  
@@ -327,7 +329,7 @@ You apply a small pulse of electricity to a nearby object or creature, dealing e
 **Range:** Touch  
 **Target:** One locked object
 
-You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects. When this spell is cast, regardless of success, it also creates a very loud sound. This sound is similar to a hammer slamming into a door with intent to break it.
+You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects. When this spell is cast, regardless of success, it also creates a very loud sound. This sound is similar to a large hammer slamming into a door with intent to break it.
 
 ***Critical:*** Makes a lound sound in a 10m radius.  
 ***Success:*** Makes a lound sound in a 30m radius.  
@@ -370,11 +372,11 @@ You touch a weapon, granting it magical properties. It deals half of its damage 
 ***Radiant:*** The attacked target takes r6 more weapon damage if undead.  
 ***Void:*** The attacked target gets sickness 1 (lasting 1 week) if living.
 
-***Graze:*** The weapons deals half elemental damage as normal, but provides no additional effect on a critical hit with the weapon.
+***Graze:*** The weapon deals half elemental damage as normal, but provides no additional effect on a critical hit with the weapon.
 
 ## Mend
 
-**Specializations:** Altruism, Balance, Charity (Bonus: Adept), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki  
+**Specializations:** Altruism, Balance, Charity (Bonus: Adept (r6)), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -443,7 +445,7 @@ You restore a living creature to good health, removing negative conditions of a 
 
 ## Seek Guidance
 
-**Specializations:** Augury, Authority, Balance, Service (Bonus: Adept), Entropy, Harmony, Light  
+**Specializations:** Augury, Authority, Balance, Service (Bonus: Adept (r6)), Entropy, Harmony, Light  
 **Difficulty:** 10 (Hard)
 
 **Mana Cost:** 2  
@@ -546,7 +548,7 @@ This spell's mana cost and difficulty increases by 2 for each additional creatur
 
 ## Speak with Animals
 
-**Specializations:** Animism (Bonus: Trained)  
+**Specializations:** Animism (Bonus: Trained (r4))  
 **Difficulty:** 7 (Moderate)
 
 **Mana Cost:** 1  
@@ -591,7 +593,7 @@ You make a simple request of a creature. If that creature can understand what yo
 **Duration:** Instant or 5 minutes (concentration, range)  
 **Resist:** Fortitude
 
-You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use your spellcasting stat instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously.
+You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
 
 ***Graze:*** Concentration cannot be maintained on the object.
 
@@ -622,6 +624,7 @@ Allows the targets to breath underwater the same as they breath air above water,
 
 **Range:** 3m  
 **Target:** One creature, object, or point  
+**Duration:** Instant  
 **Resist:** Fortitude
 
 Soaks a target in water and optionally knocks the target back a distance up to 3m, by generating a stream of water from your body. Can be used from a source of water instead of your body thus allowing you to project a stream with twice the range and knockback, but costs 1 more mana and with 2 higher difficulty. This spell can also be used to stop objects or creatures from burning by soaking them in water. When used on grease or oil, however, it will instead increase the radius by 1m and not stop any burning.

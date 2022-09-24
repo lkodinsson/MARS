@@ -152,7 +152,7 @@
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Light](/Fantasy/Spells.md#light) | Swift | Touch | One object<br/>or surface | 1 hour | Yes | None |
 | [Prestidigitation](/Fantasy/Spells.md#prestidigitation) | Swift | 1m | None | Instant<br/>or 24 hours | Optional | None |
-| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | No | Fortitude |
+| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | Instant | No | Fortitude |
 
 ##### Table: Conjuration Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
@@ -610,7 +610,7 @@
 ##### Table: Water Cantrips (Tier 1 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | No | Fortitude |
+| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | Instant | No | Fortitude |
 
 ##### Table: Water Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |

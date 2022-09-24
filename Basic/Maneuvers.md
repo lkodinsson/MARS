@@ -1,42 +1,44 @@
 # Maneuvers
 
 ##### Table: Universal Maneuvers
-| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Specializations |
+| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
 |:-|:-:|:-:|:-:|:-|
-| [Advancing Strike](#advancing-strike) | 1 | Swift | None | Finesse, Martial, Unarmed |
-| [Back-step Strike](#back-step-strike) | 1 | Swift | None | Finesse, Martial, Ranged, Unarmed |
-| [Battle Cry](#battle-cry) | 2 | Swift | None | Finesse, Martial, Ranged, Unarmed |
-| [Bullrush](#bullrush) | 2 | Full-round | None | Martial, Unarmed |
-| [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Martial, Unarmed |
-| [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Martial, Ranged |
-| [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Finesse, Unarmed |
-| [Disarm](#disarm) | 2 | Standard | Athletics | Finesse, Unarmed |
-| [Double Shot](#double-shot) | 1 | Standard | None | Ranged |
-| [Escape](#escape) | 2 | Swift | Perception | Finesse, Ranged |
-| [Feint](#feint) | 2 | Swift | Willpower | Finesse, Martial, Unarmed |
-| [Hard Parry](#hard-parry) | 1 | Reaction | None | Finesse, Martial |
-| [Heavy Strike](#heavy-strike) | 1 | Swift | None | Martial, Unarmed |
-| [Hook Parry](#hook-parry) | 1 | Reaction | None | Finesse, Martial |
-| [Intercept](#intercept) | 1 | Reaction | None | Finesse, Martial, Unarmed |
-| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Martial, Unarmed |
-| [Knock Down](#knock-down) | 2 | Standard | Fortitude | Martial, Ranged, Unarmed |
-| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Finesse, Martial, Unarmed |
-| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Finesse, Ranged |
-| [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Ranged |
-| [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Ranged |
-| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Finesse, Ranged |
-| [Precise Strike](#precise-strike) | 1 | Swift | None | Finesse, Ranged, Unarmed |
-| [Provoke](#provoke) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
-| [Shield Bash](#shield-bash) | 1 | Swift | Fortitude | Martial, Unarmed |
-| [Taunt](#taunt) | 1 | Swift | Willpower | Finesse, Martial, Ranged, Unarmed |
-| [Trip](#trip) | 1 | Standard | Acrobatics | Finesse, Martial, Unarmed |
-| [Triple Shot](#triple-shot) | 1 | Full-round | None | Ranged |
-| [Wild Strike](#wild-strike) | 1 | Swift | None | Martial, Unarmed |
+| [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
+| [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
+| [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
+| [Brace](#brace) | 2 | Swift | None | Defensive | Finesse, Martial, Unarmed |
+| [Bullrush](#bullrush) | 2 | Full-round | None | Offensive | Martial, Unarmed |
+| [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Offensive | Martial, Unarmed |
+| [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Offensive | Martial, Ranged |
+| [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Offensive | Finesse, Unarmed |
+| [Disarm](#disarm) | 2 | Standard | Athletics | Tactical | Finesse, Unarmed |
+| [Double Shot](#double-shot) | 1 | Standard | None | Offensive | Ranged |
+| [Escape](#escape) | 2 | Swift | Perception | Tactical | Finesse, Ranged |
+| [Feint](#feint) | 2 | Swift | Willpower | Tactical | Finesse, Martial, Unarmed |
+| [Hard Parry](#hard-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
+| [Heavy Strike](#heavy-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
+| [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
+| [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
+| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed |
+| [Knock Down](#knock-down) | 2 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
+| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed |
+| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged |
+| [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged |
+| [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Offensive | Ranged |
+| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged |
+| [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed |
+| [Provoke](#provoke) | 1 | Swift | Willpower | Offensive | Finesse, Martial, Ranged, Unarmed |
+| [Shield Bash](#shield-bash) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
+| [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
+| [Trip](#trip) | 1 | Standard | Acrobatics | Offensive | Finesse, Martial, Unarmed |
+| [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged |
+| [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
 
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 ## Advancing Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -46,6 +48,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 
 ## Back-step Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -57,6 +60,7 @@ Make an attack with -2 to hit, then you may move backward 1m. If you do move bac
 
 ## Battle Cry
 
+**Type:** Tactical  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 2  
@@ -66,8 +70,21 @@ Make an attack with -2 to hit, then you may move backward 1m. If you do move bac
 
 Each ally within 30m gets +2 to their next attack or defense roll (whichever is first) for the duration.
 
+## Brace
+
+**Type:** Defensive  
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Swift
+
+**Duration:** 1 Round
+
+For the duration, the next time you block with a shield you get +1 to armour class and damage reduction. Additionally, the next block action or defensive maneuver you take results in a block action costs no stamina.
+
 ## Bullrush
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 2  
@@ -77,6 +94,7 @@ Move up to three times your speed in a straight line over a distance of at least
 
 ## Concussive Strike
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 2  
@@ -89,6 +107,7 @@ Make a melee attack. If the weapon you use does not deal blunt damage or you mak
 
 ## Crippling Strike
 
+**Type:** Offensive  
 **Specializations:** Martial, Ranged
 
 **Stamina Cost:** 2  
@@ -101,6 +120,7 @@ Make an attack. If successful, the target has their movement speed reduced to ha
 
 ## Dancing Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Unarmed
 
 **Stamina Cost:** 1  
@@ -112,6 +132,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 ## Disarm
 
+**Type:** Offensive  
 **Specializations:** Finesse, Unarmed
 
 **Stamina Cost:** 2  
@@ -123,6 +144,7 @@ Make a combat check with a -1 penalty against a target within melee range. If su
 
 ## Double Shot
 
+**Type:** Offensive  
 **Specializations:** Ranged
 
 **Stamina Cost:** 1  
@@ -132,6 +154,7 @@ Make a single ranged attack with -2 to hit against two targets.
 
 ## Escape
 
+**Type:** Tactical  
 **Specializations:** Finesse, Ranged
 
 **Stamina Cost:** 1  
@@ -143,6 +166,7 @@ Make a stealth check against any number of targets to hide in plain sight, makin
 
 ## Feint
 
+**Type:** Tactical  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 2  
@@ -155,6 +179,7 @@ Make a charisma check against a target within melee range. If successful, the ne
 
 ## Hard Parry
 
+**Type:** Defensive  
 **Specializations:** Finesse, Martial
 
 **Stamina Cost:** 1  
@@ -164,6 +189,7 @@ While wielding a weapon that can deal slashing damage, instead of using deflecti
 
 ## Heavy Strike
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -175,6 +201,7 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 
 ## Hook Parry
 
+**Type:** Defensive  
 **Specializations:** Finesse, Martial
 
 **Stamina Cost:** 1  
@@ -184,6 +211,7 @@ While wielding an axe or hooked object, give an incoming melee attack disadvanta
 
 ## Intercept
 
+**Type:** Defensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -193,6 +221,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 
 ## Intimidating Strike
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 2  
@@ -205,6 +234,7 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 ## Knock Down
 
+**Type:** Offensive  
 **Specializations:** Martial, Ranged, Unarmed
 
 **Stamina Cost:** 2  
@@ -216,15 +246,17 @@ Make an attack with -2 to hit. If successful, the target becomes prone.
 
 ## Leap Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an acrobatics check if leaping over an obstacle (1m between you and target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
+Make an acrobatics check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
 
 ## Opportunity Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -232,12 +264,13 @@ Make an acrobatics check if leaping over an obstacle (1m between you and target)
 
 **Duration:** 1 Turn
 
-Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action. If this attack hits, the target cannot move for the rest of their turn.
+Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, the target cannot move for the rest of their turn.
 
 This maneuver cannot be used while prone.
 
 ## Penetrating Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Ranged
 
 **Stamina Cost:** 2  
@@ -249,6 +282,7 @@ You may spend an additional 1 stamina to double the threshold reduction. You may
 
 ## Pinning Shot
 
+**Type:** Offensive  
 **Specializations:** Ranged
 
 **Stamina Cost:** 1  
@@ -261,6 +295,7 @@ Make an attack with a projectile weapon. If successful, the target can't move on
 
 ## Point-blank Shot
 
+**Type:** Offensive  
 **Specializations:** Ranged
 
 **Stamina Cost:** 1  
@@ -270,6 +305,7 @@ Make an attack with a projectile weapon against a target 2m or closer. This atta
 
 ## Poisonous Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Ranged
 
 **Stamina Cost:** 2  
@@ -288,6 +324,7 @@ Performing this maneuver, or pre-applying a poison, can only be done with access
 
 ## Precise Strike
 
+**Type:** Offensive  
 **Specializations:** Finesse, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -299,6 +336,7 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 
 ## Provoke
 
+**Type:** Tactical  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -311,6 +349,7 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 ## Shield Bash
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -322,6 +361,7 @@ Make an attack with a shield or similar item as if it was a weapon that deals r8
 
 ## Taunt
 
+**Type:** Tactical  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  
@@ -330,10 +370,11 @@ Make an attack with a shield or similar item as if it was a weapon that deals r8
 **Duration:** 2 Rounds  
 **Resist:** Willpower
 
-Make a charisma check against a target within 20m. If successful, the target gets disadvantage to actions against targets other than you for the duration.
+Make a charisma check against a target within 20m. If successful, the target gets disadvantage to rolls on actions against targets other than you for the duration.
 
 ## Trip
 
+**Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
 **Stamina Cost:** 1  
@@ -354,6 +395,7 @@ Make a single ranged attack with -2 to hit against three targets.
 
 ## Wild Strike
 
+**Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
