@@ -141,7 +141,7 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Unarmed | - | STR Blunt | +2 | Unarmed | - | Nonlethal, Swift |
 | Hand Wraps | 5cp | STR+r2 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
-| Claws or Katar | 2sp | STR+r4 Piercing | +8 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
+| Claws or Katar | 3sp | STR+r4 Piercing | +8 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
 | Cestus or Knuckles | 2sp | STR+r4 Blunt | +6 | Unarmed | ½kg | Momentum, Swift |
 
 ##### Table: Ranged Weapons

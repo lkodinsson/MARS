@@ -2,7 +2,7 @@
 
 ##### Table: Fantasy Maneuvers
 | Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
-|:-|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-:|:-:|:-|
 | [Distracting Strike](#distracting-strike) | 2 | Standard | Willpower | Offensive | Finesse, Martial, Unarmed |
 | [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed |
 | [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Defensive | Finesse, Ranged, Unarmed |

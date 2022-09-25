@@ -2,7 +2,7 @@
 
 ##### Table: Universal Maneuvers
 | Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
-|:-|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-:|:-:|:-|
 | [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
