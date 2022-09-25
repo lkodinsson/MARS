@@ -122,7 +122,7 @@ The first four secondary stats (health, endurance, stamina, and mana) are also c
 | Secondary Stat | Formula |
 |:-|:-:|
 | Health (HP) | Max STR |
-| Endurance (EP) | Max RES |
+| Endurance (ED) | Max RES |
 | Stamina (SP) | Max DEX |
 | Mana (MP) | Max INT |
 | Initiative (INIT) | DEX + RES |
@@ -137,7 +137,7 @@ For example: if you have a strength of r12, then you have a maximum strength of 
 
 Health is an abstraction representing how healthy a character is at the current moment. Any damage taken to your health represents a serious injury.
 
-### Endurance (EP)
+### Endurance (ED)
 
 Endurance represents your ability to shrug off injuries before suffering serious damage, and is easy to restore with a little rest.
 

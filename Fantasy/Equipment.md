@@ -245,8 +245,8 @@ Weapons have several properties: *armour class*, *damage reduction*, *strength r
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
 | Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
-| Half Helm | 5sp | 1 | - | Head | Metal | 1kg | Critical Defense |
-| Full Helm | 10sp | 1 | 1 | Head | Metal | 2kg | Critical Defense,<br/>Identity Obscuring,<br/>Limited Vision |
+| Half Helm | 10sp | 1 | - | Head | Metal | 1kg | Critical Defense |
+| Full Helm | 20sp | 1 | 1 | Head | Metal | 2kg | Critical Defense,<br/>Identity Obscuring,<br/>Limited Vision |
 | Leather Bracers | 5sp | - | - | Hands | Leather | ½kg | Guiding |
 | Plated Bracers | 10sp | 1 | - | Hands | Metal | 1kg | - |
 | Vambraces | 20sp | 1 | 1 | Hands | Metal | 1½kg | - |

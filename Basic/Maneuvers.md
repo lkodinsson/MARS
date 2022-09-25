@@ -6,7 +6,7 @@
 | [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Brace](#brace) | 2 | Swift | None | Defensive | Finesse, Martial, Unarmed |
+| [Brace](#brace) | 1 | Swift | None | Defensive | Finesse, Martial, Unarmed |
 | [Bullrush](#bullrush) | 2 | Full-round | None | Offensive | Martial, Unarmed |
 | [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Offensive | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Offensive | Martial, Ranged |
@@ -19,6 +19,7 @@
 | [Heavy Strike](#heavy-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
 | [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
+| [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed |
 | [Knock Down](#knock-down) | 2 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed |
@@ -75,7 +76,7 @@ Each ally within 30m gets +2 to their next attack or defense roll (whichever is 
 **Type:** Defensive  
 **Specializations:** Finesse, Martial, Unarmed
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Swift
 
 **Duration:** 1 Round
@@ -132,7 +133,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 ## Disarm
 
-**Type:** Offensive  
+**Type:** Tactical  
 **Specializations:** Finesse, Unarmed
 
 **Stamina Cost:** 2  
@@ -140,7 +141,9 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Resist:** Athletics
 
-Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses their weapon. If you used the unarmed skill and have a free hand, you may take it. Otherwise, they drop it.
+Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take it. Otherwise, they drop it up to 2m away.
+
+You cannot disarm a target of their shield or an unarmed weapon.
 
 ## Double Shot
 
@@ -218,6 +221,18 @@ While wielding an axe or hooked object, give an incoming melee attack disadvanta
 **Action Speed:** Reaction
 
 Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack for free as a part of this action.
+
+# Intercepting Strike
+
+**Type:** Defensive  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+**Resist:** Fortitude
+
+Make an attack with +2 to hit against a target who is attacking an ally. This attack occurs before the target's attack. If successful, the target gets -2 to their attack roll to hit that ally.  
 
 ## Intimidating Strike
 
@@ -403,6 +418,6 @@ Make a single ranged attack with -2 to hit against three targets.
 
 **Duration:** 1 Round
 
-Make a single attack with +1 to hit and damage, but you get -1 to your armour class until your next turn.
+Make an attack with +1 to hit and damage, but you get -1 to your armour class until your next turn.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
