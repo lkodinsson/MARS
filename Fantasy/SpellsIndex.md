@@ -1,17 +1,17 @@
 # Table of Contents
 
-* Animism
+* [Animism](#animism)
 	* [Balance](#balance)
 	* [Entropy](#entropy)
 	* [Harmony](#harmony)
 	* [Bonus Spells](#bonus-spells)
-* Arcana
+* [Arcana](#arcana)
 	* [Augury](#augury)
 	* [Conjuration](#conjuration)
 	* [Enchantment](#enchantment)
 	* [Evocation](#evocation)
 	* [Transmutation](#transmutation)
-* Faith
+* [Faith](#faith)
 	* [Altruism](#altruism)
 	* [Militarism](#militarism)
 	* [Impulse](#impulse)
@@ -19,12 +19,12 @@
 	* [Liberty](#liberty)
 	* [Authority](#authority)
 	* [Bonus Spells](#bonus-spells-1)
-* Ki
+* [Ki](#ki)
 	* [Genki](#genki)
 	* [Kiai](#kiai)
 	* [Shouki](#shouki)
 	* [Yuuki](#yuuki)
-* Power
+* [Power](#power)
 	* [Air](#air)
 	* [Earth](#earth)
 	* [Fire](#fire)

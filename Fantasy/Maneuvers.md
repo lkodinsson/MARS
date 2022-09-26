@@ -50,4 +50,4 @@ Roll your evasion to resist a spell instead of making the normal resist roll. If
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-Make an attack. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
+Make an attack with +1 to hit. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).

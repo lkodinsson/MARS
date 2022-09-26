@@ -28,8 +28,8 @@
 | [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Offensive | Ranged |
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged |
 | [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed |
-| [Provoke](#provoke) | 1 | Swift | Willpower | Offensive | Finesse, Martial, Ranged, Unarmed |
-| [Shield Bash](#shield-bash) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
+| [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
+| [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
 | [Trip](#trip) | 1 | Standard | Acrobatics | Offensive | Finesse, Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged |
@@ -81,7 +81,9 @@ Each ally within 30m gets +2 to their next attack or defense roll (whichever is 
 
 **Duration:** 1 Round
 
-For the duration, the next time you block with a shield you get +1 to armour class and damage reduction. Additionally, the next block action or defensive maneuver you take results in a block action costs no stamina.
+For the duration, you get +1 to armour class and damage reduction. Additionally, the next block action or defensive maneuver you take that results in a block action costs no stamina.
+
+You may spend an additional 1 stamina to double the armour class and damage reduction. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Bullrush
 
@@ -188,7 +190,7 @@ Make a charisma check against a target within melee range. If successful, the ne
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If the incoming attack grazes against your combat roll, it is considered a failure instead.
+While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If using a weapon that has the parry feature, if it has parry r6 or less, add +1 to this roll. Otherwise, add +2. If the incoming attack grazes against your combat roll, it is considered a failure instead.
 
 ## Heavy Strike
 
@@ -362,7 +364,7 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 
 Make a charisma check against a target within 20m. If successful, the target must look at you, opening themself up to a sneak attack for the duration (the first attack made against that target by an ally is always considered a sneak attack). Additionally, they must target you with at least one action (if possible) on their next turn.
 
-## Shield Bash
+## Shield Crush
 
 **Type:** Offensive  
 **Specializations:** Martial, Unarmed
@@ -372,7 +374,7 @@ Make a charisma check against a target within 20m. If successful, the target mus
 
 **Resist:** Fortitude
 
-Make an attack with a shield or similar item as if it was a weapon that deals r8 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Taunt
 

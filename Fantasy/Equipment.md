@@ -5,6 +5,7 @@
     * [Goods & Services](#goods--services)
     * [Trade Goods](#trade-goods)
 * [Weapons](#weapons)
+    * [Improvised Weapons](#improvised-weapons)
     * [Weapon Features](#weapon-features)
 * [Armour](#armour)
     * [Armour Features](#armour-features)
@@ -103,7 +104,7 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 
 Weapons have several properties: *damage*, *critical bonus*, *type*, *weight*, and may have one or more *features*. Features provide special abilities to weapons to differentiate them from one another.
 
-Any weapon can also be thrown as if it has *Thrown 2m/20m*.
+When attacking with a weapon that has multiple damage types, you must specify which one is being used during an attack.
 
 ##### Table: Basic Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -112,15 +113,15 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 | Handaxe | 1sp | STR+r6 Slashing | +6 | Basic | 1kg | Swift, Thrown 4m/40m |
 | Knife | 1sp | STR+r4 Piercing | +8 | Basic | ½kg | Swift, Thrown 4m/40m |
 | Sap | 1sp | STR+r6 Blunt | +6 | Basic | 1kg | Nonlethal, Swift |
-| Spearclub | 2sp | STR+r6 Blunt | +6 | Basic | 2kg | Mode Piercing, Momentum, Versatile |
+| Spearclub | 2sp | STR+r6 Blunt<br/>or Piercing | +6 | Basic | 2kg | Momentum, Versatile |
 | Staff | 1sp | STR+r6 Blunt | +6 | Basic | 2kg | Cleave, Trip, Versatile |
 
 ##### Table: Finesse Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/40m |
-| Dueling Sword | 5sp | STR+r6 Piercing | +8 | Finesse | 1kg | Mode Slashing, Parry r6, Swift |
-| Parrying Dagger | 5sp | STR+r4 Piercing | +6 | Finesse | ½kg | Parry r8, Swift |
+| Dueling Sword | 5sp | STR+r6 Piercing<br/>or Slashing | +8 | Finesse | 1kg | Parry r6, Swift |
+| Parrying Dagger | 5sp | STR+r4 Piercing | +8 | Finesse | ½kg | Parry r8, Swift |
 
 ##### Table: Martial Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -129,9 +130,9 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 | Flail | 12sp | STR+r8 Blunt | +8 | Martial | 5kg | Backswing, Cleave, Large, Reach 2m |
 | Greataxe | 12sp | STR+r10 Slashing | +6 | Martial | 4kg | Cleave, Two-Handed |
 | Greathammer | 12sp | STR+r10 Blunt | +4 | Martial | 4kg | Momentum, Two-Handed |
-| Greatsword | 12sp | STR+r10 Slashing | +4 | Martial | 4kg | Cleave, Mode Piercing, Two-Handed |
+| Greatsword | 12sp | STR+r10 Piercing<br/>or Slashing | +4 | Martial | 4kg | Cleave, Two-Handed |
 | Mace | 8sp | STR+r8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
-| Poleaxe | 12sp | STR+r10 Slashing | +4 | Martial | 4kg | Mode Piercing, Two-Handed, Reach 2m |
+| Poleaxe | 12sp | STR+r10 Piercing<br/>or Slashing | +4 | Martial | 4kg | Two-Handed, Reach 2m |
 | Spear | 8sp | STR+r8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
 | Warhammer | 8sp | STR+r8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
 | Warstaff | 8sp | STR+r8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |
@@ -141,7 +142,7 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Unarmed | - | STR Blunt | +2 | Unarmed | - | Nonlethal, Swift |
 | Hand Wraps | 5cp | STR+r2 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
-| Claws or Katar | 3sp | STR+r4 Piercing | +8 | Unarmed | ½kg | Bypass 2, Mode Slashing, Swift |
+| Claws or Katar | 3sp | STR+r4 Piercing<br/>or Slashing | +8 | Unarmed | ½kg | Bypass 2, Swift |
 | Cestus or Knuckles | 2sp | STR+r4 Blunt | +6 | Unarmed | ½kg | Momentum, Swift |
 
 ##### Table: Ranged Weapons
@@ -155,8 +156,8 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Curved Sword | 5sp | STR+r6 Slashing | +8 | Finesse/Martial | 1kg | Backswing, Swift |
-| Straight Sword | 5sp | STR+r6 Slashing | +6 | Finesse/Martial | 1kg | Mode Piercing, Parry r6, Swift |
-| Longsword | 8sp | STR+r8 Slashing | +6 | Finesse/Martial | 2kg | Mode Piercing, Parry r6, Versatile |
+| Straight Sword | 5sp | STR+r6 Piercing<br/>or Slashing | +6 | Finesse/Martial | 1kg | Parry r6, Swift |
+| Longsword | 8sp | STR+r8 Piercing<br/>or Slashing | +6 | Finesse/Martial | 2kg | Parry r6, Versatile |
 | Javelin | 2sp | STR+r6 Piercing | +8 | Finesse/Martial/<br/>Ranged | 1kg | Thrown 9m/90m |
 | Shortspear | 5sp | STR+r6 Piercing | +6 | Finesse/Martial/<br/>Ranged | 2kg | Thrown 6m/60m, Versatile |
 | Darts (20) | 5sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
@@ -173,9 +174,22 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 | Bolts (20) | 1sp | ½kg | Crossbow, Hand Crossbow |
 | Siege bolts (20) | 2sp | 1kg | Siege Crossbow |
 
+### Improvised Weapons
+
+Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have -1 to hit and damage. For other objects use the following table:
+
+##### Table: Improvised Weapons
+| Name | Damage | Crit | Type | Features |
+|:-|:-:|:-:|:-:|:-|
+| Rock or Gemstone | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/40m |
+| Shield or Dish | STR+r6 Blunt | +6 | Martial/Unarmed | Thrown 3m/30m |
+| Potion | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/30m |
+
+Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
+
 ### Weapon Features
 
-**Backswing** If you miss with this weapon, your next attack with it on the same target gets a +2 bonus to hit (in addition to the multiple attack penalty). This bonus does not stack.
+**Backswing** If you miss with this weapon, your next attack with it on the same target gets a +2 bonus to hit (ignoring the multiple attack penalty). This bonus does not stack.
 
 **Bypass** Attacks made have a reduced threshold to get a critical equal to the given value.
 
@@ -185,9 +199,7 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Mechanical** This weapon does not add strength to damage, and can be preloaded before attacking with it.
 
-**Mode** This weapon can make attacks with a different damage type (as listed), but with -1 to hit when doing so.
-
-**Momentum** This weapon does gets +2 to damage against targets you have already hit during the same turn, including hits made with other weapons.
+**Momentum** This weapon gets +2 to damage against targets you have already hit during the same turn, including hits made with other weapons.
 
 **Nonlethal** Enemies knocked unconscious by this weapon do not start dying unless severely injured (brought to negative health equal to their maximum).
 
@@ -201,7 +213,7 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half to -2 and -4 (from -4 and -8).
 
-**Thrown** Attacks can be made as if they were ranged, but they then must be retrieved after use.
+**Thrown** Attacks can be made as if they were ranged, but the weapon must then be retrieved after use.
 
 **Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with -2 to hit, and deals half damage. If successful, the target can use acrobatics to resist being tripped or drop prone.
 
@@ -210,17 +222,6 @@ Any weapon can also be thrown as if it has *Thrown 2m/20m*.
 **Unfit** Attacks made at the given range or closer get -2 to hit.
 
 **Versatile** Attacks may be made two-handed with an advantage to damage and -2 to hit. Attacks made single-handed are made normally.
-
-### Improvised Weapons
-
-Any object can be used as an improvised weapon. Objects that are similar enough to a normal weapon use the stats for that weapon, but have -1 to hit and damage. For other objects use the following table:
-
-##### Table: Improvised Weapons
-| Name | Damage | Crit | Type | Features |
-|:-|:-:|:-:|:-:|:-|
-| Rock or Gemstone | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/40m |
-| Shield or Dish | STR+r8 Blunt | +6 | Martial/Unarmed | Thrown 3m/30m |
-| Potion | STR+r2 Blunt | +8 | Finesse/Ranged | Swift, Thrown 3m/30m |
 
 ## Armour
 
@@ -270,9 +271,9 @@ Weapons have several properties: *armour class*, *damage reduction*, *strength r
 
 ### Armour Features
 
-**Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you block projectiles, add the given value to your armour class instead.
+**Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. Ignore this bonus to damage reduction if you are critically hit. If you are blocking projectiles, add the given value to your armour class instead.
 
-**Critical Defense** Increase the threshold to land a critical hit against you from an attack by 1.
+**Critical Defense** Increase the threshold required to land a critical hit against you from an attack by 1.
 
 **Guiding** You gain a +1 bonus to hit with non-mechanical projectile weapons.
 
