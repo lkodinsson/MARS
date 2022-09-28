@@ -9,17 +9,17 @@ Artifacts are essentially powerful magic items. What separates them from normal 
 
 Minor artifacts follow all the normal rules of magic item creation, and as such can be crafted by players.
 
-| Name | Price |
-|:-|:-:|
-| [Belt of Giant's Might](#belt-of-giants-might) | 585sp 5cp |
-| [Scrying Orb](#scrying-orb) | 215sp |
-| [Staff of the Apprentice](#staff-of-the-apprentice) | 405sp |
-| [Thundergod's Warhammer](#thungergods-warhammer) | 665sp 5cp |
+| Name | Material<br/>Cost | Magic<br/>Cost | Price |
+|:-|:-:|:-:|:-:|
+| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 585sp | 585sp 5cp |
+| [Scrying Orb](#scrying-orb) | 15sp | 160sp | 175sp |
+| [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 384sp | 405sp |
+| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 562sp 5cp | 643sp 5cp |
 
 ### Belt of Giant's Might
 
-**Materials:** Belt (1sp)  
-**Magic Cost:** 584sp 5cp  
+**Materials:** Belt (5cp)  
+**Magic Cost:** 585sp  
 **Price:** 585sp 5cp
 
 This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to empowered in both strength and size. 
@@ -47,9 +47,9 @@ The following spells can each be used collectively 2 times per day, with a +1 bo
 **Magic Cost:** 384sp  
 **Price:** 405sp
 
-This staff is capable of casting several spells via a charged bonded and mana focused fine spellstone socketed in it. This staff is designed to be wielded by an apprentice spellcaster who may continue to cast the contained spells with the appropriate skills by spending mana when the spellstone runs out of charges.
+This staff is capable of casting several spells via a charged bonded and focused fine spellstone socketed in it. This staff is designed to be wielded by an apprentice spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
 
-The following spells can be used collectively 5 times per day, or by spending mana, with a +1 bonus to their rolls:
+The following spells can be used collectively 5 times per day, or by spending focus, with a +1 bonus to their rolls:
 
 | Spell | Concentration |
 |:-|:-:|
@@ -65,9 +65,9 @@ The following spells can be used collectively 5 times per day, or by spending ma
 **Magic Cost:** ?sp  
 **Price:** ?sp
 
-This staff is capable of casting several spells via a charged bonded and mana focused exceptional spellstone socketed in it. This staff is designed to be wielded by an accomplished spellcaster who may continue to cast the contained spells with the appropriate skills by spending mana when the spellstone runs out of charges.
+This staff is capable of casting several spells via a charged bonded and focused exceptional spellstone socketed in it. This staff is designed to be wielded by an accomplished spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
 
-The following spells can be used collectively ? times per day, or by spending mana, with a +2 bonus to their rolls:
+The following spells can be used collectively ? times per day, or by spending focus, with a +2 bonus to their rolls:
 
 | Spell | Concentration |
 |:-|:-:|
@@ -76,8 +76,9 @@ The following spells can be used collectively ? times per day, or by spending ma
 
 ### Thundergod's Warhammer
 
-**Base Item:** Masterwork Heavy Warhammer  
-**Price:** 665sp 5cp
+**Materials:** Masterwork Heavy Warhammer (81sp)
+**Magic Cost:** 562sp 5cp  
+**Price:** 643sp 5cp
 
 This is a masterwork heavy warhammer with a large head and a short handle. Carved into it are glowing runic symbols. Those who do not possess enough physical strength perceive this item as having an impossibly heavy weight and cannot lift it. While attuned this item gently crackles with lightning and appears to weigh as little as a feather.
 

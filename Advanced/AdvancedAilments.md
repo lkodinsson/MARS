@@ -17,7 +17,7 @@ Special abilities that can remove debilitations can also remove injuries.
 
 It is normally assumed that characters meet all the requirements to maintain their bodies. Characters that fail to either eat, drink, or sleep, will accumulate fatigue. All sources of fatigue are tracked separately, but apply their effects cumulatively.
 
-Fatigue is an effect that is very similar to sickness and has multiple degrees, as specified by a number. Fatigue applies a penalty to *all* rolls, reduces movement, causes loss of health each day, and causes a reduction in stamina, mana, and endurance recovered during rests, each equal to half the degree of fatigue (rounded up).
+Fatigue is an effect that is very similar to sickness and has multiple degrees, as specified by a number. Fatigue applies a penalty to *all* rolls, reduces movement, causes loss of health each day, and causes a reduction in stamina, focus, and endurance recovered during rests, each equal to half the degree of fatigue (rounded up).
 
 Failure to eat food results in one degree of fatigue from starvation, which is a failure to eat three meals over any period of time (such as one meal missed every day for three days). Fatigue from dehydration is caused by failing to consume one litre of water each day, while fatigue from lack of sleep is caused by failing to take a long rest each day. Dehydration causes two degrees of fatigue, while lack of sleep causes one degree.
 

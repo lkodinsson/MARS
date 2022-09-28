@@ -20,12 +20,12 @@
 | [Alter Size](/Fantasy/Spells.md#alter-size) | Standard | 3m | One creature<br/>or object | 5 minutes | Yes | Willpower |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None |
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
-| [Armour](/Fantasy/Spells.md#armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch | One object<br/>or surface | 30 minutes | Yes | None |
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Acrobatics<br/>and Fortitude |
 | [Harm](/Fantasy/Spells.md#harm) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch<br/>or 20m | One creature | 5 minutes | No | Willpower |
+| [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | Extended<br/>(1 minute) | None | None | Instant | No | None |
@@ -53,9 +53,9 @@
 ## Alter Size
 
 **Specializations:** Enchantment, Transmutation  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 3m  
@@ -63,26 +63,26 @@
 **Duration:** 5 minutes (concentration)  
 **Resist:** Willpower
 
-Increase or decrease the size category of a creature or object. You may change the size an additional size category by raising mana cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
+Increase or decrease the size category of a creature or object. You may change the size an additional size category by raising the focus cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
 
-For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 mana with a difficulty of 14.
+For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 focus with a difficulty of 14.
 
 ***Graze:*** Lasts for half the duration, applying one size category change less (to a minimum of one size category).
 
 ## Animal Form
 
 **Specializations:** Animism (Bonus: Practiced (r8))  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Target:** Self  
 **Duration:** 24 hours (concentration)
 
-You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the mana cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost and difficulty.
+You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the focus cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost and difficulty.
 
-For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 mana with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
+For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 focus with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
 
 While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making rolls (such as when rolling deflection, evasion, fortitude, and willpower).
 
@@ -95,9 +95,9 @@ As an animal you lose the ability to speak normally and cast other spells. You m
 ## Arcane Missiles
 
 **Specializations:** Arcane, Conjuration, Evocation  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** 20m  
@@ -110,31 +110,12 @@ You shoot arcane missiles dealing r8+1 arcane damage. The missiles *always* hit 
 ***Success:*** Shoot two missiles.  
 ***Graze:*** Shoot one missile.
 
-## Armour
-
-**Specializations:** Arcane, Conjuration, Enchantment, Militarism  
-**Difficulty:** 10 (Hard)
-
-**Mana Cost:** 2  
-**Action Speed:** Standard
-
-**Range:** Touch  
-**Target:** One creature  
-**Duration:** 5 minutes (concentration)  
-**Resist:** Willpower
-
-You create a suit of magical armour on the target of your spell. It has an armour class and damage reduction similar to armour, but it has no weight or strength requirements. Additionally, this armour is capable of reducing magical damage unlike real armour. If a character wearing the magical armour is also wearing real body armour, use whatever values are higher between the magical and real armour. Even so, the magical armour will always remove any weaknesses that the real armour would have, and still provides the ability to reduce damage from magic. It does not remove any other features of the real armour (such as the weight, strength requirement, or any noise it might produce).
-
-***Critical:*** 5 armour class and 7 damage reduction.  
-***Success:*** 3 armour class and 5 damage reduction.  
-***Graze:*** 2 armour class and 3 damage reduction.
-
 ## Darkness
 
 **Specializations:** Conjuration, Darkness, Entropy  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -148,9 +129,9 @@ You touch an object or surface, causing it to consume nearly all light in a 5m r
 ## Debilitate
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence)  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -158,16 +139,16 @@ You touch an object or surface, causing it to consume nearly all light in a 5m r
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the mana cost to 2.
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes debilitated (any rolls made using that stat have disadvantage) to target creature. This spell can be used with reduced duration and providing disadvantage for only one roll by reducing the focus cost by 1.
 
 ***Graze:*** Lasts for half the duration. If the target succeeds or criticals any roll with the enhanced stat, the enhancement is lost.
 
 ## Detect Thoughts
 
 **Specializations:** Augury, Authority, Light  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -184,9 +165,9 @@ Allows you to read the active thoughts of another creature. You may also choose 
 ## Enhance
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -194,16 +175,16 @@ Allows you to read the active thoughts of another creature. You may also choose 
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)  
 **Resist:** Willpower
 
-Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the mana cost to 3.
+Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat becomes enhanced (any rolls made using that stat have advantage) to target creature. This spell can be used with reduced duration and providing advantage for only one roll by reducing the focus cost to 3.
 
 ***Graze:*** Lasts for half the duration. If the target grazes or fails any roll with the enhanced stat, the enhancement is lost.
 
 ## Enhance Self
 
 **Specializations:** Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve)  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Swift
 
 **Target:** Self  
@@ -214,9 +195,9 @@ This spell functions exactly like the spell [Enhance](#enhance), but is faster t
 ## Feather Fall
 
 **Specializations:** Air, Discipline, Enchantment, Kiai, Liberty, Transmutation  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift or Reaction
 
 **Range:** 10m  
@@ -226,16 +207,16 @@ This spell functions exactly like the spell [Enhance](#enhance), but is faster t
 
 Reduces the speed of a creature so that it falls slowly enough to always land safely. When used on weapons or ammunition in this way it doubles any range increments provided by the *ranged* or *thrown* features. All objects and creatures under this spell are essentially half their weight, making them easier to carry, and allowing them to travel twice as far in the air.
 
-This spell's mana cost and difficulty increase by 1 for each additional creature and object you target.
+This spell's focus cost and difficulty increase by 1 for each additional creature and object you target.
 
 ***Graze:*** Lasts for half the duration, and can only effect a single target.
 
 ## Grease
 
 **Specializations:** Conjuration, Water  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -245,16 +226,16 @@ This spell's mana cost and difficulty increase by 1 for each additional creature
 
 Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area.
 
-The grease can be ignited, which gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's mana cost by 1 and difficulty by 2.
+The grease can be ignited, which gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's focus cost by 1 and difficulty by 2.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
 ## Harm
 
 **Specializations:** Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -270,9 +251,9 @@ This spell can be used to destroy small mundane objects made of wood or stone, b
 ## Ignite
 
 **Specializations:** Evocation, Fire, Impulse, Transmutation  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
@@ -288,9 +269,9 @@ You fire a small burst of flame at a nearby object or creature, dealing fire dam
 ## Inspire
 
 **Specializations:** Altruism, Evocation, Fire, Harmony, Impulse, Yuuki  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch or 20m  
@@ -298,23 +279,23 @@ You fire a small burst of flame at a nearby object or creature, dealing fire dam
 **Duration:** 5 minutes (until used)  
 **Resist:** Willpower
 
-You lay your hand upon another creature, providing it comfort and a feeling of greater confidence. They get an advantage to the next skill check they perform. You may cast this spell at a range by speaking inspiring words, but the spell will cost 3 mana instead.
+You lay your hand upon another creature, providing it comfort and a feeling of greater confidence. They get an advantage to the next skill check they perform. You may cast this spell at a range by speaking inspiring words, but the spell will cost 1 additional focus.
 
 ***Graze:*** Lasts for half the duration, and only provides advantage to skills the target is at least trained in.
 
 ## Jolt
 
 **Specializations:** Air, Evocation, Impulse, Transmutation  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
 **Target:** One creature or object  
 **Resist:** Deflection (graze for half damage)
 
-You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour class they get from metal armour while attempting to resist this spell, but double the armour class from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
+You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
 
 ***Critical:*** Deal r20 electric damage and the target becomes stunned.  
 ***Success:*** Deal r14 electric damage.  
@@ -323,9 +304,9 @@ You launch a small pulse of electricity at a nearby object or creature, dealing 
 ## Knock
 
 **Specializations:** Augury, Authority, Entropy, Light, Transmutation  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Extended (1 minute)
 
 **Range:** Touch  
@@ -340,9 +321,9 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 ## Light
 
 **Specializations:** Altruism, Augury, Conjuration, Enchantment, Fire, Harmony, Liberty, Light  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -353,12 +334,31 @@ You touch an object or surface, causing it to radiate light like a torch in a 5m
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
+## Magic Armour
+
+**Specializations:** Arcane, Conjuration, Enchantment, Militarism  
+**Difficulty:** 10 (Moderate)
+
+**Focus Cost:** 2  
+**Action Speed:** Standard
+
+**Range:** Touch  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You create a suit of magical armour on the target of your spell. It has an armour rating and damage reduction similar to armour, but it has no weight or strength requirements. Additionally, this armour is capable of reducing magical damage unlike real armour. If a character wearing the magical armour is also wearing real body armour, use whatever values are higher between the magical and real armour. Even so, the magical armour will always remove any weaknesses that the real armour would have, and still provides the ability to reduce damage from magic. It does not remove any other features of the real armour (such as the weight, strength requirement, or any noise it might produce).
+
+***Critical:*** 5 armour rating and 7 damage reduction.  
+***Success:*** 3 armour rating and 5 damage reduction.  
+***Graze:*** 2 armour rating and 3 damage reduction.
+
 ## Magic Weapon
 
 **Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, Water (Cold)  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -367,7 +367,7 @@ You touch an object or surface, causing it to radiate light like a torch in a 5m
 
 You touch a weapon, granting it magical properties. It deals half of its damage as a magical damage type of your choice (this means it bypasses half damage reduction, rounded up). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
 
-***Arcane:*** The attacked target loses r4 mana.  
+***Arcane:*** The attacked target loses r4 focus.  
 ***Cold:*** The attacked target loses r4 stamina.  
 ***Electric:*** The attacked target becomes stunned.  
 ***Fire:*** The attacked target gets burning 1.  
@@ -379,9 +379,9 @@ You touch a weapon, granting it magical properties. It deals half of its damage 
 ## Mend
 
 **Specializations:** Altruism, Balance, Charity (Bonus: Adept (r6)), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -397,9 +397,9 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 ## Message
 
 **Specializations:** Air, Augury, Enchantment, Liberty, Light, Shouki  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
@@ -416,9 +416,9 @@ Communicating in this way does not guarantee an understanding. Creatures must be
 ## Prestidigitation
 
 **Specializations:** Arcane, Authority, Conjuration, Darkness  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 1m  
@@ -429,9 +429,9 @@ You create the illusion of a miniscule object or creature, or various small magi
 ## Restoration
 
 **Specializations:** Altruism, Genki, Harmony, Transmutation, Liberty, Light, Yuuki  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -448,9 +448,9 @@ You restore a living creature to good health, removing negative conditions of a 
 ## Seek Guidance
 
 **Specializations:** Augury, Authority, Balance, Service (Bonus: Adept (r6)), Entropy, Harmony, Light  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Extended (1 minute)
 
 Provides you with some information about any subject. Only information that can be determined within the next 30 minutes can be requested. Ask the Game Master a simple question (no longer than one sentence). You must ask this question from the perspective of your character.
@@ -462,15 +462,15 @@ Provides you with some information about any subject. Only information that can 
 ## Shield
 
 **Specializations:** Arcane, Conjuration, Enchantment, Militarism, Shouki  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Swift or Reaction
 
 **Target:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast as a reaction to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend mana or stamina when doing so. If this spell was only cast as a reaction and not maintained, it costs 1 less mana.
+You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast as a reaction to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend focus or stamina when doing so. If this spell was only cast as a reaction and not maintained, it costs 1 less focus.
 
 ***Critical:*** Block 6.  
 ***Success:*** Block 5.  
@@ -479,9 +479,9 @@ You create a magical shield. It acts like a shield in that it has a block value,
 ## Sickness
 
 **Specializations:** Conjuration, Darkness, Earth, Militarism, Transmutation, Water  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -498,9 +498,9 @@ Inflict sickness upon a living creature, causing it to perform tasks worse and s
 ## Sight
 
 **Specializations:** Augury, Authority, Balance, Discipline, Enchantment, Light, Shouki  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -515,9 +515,9 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 ## Sight Projection
 
 **Specializations:** Augury, Authority, Light, Shouki  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Target:** Self  
@@ -528,9 +528,9 @@ You project your sight as though it is coming from another body. This effect beg
 ## Sleep
 
 **Specializations:** Authority, Darkness, Enchantment, Evocation  
-**Difficulty:** 14 (Challenging)
+**Difficulty:** 14 (Hard)
 
-**Mana Cost:** 3  
+**Focus Cost:** 3  
 **Action Speed:** Full-round
 
 **Range:** 10m  
@@ -544,16 +544,16 @@ Creatures fall prone when they fall asleep.
 
 When cast on creatures in combat, the active adrenaline in their body makes the sleep last for only 1 minute (10 rounds). Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Dealing damage to these creatures will automatically wake them.
 
-This spell's mana cost and difficulty increases by 2 for each additional creature you target.
+This spell's focus cost and difficulty increases by 2 for each additional creature you target.
 
 ***Graze:*** Lasts for half the duration, and can only target a single creature or object.
 
 ## Speak with Animals
 
 **Specializations:** Animism (Bonus: Trained (r4))  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Standard
 
 **Target:** Self  
@@ -566,9 +566,9 @@ You gain the ability to properly communicate with animals. This provides advanta
 ## Suggestion
 
 **Specializations:** Authority, Enchantment, Evocation, Fire  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** 10m  
@@ -585,9 +585,9 @@ You make a simple request of a creature. If that creature can understand what yo
 ## Telekinesis
 
 **Specializations:** Air, Arcane, Kiai, Transmutation  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -602,9 +602,9 @@ You can manipulate any object or creature as you could manually with your hands,
 ## Water Breathing
 
 **Specializations:** Air, Enchantment, Shouki, Transmutation, Water  
-**Difficulty:** 10 (Hard)
+**Difficulty:** 10 (Moderate)
 
-**Mana Cost:** 2  
+**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -612,16 +612,16 @@ You can manipulate any object or creature as you could manually with your hands,
 **Duration:** 30 minutes (concentration)  
 **Resist:** Willpower
 
-Allows the targets to breath underwater the same as they breath air above water, by providing them with magical gills. This does not prevent them from breathing air. This spell's mana cost and difficulty increase by 1 for each additional creature that you target.
+Allows the targets to breath underwater the same as they breath air above water, by providing them with magical gills. This does not prevent them from breathing air. This spell's focus cost and difficulty increase by 1 for each additional creature that you target.
 
 ***Graze:*** Lasts for half the duration, and can only effect a single target.
 
 ## Water Jet
 
 **Specializations:** Conjuration, Water  
-**Difficulty:** 7 (Moderate)
+**Difficulty:** 7 (Easy)
 
-**Mana Cost:** 1  
+**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -629,6 +629,6 @@ Allows the targets to breath underwater the same as they breath air above water,
 **Duration:** Instant  
 **Resist:** Fortitude
 
-Soaks a target in water and optionally knocks the target back a distance up to 3m, by generating a stream of water from your body. Can be used from a source of water instead of your body thus allowing you to project a stream with twice the range and knockback, but costs 1 more mana and with 2 higher difficulty. This spell can also be used to stop objects or creatures from burning by soaking them in water. When used on grease or oil, however, it will instead increase the radius by 1m and not stop any burning.
+Soaks a target in water and optionally knocks the target back a distance up to 3m, by generating a stream of water from your body. Can be used from a source of water instead of your body thus allowing you to project a stream with twice the range and knockback, but costs 1 addditional focus and with 2 higher difficulty. This spell can also be used to stop objects or creatures from burning by soaking them in water. When used on grease or oil, however, it will instead increase the radius by 1m and not stop any burning.
 
 ***Graze:*** The target can only be knocked back half the distance (rounded up).

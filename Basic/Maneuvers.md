@@ -6,7 +6,7 @@
 | [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Brace](#brace) | 1 | Swift | None | Defensive | Finesse, Martial, Unarmed |
+| [Brace](#brace) | 0 | Swift | None | Defensive | Finesse, Martial, Unarmed |
 | [Bullrush](#bullrush) | 2 | Full-round | None | Offensive | Martial, Unarmed |
 | [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Offensive | Martial, Unarmed |
 | [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Offensive | Martial, Ranged |
@@ -57,7 +57,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 
 **Duration:** 1 Round
 
-Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour class against the first attack from the target for the duration.
+Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour rating against the first attack from the target for the duration.
 
 ## Battle Cry
 
@@ -69,21 +69,21 @@ Make an attack with -2 to hit, then you may move backward 1m. If you do move bac
 
 **Duration:** 1 Round
 
-Each ally within 30m gets +2 to their next attack or defense roll (whichever is first) for the duration.
+Each ally within 30m gets +2 to their next attack, deflection, or evasion roll (whichever is first) for the duration.
 
 ## Brace
 
 **Type:** Defensive  
 **Specializations:** Finesse, Martial, Unarmed
 
-**Stamina Cost:** 1  
+**Stamina Cost:** 0  
 **Action Speed:** Swift
 
 **Duration:** 1 Round
 
-For the duration, you get +1 to armour class and damage reduction. Additionally, the next block action or defensive maneuver you take that results in a block action costs no stamina.
+For the duration, you get +1 to armour rating.
 
-You may spend an additional 1 stamina to double the armour class and damage reduction. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
+You may spend an additional 1 stamina to double the bonus to armour rating. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Bullrush
 
@@ -190,7 +190,7 @@ Make a charisma check against a target within melee range. If successful, the ne
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour class as a bonus. If using a weapon that has the parry feature, if it has parry r6 or less, add +1 to this roll. Otherwise, add +2. If the incoming attack grazes against your combat roll, it is considered a failure instead.
+While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour rating as a bonus. If using a weapon that has the parry feature, if it has parry r6 or less, add +1 to this roll. Otherwise, add +2. If the incoming attack grazes against your combat roll, it is considered a failure instead.
 
 ## Heavy Strike
 
@@ -222,7 +222,7 @@ While wielding an axe or hooked object, give an incoming melee attack disadvanta
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour class against it. You may also block or parry this attack for free as a part of this action.
+Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour rating against it. You may also block or parry this attack for free as a part of this action.
 
 # Intercepting Strike
 
@@ -281,7 +281,7 @@ Make an acrobatics check if leaping over an obstacle (1m between you and your ta
 
 **Duration:** 1 Turn
 
-Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target would move a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, the target cannot move for the rest of their turn.
+Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target is moving a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, the target cannot move for the rest of their turn (their movement is stopped at the earliest point that they moved through your attack range).
 
 This maneuver cannot be used while prone.
 
@@ -420,6 +420,6 @@ Make a single ranged attack with -2 to hit against three targets.
 
 **Duration:** 1 Round
 
-Make an attack with +1 to hit and damage, but you get -1 to your armour class until your next turn.
+Make an attack with +1 to hit and damage, but you get -1 to your armour rating until your next turn.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.

@@ -72,11 +72,11 @@ Advantage and disadvantage on rolls can also be approximated: add a bonus or pen
 
 Creatures come in three rarities: *common*, *elite*, and *legendary*. By default the listed statistics for a creature represent their stats as if they were an elite. The stats of a given creature are different depending on their rarity, and take actions slightly differently.
 
-Common creatures are simple, and easier to defeat in combat. Instead of tracking multiple resources for each of them, ignore all but their endurance. Have them become unconscious or dying (as it fits the narrative) when their endurance reaches zero. Since you are ignoring their stamina and mana, instead limit them to up to one or two uses of a maneuver or spells. This will allow you to more easily make decisions for those creatures without requiring that you track multiple statistics about them.
+Common creatures are simple, and easier to defeat in combat. Instead of tracking multiple resources for each of them, ignore all but their endurance. Have them become unconscious or dying (as it fits the narrative) when their endurance reaches zero. Since you are ignoring their stamina and focus, instead limit them to up to one or two uses of a maneuver or spells. This will allow you to more easily make decisions for those creatures without requiring that you track multiple statistics about them.
 
 Elite creatures represent a more serious challenge to players, showing up in fewer numbers, and should use their abilities more frequently. Tracking their resources ensures that they meet this standard and are used fairly. Elites are usually the leader of a group of other common creatures.
 
-Legendary creatures are basically bosses or lone creatures. They should be given double the amount of all their resources. If you want to make encounters with these kinds of creatures more interesting and unpredictable, you can choose to treat their stamina or mana as infinite, give them a bonus action on pivotal turns, or provide them with additional actions beyond their listed statistics. Try to utilize these kinds of bonuses within reason, as the goal is not to defeat the players, but to keep them guessing.
+Legendary creatures are basically bosses or lone creatures. They should be given double the amount of all their resources. If you want to make encounters with these kinds of creatures more interesting and unpredictable, you can choose to treat their stamina or focus as infinite, give them a bonus action on pivotal turns, or provide them with additional actions beyond their listed statistics. Try to utilize these kinds of bonuses within reason, as the goal is not to defeat the players, but to keep them guessing.
 
 # Creating Creatures
 

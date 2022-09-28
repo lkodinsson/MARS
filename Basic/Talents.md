@@ -9,14 +9,13 @@
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
-| [Enthusiastic](#enthusiastic) | 8 | RES 11+ |
 | [Extra Maneuver](#extra-maneuver) | 4 | Any combat skill |
+| [Fortune's Favour](#fortunes-favour) | 6, 8, 10 | DEX 11+ or INT 11+, Sleight |
 | [Inspirational Charisma](#inspirational-charisma) | 6, 8, 10, 12 | RES 11+, Charisma |
 | [Intimidation](#intimidation) | 6 | STR 11+, Charisma |
 | [Irrefutable Logic](#irrefutable-logic) | 6 | INT 11+, Charisma |
 | [Latent Trait](#latent-trait) | 12 | - |
 | [Long-distance Running](#long-distance-running) | 8 | STR 11+, Athletics |
-| [Magical Luck](#magical-luck) | 6, 8, 10 | DEX 11+ or INT 11+, Sleight |
 | [Meditative Rest](#meditative-rest) | 8 | RES 11+ |
 | [Mobility](#mobility) | 8 | STR 13+, Athletics |
 | [Natural Intuition](#natural-intuition) | 6 | INT 11+, Perception |
@@ -79,13 +78,6 @@ You may use your intelligence instead of your dexterity when making perception c
 
 You gain an advantage to fortitude checks made to stabilize and you may choose to not be knocked unconscious when given the dying effect. While conscious with the dying effect at any point you may choose to become unconscious.
 
-## Enthusiastic
-
-**Cost:** 8 EXP  
-**Requirements:** Max Resolve 11+
-
-The first skill check you make after a long rest is made with advantage.
-
 ## Extra Maneuver
 
 **Cost:** 4 EXP  
@@ -93,12 +85,26 @@ The first skill check you make after a long rest is made with advantage.
 
 When you acquire this talent you will learn a new maneuver for a combat skill you already have. This talent can be taken multiple times.
 
+## Fortune's Favour
+
+**Cost:** Variable  
+**Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in Sleight
+
+You may spend 3 focus to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
+
+##### Table: Magical Luck Steps & Cost
+| Step Cost | Total Cost | Number of Uses |
+|:-:|:-:|:-:|
+| 6 | 6 | 1/rest |
+| 8 | 14 | 2/rest |
+| 10 | 24 | 3/rest |
+
 ## Inspirational Charisma
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Charisma
 
-You may spend 2 mana to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, use only the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
+You may spend 2 focus to make a charisma check to assist another character with any skill check. This provides an assist bonus to that skill check based on how well you roll. The bonus provided is determined by the highest threshold that your roll exceeds. If multiple characters use Inspirational Charisma, use only the highest assist bonus provided. This talent can be advanced multiple times to provide a bonus to your roll, making it easier to meet the thresholds.
 
 ##### Table: Inspirational Charisma Steps, Cost, & Roll Bonuses
 | Step Cost | Total Cost | Roll Bonus |
@@ -144,26 +150,12 @@ You gain a second trait.
 
 Your speed is increased by 2m, and your second move action each turn does not cost stamina.
 
-## Magical Luck
-
-**Cost:** Variable  
-**Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in Sleight
-
-You may spend 2 mana to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
-
-##### Table: Magical Luck Steps & Cost
-| Step Cost | Total Cost | Number of Uses |
-|:-:|:-:|:-:|
-| 6 | 6 | 1/rest |
-| 8 | 14 | 2/rest |
-| 10 | 24 | 3/rest |
-
 ## Meditative Rest
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+
 
-Recover more stamina, mana, and endurance during rests of any duration, but only once each day. The amount recovered is determined by the advancement of this talent.
+Recover more stamina, focus, and endurance during rests of any duration, but only once each day. The amount recovered is determined by the advancement of this talent.
 
 Additionally, a number of uses of per rest abilities are also recovered in the same way: during a short rest, but only once each day. The total number of uses recovered is determined by the advancement of this ability, and may be divided among one or more abilities.
 
@@ -215,7 +207,7 @@ The first defensive action (such as block, evade, parry, or a defensive maneuver
 **Cost:** Variable  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
 
-You gain an ability allowing you to fly into a rage at the cost of 1 health and 1 stamina as a swift action, giving you a temporary bonus to attack damage (as if from strength) and damage reduction. The damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour class. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
+You gain an ability allowing you to fly into a rage at the cost of 1 health and 1 stamina as a swift action, giving you a temporary bonus to attack damage (as if from strength) and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
 
 ##### Table: Rage Steps, Cost, & Bonuses
 | Step Cost | Total Cost | Bonus |

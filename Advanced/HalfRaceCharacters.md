@@ -5,9 +5,9 @@ Rather than making characters from only a single racial lineage, you can also ch
 In a way this is like creating a custom race using two existing races as a template, using the following steps:
 
 * Pick two races
-* Pick two stats to get +1 from among stats those races have a +1 or higher (or any if one of those races can pick any), but you can't pick a stat that one of the chosen races has a -1 or lower in, unless the other race has a +2 or higher to the same stat
+* Pick two stats to get +1 from among stats that those races have a +1 or higher
 * Pick a racial ability from one of those races
-* Pick a size ranging from one size smaller and larger than the average size (and add size adjustment to stats, if necessary)
-* Pick one of those races and get all of their natural weapons (if any)
+* Pick a size ranging from one size smaller and larger than the average size (adding any size adjustment to stats as necessary)
+* Pick one of those races and get all of their natural weapons (if any), then do the same for senses
 * Take the average movement speed of the two races (rounded up)
 * Start with the common language, and an additional language that is available to one of the two races chosen

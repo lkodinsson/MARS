@@ -5,7 +5,6 @@
 |:-|:-:|
 | [Animism](#animism-res) | Resolve |
 | [Arcana](#arcana-int) | Intelligence |
-| [Craft](#craft-int) | Intelligence |
 | [Faith](#faith-res) | Resolve |
 | [Ki](#ki) | Variable |
 | [Power](#power-res) | Resolve |
@@ -21,7 +20,7 @@ Nature is a fundamental force that governs reality, and animism allows you to co
 
 Animists do not require or use scrolls or spell books. Nature itself teaches you how to wield it. You can only have one animism specialization, as they are fundamentally conflicting representations of animism. You acquire a new spell from your specialization when you advance your animism skill.
 
-As you advance in animism you also get bonus spells at specific ranks, regardless of the specialization you choose. These ranks are trained (r4), practiced (r8), exceptional (r12), and accomplished (r16). You get these spells in addition to spells you learn from advancing normally.
+As you advance in animism you also get bonus spells at specific ranks, regardless of the specialization you choose. These ranks are trained (r4), practiced (r8), exceptional (r12), and accomplished (r16). You get these spells in addition to the spells you learn from advancing normally.
 
 ##### Table: Animism Bonus Spells
 | Roll Value | Step Name | Bonus Spell |
@@ -51,7 +50,7 @@ Since arcana is a book-learned style of spellcasting, it only functions well if 
 
 Although you will choose a school to train in, you may cast spells from any school (assuming you have scrolls for those spells). However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools to avoid this limitation.
 
-Wizards are not entirely incapable if they don't have scrolls or their spell books to practice from. You may cast a spell in any school you are at least trained in (you must understand the basics of casting those spells without assistance). If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. If you have that spell learned directly from advancement, you may increase the mana cost of that spell by 1 to cast it as normal.
+Wizards are not entirely incapable if they don't have scrolls or their spell books to practice from. You may cast a spell in any school you are at least trained in (you must understand the basics of casting those spells without assistance). If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. If you have that spell learned directly from advancement, you may increase the focus cost of that spell by 1 to cast it as normal.
 
 Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement). The cost of these scrolls depends on the tier of the spell.
 
@@ -83,12 +82,6 @@ Evokers are normally known for one simple thing: destruction. It is true that ev
 
 Transmuters can change one thing into something else, or repair what is broken. Transmutation focuses on the alteration of physical things, and does not necessarily provide results that one would assume are of a magical nature.
 
-## Craft (INT)
-
-Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create normal everyday items and equipment, including arrows, swords, and armour. It can also be used to create powerful magic items. This skill is considered to be a core advanced skill unique to the fantasy setting.
-
-This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so. The specifics of item crafting can be complicated and require the use of a calculator. Click [here](/Fantasy/ItemCrafting.md) to go the page dedicated to item crafting.
-
 ## Faith (RES)
 
 Most forms of spellcasting come from an internal source, either force of personality, or years of study. When it comes to faith, however, that power is granted to an individual from a divine entity. Faith represents your devotion to following a code of beliefs that align with that divine entity, and the additional sacrifice of acting on behalf of that entity. Those who follow this lifestyle are often called clerics.
@@ -114,7 +107,7 @@ As you advance in faith you also get bonus spells at specific ranks, depending o
 ##### Table: Faith Bonus Spells
 | Roll Value | Step Name | Charity | Family | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| r6 | Adept | Mend | ? | ? | Seek Guidance | ? | ? | ? | ? |
+| r6 | Adept | [Mend](/Fantasy/Spells.md#mend) | ? | ? | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | ? | ? | ? | ? |
 | r10 | Proficient | ? | ? | ? | ? | ? | ? | ? | ? |
 | r16 | Accomplished | ? | ? | ? | ? | ? | ? | ? | ? |
 
@@ -168,9 +161,9 @@ Kiai is the spirit of your movement and the air you breathe, the air that feeds 
 ##### Table: Kiai Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r6 | Adept | 4 Mana into 1 Stamina |
-| r10 | Proficient | 3 Mana into 1 Stamina |
-| r16 | Accomplished | 2 Mana into 1 Stamina |
+| r6 | Adept | 4 Focus into 1 Stamina |
+| r10 | Proficient | 3 Focus into 1 Stamina |
+| r16 | Accomplished | 2 Focus into 1 Stamina |
 
 ### Shouki "Mind" (INT)
 
@@ -179,9 +172,9 @@ Mastery of mind allows you to rely on the power of your thoughts and consciousne
 ##### Table: Shouki Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r6 | Adept | 4 Stamina into 1 Mana |
-| r10 | Proficient | 3 Stamina into 1 Mana |
-| r16 | Accomplished | 2 Stamina into 1 Mana |
+| r6 | Adept | 4 Stamina into 1 Focus |
+| r10 | Proficient | 3 Stamina into 1 Focus |
+| r16 | Accomplished | 2 Stamina into 1 Focus |
 
 ### Yuuki "Courage" (RES)
 
@@ -190,9 +183,9 @@ This is the spirit that holds your body and mind together to act as a single for
 ##### Table: Yuuki Resource Conversion
 | Roll Value | Step Name | Resource<br/>Conversion |
 |:-:|:-|:-|
-| r6 | Adept | 1 Mana into 2 Endurance |
-| r10 | Proficient | 1 Mana into 3 Endurance |
-| r16 | Accomplished | 1 Mana into 4 Endurance |
+| r6 | Adept | 1 Focus into 2 Endurance |
+| r10 | Proficient | 1 Focus into 3 Endurance |
+| r16 | Accomplished | 1 Focus into 4 Endurance |
 
 ## Power (RES)
 
@@ -200,10 +193,10 @@ Power is the natural wizard's style of spellcasting. Those who wield magic in th
 
 Sorcerers do not require or use scrolls or spell books. The power they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your power skill. You can take this skill multiple times to learn how to cast different elements. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
 
-Sorcerers have it a bit easier than others when it comes to casting spells. As you advance your power skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and mana cost based on your advancement. This reduction only applies to signature spells in the same specialization.
+Sorcerers have it a bit easier than others when it comes to casting spells. As you advance your power skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and focus cost based on your advancement. This reduction only applies to signature spells in the same specialization.
 
 ##### Table: Power Signature Spell Difficulty Reduction
-| Roll Value | Step Name | Difficulty<br/>Reduction | Mana Cost<br/>Reduction |
+| Roll Value | Step Name | Difficulty<br/>Reduction | Focus Cost<br/>Reduction |
 |:-:|:-|:-:|:-:|
 | r8 | Practiced | -1 | -0 |
 | r12 | Exceptional | -2 | -1 |

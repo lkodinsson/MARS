@@ -25,8 +25,8 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 
 ---
 
-**INIT** 12 (r22+1), **Speed** 6m  
-**HP+ED** 29 (11+18), **SP** 13  
+**INIT** 12 (r22+1), **SPD** 6m  
+**HP+ED** 29 (11+18), **ST** 13  
 **DEF** 6 (r10+1), **EVA** 8 (r12+2), **DR** 2  
 **FORT** 11 (r20+1), **WILL** 9 (r18)  
 **Combat Skills** [Finesse](/Basic/PHB.md#finesse-dex) +4 (r8), [Unarmed](/Basic/PHB.md#unarmed-dex) +2 (r4)  
@@ -57,8 +57,8 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 ---
 
-**INIT** 11 (r16+3), **Speed** 6m  
-**HP+ED** 16 (7+9), **SP** 10  
+**INIT** 11 (r16+3), **SPD** 6m  
+**HP+ED** 16 (7+9), **ST** 10  
 **DEF** 6 (r8+2), **EVA** 7 (r8+3), **DR** 2 (1 vs blunt)  
 **FORT** 8 (r16), **WILL** 8 (r14+1)  
 **Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +3 (r6), [Ranged](/Basic/PHB.md#ranged-dex) +2 (r4)  
@@ -88,8 +88,8 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 ---
 
-**INIT** 12 (r22+1), **Speed** 6m  
-**HP+ED** 33 (13+20), **SP** 13  
+**INIT** 12 (r22+1), **SPD** 6m  
+**HP+ED** 33 (13+20), **ST** 13  
 **DEF** 11 (r10+6), **EVA** 13 (r12+7), **DR** 4 (2 vs piercing)  
 **FORT** 12 (r22+1), **WILL** 10 (r20)  
 **Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +5 (r10), [Unarmed](/Basic/PHB.md#unarmed-dex) +3 (r6)  
@@ -116,13 +116,13 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 **STR** 4 (r8), **DEX** 5 (r10), **INT** 8 (r14+1), **RES** 6 (r10+1)  
 **Languages** Common (native)  
-**Skills** [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Craft](/Fantasy/Skills.md#craft-int) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +2 (r4), [Lore](/Basic/PHB.md#lore-int) +5 (r10), [Medicine](/Basic/PHB.md#medicine-int) +4 (r8), Perception +2 (r4)  
+**Skills** [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Craft](/Basic/PHB.md#craft-int) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +2 (r4), [Lore](/Basic/PHB.md#lore-int) +5 (r10), [Medicine](/Basic/PHB.md#medicine-int) +4 (r8), Perception +2 (r4)  
 **Talents** [Natural Intuition](/Basic/Talents.md#natural-intuition), [Toughness (+4)](/Basic/Talents.md#toughness)
 
 ---
 
-**INIT** 11 (r20+1), **Speed** 6m  
-**HP+ED** 23 (8+15), **SP** 10, **MP** 15  
+**INIT** 11 (r20+1), **SPD** 6m  
+**HP+ED** 23 (8+15), **ST** 10, **FP** 15  
 **DEF** 7 (r10+2), **EVA** 6 (r10+1), **DR** 2  
 **FORT** 10 (r18+1), **WILL** 14 (r24+2)  
 **Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +3 (r6)  
@@ -131,8 +131,7 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 ---
 
 **Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +3 (r6), [Arcana (Transmutation)](/Fantasy/Skills.md#arcana-int) +5 (r10)  
-**Spells: Arcana (Augury)** [Light](/Fantasy/Spells.md#light), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)  
-**Spells: Arcana (Transmutation)** [Ignite](/Fantasy/Spells.md#ignite), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration)  
+**Spells: Arcana** [Ignite](/Fantasy/Spells.md#ignite), [Light](/Fantasy/Spells.md#light), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)  
 
 ---
 
@@ -157,8 +156,8 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 
 ---
 
-**INIT** 12 (r20+2), **Speed** 6m  
-**HP+ED** 17 (7+10), **SP** 12  
+**INIT** 12 (r20+2), **SPD** 6m  
+**HP+ED** 17 (7+10), **ST** 12  
 **DEF** 6 (r10+1), **EVA** 8 (r10+3), **DR** 3 (1 vs blunt)  
 **FORT** 8 (r18-1), **WILL** 10 (r18+1)  
 **Combat Skills** [Finesse](/Basic/PHB.md#finesse-dex) +3 (r6), [Ranged](/Basic/PHB.md#ranged-dex) +3 (r6)  
@@ -189,8 +188,8 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 ---
 
-**INIT** 13 (r28-1), **Speed** 6m  
-**HP+ED** 54 (18+36), **SP** 13  
+**INIT** 13 (r28-1), **SPD** 6m  
+**HP+ED** 54 (18+36), **ST** 13  
 **DEF** 16 (r14+9), **EVA** 15 (r14+8), **DR** 5  
 **FORT** 17 (r30+2), **WILL** 16 (r30+1)  
 **Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +8 (r16), [Unarmed](/Basic/PHB.md#unarmed-dex) +5 (r10)  

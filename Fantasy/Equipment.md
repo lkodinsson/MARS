@@ -15,9 +15,9 @@ Click [here](/Fantasy/MagicEquipment.md) for the page on magic equipment.
 
 ## Currency
 
-There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the last.
+There are various types of currency that represent the money your character needs to spend on items and goods. The denominations of this currency are determined by their material. These materials are *copper*, *silver*, *electrum*, and *gold*. Each type of coin is worth ten times as much as the one before.
 
-All characters start with 60 silver pieces which they can spend on starting equipment, in addition to some free adventuring gear (listed below).
+All characters start with 50 silver pieces which they can spend on starting equipment, in addition to some free adventuring gear (listed below).
 
 ##### Table: Currency
 | Currency | Equivalent |
@@ -33,8 +33,8 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 ##### Table: Adventuring Gear
 | Name | Price | Weight |
 |:-|:-:|:-:|
-| Backpack<sup>1</sup> | 1sp | 1kg |
-| Bedroll<sup>1</sup> | 1sp | 1kg |
+| Backpack<sup>1</sup> | 2sp | 1kg |
+| Bedroll<sup>1</sup> | 2sp | 1kg |
 | Belt<sup>1</sup> | 5cp | ¼kg |
 | Book, 50 pages | 1sp | ¼kg |
 | Boots<sup>1</sup> | 1sp | ½kg |
@@ -93,12 +93,13 @@ These denominations exist to add more flavour to roleplaying. Most prices of ite
 | Gemstone, exceptional | 50sp | - |
 | Gemstone, magnificent | 100sp | - |
 | Mirror, small, bronze | 1sp | ½kg |
-| Mirror, small, silvered | 2sp | ½kg |
+| Mirror, small, silvered | 5sp | ½kg |
 | Mirror, large, silvered | 200sp | 5kg |
 | Ring, copper | 2cp | - |
+| Ring, iron | 5cp | - |
 | Ring, silver | 2sp | - |
 | Ring, gold | 200sp | - |
-| Iron, by weight | 1sp | 1kg |
+| Iron, by weight | 1sp | ½kg |
 
 ## Weapons
 
@@ -163,7 +164,7 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Darts (20) | 5sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
 | Hand Crossbow | 8sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Ranged 15m/150m, Reload, Mechanical |
 | Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Ranged 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
-| Siege Crossbow | 20sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
+| Siege Crossbow | 24sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
 | Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/3m, Trip |
 
 ##### Table: Projectile Weapon Ammunition
@@ -225,10 +226,10 @@ Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 ## Armour
 
-Weapons have several properties: *armour class*, *damage reduction*, *strength requirement*, *armour slot*, *material type*, *weight*, and may have one or more *features*. Most features of armour are drawbacks of their design, but some of them provide bonuses.
+Weapons have several properties: *armour rating*, *damage reduction*, *strength requirement*, *armour slot*, *material type*, *weight*, and may have one or more *features*. Most features of armour are drawbacks of their design, but some of them provide bonuses.
 
 ##### Table: Body Armours
-| Name | Price | AC | DR | STR Req | Armour<br/>Slot | Material<br/>Type | Weight | Features |
+| Name | Price | AR | DR | STR Req | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Doublet | 5sp | 1 | 2 | 4 | Body | Cloth | 4kg | - |
 | Jerkin | 10sp | 2 | 3 | 6 | Body | Leather | 6kg | Weakness vs Blunt |
@@ -242,7 +243,7 @@ Weapons have several properties: *armour class*, *damage reduction*, *strength r
 | Platemail | 60sp | 4 | 5 | 16 | Body | Metal | 16kg | Noisy |
 
 ##### Table: Additional Armours
-| Name | Price | AC | DR | Armour<br/>Slot | Material<br/>Type | Weight | Features |
+| Name | Price | AR | DR | Armour<br/>Slot | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Hood<sup>3</sup> | - | - | - | Head | Cloth | - | Identity Obscuring |
 | Mask | 1sp | - | - | Head | Wood | ½kg | Identity Obscuring |
@@ -262,16 +263,16 @@ Weapons have several properties: *armour class*, *damage reduction*, *strength r
 <sup>3</sup>Hoods are considered parts of cloaks or other pieces of clothing.
 
 ##### Table: Shields
-| Name | Price | AC | DR | STR Req | Material<br/>Type | Weight | Features |
+| Name | Price | AR | DR | STR Req | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-|
 | Buckler | 5sp | - | - | 4 | Metal | 2kg | Parry r10 |
 | Small Shield | 10sp | - | - | 6 | Wood | 3kg | Block 4 |
-| Medium Shield | 15sp | 1 | - | 8 | Wood | 4kg | Block 5 |
-| Large Shield | 20sp | 1 | - | 12 | Wood | 6kg | Block 6 |
+| Medium Shield | 20sp | 1 | - | 8 | Wood | 4kg | Block 5 |
+| Large Shield | 40sp | 1 | - | 12 | Wood | 6kg | Block 6 |
 
 ### Armour Features
 
-**Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. Ignore this bonus to damage reduction if you are critically hit. If you are blocking projectiles, add the given value to your armour class instead.
+**Block** When you use this item to perform a block action, raise your damage reduction by the given value. While blocking you do not suffer from your armour's weakness. If you are blocking projectiles, add the given value to your armour rating instead.
 
 **Critical Defense** Increase the threshold required to land a critical hit against you from an attack by 1.
 
@@ -300,12 +301,12 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Improvised | -1 to hit, -1 damage | -1 armour class, -1 damage reduction | ×½ |
-| Crude | -1 to hit | -1 armour class | ×¾ |
-| Fine | +1 to hit | +1 armour class | ×1½ or +10sp |
-| Superior | +1 to hit, +1 damage | +1 armour class, +1 damage reduction | ×2 or +25sp |
-| Exceptional | +2 to hit, +2 damage | +2 armour class, +2 damage reduction | ×2½ or +45sp |
-| Masterwork | +3 to hit, +3 damage | +3 armour class, +3 damage reduction | ×3 or +70sp |
+| Improvised | -1 to hit, -1 damage | -1 armour rating, -1 damage reduction | ×½ |
+| Crude | -1 to hit | -1 armour rating | ×¾ |
+| Fine | +1 to hit | +1 armour rating | ×1½ or +10sp |
+| Superior | +1 to hit, +1 damage | +1 armour rating, +1 damage reduction | ×2½ or +25sp |
+| Exceptional | +2 to hit, +2 damage | +2 armour rating, +2 damage reduction | ×4 or +50sp |
+| Masterwork | +3 to hit, +3 damage | +3 armour rating, +3 damage reduction | ×6 or +100sp |
 
 ##### Table: Equipment Weight
 | Quality Name | Melee Weapons | Body Armour | Cost Adjustment |

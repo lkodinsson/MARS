@@ -114,20 +114,20 @@ Resolve is the determination, willpower, intuition, and spirituality of your cha
 
 # Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *mana*, *initiative*, *armour class*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour class and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's race.
+Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's race.
 
-The first four secondary stats (health, endurance, stamina, and mana) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+The first four secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
 |:-|:-:|
 | Health (HP) | Max STR |
 | Endurance (ED) | Max RES |
-| Stamina (SP) | Max DEX |
-| Mana (MP) | Max INT |
+| Stamina (ST) | Max DEX |
+| Focus (FP) | Max INT |
 | Initiative (INIT) | DEX + RES |
-| Deflection (DEF) | RES + AC |
-| Evasion (EVA) | DEX + AC |
+| Deflection (DEF) | RES + AR |
+| Evasion (EVA) | DEX + AR |
 | Fortitude (FORT) | STR + RES |
 | Willpower (WILL) | INT + RES |
 
@@ -135,27 +135,27 @@ For example: if you have a strength of r12, then you have a maximum strength of 
 
 ### Health (HP)
 
-Health is an abstraction representing how healthy a character is at the current moment. Any damage taken to your health represents a serious injury.
+Health, or hit points, are an abstraction representing how healthy a character is at the current moment. Any damage taken to your health represents a serious injury.
 
 ### Endurance (ED)
 
 Endurance represents your ability to shrug off injuries before suffering serious damage, and is easy to restore with a little rest.
 
-### Stamina (SP)
+### Stamina (ST)
 
 Stamina is used to perform tricks, maneuvers, and certain physical actions.
 
-### Mana (MP)
+### Focus (FP)
 
-Mana is used to cast spells and perform magical abilities.
+Focus is used to cast spells and perform special abilities.
 
 ### Initiative (INIT)
 
 Initiative is your ability to react first in a moment of conflict.
 
-### Armour Class (AC)
+### Armour Rating (AR)
 
-Armour class represents the effectiveness of defensive equipment to neutralize incoming attacks.
+Armour rating represents the effectiveness of defensive equipment to neutralize incoming attacks.
 
 ### Damage Reduction (DR)
 
@@ -175,7 +175,7 @@ Fortitude is your ability to resist poison and disease. In dire circumstances it
 
 ### Willpower (WILL)
 
-Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind. It is also used to determine whether or not someone seems believable or false.
+Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind. It is also used to determine whether or not someone seems believable.
 
 ### Speed (SPD)
 
@@ -183,7 +183,7 @@ Your speed is a measurement of your average walking distance over six seconds. Y
 
 ### Size (SZ)
 
-Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres and settings may provide you with additional racial options that exist in different size categories. Your size may provide you with modifiers to some of your other stats.
+Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres and settings may provide you with additional options for playing in different size categories. Your size may provide you with modifiers to some of your other stats.
 
 ##### Table: Size & Size Modifiers
 | Size | Avg. Height | Avg. Weight | Strength | Dexterity |
@@ -240,11 +240,22 @@ You’re skilled in concealing yourself effectively in different environments. Y
 
 ## Advanced Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are six core advanced skills: *contacts*, *knowledge*, *lore*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
+Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are seven core advanced skills: *contacts*, *craft*, *knowledge*, *lore*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
 
 ### Contacts (RES)
 
 Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill can also be used to determine if you already have an existing rapport with newly introduced non-player characters.
+
+## Craft (INT)
+
+Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create both specialized and everyday normal items.
+
+This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so. The specifics of item crafting can be complicated and require the use of a calculator. 
+
+Various settings will have different ways to apply special modifiers to various items. In the fantasy setting this extends to applying magical effects to items, while in a modern or sci-fi setting this may mean technological advancements to items. These processes work simarly to normal item crafting but have additional costs associated with their modifiers.
+
+Click [here](/Basic/ItemCrafting.md) to go the page dedicated to item crafting.  
+Click [here](/Fantasy/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
 
 ### Knowledge (INT)
 
@@ -317,32 +328,34 @@ For other types of opposed checks where only one side can win (such as an arm wr
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
 
 ##### Table: Challenge Difficulties
 | Difficulty<br/>Value | Difficulty Name |
 |:-:|:-|
-| 5 | Easy |
-| 7 | Moderate |
-| 10 | Hard |
-| 14 | Challenging |
-| 19 | Ambitious |
-| 25 | Absurd |
-| 32 | Improbable |
-| 40 | Impossible |
+| 5 | Everyday |
+| 7 | Easy |
+| 10 | Moderate |
+| 14 | Hard |
+| 19 | Challenging |
+| 25 | Ambitious |
+| 32 | Absurd |
+| 40 | Improbable |
 
 For a visualization on what rolls represent different outcomes in relation to various difficulty values:
 
 ##### Table: Roll vs Difficulty as Outcomes
-| Roll | 7<br/>(Moderate) | 10<br/>(Hard) | 14<br/>(Challenging) | 19<br/>(Ambitious) |
-|:-:|:-:|:-:|:-:|:-:|
-| 5 | Graze | Graze | Fail | Fail |
-| 7 | Success | Graze | Fail | Fail |
-| 10 | Success | Success | Graze | Fail |
-| 12 | Success | Success | Graze | Fail |
-| 15 | Critical | Success | Success | Graze |
-| 17 | Critical | Critical | Success | Graze |
-| 20 | Critical | Critical | Success | Success |
+| Roll | 7<br/>(Easy) | 10<br/>(Moderate) | 14<br/>(Hard) | 19<br/>(Challenging) | 25<br/>(Ambitious) |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 5 | Graze | Graze | Fail | Fail | Fail |
+| 7 | Success | Graze | Fail | Fail | Fail |
+| 10 | Success | Success | Graze | Fail | Fail |
+| 12 | Success | Success | Graze | Fail | Fail |
+| 15 | Critical | Success | Success | Graze | Fail |
+| 17 | Critical | Critical | Success | Graze | Fail |
+| 20 | Critical | Critical | Success | Success | Graze |
+| 22 | Critical | Critical | Critical | Success | Graze |
+| 25 | Critical | Critical | Critical | Success | Success |
 
 A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
 
@@ -417,7 +430,7 @@ In addition to the following basic actions, characters may perform maneuvers or 
 
 Make an attack on a target with one of your wielded weapons or with your bare hands.
 
-When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazes deal half damage, and criticals deal bonus damage as specified by that weapon.
+When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazing hits deal half damage after damage reduction. Critical hits ignore all damage reduction and get a bonus to damage as specified by that weapon. The minimum amount of damage that can be dealt by a hit that grazes or better is 1 damage.
 
 Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
@@ -428,7 +441,7 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Use a wielded item with the block feature to block all incoming attacks or spells coming from in front of you, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour class instead. While blocking you cannot see in front of you.
+Use a wielded item with the block feature to block all incoming attacks or spells coming from in front of you, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour rating instead.
 
 #### Brandish
 
@@ -440,14 +453,14 @@ Choose which of your items you are wielding in your hands. This can be items fro
 
 **Action Speed:** Free
 
-You become prone. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage.
+You become prone. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage. While prone your movement speed is halved.
 
 #### Evade
 
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed or drop prone.
+Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move up to 1m or drop prone.
 
 #### Interact
 
@@ -515,7 +528,7 @@ Blinded characters suffer a disadvantage to all rolls that require that characte
 
 #### Burning
 
-Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to r4 plus r2 for every degree of burning beyond the first, then the burning effect decreases by 1, until it goes away entirely. Burning 1 would be r4 damage, while burning 3 would be r8 damage. Fire damage bypasses damage reduction. Dousing a target in water will completely remove the burning.
+Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to r4 plus r2 for every degree of burning beyond the first, then the burning effect decreases by 1, until it goes away entirely. Burning 1 would be r4 damage, while burning 3 would be r8 damage. Damage from burning bypasses any damage reduction. Dousing a target in water will completely remove the burning.
 
 #### Debilitation
 
@@ -523,11 +536,11 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 #### Dying
 
-When a character is given the dying effect they are also given the unconscious effect. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and grazes count as neither a success or failure. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
+When a character is given the dying effect they are also become unconscious. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and grazes count as neither a success or failure. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
 #### Encumbered
 
-Encumbered characters are carrying too much. They get a disadvantage to both strength and dexterity, and halved speed.
+Encumbered characters are carrying too much. They get a disadvantage to both strength and dexterity, and have halved speed.
 
 #### Enhancement
 
@@ -535,7 +548,7 @@ An enhancement is an effect that applies to one of your stats. Enhanced stats wh
 
 #### Overencumbered
 
-Overencumbered characters suffer the same effects as encumbered characters, but instead of moving at half speed, they cannot move.
+Overencumbered characters suffer the same effects as encumbered characters, but instead of moving at half speed, they cannot move at all.
 
 #### Prone
 
@@ -543,9 +556,9 @@ Prone characters are either kneeling or laying down on the ground. Ranged attack
 
 #### Sickness
 
-Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that passes while you are sick you lose health (after recovering health from resting, if applicable) equal to half this sickness value (rounded up). Stamina, mana, and endurance recovered during rests are also reduced by half this value (rounded up) to a minimum of one.
+Sickness is an effect that has multiple degrees, as specified by a number. This number is a penalty that you take to *all* of your rolls. Additionally, every day that passes while you are sick you lose health (after recovering health from resting, if applicable) equal to half this sickness value (rounded up). Stamina, focus, and endurance recovered during rests are also reduced by half this value (rounded up) to a minimum of one.
 
-For example: If you have a sickness of 3 and you take a long rest, you will recover 1 health, then lose 2. You will also recover 2 less stamina, mana, and endurance during that rest.
+For example: If you have a sickness of 3 and you take a long rest, you will recover 1 health, then lose 2. You will also recover 2 less stamina, focus, and endurance during that rest.
 
 Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
@@ -555,15 +568,19 @@ If a sickness effect does not specify a duration, that duration is assumed to be
 
 At the beginning of a stunned character's turn, they lose the stunned effect and a swift action. Until then, stunned characters cannot perform reactions.
 
+A character can become stunned multiple times, causing them to lose more swift actions at the beginning of their turn. Regardless of how many times a character is stunned, they will entirely lose the stun effect when their turn begins.
+
+For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose three swift actions (their whole turn), and no longer be stunned. They may still perform a free action.
+
 #### Unconscious
 
-Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual.
+Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual. When a character becomes unconscious they also become prone.
 
 # Concentration
 
-Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and one to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
+Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
 
-Concetration also requires an active and conscious mind. If at any point you become stunned or unconscious, you automatically lose your concentration.
+Concetration also requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained.
 
 # Maneuvers
 
@@ -590,13 +607,13 @@ For example: You perform a Crippling Strike against a target. First you make an 
 
 ### Improvising Maneuvers
 
-Although maneuvers must normally be learned in order to use, you can improvise maneuvers. To do so, you must be at least trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a swift action, it becomes a standard action instead.
+Although maneuvers must normally be learned in order to use, you can improvise maneuvers. To do so, you must be at least trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a standard, swift, or free action, it becomes one action speed slower.
 
-For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver.
+For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver. Additionally, it costs 3 stamina instead of 2, and is a standard action instead of a swift action.
 
 # Resting
 
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and mana). In order to restore these resources, you need to rest. There are two different types of rests: the short rest and the long rest. Depending on the type of rest performed, you will recover a different amount of your spent resources.
+At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and focus). In order to restore these resources, you need to rest. There are two different types of rest: the short rest and the long rest. Depending on the type of rest performed, you will recover a different amount of spent resources.
 
 ##### Table: Rest Recovery Rates
 | Resource | Short Rest | Long Rest |
@@ -604,11 +621,11 @@ At some point during an adventure you may find yourself low on your resources (h
 | Health | None | 1 |
 | Endurance | Minimum<br/>Fortitude | Half of<br/>Maximum<br/>Fortitude |
 | Stamina | Minimum<br/>Initiative | Half of<br/>Maximum<br/>Initiative |
-| Mana | Minimum<br/>Willpower | Half of<br/>Maximum<br/>Willpower |
+| Focus | Minimum<br/>Willpower | Half of<br/>Maximum<br/>Willpower |
 
 You can calculate the minimum of a stat by counting the number of dice you would roll and then adding any bonuses.
 
-Characters can only physically rest so often and are limited to a number of rests per day. As a long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short and moderate rests are optional, and a character may take up to two short rests each day.
+Characters can only physically rest so often and are limited to a number of rests per day. A long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short rests are optional, and a character may take up to two short rests each day.
 
 Abilties that can be used a number of times per rest are restored after a complete long rest.
 
@@ -622,11 +639,11 @@ An extended period up to about four hours containing a single simple activity, s
 
 A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
-Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10. If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
+Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of another character performing a long rest by using the medicine skill against a difficulty of 10 (moderate). If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
 
-For the purposes of recovering resources, any short rests not taken are considered taken during a long rest.
+For the purpose of recovering resources, any short rests not taken during the day are considered taken during a long rest.
 
-For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short. If you didn't take any rests during that day, then it would be as if all your rests were combined.
+For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short rest. If you didn't take any short rests during the day, then it would be as if all of your rests were combined.
 
 # Creating a Character
 
@@ -664,11 +681,11 @@ After choosing your race, background, archetype, and trait, you will need to dec
 
 ### Motivation
 
-One of the most important defining features of a character is their motivation. It can be described in a few sentences or less. Ultimately it will be a source of both conflict and cooperation, as characters will need to make decisions that fulfill their motivations. Characters that fulfill their motivations during a game session provide an experience bonus to all participating player's characters.
+One of the most important defining features of a character is their motivation. It can be described in a few sentences or less. Ultimately it will be a source of both conflict and cooperation, as characters will need to make decisions that fulfill their motivations. Characters that fulfill their motivations during a game session provide an experience bonus to all characters at the end of a game session.
 
 Example: To protect the weak from those who abuse their power.
 
-Some motivations may represent more circumstantial character developmental ordeals. These types of motivations when completed are usually then replaced with another motivation, assuming that it doesn't end that character's heroic journey. Because these types of motivations are more difficult to complete, making progress towards completing that motivation is enough to provide the experience bonus.
+Some motivations may represent more circumstantial character developmental ordeals. These types of motivations when completed are usually then replaced with another motivation, assuming that it doesn't end that character's heroic journey. Because these types of motivations are more difficult to complete, making progress towards completing that motivation is considered enough to provide the experience bonus.
 
 Example: To find a lost family member; or to avenge a death.
 
@@ -680,15 +697,21 @@ Although you can generally have any item imaginable, some items have predetermin
 
 Click [here](/Fantasy/Equipment.md) to see the rules and tables for fantasy equipment.
 
-### Armour
+### Currency
 
-Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour class and a damage reduction. These values from all your slots are added together to provide a total armour class and damage reduction.
-
-Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty to your dexterity equal to half of the difference (rounded up). For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will get -3 to your dexterity. This is known as the *armour penalty*.
+There are various types of currency that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre. Regardless of the name of the currency, they are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces.
 
 ### Weapons
 
 Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category clarity on their stats.
+
+### Armour
+
+Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour rating and a damage reduction. These values from all your slots are added together to provide a total armour rating and damage reduction.
+
+Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all dexterity rolls, spellcasting rolls, and deflection.
+
+For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
 ### Carrying Capacity
 
@@ -707,7 +730,7 @@ Many items will have a listed weight. Although it is optional to keep track of t
 | Very Large | Capacity × 2 |
 | Huge | Capacity × 3 |
 
-If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
+If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and have halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
 Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, and push or drag something weighing four times that amount over a moderate distance (up to ten times that amount if assisted by wheels).
 
@@ -715,7 +738,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 
-The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 2 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 1 experience points. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus 2 experience points.
+The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 2 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional experience point. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus of 2 experience points.
 
 ### Improving Skills
 
@@ -753,7 +776,9 @@ Languages cost half as much as other advanced skills (rounded up):
 
 ### Improving Primary Stats
 
-Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead equal to the roll value. For example: if you are improving a primary stat from a roll value of r12 to a roll value of r14 it would cost 14 experience points.
+Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead equal to the roll value.
+
+For example: if you are improving a primary stat from a roll value of r12 to a roll value of r14 it would cost 14 experience points.
 
 ##### Table: Primary Stat Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -770,9 +795,9 @@ There is also a second way that primary stats are improved: as your total experi
 
 ### Acquiring Talents
 
-While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability. Talents have varying experience costs,  and they are listed along with their description. Some of them can even have multiple steps similar to stats and skills, such as the [toughness](/Basic/Talents.md#toughness) talent.
+While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability. Talents have varying experience costs which are listed along with their description. Some of them can even have multiple steps similar to stats and skills, such as the [toughness](/Basic/Talents.md#toughness) talent.
 
-Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring that archetype's starting talent.
+Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring another archetype's starting talent so long as all other requirements are met.
 
 Click [here](/Basic/Talents.md) for the list of universal talents.  
 Click [here](/Fantasy/Talents.md) for the list of fantasy talents.

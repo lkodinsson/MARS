@@ -25,14 +25,14 @@ Click [here](/Basic/Talents.md) for the list of universal talents.
 **Cost:** 10 EXP  
 **Requirements:** Max Intelligence 11+, Arcana
 
-After rolling to cast a spell using the arcana skill, you may spend mana to decrease the difficulty of that spell, at a cost of 1 mana per 2 points reduced. This additional mana spent is considered an increase on that spell's mana cost.
+After rolling to cast a spell using the arcana skill, you may spend focus to decrease the difficulty of that spell, at a cost of 1 focus per 2 points reduced. This additional focus spent is considered an increase on that spell's focus cost.
 
 ## Arcane Synthesis
 
 **Cost:** Variable  
 **Requirements:** Max Intelligence 11+, Can cast spells, Trained in Craft
 
-Instead of making a craft check to craft a magic item, you may instead spend mana equal to half its magic cost in silver (rounded up) to craft that item. You still pay for the base item cost. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day. Items crafted using this talent must satisfy all other normal crafting requirements.
+Instead of making a craft check to craft a magic item, you may instead spend focus equal to half its magic cost in silver (rounded up) to craft that item. You still pay for the base item cost. Crafting items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day. Items crafted using this talent must satisfy all other normal crafting requirements.
 
 Use of this ability is a swift action, and it can be used a number of times based on its advancement.
 
@@ -48,14 +48,14 @@ Use of this ability is a swift action, and it can be used a number of times base
 **Cost:** 6 EXP  
 **Requirements:** Max Resolve 11+, Can cast spells
 
-Before casting any spell you may choose to invoke the power of chaos, forcibly altering your spell. If you do, first choose your spell then roll r6 and use the following table to determine how it is changed. You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a fumbled spell that costs 1 mana, and end your turn (if during an encounter, and it is your turn).
+Before casting any spell you may choose to invoke the power of chaos, forcibly altering your spell. If you do, first choose your spell then roll r6 and use the following table to determine how it is changed. You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a fumbled spell that costs 1 focus, and end your turn (if during an encounter, and it is your turn).
 
 ##### Table: Chaotic Magic Modifiers
 | Roll | Modifier |
 |:-:|:-|
 | 6 | +2 to your spellcasting roll |
 | 5 | The spell is considered one success category higher |
-| 4 | The spell costs half mana, rounded up (after adjustments) |
+| 4 | The spell costs half focus, rounded up (after adjustments) |
 | 3 | The spell is cast at one action speed faster (extended spells ignore this effect) |
 | 2 | Cast the spell normally |
 | 1 | -2 to your spellcasting roll |
@@ -83,16 +83,16 @@ At least one craft check must be made to qualify for the free progress. This fre
 
 When you acquire this talent, pick Judgment or Protection. You may only acquire this talent once.
 
-Depending on your choice, you may spend mana instead of stamina when performing certain maneuvers. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, then this applies to defensive maneuvers.
+Depending on your choice, you may spend focus instead of stamina when performing certain maneuvers. If you picked Judgment, this applies to offensive maneuvers. If you picked Protection, then this applies to defensive maneuvers.
 
-Performing a maneuver in this way costs mana equal to that maneuver's stamina cost plus 1, and gives you a +1 bonus to all rolls made with that maneuver. This talent can only be used to perform learned maneuvers, and not improvised maneuvers.
+Performing a maneuver in this way costs focus equal to that maneuver's stamina cost plus 1, and gives you a +1 bonus to all rolls made with that maneuver. This talent can only be used to perform learned maneuvers, and not improvised maneuvers.
 
 ## Divine Devotion
 
 **Cost:** Variable  
 **Requirements:** Max Resolve 11+, Trained in Faith
 
-Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty reduced by 2. If that spell was provided to you as a bonus spell from your specialization, it is reduced by 4 instead and with half the mana cost (rounded up).
+Before casting any spell using the faith skill, you may choose to request assistance from the divine in casting that spell. If you do, that spell has its difficulty reduced by 2. If that spell was provided to you as a bonus spell from your specialization, it is reduced by 4 instead and with half the focus cost (rounded up).
 
 This ability can be used a number of times based on its advancement.
 
@@ -108,19 +108,19 @@ This ability can be used a number of times based on its advancement.
 **Cost:** 6 EXP  
 **Requirements:** Max Intelligence 11+ or Max Resolve 11+, Can cast spells
 
-The lowest degree of success that you can get with spells that target yourself or your own equipment is a graze instead of a fail. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the mana cost of that spell.
+The lowest degree of success that you can get with spells that target yourself or your own equipment is a graze instead of a fail. Additionally, if you get a critical success with a spell that targets yourself or your own equipment, refund half of the focus cost of that spell.
 
 ## Esoteric Will
 
 **Cost:** 10 EXP  
 **Requirements:** Max Resolve 11+, Can cast spells
 
-You may cast spells putting your mana into the negative. If you do, make a willpower check versus a difficulty equal to your negative mana. Make this check after casting a spell in this way.
+You may cast spells putting your focus into the negative. If you do, make a willpower check versus a difficulty equal to your negative focus. Make this check after casting a spell in this way.
 
 ***Critical:*** Nothing bad happens.   
 ***Success:*** You lose 1 health.  
-***Graze:*** You lose health equal to half that spell's mana cost, rounded up, and cannot cast the same spell until you take a short rest.  
-***Fail:*** You lose health equal to that spell's mana cost, and cannot cast any spells until you take a long rest.
+***Graze:*** You lose health equal to half that spell's focus cost, rounded up, and cannot cast the same spell until you take a short rest.  
+***Fail:*** You lose health equal to that spell's focus cost, and cannot cast any spells until you take a long rest.
 
 ## Extra Spell
 
@@ -144,21 +144,21 @@ This talent can be taken multiple times.
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Max Resolve 11+, Can cast spells
 
-When you become unconscious or stunned, instead of immediately losing concentration on spells, you may instead attempt to maintain concentration. If you do, roll as if you were casting that spell. Use the lowest of that roll and your original roll to determine continued concentration on that spell.
+When you become unconscious, instead of immediately losing concentration on spells, you may attempt to maintain concentration is if you were stunned. You may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained. Additionally, you do not lose concentration on spells when you become stunned, and gain advantage to maintain concentration against other effects that would cause you to lose concentration on a spell.
 
 ## Magic Resistance
 
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 13+
 
-Whenever a spell that requires concentration is applying an effect to you, every 6s (1 round) you can make an additional check to resist that spell. Additionally, you are always aware of the location of the source of spells as they apply their effects to you, even when they would normally be hidden to you.
+Whenever a spell that requires concentration is applying an effect to you, every round you can make an additional check to resist that spell. Additionally, you are always aware of the direction that a spell is coming from as it applies to you.
 
 ## Mental Balance
 
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 13+, Can cast spells
 
-You can control two spells that require concentration instead of one.
+You can maintain concentration on two spells instead of one.
 
 ## Metamagic
 
@@ -167,14 +167,14 @@ You can control two spells that require concentration instead of one.
 
 When you acquire this talent you will choose a metamagic category from the table below. This talent can be taken multiple times (once for each category).
 
-Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must make adjustments to that spell to pay for the metamagic: a mana cost adjustment and a spellcasting difficulty adjustment. You will apply both of these adjustments, per each use of metamagic.
+Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must make adjustments to that spell to pay for the metamagic: a focus cost adjustment and a spellcasting difficulty adjustment. You will apply both of these adjustments, per each use of metamagic.
 
-Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the mana cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
+Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the focus cost or spellcasting difficulty can only be applied half this many times (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
 
 Spells cannot be adjusted by metamagics that change features they do not have. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, for it would result in no change.
 
 ###### Table: Metamagic Categories & Modifiers
-| Metamagic | Mana Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
+| Metamagic | Focus Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
 |:-|:-:|:-:|:-|
 | Bloodied | -1 | +1 | The spell causes you to lose 2 health |
 | Channelled | -1 | -1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |

@@ -48,27 +48,27 @@ Most magic gear requires attunement to provide their effects, and may do so cont
 | Gloves of Telekinesis | Gloves (5cp) | 35sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 7 |
 | Mask of Water Breathing | Mask (1sp) | 101sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 |
 | Spectacles of Sight | Glasses (2sp) | 37sp | [Sight](/Fantasy/Spells.md#sight) | 7 |
-| Sunrod | Small Iron Rod (1kg) (1sp) | 36sp | [Light](/Fantasy/Spells.md#light) | 7 |
+| Sunrod | Small Iron Rod (½kg) (1sp) | 36sp | [Light](/Fantasy/Spells.md#light) | 7 |
 
 ### Magic Weapons
 
-Magic weapons require attunement to provide their effects, and may do so continuously. They deal half magical damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
+Magic weapons require attunement to provide their effects, and may do so continuously. They deal half damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
 
 All magic weapons cost exactly 100sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
 
 ##### Table: Magic Weapons
 | Name | Base Item | Price | Spell |
 |:-|:-:|:-:|:-:|
-| Arcane Crossbow | Crossbow | 116sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
-| Chilling Battleaxe | Battleaxe | 108sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
-| Flaming Longsword | Longsword | 108sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
-| Lightning Warhammer | Warhammer | 108sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
-| Necrotic Dagger | Dagger | 105sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
-| Radiant Warstaff | Warstaff | 108sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
+| Arcane Crossbow | Crossbow (16sp) | 116sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
+| Chilling Battleaxe | Battleaxe (8sp) | 108sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
+| Flaming Longsword | Longsword (8sp) | 108sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
+| Lightning Warhammer | Warhammer (8sp) | 108sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
+| Necrotic Dagger | Dagger (5sp) | 105sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
+| Radiant Warstaff | Warstaff (8sp) | 108sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
 
 ### Magic Armour
 
-Magic armour requires attunement to provide their effects, and may do so continuously. Magical armour allows you to use your damage reduction from armour to prevent magic damage. The armour still retains all of its other features.
+Magic armour requires attunement to provide their effects, and may do so continuously. Magical armour allows you to use your damage reduction from armour to prevent elemental damage. The armour still retains its other features, but loses its weaknesses.
 
 All magic armour costs exactly 100sp more than their base item counterpart. Only body armour can be enchanted with this effect.
 
@@ -76,7 +76,7 @@ All magic armour costs exactly 100sp more than their base item counterpart. Only
 
 Potions are single use items that provide a magic effect when consumed. They can be used personally or applied to another character or object. Normally this requires the other character to be either willing or unconscious. Alternatively, you can throw the potion at a target as an improvised ranged weapon, which causes its effects to occur upon impact. When consumed or thrown it is used as a swift action, when poured out onto the ground or an object, it takes a standard action.
 
-When a potion applies the effects of a spell, it applies it at a fixed spellcasting roll. This is done instead of rolling a spellcasting skill for that spell effect, as the effect is guaranteed and no spell is actually cast. This is true even for potions that are thrown to inflict their effects. Potions that apply continuous effects do so without requiring attunement, but a object or creature can only be under the continuous effects of a single potion at a time.
+When a potion applies the effects of a spell, it applies it at a fixed spellcasting roll. This is done instead of rolling a spellcasting skill for that spell effect, as no spell is actually cast and the effect is guaranteed. This is true even for potions that are thrown to inflict their effects. Potions that apply continuous effects do so without requiring attunement, but an object or creature can only be under the continuous effects of a single potion at a time.
 
 All potions have the same weight: ½kg.
 

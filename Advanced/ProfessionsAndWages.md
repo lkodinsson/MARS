@@ -22,7 +22,7 @@ The average person makes money assuming their average roll is a 7, while special
 
 The following table provides examples at each difficulty breakpoint, rather than for all possible rolls:
 
-##### Table: Fantasy Wages
+##### Table: Fantasy Wages, Minus Cost of Living
 | Roll | Income/Day | Income/Week | Income/Month<br/>(4 Weeks) |
 |:-:|:-:|:-:|:-:|
 | 7 | 4cp | 2sp 8cp | 11sp 2cp |

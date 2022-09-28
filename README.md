@@ -16,6 +16,8 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Character Abilities
 	* [Talents](/Basic/Talents.md)
 	* [Maneuvers](/Basic/Maneuvers.md)
+* Items and Equipment
+	* [Item Crafting](/Basic/ItemCrafting.md)
 
 ### Fantasy
 
@@ -33,7 +35,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Items and Equipment
 	* [Equipment](/Fantasy/Equipment.md)
 	* [Magic Equipment](/Fantasy/MagicEquipment.md)
-	* [Item Crafting](/Fantasy/ItemCrafting.md)
+	* [Magic Item Crafting](/Fantasy/MagicItemCrafting.md)
 	* [Artifact Equipment](/Fantasy/ArtifactEquipment.md)
 
 # Game Mastering

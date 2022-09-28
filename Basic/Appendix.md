@@ -16,7 +16,7 @@
 ## Challenge Difficulties
 
 ##### Table: Roll vs Difficulty as Outcomes, Expanded
-| Roll | 7 (Moderate) | 10 (Hard) | 14 (Challenging) | 19 (Ambitious) | 25 (Absurd) | 32 (Improbable) | 40 (Impossible) |
+| Roll | 7 (Easy) | 10 (Moderate) | 14 (Hard) | 19 (Challenging) | 25 (Ambitious) | 32 (Absurd) | 40 (Improbable) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
 | 2 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
@@ -66,78 +66,78 @@ The following tables are example tasks at various difficulties for some of the b
 ##### Table: Acrobatics Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Squeezing through a tight space<br/>as a Small sized character | 5 (Easy) |
-| Balancing on slippery surface | 7 (Moderate) |
-| Squeezing through a tight space<br/>as a Medium sized character | 7 (Moderate) |
-| Falling 3m safely | 7 (Moderate) |
-| Walking across a beam | 7 (Moderate) |
-| Falling 5m safely | 10 (Hard) |
-| Falling 7m safely | 14 (Challenging) |
-| Squeezing through a tight space<br/>as a Large sized character | 14 (Challenging) |
-| Walking a tightrope | 14 (Challenging) |
+| Squeezing through a tight space<br/>as a Small sized character | 7 (Easy) |
+| Balancing on slippery surface | 10 (Moderate) |
+| Squeezing through a tight space<br/>as a Medium sized character | 10 (Moderate) |
+| Falling 3m safely | 10 (Moderate) |
+| Walking across a beam | 10 (Moderate) |
+| Falling 5m safely | 14 (Hard) |
+| Falling 7m safely | 19 (Challenging) |
+| Squeezing through a tight space<br/>as a Large sized character | 19 (Challenging) |
+| Walking a tightrope | 19 (Challenging) |
 
 ##### Table: Athletics Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Breaking a rusty lock | 5 (Easy) |
-| Climbing with a rope | 5 (Easy) |
-| Jumping a 3m gap | 7 (Moderate) |
-| Swimming a long distance | 7 (Moderate) |
-| Breaking a normal lock | 10 (Hard) |
-| Jumping a 5m gap | 10 (Hard) |
-| Swimming across an active river | 10 (Hard) |
-| Breaking a sturdy lock | 14 (Challenging) |
-| Climbing a ledge without a rope | 14 (Challenging) |
-| Jumping a 6m gap | 14 (Challenging) |
-| Pushing a small boulder over | 14 (Challenging) |
-| Swimming across a rushing river | 14 (Challenging) |
-| Climbing up a sheer cliff or wall<br/>without the use of rope or tools | 19 (Ambitious) |
-| Jumping a 7m gap | 19 (Ambitious) |
+| Breaking a rusty lock | 7 (Easy) |
+| Climbing with a rope | 7 (Easy) |
+| Jumping a 3m gap | 10 (Moderate) |
+| Swimming a long distance | 10 (Moderate) |
+| Breaking a normal lock | 14 (Hard) |
+| Jumping a 5m gap | 14 (Hard) |
+| Swimming across an active river | 14 (Hard) |
+| Breaking a sturdy lock | 19 (Challenging) |
+| Climbing a ledge without a rope | 19 (Challenging) |
+| Jumping a 6m gap | 19 (Challenging) |
+| Pushing a small boulder over | 19 (Challenging) |
+| Swimming across a rushing river | 19 (Challenging) |
+| Climbing up a sheer cliff or wall<br/>without the use of rope or tools | 25 (Ambitious) |
+| Jumping a 7m gap | 25 (Ambitious) |
 
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Asking simple questions | 5 (Easy) |
-| Reading inscriptions or signs | 7 (Moderate) |
-| Casual conversation | 10 (Hard) |
-| Reading books | 14 (Challenging) |
-| Technical conversation | 19 (Ambitious) |
+| Asking simple questions | 7 (Easy) |
+| Reading inscriptions or signs | 10 (Moderate) |
+| Casual conversation | 14 (Hard) |
+| Reading books | 19 (Challenging) |
+| Technical conversation | 25 (Ambitious) |
 
 ##### Table: Medicine Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Stabilize a dying character | 7 (Moderate) |
-| Staunching a bleeding wound | 10 (Hard) |
-| Treat a resting wounded character | 10 (Hard) |
-| Treat a resting injured character | 14 (Challenging) |
+| Stabilize a dying character | 10 (Moderate) |
+| Staunching a bleeding wound | 14 (Hard) |
+| Treat a resting wounded character | 14 (Hard) |
+| Treat a resting injured character | 19 (Challenging) |
 
 ##### Table: Perception Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Noticing a simple trap | 7 (Moderate) |
-| Tracking something you know of | 7 (Moderate) |
-| Noticing a complex trap | 10 (Hard) |
-| Discerning an obscured identity | 14 (Challenging) |
-| Noticing a magical trap | 14 (Challenging) |
-| Tracking something you don't know of | 14 (Challenging) |
-| Finding a secret door | 19 (Ambitious) |
-| Finding a needle in a hay stack | 25 (Absurd) |
+| Noticing a simple trap | 10 (Moderate) |
+| Tracking something you know of | 10 (Moderate) |
+| Noticing a complex trap | 14 (Hard) |
+| Discerning an obscured identity | 19 (Challenging) |
+| Noticing a magical trap | 19 (Challenging) |
+| Tracking something you don't know of | 19 (Challenging) |
+| Finding a secret door | 25 (Ambitious) |
+| Finding a needle in a hay stack | 32 (Absurd) |
 
 ##### Table: Sleight Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Concealing a small item | 5 (Easy) |
-| Disabling a simple trap | 7 (Moderate) |
-| Opening a simple lock | 7 (Moderate) |
-| Picking a bag or pouch | 7 (Moderate) |
-| Picking an outer pocket | 10 (Hard) |
-| Opening a rusty lock | 10 (Hard) |
-| Disabling a complex trap | 14 (Challenging) |
-| Opening a complex lock | 14 (Challenging) |
-| Concealing a large item | 19 (Ambitious) |
-| Disabling a magical trap | 19 (Ambitious) |
-| Picking an inner pocket | 19 (Ambitious) |
-| Opening a jammed lock | 25 (Absurd) |
+| Concealing a small item | 7 (Easy) |
+| Disabling a simple trap | 10 (Moderate) |
+| Opening a simple lock | 10 (Moderate) |
+| Picking a bag or pouch | 10 (Moderate) |
+| Picking an outer pocket | 14 (Hard) |
+| Opening a rusty lock | 14 (Hard) |
+| Disabling a complex trap | 19 (Challenging) |
+| Opening a complex lock | 19 (Challenging) |
+| Concealing a large item | 25 (Ambitious) |
+| Disabling a magical trap | 25 (Ambitious) |
+| Picking an inner pocket | 25 (Ambitious) |
+| Opening a jammed lock | 32 (Absurd) |
 
 ## Roll Values
 

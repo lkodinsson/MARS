@@ -6,7 +6,7 @@ To cast a spell you must perform the following steps:
 
 1. Wait for the complete action time required to cast that spell.
 2. Roll your spellcasting skill and associated stat versus the spell's difficulty.
-3. Regardless of success, spend mana equal to that spell's cost.
+3. Regardless of success, spend focus equal to that spell's cost.
 4. Perform the effects of that spell based on your degree of success.
 5. The targets (if any) may roll to resist the effects of that spell (if allowed).
 
@@ -20,10 +20,10 @@ Additional spells cast during the same turn get a -2 penalty to cast for each sp
 
 Even though there are several spellcasting skills, they do share some spells. Spells will have a list of specializations that are required to learn them. Most spells have several specializations in which they are usable. When you become trained in one of the spellcasting skills, you also will pick a specialization of that skill. Unless otherwise stated, whenever you advance in a spellcasting skill, you will learn a new spell to cast with that skill. Similarly, when your character starts with a spellcasting skill, they start with spells known in the same way based on your advancement.
 
-Spells are broken down into tiers which determine both their difficulty to cast, and at what skill rank they are allowed to be learned. All spells of the same tier have the same base mana cost and spellcasting difficulty. Although this is the primary determining factor, some spells have additional rules allowing you to cast them differently which may or may not modify these values. These modifications only change how the spell is cast, and not what tier they belong to.
+Spells are broken down into tiers which determine both their difficulty to cast, and at what skill rank they are allowed to be learned. All spells of the same tier have the same base focus cost and spellcasting difficulty. Although this is the primary determining factor, some spells have additional rules allowing you to cast them differently which may or may not modify these values. These modifications only change how the spell is cast, and not what tier they belong to.
 
 ##### Table: Spell Tiers
-| Tier | Tier Name | Mana Cost | Spellcasting Difficulty |
+| Tier | Tier Name | Focus Cost | Spellcasting Difficulty |
 |:-:|:-:|:-:|:-:|
 | 1 | Cantrip | 1 | 7 |
 | 2 | Lesser | 2 | 10 |
@@ -45,10 +45,10 @@ The highest tier spell you can learn is determined by the dice step you are adva
 | r18 | Expert | 4 (Heroic) |
 | r20 | Master | 4 (Heroic) |
 
-## Magical Damage
+## Elemental Damage
 
-Spells may deal various types of *magical damage*. By default, all magical damage bypasses damage reduction, unless it is blocked. Magical damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of magical damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
+Spells may deal various types of *elemental damage*. By default, all elemental damage bypasses normal damage reduction, unless it is blocked. Elemental damage types are anything that is not specifically listed as physical damage (blunt, piercing, and slashing). The types of elemental damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
 
 ## Concentration
 
-Some spells will have a listed duration with *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the mana cost of that spell to renew its duration.
+Some spells will have a listed duration with *concentration* or some other condition listed. This means that the spell will last either until the duration is met, or the condition is fulfilled. Spells requiring concentration last as long as you decide to maintain concentration on that spell, until the duration is exceeded, or you become stunned or unconscious. If any other condition is listed, then the spell ends as soon as that condition is met or broken. If a concentration spell ends while you are still maintaining concentration, you may spend the focus cost of that spell to renew its duration.
