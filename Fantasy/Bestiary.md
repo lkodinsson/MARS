@@ -83,7 +83,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 **STR** 7 (r12+1), **DEX** 7 (r12+1), **INT** 5 (r10), **RES** 5 (r10)  
 **Languages** Common (native)  
-**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup>, [Athletics](/Basic/PHB.md#athletics-str) +4 (r8), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
+**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup> (Noisy), [Athletics](/Basic/PHB.md#athletics-str) +4 (r8), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
 **Talents** [Toughness (+10)](/Basic/Talents.md#toughness)
 
 ---
@@ -183,7 +183,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **STR** 10 (r16+2), **DEX** 6 (r14-1), **INT** 9 (r16+1), **RES** 7 (r14)  
 **Languages** Common (native), minotaur (native), undercommon (fluent)  
 **Abilities** Eidetic Memory, Natural Armour: Horns, Strong Back  
-**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup>, [Athletics](/Basic/PHB.md#athletics-str) +8 (r16), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +6 (r12), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
+**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup> (Noisy), [Athletics](/Basic/PHB.md#athletics-str) +8 (r16), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +6 (r12), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
 **Talents** [Toughness (+22)](/Basic/Talents.md#toughness)
 
 ---

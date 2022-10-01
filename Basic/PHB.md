@@ -634,15 +634,17 @@ At some point during an adventure you may find yourself low on your resources (h
 | Resource | Short Rest | Long Rest |
 |:-|:-:|:-:|
 | Health | None | 1 |
-| Endurance | Minimum<br/>Fortitude | Half of<br/>Maximum<br/>Fortitude |
-| Stamina | Minimum<br/>Initiative | Half of<br/>Maximum<br/>Initiative |
-| Focus | Minimum<br/>Willpower | Half of<br/>Maximum<br/>Willpower |
+| Endurance | Min FORT | Max FORT ×½ |
+| Stamina | Min INIT | Max INIT ×½ |
+| Focus | Min WILL | Max WILL ×½ |
 
 You can calculate the minimum of a stat by counting the number of dice you would roll and then adding any bonuses.
 
-Characters can only physically rest so often and are limited to a number of rests per day. A long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short rests are optional, and a character may take up to two short rests each day.
+For example: If you have a Fortitude of r22+1, that would be a ten-sided-die and a twelve-sided-die. 2 dice, plus the modifier of plus 1, and the minimum roll is a 3. 
 
-Abilties that can be used a number of times per rest are restored after a complete long rest.
+If the amount of a resource recovered during a rest would be greater than the maximum amount you can have of that resource type, it would recover that amount instead.
+
+For example: If you have a maximum Stamina of 10, but half your maximum Initiative is 12, then you will only ever recover up to 10 Stamina during a long rest.
 
 ### Short Rest
 
@@ -656,9 +658,15 @@ A long rest requires about eight hours of sleep. If a long rest is interrupted p
 
 Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of another character performing a long rest by using the medicine skill against a difficulty of 10 (moderate). If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
 
+Abilties that can be used a number of times per rest are restored after a complete long rest.
+
 For the purpose of recovering resources, any short rests not taken during the day are considered taken during a long rest.
 
 For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short rest. If you didn't take any short rests during the day, then it would be as if all of your rests were combined.
+
+### Rest Limitations
+
+Characters can only physically rest so often and are limited to a number of rests per day. A long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short rests are optional, and a character may take up to two short rests each day.
 
 # Creating a Character
 

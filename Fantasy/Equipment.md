@@ -121,7 +121,7 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Dagger | 5sp | STR+r4 Piercing | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/40m |
-| Dueling Sword | 5sp | STR+r6 Piercing<br/>or Slashing | +8 | Finesse | 1kg | Parry r6, Swift |
+| Dueling Sword | 8sp | STR+r6 Piercing<br/>or Slashing | +8 | Finesse | 1kg | Bypass 1, Parry r6, Swift |
 | Parrying Dagger | 5sp | STR+r4 Piercing | +8 | Finesse | ½kg | Parry r8, Swift |
 
 ##### Table: Martial Weapons
