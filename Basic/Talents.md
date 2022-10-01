@@ -3,8 +3,9 @@
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
-| [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
+| [Always Prepared](#always-prepared) | 8, 10, 12 | INT 11+, Sleight |
 | [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat skill |
+| [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
 | [Deduction](#deduction) | 6 | INT 11+, Perception |
 | [Diehard](#diehard) | 8 | RES 13+ |
@@ -23,7 +24,7 @@
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
 | [Prepared Defense](#prepared-defense) | 6 | DEX 11+ or RES 11+, Any combat skill |
 | [Rage](#rage) | 6, 8, 10, 12 | STR 11+, RES 11+, Any combat skill |
-| [Second Wind](#second-wind) | 6, 8, 10, 12 | STR 11+, RES 11+, Athletics |
+| [Second Wind](#second-wind) | 6, 8, 10 | STR 11+, RES 11+, Athletics |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 8 | INT 11+, Charisma |
 | [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
@@ -33,10 +34,19 @@ Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
 
 ## Always Prepared
 
-**Cost:** 8 EXP  
+**Cost:** Variable  
 **Requirements:** Max Intelligence 11+, Trained in Sleight
 
-Once per day, you may find any mundane item amongst your belongings as though you have always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent.
+You may spend 2 focus to find any mundane item amongst your belongings as though you have always had it, but you must pay for the item normally. This ability can be used a number of times based on its advancement.
+
+The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent. Any items paid for with this ability cost 10% less.
+
+##### Table: Always Prepared Steps & Cost
+| Step Cost | Total Cost | Number of Uses | Maximum Cost |
+|:-:|:-:|:-:|:-:|
+| 8 | 8 | 1/rest | 5 |
+| 10 | 18 | 2/rest | 7 |
+| 12 | 30 | 3/rest | 10 |
 
 ## Ambidexterity
 
@@ -50,6 +60,22 @@ Attacks made with a different weapon than the last weapon you used in the same r
 |:-:|:-:|:-:|
 | 8 | 8 | -3 |
 | 12 | 20 | -2 |
+
+## Craft Preparation
+
+**Cost:** Variable  
+**Requirements:** Max Intelligence 11+, Trained in Craft
+
+You always have craft materials available as long as you have your belongings, and all new crafts are made with partial progress for free.
+
+At least one craft check must be made to qualify for the free progress. This free bonus is applied before the results of that craft roll, but only if that roll succeeds or better (and is paid for).
+
+##### Table: Craft Preparation Steps & Cost
+| Step Cost | Total Cost | Free Progress |
+|:-:|:-:|:-:|
+| 6 | 6 | 4% |
+| 8 | 14 | 7% |
+| 10 | 24 | 10% |
 
 ## Danger Sense
 
@@ -86,7 +112,7 @@ When you acquire this talent you will learn a new maneuver for a combat skill yo
 
 You may spend 2 focus to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
 
-##### Table: Magical Luck Steps & Cost
+##### Table: Fortune's Favour Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
 |:-:|:-:|:-:|
 | 6 | 6 | 1/rest |
@@ -225,7 +251,7 @@ Being in a rage requires that you maintain concentration on the rage. During any
 **Cost:** Variable  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in Athletics
 
-Once per turn as a free action you may spend 2 focus to recover half of your endurance. This ability can be used a number of times based on its advancement.
+Once per turn as a free action you may spend 2 focus to recover endurance equal to half of your maximum. This ability can be used a number of times based on its advancement.
 
 ##### Table: Second Wind Steps & Cost
 | Step Cost | Total Cost | Number of Uses |

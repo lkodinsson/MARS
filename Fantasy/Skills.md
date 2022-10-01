@@ -7,7 +7,7 @@
 | [Arcana](#arcana-int) | Intelligence |
 | [Faith](#faith-res) | Resolve |
 | [Ki](#ki) | Variable |
-| [Power](#power-res) | Resolve |
+| [Sorcery](#sorcery-res) | Resolve |
 
 Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.  
 Click [here](/Fantasy/Spellcasting.md) for the rules on spellcasting.  
@@ -187,23 +187,21 @@ This is the spirit that holds your body and mind together to act as a single for
 | r10 | Proficient | 1 Focus into 3 Endurance |
 | r16 | Accomplished | 1 Focus into 4 Endurance |
 
-## Power (RES)
+## Sorcery (RES)
 
-Power is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of power are more philosophical. Power has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*.
+Sorcery is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of sorcery are more philosophical. Sorcery has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may also choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any of the bonuses of that spellcasting skill.
 
-Sorcerers do not require or use scrolls or spell books. The power they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your power skill. You can take this skill multiple times to learn how to cast different elements. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from.
+Sorcerers do not require or use scrolls or spell books. The magic they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your sorcery skill. You can take this skill multiple times to learn how to cast from different specializations. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the specialization you learned it from.
 
-Sorcerers have it a bit easier than others when it comes to casting spells. As you advance your power skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and focus cost based on your advancement. This reduction only applies to signature spells in the same specialization.
+Sorcerers have it a bit easier than others when it comes to casting spells. As you advance the sorcery skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and focus cost based on your advancement. This reduction only applies to signature spells in the same specialization.
 
-##### Table: Power Signature Spell Difficulty Reduction
+##### Table: Sorcery Signature Spell Difficulty Reduction
 | Roll Value | Step Name | Difficulty<br/>Reduction | Focus Cost<br/>Reduction |
 |:-:|:-|:-:|:-:|
 | r8 | Practiced | -1 | -0 |
 | r12 | Exceptional | -2 | -1 |
 | r16 | Accomplished | -3 | -1 |
 | r20 | Master | -4 | -2 |
-
-Whenever you pick a spell that is usable by multiple elements, it may limit your choices in exactly how that spell is cast. For example, if that spell has multiple magic type choices you may only pick the magic type that corresponds to the specialization that spell was learned from. Other restrictions may be listed as a part of the specialization requirement of that spell.
 
 ### Air
 

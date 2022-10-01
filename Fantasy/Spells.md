@@ -192,7 +192,7 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 **Target:** Self  
 **Duration:** 12 seconds (until used) or 5 minutes (concentration)
 
-This spell functions exactly like the spell [Enhance](#enhance), but is faster to cast and can only be cast on yourself. 
+This spell functions exactly like the spell [Enhance](#enhance), but is faster to cast and can only be cast on yourself.
 
 ## Feather Fall
 
@@ -428,6 +428,8 @@ Communicating in this way does not guarantee an understanding. Creatures must al
 
 You create the illusion of a miniscule object or creature, or various small magical effects (like sparks or flashes of light). This effect originates from a short distance nearby (usually within or near your hands). This effect can be made to interact with any of the senses, and can be felt to have a solid form, weight and odour. Any effects created are of an obviously conjured appearance. The illusion is not strong enough in form to be used for weapons or tools, but can be used to clean very minor messes like dirty clothes, or to apply an altered smell.
 
+***Graze:*** Lasts for half the duration (if not an instantaneous effect), and with half the range.
+
 ## Restoration
 
 **Specializations:** Altruism, Genki, Harmony, Transmutation, Liberty, Light, Yuuki  
@@ -525,7 +527,7 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 **Target:** Self  
 **Duration:** 30 minutes (concentration, range of 100m+)
 
-You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 25m for every 1 your casting roll bypasses the difficulty, and reduced by 25m for every 1 it is below the difficulty.
+You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 15m for every 1 your casting roll bypasses the difficulty, and reduced by 15m for every 1 it is below the difficulty.
 
 ## Sleep
 

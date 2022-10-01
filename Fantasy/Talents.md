@@ -6,7 +6,6 @@
 | [Arcane Precision](#arcane-precision) | 10 | INT 11+, Arcana |
 | [Arcane Synthesis](#arcane-synthesis) | 8, 10, 12 | INT 11+, Can cast spells, Craft |
 | [Chaotic Magic](#chaotic-magic) | 6 | RES 11+, Can cast spells |
-| [Craft Preparation](#craft-preparation) | 6, 8, 10 | INT 11+, Craft |
 | [Divine Axiom](#divine-axiom) | 6 | RES 11+, Faith (Militarist), Any combat skill |
 | [Divine Devotion](#divine-devotion) | 8, 10, 12 | RES 11+, Faith |
 | [Eldritch Infusion](#eldritch-infusion) | 6 | INT 11+ or RES 11+, Can cast spells |
@@ -59,22 +58,6 @@ Before casting any spell you may choose to invoke the power of chaos, forcibly a
 | 3 | The spell is cast at one action speed faster (extended spells ignore this effect) |
 | 2 | Cast the spell normally |
 | 1 | -2 to your spellcasting roll |
-
-## Craft Preparation
-
-**Cost:** Variable  
-**Requirements:** Max Intelligence 11+, Trained in Craft
-
-You always have craft materials available as long as you have your belongings, and all new crafts are made with partial progress for free.
-
-At least one craft check must be made to qualify for the free progress. This free bonus is applied before the results of that craft roll, but only if that roll succeeds or better (and is paid for).
-
-##### Table: Craft Preparation Steps & Cost
-| Step Cost | Total Cost | Free Progress |
-|:-:|:-:|:-:|
-| 6 | 6 | 4% |
-| 8 | 14 | 7% |
-| 10 | 24 | 10% |
 
 ## Divine Axiom
 

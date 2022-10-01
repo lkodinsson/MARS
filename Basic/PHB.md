@@ -17,6 +17,7 @@
 	* [Encounters](#encounters)
 		* [Actions](#actions)
 	* [Damage](#damage)
+		* [Damage Types](#damage-types)
 	* [Effects](#effects)
 	* [Concentration](#concentration)
 	* [Maneuvers](#maneuvers)
@@ -525,17 +526,29 @@ Any damage dealt to a character is taken first to their endurance, and then the 
 
 Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition when applicable. If nonlethal attacks bring a character to negative health equal to their maximum health, then they are given the dying condition.
 
-Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master). For example: breaking a door with an axe would be an athletics or martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
+Damaging items or objects is done by making the relevant skill checks against a difficulty value based on the perceived difficulty to break that item or object (as determined by the Game Master).
+
+For example: breaking a door with an axe would be an Athletics or Martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
+
+## Damage Types
+
+There are three main categories of damage types: *physical*, *elemental*, and *typeless*.
+
+The majority of damage is dealt as physical damage, which has three types: *blunt*, *piercing*, and *slashing*. Most sources of damage will deal one of these three types of damage. 
+
+Most other damage is dealt as elemental damage. By default, all elemental damage bypasses damage reduction unless otherwise specified, or it is blocked. The types of elemental damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
+
+Any time a damage type is not listed as one of the physical or elemental damage types it can be considered typeless damage. Since typeless damage effectively has no type, it will always bypass all damage reduction. Typeless damage is very rare.
 
 # Effects
 
 The duration of any given effect is determined by the source of that effect. Usually this means that most effects are temporary. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent.
 
-Temporary effects that alter your primary stats, do not also alter your resource stats. They only change stats that rely on rolling that primary stat.
+Temporary effects that alter your primary stats, do not also alter your resource stats. They only change derived stats that rely on rolling that primary stat.
 
 For example: A character with a strength of r12 is given an effect with alters their size, increasing their strength by +2. This results in a strength of r12+2, which changes their athletic, fortitude, and damage rolls, but it does not change their maximum health from 12 to 14.
 
-Permanent effects that alter your primary stats do alter your resource stats.
+Permanent effects that alter your primary stats, however, do alter your resource stats.
 
 #### Blind
 
@@ -543,11 +556,13 @@ Blinded characters suffer a disadvantage to all rolls that require that characte
 
 #### Burning
 
-Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time. When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to r4 plus r2 for every degree of burning beyond the first, then the burning effect decreases by 1, until it goes away entirely. Burning 1 would be r4 damage, while burning 3 would be r8 damage. Damage from burning bypasses any damage reduction. Dousing a target in water will completely remove the burning.
+Burning objects are dangerous and likely to cause nearby objects to continue to burn if not contained or extinguished. Burning characters suffer damage over time.
+
+When applied to a character, burning is an effect that has multiple degrees, as specified by a number. If a burning character has burning applied to them, add the burning values together. At the beginning of a burning character's turn, they take fire damage equal to r4 plus r2 for every degree of burning beyond the first, then the burning effect decreases by 1, until it goes away entirely. Burning 1 would be r4 damage, while burning 3 would be r8 damage. Damage from burning bypasses all damage reduction. Dousing a target in water will completely remove the burning.
 
 #### Debilitation
 
-A debilitation is an effect that applies to one of your stats. Debilitated stats when rolled are made with a disadvantage. Multiple debilitations to the same stat do not stack.
+A debilitation is an effect that applies to one of your stats. Debilitated stats are rolled with disadvantage. Multiple debilitations to the same stat do not stack.
 
 #### Dying
 
@@ -559,7 +574,7 @@ Encumbered characters are carrying too much. They get a disadvantage to both str
 
 #### Enhancement
 
-An enhancement is an effect that applies to one of your stats. Enhanced stats when rolled are made with an advantage. Multiple enhancements to the same stat do not stack.
+An enhancement is an effect that applies to one of your stats. Enhanced stats are rolled with advantage. Multiple enhancements to the same stat do not stack.
 
 #### Overencumbered
 
@@ -577,7 +592,7 @@ For example: If you have a sickness of 3 and you take a long rest, you will reco
 
 Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
-If a sickness effect does not specify a duration, that duration is assumed to be 1 week. After reaching this duration the target will attempt a fortitude check to resist the sickness. If successful, the degree of effect is reduced by 1. If no difficulty is specified, it is assumed to be 10.
+If a sickness effect does not specify a duration, that duration is assumed to be 1 week. After reaching this duration the sickened character will roll a fortitude check to resist the sickness. If successful, the degree of effect is reduced by 1. If no difficulty is specified, it is assumed to be 10 (moderate).
 
 #### Stunned
 

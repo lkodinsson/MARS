@@ -1,4 +1,4 @@
-# Equipment
+# Medieval Equipment
 
 * [Currency](#currency)
 * [Adventuring Gear](#adventuring-gear)
@@ -212,7 +212,7 @@ Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon. Reloading the weapon in this way requires the use of both hands. Unless otherwise specified, it takes a swift action to reload the weapon, or a standard action if it is two-handed.
 
-**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half to -2 and -4 (from -4 and -8).
+**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half (rounded up) to -2 and -4 (from -4 and -8).
 
 **Thrown** Attacks can be made as if they were ranged, but the weapon must then be retrieved after use.
 
