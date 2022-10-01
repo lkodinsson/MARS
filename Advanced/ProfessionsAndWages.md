@@ -14,15 +14,15 @@ Any money provided by working a real job is not going to be a lot of money compa
 
 The following values are calculated including any mandatory costs that a character might incur over a given period of time, such as food and shelter.
 
-### Fantasy Wages
+### Medieval Wages
 
-Wages in the fantasy genre are calculated per day, then extrapolated over the period of time that your character is working. How much you make per day is equal to your roll multiplied by 2, then subtracting 10 (to a minimum of 0). This is the total amount of money made in copper. To remove the cost of living from the income calculation, don't subtract the 10 copper. Divide the total by 10 to get that value in silver instead. Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn). For other circumstances, use your average roll (such as performing work over a week or month).
+Wages in the medieval genre are calculated per day, then extrapolated over the period of time that your character is working. How much you make per day is equal to your roll multiplied by 2, then subtracting 10 (to a minimum of 0). This is the total amount of money made in copper. To remove the cost of living from the income calculation, don't subtract the 10 copper. Divide the total by 10 to get that value in silver instead. Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn). For other circumstances, use your average roll (such as performing work over a week or month).
 
 The average person makes money assuming their average roll is a 7, while specialized workers would have an average roll of 10 to 14.
 
 The following table provides examples at each difficulty breakpoint, rather than for all possible rolls:
 
-##### Table: Fantasy Wages, Minus Cost of Living
+##### Table: Medieval Wages, Minus Cost of Living
 | Roll | Income/Day | Income/Week | Income/Month<br/>(4 Weeks) |
 |:-:|:-:|:-:|:-:|
 | 7 | 4cp | 2sp 8cp | 11sp 2cp |
