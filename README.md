@@ -27,13 +27,12 @@ Once you have learned the rules and are ready to create a character, you will ne
 	* [Spellcasting](/Fantasy/Spellcasting.md)
 		* [Spells](/Fantasy/Spells.md)
 		* [Spells Index](/Fantasy/SpellsIndex.md)
-* Items and Equipment
-	* Equipment
-		* [Equipment (Medieval)](/Medieval/Equipment.md)
-		* [Magic Equipment (Fantasy)](/Fantasy/MagicEquipment.md)
-		* [Artifact Equipment (Fantasy)](/Fantasy/ArtifactEquipment.md)
 	* [Item Crafting](/Basic/ItemCrafting.md)
 		* [Magic Item Crafting (Fantasy)](/Fantasy/MagicItemCrafting.md)
+* Items and Equipment
+	* [Equipment (Medieval)](/Medieval/Equipment.md)
+	* [Magic Equipment (Fantasy)](/Fantasy/MagicEquipment.md)
+	* [Artifact Equipment (Fantasy)](/Fantasy/ArtifactEquipment.md)
 
 # Game Mastering
 
@@ -41,9 +40,9 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 ## Reference Material
 
-### Fantasy
-
-* [Bestiary](/Fantasy/Bestiary.md)
+* Bestiary
+	* [Bestiary (Medieval)](/Medieval/Bestiary.md)
+	* [Bestiary (Fantasy)](/Fantasy/Bestiary.md)
 
 # Advanced (Variant) Rules
 
