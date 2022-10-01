@@ -138,6 +138,13 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Warhammer | 8sp | STR+r8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
 | Warstaff | 8sp | STR+r8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |
 
+##### Table: Ranged Weapons
+| Name | Price | Damage | Crit | Type | Weight | Features |
+|:-|:-:|:-:|:-:|:-:|:-:|:-|
+| Sling | 1sp | STR+r6 Blunt | +8 | Ranged | ½kg | Ranged 20m/400m, Reload, Unfit 2m |
+| Shortbow | 5sp | STR+r8 Piercing | +8 | Ranged | 1½kg | Ranged 25m/250m, Two-Handed |
+| Longbow | 12sp | STR+r10 Piercing | +8 | Ranged | 2½kg | Ranged 30m/300m, Two-Handed |
+
 ##### Table: Unarmed Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
@@ -145,13 +152,6 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Hand Wraps | 5cp | STR+r2 Blunt | +4 | Unarmed | ¼kg | Nonlethal, Swift |
 | Claws or Katar | 3sp | STR+r4 Piercing<br/>or Slashing | +8 | Unarmed | ½kg | Bypass 2, Swift |
 | Cestus or Knuckles | 2sp | STR+r4 Blunt | +6 | Unarmed | ½kg | Momentum, Swift |
-
-##### Table: Ranged Weapons
-| Name | Price | Damage | Crit | Type | Weight | Features |
-|:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Sling | 1sp | STR+r6 Blunt | +6 | Ranged | ½kg | Ranged 20m/400m, Reload, Unfit 2m |
-| Shortbow | 5sp | STR+r8 Piercing | +6 | Ranged | 1½kg | Ranged 25m/250m, Two-Handed |
-| Longbow | 12sp | STR+r10 Piercing | +6 | Ranged | 2½kg | Ranged 30m/300m, Two-Handed |
 
 ##### Table: Cross-Skill Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -162,9 +162,9 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Javelin | 2sp | STR+r6 Piercing | +8 | Finesse/Martial/<br/>Ranged | 1kg | Thrown 9m/90m |
 | Shortspear | 5sp | STR+r6 Piercing | +6 | Finesse/Martial/<br/>Ranged | 2kg | Thrown 6m/60m, Versatile |
 | Darts (20) | 5sp | STR+r4 Piercing | +10 | Finesse/Ranged | 1kg | Swift, Thrown 5m/40m |
-| Hand Crossbow | 8sp | r18 Piercing | +10 | Finesse/Ranged | 1½kg | Ranged 15m/150m, Reload, Mechanical |
-| Crossbow | 16sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Ranged 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
-| Siege Crossbow | 24sp | r28 Piercing | +6 | Martial/Ranged | 7kg | Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 1 minute), Mechanical |
+| Hand Crossbow | 10sp | r18 Piercing | +8 | Finesse/Ranged | 1½kg | Ranged 15m/150m, Reload, Mechanical |
+| Crossbow | 20sp | r24 Piercing | +8 | Martial/Ranged | 4kg | Bypass 1, Ranged 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
+| Windlass Crossbow | 40sp | r30 Piercing | +8 | Martial/Ranged | 6kg | Bypass 2, Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 24 seconds), Mechanical |
 | Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/3m, Trip |
 
 ##### Table: Projectile Weapon Ammunition
@@ -173,7 +173,7 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Sling bullets (20) | 5c | 1kg | Sling |
 | Arrows (20) | 2sp | 1kg | Longbow, Shortbow |
 | Bolts (20) | 1sp | ½kg | Crossbow, Hand Crossbow |
-| Siege bolts (20) | 2sp | 1kg | Siege Crossbow |
+| Heavy bolts (20) | 2sp | 1kg | Windlass Crossbow |
 
 ### Improvised Weapons
 
@@ -216,7 +216,7 @@ Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Thrown** Attacks can be made as if they were ranged, but the weapon must then be retrieved after use.
 
-**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with -2 to hit, and deals half damage. If successful, the target can use acrobatics to resist being tripped or drop prone.
+**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with -2 to hit, and deals half damage. If successful, the target can use agility to resist being tripped or drop prone.
 
 **Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get -1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand.
 
@@ -238,7 +238,7 @@ Weapons have several properties: *armour rating*, *damage reduction*, *strength 
 | Scalemail | 30sp | 3 | 3 | 12 | Body | Metal | 12kg | Noisy |
 | Chainmail | 30sp | 3 | 4 | 12 | Body | Metal | 12kg | Noisy, Weakness vs Piercing |
 | Brigandine | 40sp | 3 | 4 | 14 | Body | Metal | 14kg | - |
-| Breastplate | 40sp | 3 | 5 | 12 | Body | Metal | 12kg | Open Back |
+| Breastplate | 40sp | 3 | 5 | 12 | Body | Metal | 12kg | Weak Back |
 | Cuirass | 50sp | 3 | 5 | 14 | Body | Metal | 14kg | - |
 | Platemail | 60sp | 4 | 5 | 16 | Body | Metal | 16kg | Noisy |
 
@@ -284,13 +284,13 @@ Weapons have several properties: *armour rating*, *damage reduction*, *strength 
 
 **Locking Grip** You have advantage against attempts to disarm.
 
-**Noisy** Wearing any amount of noisy armour gives you disadvantage to stealth while moving.
-
-**Open Back** Halve your total damage reduction provided by armour when attacked from behind.
+**Noisy** Wearing any amount of noisy armour gives you disadvantage to agility while attempting to move silently.
 
 **Parry** When you use this item to perform a parry action, add the given value to your deflection.
 
-**Weakness** Halve your total damage reduction provided by armour when attacked by the given damage type.
+**Weak Back** Halve your total damage reduction provided by armour when attacked from behind.
+
+**Weakness vs Type** Halve your total damage reduction provided by armour when attacked by the given damage type.
 
 ## Equipment Properties
 

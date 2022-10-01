@@ -3,15 +3,15 @@
 ##### Table: Fantasy Backgrounds
 | Name | Skill Modifiers |
 |:-|:-|
-| [Acolyte](#acolyte) | Contacts +1, Perception +1 |
+| [Acolyte](#acolyte) | Contacts +1, Knowledge +1 |
 | [Aristocrat](#aristocrat) | Charisma +1, Contacts +1 |
 | [Artisan](#artisan) | Charisma +1, Craft +1 |
 | [Charlatan](#charlatan) | Charisma +1, Sleight +1 |
-| [Entertainer](#entertainer) | Acrobatics +1, Charisma +1 |
+| [Entertainer](#entertainer) | Agility +1, Charisma +1 |
 | [Farmer](#farmer) | Athletics +1, Wild Empathy +1 |
-| [Orphan](#orphan) | Contacts +1, Stealth +1 |
-| [Scholar](#scholar) | Knowledge or Lore +1, Perception +1 |
-| [Scoundrel](#scoundrel) | Sleight +1, Stealth +1 |
+| [Orphan](#orphan) | Agility +1, Contacts +1 |
+| [Scholar](#scholar) | Knowledge +1, Perception +1 |
+| [Scoundrel](#scoundrel) | Agility +1, Sleight +1 |
 | [Soldier](#soldier) | Athletics +1, Medicine +1 |
 | [Woodsman](#woodsman) | Medicine +1, Perception +1 |
 
@@ -21,7 +21,7 @@ An assistant or follower of an organization or discipline. Acolytes are typicall
 
 ### Skill Modifiers
 
-Contacts +1, Perception +1
+Contacts +1, Knowledge +1
 
 ## Aristocrat
 
@@ -53,7 +53,7 @@ Whether through art, music, or fancy tricks, an entertainer can put on a good sh
 
 ### Skill Modifiers
 
-Acrobatics +1, Charisma +1
+Agility +1, Charisma +1
 
 ## Farmer
 
@@ -69,7 +69,7 @@ You don't know your parents or where you originally come from. You had several f
 
 ### Skill Modifiers
 
-Contacts +1, Stealth +1
+Agility +1, Contacts +1
 
 ## Scholar
 
@@ -77,7 +77,7 @@ Scholars are tasked with the collection of many literary topics ranging from the
 
 ### Skill Modifiers
 
-Knowledge or Lore +1, Perception +1
+Knowledge +1, Perception +1
 
 ## Scoundrel
 
@@ -85,7 +85,7 @@ Cheating and stealing is the name of the game. Unlike your everyday charlatan, t
 
 ### Skill Modifiers
 
-Sleight +1, Stealth +1
+Agility +1, Sleight +1
 
 ## Soldier
 

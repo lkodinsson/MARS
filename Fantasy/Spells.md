@@ -22,7 +22,7 @@
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
 | [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch | One object<br/>or surface | 30 minutes | Yes | None |
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
-| [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Acrobatics<br/>and Fortitude |
+| [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Agility<br/>and Fortitude |
 | [Harm](/Fantasy/Spells.md#harm) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch<br/>or 20m | One creature | 5 minutes | No | Willpower |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
@@ -82,11 +82,13 @@ For example: If your target was Medium sized and you increased it to Huge (three
 
 You take the form of any animal you can imagine. Specifically, you transform into any beast type creature. For each size category that beast has in difference to yours, increase the focus cost of this spell by 1 and the difficulty by 2. Additionally, if that creature is a magical beast, treat that as an additional difference in size in terms of calculating the cost and difficulty.
 
-For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 focus with a difficulty of 14. This would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
+For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 focus with a difficulty of 14.
 
 While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making rolls (such as when rolling deflection, evasion, fortitude, and willpower).
 
 Additionally, you acquire any natural weapons, abilities (but not talents), and even movement speed that beast might have. While in this form your physical equipment still exists and can still provide magical effects from attunement, but you are otherwise no longer considered to have your weapons and armour equipped.
+
+For example: If you transformed into a bear, this would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
 
 As an animal you lose the ability to speak normally and cast other spells. You may still speak to other animals that are similar to you and cast this spell to transform directly into other animals. Casting this spell in this way is treated is if casting it from your normal form.
 
@@ -104,7 +106,7 @@ As an animal you lose the ability to speak normally and cast other spells. You m
 **Target:** One or more creatures or objects  
 **Resist:** Deflection (for half damage)
 
-You shoot arcane missiles dealing r8+1 arcane damage. The missiles *always* hit their targets, but deal half damage if it grazes or fails against a target's resistance. If multiple missiles hit the same target, they deal their damage together in one roll.
+You shoot arcane missiles each dealing r8+1 arcane damage. These missiles *always* hit their targets, but deal half damage if they graze or fail against a target's resistance. If multiple missiles hit the same target, they deal their damage together in one roll.
 
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
@@ -122,7 +124,7 @@ You shoot arcane missiles dealing r8+1 arcane damage. The missiles *always* hit 
 **Target:** One object or surface  
 **Duration:** 30 minutes (concentration, range of 30m)  
 
-You touch an object or surface, causing it to consume nearly all light in a 5m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness radius. This spell and the light spell cancel each other out.
+You touch an object or surface, causing it to consume nearly all light in a 6m radius. In a dark area like an unlit cave, the darkness is unnoticeable. Creatures who require light to see are treated as blinded while they are within the darkness. This spell and the light spell cancel each other out.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
@@ -222,9 +224,9 @@ This spell's focus cost and difficulty increase by 1 for each additional creatur
 **Range:** 10m  
 **Target:** One point  
 **Duration:** 5 minutes  
-**Resist:** Acrobatics (vs grease), Fortitude (vs ignition)
+**Resist:** Agility (vs grease), Fortitude (vs ignition)
 
-Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Acrobatics or fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area.
+Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Agility or fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area.
 
 The grease can be ignited, which gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's focus cost by 1 and difficulty by 2.
 
@@ -295,7 +297,7 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 **Target:** One creature or object  
 **Resist:** Deflection (graze for half damage)
 
-You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
+You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained in or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
 
 ***Critical:*** Deal r20 electric damage and the target becomes stunned.  
 ***Success:*** Deal r14 electric damage.  
@@ -330,7 +332,7 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Target:** One object or surface  
 **Duration:** 1 hour (concentration, range of 30m)
 
-You touch an object or surface, causing it to radiate light like a torch in a 5m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light radius. This spell and the darkness spell cancel each other out.
+You touch an object or surface, causing it to radiate light like a torch in a 6m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light. This spell and the darkness spell cancel each other out.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
@@ -365,7 +367,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 **Target:** One weapon  
 **Duration:** 5 minutes (concentration)
 
-You touch a weapon, granting it magical properties. It deals half of its damage as a magical damage type of your choice (this means it bypasses half damage reduction, rounded up). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
+You touch a weapon, granting it magical properties. It deals half of its damage as an elemental damage type of your choice (this means it bypasses half damage reduction, rounded up). Based on the chosen damage type, the weapon also applies an additional effect when it deals critical hits. The lethal parts of the weapon visually emanate a magical effect based on the elemental damage type chosen. If this spell is used on a ranged weapon that requires ammunition, that weapon will generate magical ammunition as the weapon is used or armed as appropriate.
 
 ***Arcane:*** The attacked target loses r4 focus.  
 ***Cold:*** The attacked target loses r4 stamina.  
@@ -409,7 +411,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 
 Allows you to speak a message (one or two sentences) telepathically into the mind of another creature. You may choose to allow them to respond. At any point the creature you communicate with may resist to not hear what you say to them (and end the spell), or resist to force you to listen to them. In any case, you may choose to allow a single message back and forth, or concentrate to allow for a longer conversation.
 
-Communicating in this way does not guarantee an understanding. Creatures must be able to speak the language in the received message in order to understand it. Optionally, messages can be sent in the form of a mental image. This improves the chance of an understanding, but it is not guaranteed.
+Communicating in this way does not guarantee an understanding. Creatures must also be able to speak the language in the received message in order to understand it. Optionally, messages can be sent in the form of a mental image. This improves the chance of an understanding, but it is not guaranteed.
 
 ***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
@@ -595,7 +597,7 @@ You make a simple request of a creature. If that creature can understand what yo
 **Duration:** Instant or 5 minutes (concentration, range)  
 **Resist:** Fortitude
 
-You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even moving and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength. Any objects can only move a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
+You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even carrying and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength. Any objects can only be moved a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
 
 ***Graze:*** Concentration cannot be maintained on the object.
 
@@ -629,6 +631,6 @@ Allows the targets to breath underwater the same as they breath air above water,
 **Duration:** Instant  
 **Resist:** Fortitude
 
-Soaks a target in water and optionally knocks the target back a distance up to 3m, by generating a stream of water from your body. Can be used from a source of water instead of your body thus allowing you to project a stream with twice the range and knockback, but costs 1 addditional focus and with 2 higher difficulty. This spell can also be used to stop objects or creatures from burning by soaking them in water. When used on grease or oil, however, it will instead increase the radius by 1m and not stop any burning.
+Soak a target with a stream of water generated from your body, optionally pushing it a distance up to 3m. This stream of water can be generated from a body of water (up to a distance away based on the range of this spell) instead of your body. Doing so gives the stream twice the range and pushback, but costs 1 addditional focus and with 2 higher difficulty. This spell can also be used to put out fires and stop objects or creatures from burning. When used on grease or oil fires it will not stop any burning.
 
-***Graze:*** The target can only be knocked back half the distance (rounded up).
+***Graze:*** The target can only be pushed half the distance (rounded up).

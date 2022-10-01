@@ -22,13 +22,13 @@ You have a special magic object that is yours, and yours alone. It could be a ma
 
 You cannot see with your eyes, but through special circumstances or a lifetime of blindness you have learned to "see" with your other senses. Light and darkness make no difference to you, but exceptional smells or sounds may "blind" you.
 
-## Eidetic Memory
-
-Things you have seen, especially written words, are permanently available to you, as you will always remember them. This is particularly useful if those visual cues help you perform certain skills or abilities.
-
 ## Efficient Sleeper
 
 You need to only spend half as much time as anyone else to get the same benefits of rest.
+
+## Eidetic Memory
+
+Things you have seen, especially written words, are permanently available to you and you will always remember them. This is particularly useful if those visual cues help you perform certain skills or abilities.
 
 ## Involuntary Transformation
 

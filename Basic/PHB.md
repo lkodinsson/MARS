@@ -28,15 +28,23 @@
 
 # The Basics
 
-MARS features many similarities to other role-playing game systems. You will control a character that has several numerical and abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
+MARS features many similarities to other role-playing game systems. You will control a character that is defined by several abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
 
-If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
+As a player you will interact inside a world controlled by a Game Master who determines certain properties about the world, such as the genre and setting. The genre of a world determines a lot of its core features like what types of abilities characters can use, what types of characters you will expect to play as and interact with, and what type of technology is present in that world.
 
 ### Roll Value
 
-Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, the resulting equation may get long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
+Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, and roll value is more of a shorthand representation. Normal dice notation may become long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
-Roll value will typically have one or two numbers like so: *r14+1*. Where the first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. The exception to this, is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die. Whenever you add multiple roll values together they merge into a combined roll value: *r14* plus *r8* equals *r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
+Roll value will typically have one or two numbers: *r14+1*. The first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size.
+
+For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
+
+There is only one exception to interpreting roll value, which is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die.
+
+For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
+
+Whenever you add multiple roll values together they merge into a combined roll value: *r14* plus *r8* equals *r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
 | Roll Value | Dice to Roll |
 |:-:|:-|
@@ -59,11 +67,11 @@ This has the added benefit of clearly indicating the maximum value you can roll 
 
 ### Stats
 
-Stats represent the innate capabilities of a character. The two types of stats are *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are the generic properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources (usually primary stats).
+Stats represent the innate capabilities of a character. There are two types of stats: *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are more specific properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources.
 
 ### Skills
 
-Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. The types of advanced skills that a character can learn are mostly dependant on the type of genre you are playing. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
+Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. Some of the advanced skills that a character can learn depend on the genre you are playing in. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
 
 ### Talents
 
@@ -71,15 +79,17 @@ Talents are powerful abilities that characters can learn. They usually provide y
 
 ### Traits
 
-Traits are unique abilities that usually only belong to a single character. Typically they are something that one can do or have, and provide opportunities to roleplay in a unique way. Traits help characters stand out from other characters that would otherwise be very similar to them.
+Traits are unique abilities that usually only belong to a single character. They are often an ability that a character can perform, or something they have that affects their life. They are opportunities to roleplay in a way that uniquely fits your character and help them differentiate from other characters that would otherwise be very similar to them.
 
 # Playing the Game
 
-Typically game sessions go as follows: the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses. Through the act of description and exposition, your characters and the world they inhabit become alive.
+Typically game sessions go as follows: the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses to the next scene. Through the act of description and exposition, your characters and the world they inhabit become alive.
 
-It is important to focus on describing what it is your character does, rather than declaring the exact game action your character takes. It is up to the Game Master to decide what actual game action you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
+It is important to focus more on describing what it is your character does, rather than declaring the exact game action your character takes. It is more up to the Game Master to decide what actual game actions you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
 
-While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Rolling dice to determine the outcome of your actions is only necessary when the outcome of that action is uncertain, or failure carries potential consequence. Your Game Master is otherwise responsible for deciding the results of your actions.
+While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Dice may be rolled to determine the outcome of that action if the outcome is uncertain or failure carries potential consequence. The Game Master is otherwise responsible for deciding the results of your actions.
+
+If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
 
 # Primary Stats
 
@@ -96,27 +106,27 @@ Each character has four Primary Stats that are used to derive other stats and ab
 | r18 | Powerful |
 | r20 | Epic |
 
+Characters typically start with stats ranging from below average (r8) to above average (r10).
+
 ### Strength (STR)
 
-Strength measures physical power, and general fortitude. This stat is important for atheletes, labourers, and those who engage in physical combat.
+Strength measures physical power, and general vitality. This stat is important for atheletes, labourers, and those who engage in physical contests.
 
 ### Dexterity (DEX)
 
-Dexterity measures the reaction speed, balance, and precision of your character. It is an important stat for characters who want to use stealth, use sleight of hand, or tinker with devices.
+Dexterity measures the reaction speed, balance, and precision of your character. It is an important stat for characters who want to be stealthy, perform sleight of hand, tinker with devices, or make attacks.
 
 ### Intelligence (INT)
 
-Intelligence determines how well your character learns and reasons. It is important for those who want to understand how complex things work, speak many languages, or recall important information. In genres that have magic it also determines a character's capacity for magical energies.
+Intelligence determines how well your character learns and reasons, is for those who want to understand how complex things work, speak many languages, or recall important information. In genres that have magic it also determines a character's capacity for magical energies.
 
 ### Resolve (RES)
 
-Resolve is the determination, willpower, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate with others.
+Resolve is the determination, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate effectively with others.
 
 # Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's race.
-
-The first four secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's race. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
@@ -139,7 +149,7 @@ Health, or hit points, are an abstraction representing how healthy a character i
 
 ### Endurance (ED)
 
-Endurance represents your ability to shrug off injuries before suffering serious damage, and is easy to restore with a little rest.
+Endurance represents your ability to shrug off potential injuries before suffering serious damage, and is easy to restore with a little rest.
 
 ### Stamina (ST)
 
@@ -198,7 +208,7 @@ Size is measured in size categories. Most characters will normally be considered
 
 # Skills
 
-Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name).
+Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -216,37 +226,37 @@ Like primary stats, skill values are represented by roll values. All skills have
 
 ## Basic Skills
 
-All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *acrobatics*, *athletics*, *charisma*, *perception*, and *stealth*.
+All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *agility*, *athletics*, *charisma*, *knowledge*, and *perception*.
 
-### Acrobatics (DEX)
+### Agility (DEX)
 
-You can keep your balance while traversing narrow or treacherous surfaces. You can also performs dives and flips, among other nimble feats.
+Light and fast movement are the work of agility. This skill allows you to perform dives, flips, walk silently, hide in dark areas, and squeeze into tight spaces.
 
 ### Athletics (STR)
 
-You use the strength of your body to manipulate the world around you and move within it. You are practiced in lifting, climbing, swimming, and jumping, among other activities.
+You use the strength of your body to manipulate the world around you and move within it. Athletics includes lifting, climbing, swimming, and jumping, among other physical activities.
 
 ### Charisma (RES)
 
-The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion.
+The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion. The use of charisma is not limited to coercing others to follow your lead, it also includes the effort to get others to appeal to your genuine interest.
+
+### Knowledge (INT)
+
+Knowledge represents your ability to recall information. It can be anything from the widely available to the potentially unknown, such as historical events, people, or organizations to secret societies, or the occult. Primarly this skill is used to recall information linked to your character's background and other skills. Recalling information outside your character's expertise is much more difficult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity.
 
 ### Perception (DEX)
 
-Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps.
-
-### Stealth (DEX)
-
-You’re skilled in concealing yourself effectively in different environments. You know how to avoid standing out, pick good hiding spots, and move silently. It can also be used to disguise your identity.
+Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps. This skill covers the use of all major senses. Even if one sense is limited, it may still be possible to use your other senses to make up for it. 
 
 ## Advanced Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. There are seven core advanced skills: *contacts*, *craft*, *knowledge*, *lore*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are all considered advanced skills. Depending on the genre, setting, or specific adventure there could be any number of additional advanced skills available to players.
+Unlike basic skills, a character must be at least trained in an advanced skill to use it. Some additional genres provide their own advanced skills, but regardless of genre there are five core advanced skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are also considered advanced skills.
 
 ### Contacts (RES)
 
 Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill can also be used to determine if you already have an existing rapport with newly introduced non-player characters.
 
-## Craft (INT)
+### Craft (INT)
 
 Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create both specialized and everyday normal items.
 
@@ -257,25 +267,19 @@ Various settings will have different ways to apply special modifiers to various 
 Click [here](/Basic/ItemCrafting.md) to go the page dedicated to item crafting.  
 Click [here](/Fantasy/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
 
-### Knowledge (INT)
-
-Knowledge represents your ability to recall important events, the names and details of important people, or prominent world religions. Anything pertaining to widely available but potentially unknown information. It can also be used to recall any information that someone with your character's background and skills would know (that don't fall into categories determined by the lore or medicine skills).
-
-### Lore (INT)
-
-Although most worldy facts can be recalled using the knowledge skill, everything else can be recalled with the lore skill. This means obscure cults and religions, secret organizations and their leaders, the occult, monsters, or magical artifacts. This skill can also be used to perform research on a topic you are not knowledgeable in, assuming you have access to research materials.
-
 ### Medicine (INT)
 
-This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall knowledge on medicines and herbs.
+This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall information on medicines and herbs.
 
 ### Sleight (DEX)
 
-Whether its traps, locks, pockets, or just fancy tricks, all such things are within your grasp. While this skill is generally used for everything a thief would do, it can also be used to conceal objects and perform magic tricks.
+Whether its traps, locks, pockets, or just fancy tricks, all such things are within your grasp. While this skill is generally used for everything a thief would do, it can also be used to conceal objects and perform tricks. This skill is also used to construct disguises for to hiding in plain sight.
 
 ### Wild Empathy (RES)
 
-In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use the charisma skill to persuade someone. While it appears that this allows you to speak with animals, it does not. This skill allows you to provide an emotional confidence or trust in that animal. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
+In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone.
+
+While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
 ## Combat Skills
 
@@ -299,11 +303,11 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 
 ## Languages
 
-When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with your Intelligence.
+When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
-The availability of languages to your character are determined by the genre or setting that you are in. If you're not playing in a modern or historic genre, usually there is a "common" language that all races speak, and languages for every race. In the fantasy genre it is common for most monstrous creatures to also share an "undercommon" language between them.
+The availability of languages to your character are determined by the setting that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
 
 ## Other Skills
 
@@ -347,6 +351,7 @@ For a visualization on what rolls represent different outcomes in relation to va
 ##### Table: Roll vs Difficulty as Outcomes
 | Roll | 7<br/>(Easy) | 10<br/>(Moderate) | 14<br/>(Hard) | 19<br/>(Challenging) | 25<br/>(Ambitious) |
 |:-:|:-:|:-:|:-:|:-:|:-:|
+| 2 | Graze | Fail | Fail | Fail | Fail |
 | 5 | Graze | Graze | Fail | Fail | Fail |
 | 7 | Success | Graze | Fail | Fail | Fail |
 | 10 | Success | Success | Graze | Fail | Fail |
@@ -361,7 +366,7 @@ A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-v
 
 ### Skill Duration
 
-While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skills and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master to decide based on the circumstances of the skill check. Some actions may even take several hours.
+While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skills and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
 
 ### Advantage & Disadvantage
 
@@ -377,7 +382,7 @@ Sometimes multiple players will want to perform the same type of action. If the 
 
 ### Talents & Special Abilities
 
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
 
 For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
@@ -414,15 +419,15 @@ Most basic combat scenarios can be considered complex challenges rather than tac
 
 ## Actions
 
-During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, *reaction*, and *free*.
+During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, and *free*.
 
 Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn is considered a swift action.
 
 Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they can be interrupted at any point in their duration, so long as it is your turn.
 
-Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. Reactions can only be used once each round, and only if you meet the conditions to use that reaction.
+Additionally there are also *reactions*. Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. Reactions can only be used once each round, and only if you meet the conditions to use that reaction.
 
-In addition to the following basic actions, characters may perform maneuvers or cast spells with an action speed specified by those actions.
+In addition to the following basic actions, characters may perform other special actions provided by skills and talents, such as maneuvers or spells.
 
 #### Attack
 
@@ -449,6 +454,12 @@ Use a wielded item with the block feature to block all incoming attacks or spell
 
 Choose which of your items you are wielding in your hands. This can be items from your inventory, or items found in your immediate area.
 
+#### Delay
+
+**Action Speed:** None
+
+Before your turn begins, you may choose to delay your turn by moving the start of your turn to a later point in the turn order. This action can only be taken when your turn would begin, and only once each round. This action may even be taken while unconscious or dying. 
+
 #### Drop Prone
 
 **Action Speed:** Free
@@ -466,7 +477,7 @@ Roll your evasion to defend against an attack instead of using your deflection. 
 
 **Action Speed:** Variable
 
-This action covers most basic actions, like opening doors, activating wielded items, or using objects in the immediate area. Unless an object specifies, or a task requires an extended amount of time to perform, this action is usually considered a swift action.
+This action covers most basic actions, like opening doors, activating wielded items, or using objects in the immediate area. Unless an object specifies, or a task requires an extended amount of time to perform, this action is considered a swift action.
 
 #### Move
 
@@ -488,13 +499,17 @@ Use a wielded item with the parry feature to defend against an attack, adding it
 
 **Action Speed:** Standard
 
-Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice. For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action.
+Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice.
+
+For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action.
 
 #### Seek Cover
 
 **Action Speed:** Swift
 
-If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged actions made against your deflection and evasion. You can also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
+If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged actions made against your deflection and evasion.
+
+You may also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
 
 #### Use Skill
 
@@ -580,7 +595,7 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 
 Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
 
-Concetration also requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained.
+Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained.
 
 # Maneuvers
 
@@ -703,25 +718,25 @@ There are various types of currency that represent the money your character need
 
 ### Weapons
 
-Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category clarity on their stats.
+Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category.
 
 ### Armour
 
 Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour rating and a damage reduction. These values from all your slots are added together to provide a total armour rating and damage reduction.
 
-Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all dexterity rolls, spellcasting rolls, and deflection.
+Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all combat rolls, spellcasting rolls, dexterity skill checks, deflection, evasion, and speed.
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
 ### Carrying Capacity
 
-Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the your carrying capacity. This is determined as a product your size and maximum strength. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
+Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the your carrying capacity. This is determined by your size, strength, and athletics. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
 
 ##### Table: Carrying Capacity
 | Modifier | Formula |
 |:-|:-|
-| Light Capacity (kg) | Max STR × 4 |
-| Heavy Capacity (kg) | Max STR × 7 |
+| Light Capacity (kg) | (Max STR + Athletics) × 3 |
+| Heavy Capacity (kg) | (Max STR + Athletics) × 5 |
 | Tiny | Capacity × ¼ |
 | Very Small | Capacity × ½ |
 | Small | Capacity × ¾ |
@@ -776,7 +791,7 @@ Languages cost half as much as other advanced skills (rounded up):
 
 ### Improving Primary Stats
 
-Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead equal to the roll value.
+Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead exactly equal to the roll value.
 
 For example: if you are improving a primary stat from a roll value of r12 to a roll value of r14 it would cost 14 experience points.
 

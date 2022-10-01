@@ -139,7 +139,7 @@ Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend t
 
 **Natural weapon, claw** Deals STR+r4 slashing damage (crit +6), has the features: Bypass 2, Mode Piercing, Swift
 
-**Nimble** Vulpines are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to acrobatics and athletics checks when leaping, running, climbing, or rolling.
+**Nimble** Vulpines are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to agility and athletics checks when leaping, running, climbing, or rolling.
 
 **Size** Vulpines can be be small or medium sized, but are typically medium sized.
 

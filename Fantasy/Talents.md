@@ -12,10 +12,10 @@
 | [Eldritch Infusion](#eldritch-infusion) | 6 | INT 11+ or RES 11+, Can cast spells |
 | [Esoteric Will](#esoteric-will) | 10 | RES 11+, Can cast spells |
 | [Extra Spell](#extra-spell) | 4, 6, 8, 10 | Can cast spells |
-| [Inherent Focus](#inherent-focus) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Magic Resistance](#magic-resistance) | 8 | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | INT 13+, Can cast spells |
 | [Metamagic](#metamagic) | 8 | INT 13+ or RES 13+, Can cast 5+ spells |
+| [Steady Mind](#steady-mind) | 8 | INT 11+, RES 11+, Can cast spells |
 | [Wild Magic](#wild-magic) | 10 | RES 11+, Can cast Animal Form |
 
 Click [here](/Basic/Talents.md) for the list of universal talents.
@@ -139,13 +139,6 @@ This talent can be taken multiple times.
 | 8 | 3 | Greater |
 | 10 | 4 | Heroic |
 
-## Inherent Focus
-
-**Cost:** 8 EXP  
-**Requirements:** Max Intelligence 11+, Max Resolve 11+, Can cast spells
-
-When you become unconscious, instead of immediately losing concentration on spells, you may attempt to maintain concentration is if you were stunned. You may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained. Additionally, you do not lose concentration on spells when you become stunned, and gain advantage to maintain concentration against other effects that would cause you to lose concentration on a spell.
-
 ## Magic Resistance
 
 **Cost:** 8 EXP  
@@ -192,6 +185,15 @@ Spells cannot be adjusted by metamagics that change features they do not have. S
 | Widened | +2 | +2 | The spell has its area or radius doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
 
 For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.
+
+## Steady Mind
+
+**Cost:** 8 EXP  
+**Requirements:** Max Intelligence 11+, Max Resolve 11+, Can cast spells
+
+When you become unconscious, instead of immediately losing concentration on spells, you may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained.
+
+Additionally, you do not lose concentration on spells when you become stunned, and gain advantage to maintain concentration against any other effects that would cause you to lose concentration on a spell.
 
 ## Wild Magic
 

@@ -20,7 +20,7 @@ Various vagabonds of all kinds, all hellbent on taking either your money or your
 
 **STR** 6 (r10+1), **DEX** 7 (r12+1), **INT** 4 (r8), **RES** 5 (r10)  
 **Languages** Common (native)  
-**Skills** [Charisma](/Basic/PHB.md#charisma-res) +4 (r8), [Perception](/Basic/PHB.md#perception-dex) +3 (r6), [Sleight](/Basic/PHB.md#sleight-dex) +5 (r10), [Stealth](/Basic/PHB.md#stealth-dex) +4 (r8)  
+**Skills** [Agility](/Basic/PHB.md#agility-dex) +4 (r8), [Charisma](/Basic/PHB.md#charisma-res) +4 (r8), [Perception](/Basic/PHB.md#perception-dex) +3 (r6), [Sleight](/Basic/PHB.md#sleight-dex) +5 (r10)  
 **Talents** [Toughness (+8)](/Basic/Talents.md#toughness), [Intimidation](/Basic/Talents.md#intimidation)
 
 ---
@@ -53,7 +53,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 **STR** 3 (r8-1), **DEX** 6 (r8+2), **INT** 3 (r6), **RES** 5 (r8+1)  
 **Languages** Goblin (native), undercommon (native)  
 **Abilities** Low-light vision  
-**Skills** [Acrobatics](/Basic/PHB.md#acrobatics-dex) +2 (r4), [Perception](/Basic/PHB.md#perception-dex) +2 (r4), [Sleight](/Basic/PHB.md#sleight-dex) +2 (r4), [Stealth](/Basic/PHB.md#stealth-dex) +3 (r6)
+**Skills** [Agility](/Basic/PHB.md#agility-dex) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +2 (r4), [Sleight](/Basic/PHB.md#sleight-dex) +2 (r4)
 
 ---
 
@@ -83,7 +83,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 **STR** 7 (r12+1), **DEX** 7 (r12+1), **INT** 5 (r10), **RES** 5 (r10)  
 **Languages** Common (native)  
-**Skills** [Athletics](/Basic/PHB.md#athletics-str) +4 (r8), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +4 (r8), [Stealth](/Basic/PHB.md#stealth-dex) +0<sup>d</sup> (r4)  
+**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup>, [Athletics](/Basic/PHB.md#athletics-str) +4 (r8), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
 **Talents** [Toughness (+10)](/Basic/Talents.md#toughness)
 
 ---
@@ -99,7 +99,7 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 **Straight sword** 12 to hit (Martial), 10 piercing/slashing (STR+r6), Crit +6, Parry r6, Swift  
 **Shortspear** 12 to hit (Martial), 10 piercing (STR+r6), Crit +6, Thrown 6m/60m, Versatile  
-**Crossbow** 12 to hit (Martial), 12 piercing (r24), Crit +8, Ranged 25m/250m, Two-Handed, Reload (Full-round), Mechanical
+**Crossbow** 12 to hit (Martial), 12 piercing (r24), Crit +8, Bypass 1, Ranged 25m/250m, Two-Handed, Reload (Full-round), Mechanical
 **Small shield** 12 to hit (Martial), 10 blunt (STR+r6), Crit +6, Block 4, Thrown 3m/30m
 
 ---
@@ -116,7 +116,7 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 **STR** 4 (r8), **DEX** 5 (r10), **INT** 8 (r14+1), **RES** 6 (r10+1)  
 **Languages** Common (native)  
-**Skills** [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Craft](/Basic/PHB.md#craft-int) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +2 (r4), [Lore](/Basic/PHB.md#lore-int) +5 (r10), [Medicine](/Basic/PHB.md#medicine-int) +4 (r8), Perception +2 (r4)  
+**Skills** [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Craft](/Basic/PHB.md#craft-int) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +5 (r10), [Medicine](/Basic/PHB.md#medicine-int) +4 (r8), [Perception](/Basic/PHB.md#perception-dex) +2 (r4)  
 **Talents** [Natural Intuition](/Basic/Talents.md#natural-intuition), [Toughness (+4)](/Basic/Talents.md#toughness)
 
 ---
@@ -152,7 +152,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 **STR** 3 (r8-1), **DEX** 7 (r10+2), **INT** 5 (r8+1), **RES** 5 (r10)  
 **Languages** Kobold (native), undercommon (native)  
 **Abilities** Low-light vision    
-**Skills** [Acrobatics](/Basic/PHB.md#acrobatics-dex) +2 (r4), [Athletics](/Basic/PHB.md#athletics-str) +2 (r4), [Perception](/Basic/PHB.md#perception-dex) +4 (r8), [Stealth](/Basic/PHB.md#stealth-dex) +5 (r10)
+**Skills** [Agility](/Basic/PHB.md#agility-dex) +4 (r8), [Athletics](/Basic/PHB.md#athletics-str) +2 (r4), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)
 
 ---
 
@@ -183,7 +183,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 **STR** 10 (r16+2), **DEX** 6 (r14-1), **INT** 9 (r16+1), **RES** 7 (r14)  
 **Languages** Common (native), minotaur (native), undercommon (fluent)  
 **Abilities** Eidetic Memory, Natural Armour: Horns, Strong Back  
-**Skills** [Athletics](/Basic/PHB.md#athletics-str) +8 (r16), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +5<sup>a</sup> (r6), [Lore](/Basic/PHB.md#lore-int) +8<sup>a</sup> (r12), [Perception](/Basic/PHB.md#perception-dex) +4 (r8), [Stealth](/Basic/PHB.md#stealth-dex) -2<sup>d</sup>  
+**Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup>, [Athletics](/Basic/PHB.md#athletics-str) +8 (r16), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +6 (r12), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
 **Talents** [Toughness (+22)](/Basic/Talents.md#toughness)
 
 ---

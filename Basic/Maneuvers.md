@@ -29,9 +29,10 @@
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged |
 | [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
+| [Quick Reload](#quick-reload) | 1 | Free | None | Tactical | Ranged |
 | [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Trip](#trip) | 1 | Standard | Acrobatics | Offensive | Finesse, Martial, Unarmed |
+| [Trip](#trip) | 1 | Standard | Agility | Offensive | Finesse, Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged |
 | [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
 
@@ -167,7 +168,7 @@ Make a single ranged attack with -2 to hit against two targets.
 
 **Resist:** Perception
 
-Make a stealth check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then follow up with a move action or lose the benefits of this maneuver.
+Make an agility check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then follow up with a move action or lose the benefits of this maneuver.
 
 ## Feint
 
@@ -269,7 +270,7 @@ Make an attack with -2 to hit. If successful, the target becomes prone.
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-Make an acrobatics check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
+Make an agility check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
 
 ## Opportunity Strike
 
@@ -364,6 +365,16 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 
 Make a charisma check against a target within 20m. If successful, the target must look at you, opening themself up to a sneak attack for the duration (the first attack made against that target by an ally is always considered a sneak attack). Additionally, they must target you with at least one action (if possible) on their next turn.
 
+## Quick Reload
+
+**Type:** Tactical  
+**Specializations:** Ranged
+
+**Stamina Cost:** 1  
+**Action Speed:** Free
+
+The next time you take the reload action this turn, it is one action speed faster. If reloading is an extended action, it takes half the amount of time instead. If reducing an extended action by half would make it shorter than or equal to six seconds, it becomes a full-round action instead.
+
 ## Shield Crush
 
 **Type:** Offensive  
@@ -397,7 +408,7 @@ Make a charisma check against a target within 20m. If successful, the target get
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-**Resist:** Acrobatics
+**Resist:** Agility
 
 Make an attack with -2 to hit and only dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it is considered to be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
 

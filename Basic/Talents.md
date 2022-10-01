@@ -3,7 +3,6 @@
 ##### Table: Basic Talents
 | Name | Cost | Requirements |
 |:-|:-:|:-|
-| [Agility](#agility) | 8 | DEX 13+, Acrobatics |
 | [Always Prepared](#always-prepared) | 8 | INT 11+, Sleight |
 | [Ambidexterity](#ambidexterity) | 8, 12 | DEX 11+, Any combat skill |
 | [Danger Sense](#danger-sense) | 8 | DEX 11+, Perception |
@@ -19,23 +18,18 @@
 | [Meditative Rest](#meditative-rest) | 8 | RES 11+ |
 | [Mobility](#mobility) | 8 | STR 13+, Athletics |
 | [Natural Intuition](#natural-intuition) | 6 | INT 11+, Perception |
+| [Nimble](#nimble) | 8 | DEX 13+, Agility |
 | [Opportunist](#opportunist) | 6 | DEX 11+ or INT 11+, Opportunity Strike |
 | [Polyglot](#polyglot) | 6 | INT 11+, Four languages |
 | [Prepared Defense](#prepared-defense) | 6 | DEX 11+ or RES 11+, Any combat skill |
 | [Rage](#rage) | 6, 8, 10, 12 | STR 11+, RES 11+, Any combat skill |
+| [Second Wind](#second-wind) | 6, 8, 10, 12 | STR 11+, RES 11+, Athletics |
 | [Sprinting](#sprinting) | 8 | STR 11+, DEX 11+, Athletics |
 | [Teamwork](#teamwork) | 8 | INT 11+, Charisma |
 | [Toughness](#toughness) | 2, 3, 4, 5, 6,<br/>7, 8, 9, 10 | - |
 | [Weightlifter](#weightlifter) | 6 | STR 13+, Athletics |
 
 Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
-
-## Agility
-
-**Cost:** 8 EXP  
-**Requirements:** Max Dexterity 13+, Trained in Acrobatics
-
-Your speed is increased by 2m, and you can move a quarter of your speed when you evade (from 1m).
 
 ## Always Prepared
 
@@ -90,7 +84,7 @@ When you acquire this talent you will learn a new maneuver for a combat skill yo
 **Cost:** Variable  
 **Requirements:** Max Dexterity 11+ or Max Intelligence 11+, Trained in Sleight
 
-You may spend 3 focus to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
+You may spend 2 focus to gain advantage on your next roll (including dice that your character rolls). This ability can be used a number of times based on its advancement, but only once per roll.
 
 ##### Table: Magical Luck Steps & Cost
 | Step Cost | Total Cost | Number of Uses |
@@ -181,6 +175,13 @@ Your speed is increased by 2m, and one of the move actions you take each turn is
 
 Your ability to notice and remember details has expanded your natural perceptions. You can always tell the time of day, what direction is north, and where is the nearest source of running water. These abilities persist even in conditions where they would otherwise not be possible.
 
+## Nimble
+
+**Cost:** 8 EXP  
+**Requirements:** Max Dexterity 13+, Trained in Agility
+
+Your speed is increased by 2m, and you can move a quarter of your speed when you evade (from 1m).
+
 ## Opportunist
 
 **Cost:** 6 EXP  
@@ -200,14 +201,16 @@ You can speak many languages well enough that you can easily figure out new ones
 **Cost:** 6 EXP  
 **Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
 
-The first defensive action (such as block, evade, parry, or a defensive maneuver) that you use each round does not cost a reaction. Additionally, you may use each defensive maneuver twice each round instead of only once.
+The first block, evade, parry, or defensive maneuver that you use each round does not cost a reaction. Additionally, you may use each defensive maneuver twice each round instead of only once.
 
 ## Rage
 
 **Cost:** Variable  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
 
-You gain an ability allowing you to fly into a rage at the cost of 1 health and 1 stamina as a swift action, giving you a temporary bonus to attack damage (as if from strength) and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating. Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
+You gain an ability allowing you to fly into a rage at the cost of 1 health and 1 stamina as a swift action, giving you a temporary bonus to attack damage (as if from strength) and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating.
+
+Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
 
 ##### Table: Rage Steps, Cost, & Bonuses
 | Step Cost | Total Cost | Bonus |
@@ -216,6 +219,20 @@ You gain an ability allowing you to fly into a rage at the cost of 1 health and 
 | 8 | 14 | +2 |
 | 10 | 24 | +3 |
 | 12 | 36 | +4 |
+
+## Second Wind
+
+**Cost:** Variable  
+**Requirements:** Max Strength 11+, Max Resolve 11+, Trained in Athletics
+
+Once per turn as a free action you may spend 2 focus to recover half of your endurance. This ability can be used a number of times based on its advancement.
+
+##### Table: Second Wind Steps & Cost
+| Step Cost | Total Cost | Number of Uses |
+|:-:|:-:|:-:|
+| 6 | 6 | 1/rest |
+| 8 | 14 | 2/rest |
+| 10 | 24 | 3/rest |
 
 ## Sprinting
 

@@ -2,7 +2,7 @@
 
 * [Challenge Difficulties](#challenge-difficulties)
 * [Common Tasks](#common-tasks)
-	* [Acrobatics](#table-acrobatics-common-tasks)
+	* [Agility](#table-agility-common-tasks)
 	* [Athletics](#table-athletics-common-tasks)
 	* [Language](#table-language-common-tasks)
 	* [Medicine](#table-medicine-common-tasks)
@@ -63,16 +63,20 @@
 
 The following tables are example tasks at various difficulties for some of the basic and advanced skills. This is not a definitive list.
 
-##### Table: Acrobatics Common Tasks
+##### Table: Agility Common Tasks
 | Task | Difficulty |
 |:-|:-|
+| Silently hiding from an<br/>untrained opponent | 7 (Easy) |
 | Squeezing through a tight space<br/>as a Small sized character | 7 (Easy) |
 | Balancing on slippery surface | 10 (Moderate) |
-| Squeezing through a tight space<br/>as a Medium sized character | 10 (Moderate) |
 | Falling 3m safely | 10 (Moderate) |
+| Silently hiding from a<br/>trained opponent | 10 (Moderate) |
+| Squeezing through a tight space<br/>as a Medium sized character | 10 (Moderate) |
 | Walking across a beam | 10 (Moderate) |
 | Falling 5m safely | 14 (Hard) |
+| Silently hiding from a<br/>proficient opponent | 14 (Hard) |
 | Falling 7m safely | 19 (Challenging) |
+| Silently hiding from a<br/>master opponent | 19 (Challenging) |
 | Squeezing through a tight space<br/>as a Large sized character | 19 (Challenging) |
 | Walking a tightrope | 19 (Challenging) |
 
