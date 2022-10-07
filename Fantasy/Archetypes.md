@@ -3,16 +3,16 @@
 ##### Table: Fantasy Archetypes
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
-| [Artificer](#artificer) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r6), [Craft](/Basic/PHB.md#craft-int) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6) | [Arcane Synthesis (1/rest)](/Fantasy/Talents.md#arcane-synthesis) | INT |
-| [Bard](#bard) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r4), [Charisma](/Basic/PHB.md#charisma-res) (r8), [Finesse](/Basic/PHB.md#finesse-dex) or [Ranged](/Basic/PHB.md#ranged-dex) (r6),<br/> [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4)  | [Inspirational Charisma (+0)](/Basic/Talents.md#inspirational-charisma),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
-| [Champion](#champion) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Faith (Any Militarist)](/Fantasy/Skills.md#faith-res) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex),<br/>or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | RES |
+| [Artificer](#artificer) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r6), [Craft](/Basic/PHB.md#craft-int) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6) | [Arcane Synthesis (Rank 1)](/Fantasy/Talents.md#arcane-synthesis) | INT |
+| [Bard](#bard) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r4), [Charisma](/Basic/PHB.md#charisma-res) (r8), [Finesse](/Basic/PHB.md#finesse-dex) or [Ranged](/Basic/PHB.md#ranged-dex) (r6),<br/> [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4)  | [Inspirational Charisma (+1)](/Basic/Talents.md#inspirational-charisma) | RES |
+| [Champion](#champion) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Faith (Any Militarist)](/Fantasy/Skills.md#faith-res) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex),<br/>or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom) | RES |
 | [Cleric](#cleric) | [Charisma](/Basic/PHB.md#charisma-res) (r4), [Faith (Any)](/Fantasy/Skills.md#faith-res) (r8), [Knowledge](/Basic/PHB.md#knowledge-int) (r6),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Divine Devotion (1/rest)](/Fantasy/Talents.md#divine-devotion) | RES |
 | [Druid](#druid) | [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r4), [Animism (Any)](/Fantasy/Skills.md#animism-res) (r8),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r4), [Perception](/Basic/PHB.md#perception-dex) (r6), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r6) | [Wild Magic](/Fantasy/Talents.md#wild-magic) | RES |
-| [Monk](#monk) | [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Unarmed](/Basic/PHB.md#unarmed-dex) (r6),<br/>[Ki (Any)](/Fantasy/Skills.md#ki) (r8), [Medicine](/Basic/PHB.md#medicine-int) (r4), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Meditative Rest (+2)](/Basic/Talents.md#meditative-rest) | RES |
+| [Monk](#monk) | [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Unarmed](/Basic/PHB.md#unarmed-dex) (r6),<br/>[Ki (Any)](/Fantasy/Skills.md#ki) (r8), [Medicine](/Basic/PHB.md#medicine-int) (r4), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Meditative Rest (+2/+1)](/Basic/Talents.md#meditative-rest) | RES |
 | [Sorcerer](#sorcerer) | [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r4), [Charisma](/Basic/PHB.md#charisma-res) (r6),<br/>[Contacts](/Basic/PHB.md#contacts-res) (r4), [Sorcery (Any)](/Fantasy/Skills.md#sorcery-res) (r8), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r6) | [Esoteric Will](/Fantasy/Talents.md#esoteric-will) | RES |
 | [Theurge](#theurge) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r8), [Faith (Any)](/Fantasy/Skills.md#faith-res) (r6), [Knowledge](/Basic/PHB.md#knowledge-int) (r6),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r4), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Metamagic (Any)](/Fantasy/Talents.md#metamagic) | INT *or* RES *13+* |
 | [Warmage](#warmage) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Arcana (Enchantment or Transmutation)](/Fantasy/Skills.md#arcana-int) (r6),<br/>[Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6) | [Eldritch Infusion](/Fantasy/Talents.md#eldritch-infusion),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
-| [Wizard](#wizard) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r8), [Charisma](/Basic/PHB.md#charisma-res) (r4), [Knowledge](/Basic/PHB.md#knowledge-int) (r6),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Arcane Precision](/Fantasy/Talents.md#arcane-precision) | INT |
+| [Wizard](#wizard) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r8), [Charisma](/Basic/PHB.md#charisma-res) (r4), [Knowledge](/Basic/PHB.md#knowledge-int) (r6),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Arcane Precision (1/spell)](/Fantasy/Talents.md#arcane-precision) | INT |
 
 ## Artificer
 
@@ -20,7 +20,7 @@ Artificers are gifted craftspersons that are capable of inventing all kinds of d
 
 **Skills** [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r6), [Craft](/Basic/PHB.md#craft-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6)  
 **Spells** Artificers start with two spells.  
-**Talent** [Arcane Synthesis (1/rest)](/Fantasy/Talents.md#arcane-synthesis)  
+**Talent** [Arcane Synthesis (Rank 1)](/Fantasy/Talents.md#arcane-synthesis)  
 **Primary Stat** Artificer must start with a maximum intelligence of 11 or greater.
 
 ## Bard
@@ -30,7 +30,7 @@ Bards, much like wizards, are educated and personable. Bards use cleverness and 
 **Skills** [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r4), [Charisma](/Basic/PHB.md#charisma-res) (r8), [Finesse](/Basic/PHB.md#finesse-dex) or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4)  
 **Maneuvers** Bards start with one maneuver.  
 **Spells** Bards start with one spell.  
-**Talent** [Inspirational Charisma (+0)](/Basic/Talents.md#inspirational-charisma), [Toughness (+4)](/Basic/Talents.md#toughness)  
+**Talent** [Inspirational Charisma (+1)](/Basic/Talents.md#inspirational-charisma)  
 **Primary Stat** Bards must start with a maximum resolve of 11 or greater.
 
 ## Champion
@@ -40,7 +40,7 @@ While clerics can represent the full spectrum of the devoted, champions represen
 **Skills** [Athletics](/Basic/PHB.md#athletics-str) (r6), [Faith (Any Militarist)](/Fantasy/Skills.md#faith-res) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6)  
 **Maneuvers** Champions start with one maneuver.  
 **Spells** Champions start with two spells.  
-**Talent** [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom), [Toughness (+4)](/Basic/Talents.md#toughness)  
+**Talent** [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom)  
 **Primary Stat** Champions must start with a maximum resolve of 11 or greater.
 
 ## Cleric
@@ -68,7 +68,7 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 **Skills** [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Unarmed](/Basic/PHB.md#unarmed-dex) (r6), [Ki (Any)](/Fantasy/Skills.md#ki) (r8), [Medicine](/Basic/PHB.md#medicine-int) (r4), [Perception](/Basic/PHB.md#perception-dex) (r4)  
 **Maneuvers** Monks start with one maneuver.  
 **Spells** Monks start with three spells.  
-**Talent** [Meditative Rest (+2)](/Basic/Talents.md#meditative-rest)  
+**Talent** [Meditative Rest (+2/+1)](/Basic/Talents.md#meditative-rest)  
 **Primary Stat** Monks must start with a maximum resolve of 11 or greater.
 
 ## Sorcerer
@@ -105,5 +105,5 @@ Although wizards are known for feats of magical performance and knowledge of anc
 
 **Skills** [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r8), [Charisma](/Basic/PHB.md#charisma-res) (r4), [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4)  
 **Spells** Wizards start with three spells.  
-**Talent** [Arcane Precision](/Fantasy/Talents.md#arcane-precision)  
+**Talent** [Arcane Precision (1/spell)](/Fantasy/Talents.md#arcane-precision)  
 **Primary Stat** Wizards must start with a maximum intelligence of 11 or greater.

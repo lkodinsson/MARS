@@ -16,11 +16,11 @@ Epic characters have their growth accelerated and receive double the experience 
 ##### Table: Toughness Steps & Cost Extended
 | Step Cost | Total Cost | Bonus<br/>Endurance |
 |:-:|:-:|:-:|
-| 11 | 11 | +22 |
-| 12 | 23 | +24 |
-| 13 | 36 | +26 |
-| 14 | 50 | +28 |
-| 15 | 65 | +30 |
+| 13 | 13 | +22 |
+| 14 | 27 | +24 |
+| 15 | 42 | +26 |
+| 16 | 58 | +28 |
+| 17 | 75 | +30 |
 
 ##### Table: Primary Stat Steps & Cost Extended
 | Step Cost | Total Cost | Dice Step | Step Name |

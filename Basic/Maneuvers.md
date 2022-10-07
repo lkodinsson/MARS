@@ -15,13 +15,14 @@
 | [Double Shot](#double-shot) | 1 | Standard | None | Offensive | Ranged |
 | [Escape](#escape) | 2 | Swift | Perception | Tactical | Finesse, Ranged |
 | [Feint](#feint) | 2 | Swift | Willpower | Tactical | Finesse, Martial, Unarmed |
+| [Grapple](#grapple) | 1 | Standard | Agility<br/>(not grappled),<br/>Athletics,<br/>or Unarmed | Tactical | Unarmed |
 | [Hard Parry](#hard-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
 | [Heavy Strike](#heavy-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
 | [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
 | [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
 | [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed |
-| [Knock Down](#knock-down) | 2 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
+| [Knock Down](#knock-down) | 1 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed |
 | [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged |
@@ -29,10 +30,11 @@
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged |
 | [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed |
 | [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
+| [Push](#push) | 1 | Swift | Athletics | Tactical | Martial, Unarmed |
 | [Quick Reload](#quick-reload) | 1 | Free | None | Tactical | Ranged |
 | [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
 | [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Trip](#trip) | 1 | Standard | Agility | Offensive | Finesse, Martial, Unarmed |
+| [Trip](#trip) | 1 | Standard | Agility | Offensive | Martial, Unarmed |
 | [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged |
 | [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
 
@@ -144,7 +146,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Resist:** Athletics
 
-Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take it. Otherwise, they drop it up to 2m away.
+Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take it. Otherwise, they drop it up to 3m away.
 
 You cannot disarm a target of their shield or an unarmed weapon.
 
@@ -156,7 +158,7 @@ You cannot disarm a target of their shield or an unarmed weapon.
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-Make a single ranged attack with -2 to hit against two targets.
+Make a two ranged attacks with a single attack roll with -2 to hit against two different targets.
 
 ## Escape
 
@@ -182,6 +184,30 @@ Make an agility check against any number of targets to hide in plain sight, maki
 **Resist:** Willpower
 
 Make a charisma check against a target within melee range. If successful, the next melee attack you make against that target is made with advantage to hit for the duration.
+
+## Grapple
+
+**Type:** Tactical  
+**Specializations:** Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Standard
+
+**Resist:** Agility (not grappled), Athletics, or Unarmed
+
+Make an athletics or unarmed combat check against a target 1m away. Make this roll with advantage if you are behind the target. The target may resist with agility if not grappled. Otherwise, they may resist with either athletics or unarmed.
+
+If the roll is a graze or better and you are not already grappled, become grappled with the target. Then, if the roll was a success or better, you may choose to either gain control of the grapple or have the target lose control of the grapple. If the roll was a failure, the target chooses instead. By default, participants start grappled without control, and may share the same degree of control.
+
+While grappled, participants have their speed reduced to 1m, may optionally share the same space, and can only perform a limited selection of maneuvers and basic actions. As usual, any maneuvers not learned may still be [improvised](/Basic/PHB.md#improvising-maneuvers) by participants.
+
+All participants can only perform the following actions and maneuvers: [*attack*](/Basic/PHB.md#attack), [*delay*](/Basic/PHB.md#delay), [*grapple*](/Basic/Maneuvers.md#grapple), [*push*](/Basic/Maneuvers.md#push), and [*trip*](/Basic/Maneuvers.md#trip). Participants who are in control may also: [*brandish*](/Basic/PHB.md#brandish), [*disarm*](/Basic/Maneuvers.md#disarm), [*knock down*](/Basic/Maneuvers.md#knock-down), [*move*](/Basic/PHB.md#move), and [*rise from prone*](/Basic/PHB.md#rise-from-prone). Additionally, as a free action a character who is control may release another participant who is not in control from the grapple.
+
+Participants in a grapple all move together.
+
+Only those who are are in control may attack with non-unarmed weapons. Unarmed attacks may be made even while holding a weapon. Weapons with the *large*, *two-handed*, or *versatile* features are too big to be used, even while in control. Attacks made by participants who do not have control deal half damage.
+
+Attacks from non-grappled characters against grappled targets are made with advantage.
 
 ## Hard Parry
 
@@ -223,7 +249,7 @@ While wielding an axe or hooked object, give an incoming melee attack disadvanta
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour rating against it. You may also block or parry this attack for free as a part of this action.
+Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour rating against the attack. You may also block or parry the attack for free as a part of this action.
 
 # Intercepting Strike
 
@@ -255,7 +281,7 @@ Make a charisma check against a target within melee range. If successful, the ta
 **Type:** Offensive  
 **Specializations:** Martial, Ranged, Unarmed
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Standard
 
 **Resist:** Fortitude
@@ -332,13 +358,13 @@ Make an attack with a projectile weapon against a target 2m or closer. This atta
 **Duration:** 1 Turn  
 **Resist:** Fortitude (for reduced effect)
 
-Make an attack with a weapon. If successful, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may resist the sickness. If they fail, they lose 2 health, otherwise reduce the degree of effect of the sickness by 1 and they lose 1 health instead.
+Make an attack with a weapon. If successful, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may resist the sickness. If they fail, they lose 2 health, otherwise they lose 1 health and reduce the degree of effect of the sickness by 1.
 
 If this effect is applied to a target that is already effected by this kind of poison, the greatest degree of effect takes precedence.
 
-Instead of performing this maneuver, you may also make a medicine check to pre-apply a single use poison to a weapon that inflicts the same effect. This determines the difficulty (in advance) to resist that poison.
+This maneuver may also be performed to pre-apply a single use poison to a weapon that inflicts the same effect. Instead, just make a medicine check to pre-determine the difficulty to resist the poison.
 
-Performing this maneuver, or pre-applying a poison, can only be done with access to a pre-made poison, or materials that can be used to approximate a poison.
+Performing this maneuver can only be done with access to a pre-made poison, or materials that can be used to approximate a poison.
 
 ## Precise Strike
 
@@ -364,6 +390,20 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 **Resist:** Willpower
 
 Make a charisma check against a target within 20m. If successful, the target must look at you, opening themself up to a sneak attack for the duration (the first attack made against that target by an ally is always considered a sneak attack). Additionally, they must target you with at least one action (if possible) on their next turn.
+
+## Push
+
+**Type:** Tactical  
+**Specialization:** Martial, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Swift
+
+**Resist:** Athletics
+
+Make an athletics check against a target within 1m. If successful, either move with that target in a straight line up to half your speed or knock back the target up to 2m away from you. If they can't be knocked back because there is not enough room, then deal damage as if grazing with an unarmed attack. You may also choose to do both, but if you do, this maneuver is performed one action speed slower.
+
+If you are grappled with the target, you may release them from the grapple if you choose to move them away from you.
 
 ## Quick Reload
 
@@ -403,14 +443,14 @@ Make a charisma check against a target within 20m. If successful, the target get
 ## Trip
 
 **Type:** Offensive  
-**Specializations:** Finesse, Martial, Unarmed
+**Specializations:** Martial, Unarmed
 
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
 **Resist:** Agility
 
-Make an attack with -2 to hit and only dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it is considered to be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
+Make a melee attack dealing blunt damage, with -2 to hit, and dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it can only be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
 
 ## Triple Shot
 
@@ -419,7 +459,7 @@ Make an attack with -2 to hit and only dealing half damage. If successful, the t
 **Stamina Cost:** 1  
 **Action Speed:** Full-round
 
-Make a single ranged attack with -2 to hit against three targets.
+Make a three ranged attacks with a single attack roll with -3 to hit against three different targets.
 
 ## Wild Strike
 

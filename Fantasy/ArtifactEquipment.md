@@ -11,16 +11,17 @@ Minor artifacts follow all the normal rules of magic item creation, and as such 
 
 | Name | Material<br/>Cost | Magic<br/>Cost | Price |
 |:-|:-:|:-:|:-:|
-| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 585sp | 585sp 5cp |
+| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 1170sp | 1170sp 5cp |
 | [Scrying Orb](#scrying-orb) | 15sp | 160sp | 175sp |
 | [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 384sp | 405sp |
-| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 562sp 5cp | 643sp 5cp |
+| [Staff of the Magi](#staff-of-the-magi) | 76sp | ?sp | ?sp |
+| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 1125sp | 1206sp |
 
 ### Belt of Giant's Might
 
 **Materials:** Belt (5cp)  
-**Magic Cost:** 585sp  
-**Price:** 585sp 5cp
+**Magic Cost:** 1170sp  
+**Price:** 1170sp 5cp
 
 This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to empowered in both strength and size. 
 
@@ -77,8 +78,8 @@ The following spells can be used collectively ? times per day, or by spending fo
 ### Thundergod's Warhammer
 
 **Materials:** Masterwork Heavy Warhammer (81sp)
-**Magic Cost:** 562sp 5cp  
-**Price:** 643sp 5cp
+**Magic Cost:** 1125sp  
+**Price:** 1206sp
 
 This is a masterwork heavy warhammer with a large head and a short handle. Carved into it are glowing runic symbols. Those who do not possess enough physical strength perceive this item as having an impossibly heavy weight and cannot lift it. While attuned this item gently crackles with lightning and appears to weigh as little as a feather.
 

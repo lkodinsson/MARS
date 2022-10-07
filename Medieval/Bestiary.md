@@ -62,9 +62,9 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 ---
 
-**Straight sword** 12 to hit (Martial), 10 piercing/slashing (STR+r6), Crit +6, Parry r6, Swift  
+**Straight sword** 12 to hit (Martial), 10 piercing/slashing (STR+r6), Crit +6, Parry +3 (r6), Swift  
 **Shortspear** 12 to hit (Martial), 10 piercing (STR+r6), Crit +6, Thrown 6m/60m, Versatile  
-**Crossbow** 12 to hit (Martial), 12 piercing (r24), Crit +8, Bypass 1, Ranged 25m/250m, Two-Handed, Reload (Full-round), Mechanical
+**Crossbow** 12 to hit (Martial), 12 piercing (r24), Crit +8, Bypass 1, Ranged 25m/250m, Two-Handed, Reload (Full-round), Mechanical  
 **Small shield** 12 to hit (Martial), 10 blunt (STR+r6), Crit +6, Block 4, Thrown 3m/30m
 
 ---

@@ -6,7 +6,7 @@
 * [Long-term Crafting](#long-term-crafting)
 * [Rushed Crafting](#rushed-crafting)
 
-## Normal Item Crafting
+## Item Crafting
 
 The first step to crafting an item is just a matter of roleplaying: is a workshop or marketplace available, or do you carry the tools and materials necessary to build this item? Afterwards, there are three basic steps:
 
@@ -150,13 +150,13 @@ This progress can be resumed at a later date, leading us to the next example:
 >
 > **Combined Total Cost:** 12sp 5cp (62.5% of cost)
 
-You might notice that on the second of these last three days, that no progress was actually lost. This is because upon reaching 90% of the total progress the day before, another two whole javelins were crafted. Since there are no partially crafted javelins, progress could not be lost.
+You might notice that on the second of these last three days, no progress was actually lost. This is because upon reaching 90% of the total progress the day before, another two whole javelins were crafted. Since there are no partially crafted javelins, progress could not be lost.
 
-The maximum number of items that can be crafted at once is twenty, regardless of the percentage of crafting gained.
+The maximum number of items that can be crafted at one time is twenty, regardless of the percentage of crafting gained.
 
 ### Long-term Crafting
 
-If you expect a craft project to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process the crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with your average roll. This shortcut is only available if your average roll is less than the crafting difficulty, but not low enough to fail. To determine your average roll, take half your maximum craft roll, add any bonuses, then add 1 for every two dice you would roll.
+If you expect a craft project to take a large amount of time (upwards of 50 in-game days), rather than rolling 50 times, you may process the crafting in 6-day chunks. You do this by making a single crafting roll, then approximate the next 5 days with the *passive value* of your roll. This shortcut is only available if your passive value is less than the crafting difficulty, but not low enough to fail. To determine your passive value, take half your maximum craft roll, then add or subtract any modifiers.
 
 > ##### Long-term Crafting Example
 > ___
@@ -166,7 +166,7 @@ If you expect a craft project to take a large amount of time (upwards of 50 in-g
 >
 > **Craft Check Roll:** r24+1
 >
-> **Average Craft Roll:** 14
+> **Craft Passive Value:** 13
 > ___
 > **Item:** Superior Platemail
 >
@@ -194,7 +194,7 @@ If you expect a craft project to take a large amount of time (upwards of 50 in-g
 
 ### Rushed Crafting
 
-If speed is more important than cost you can rush your craft check, which you can also make while long-term crafting. Rushed crafting alters the precentage of progress made and how much it costs at each success category:
+If speed is more important than cost, you can choose to rush your craft check. This can also be done while long-term crafting. Rushed crafting alters the precentage of progress made and how much it costs at each success category:
 
 ***Double Critical:*** Gain 100% progress paying 75% of the cost.  
 ***Critical:*** Gain 75% progress paying 75% of the cost.  
@@ -227,7 +227,7 @@ If speed is more important than cost you can rush your craft check, which you ca
 >
 > **Craft Check Roll:** r24+1
 >
-> **Average Craft Roll:** 14
+> **Craft Passive Value:** 13
 > ___
 > **Item:** Superior Platemail
 >

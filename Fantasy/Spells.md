@@ -12,7 +12,7 @@
 | [Sight](/Fantasy/Spells.md#sight) | Swift | Touch | One creature | 24 hours | Yes | None |
 | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None |
 | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Swift | 3m | One creature<br/>or object | Instant<br/>or 5 minutes | Optional | Fortitude |
-| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | No | Fortitude |
+| [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | Instant | No | Fortitude |
 
 ##### Table: All Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
@@ -599,7 +599,11 @@ You make a simple request of a creature. If that creature can understand what yo
 **Duration:** Instant or 5 minutes (concentration, range)  
 **Resist:** Fortitude
 
-You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even carrying and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell. If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength. Any objects can only be moved a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
+You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even carrying and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell.
+
+If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength.
+
+Any objects can only be moved a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
 
 ***Graze:*** Concentration cannot be maintained on the object.
 

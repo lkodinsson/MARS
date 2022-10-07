@@ -2,7 +2,7 @@
 
 Typically adventurers make money by going on adventures. They do this by taking up specialized jobs that require their skillset, or by plundering loot from creatures or dangerous places. However, before an adventurer was an adventurer they likely had a job which they used to finance their new lifestyle. This is usually covered in a character's background or archetype, which also limits the types of jobs they can perform. This limitation is primarily for roleplaying and has little effect on the mechanical rewards of working for a wage.
 
-At any point that a character has enough time to spend working they may make a skill check to see how much money they make. The type of skill used will depend on the type of job they are trying to perform. This is done on a case by case basis, but typically the player of that character wants to use their best skill to make money.
+At any point that a character has enough time to spend working, they may make a skill check to see how much money they make. The type of skill used will depend on the type of job they are trying to perform. This is done on a case by case basis, but typically the player of that character wants to use their best skill to make money.
 
 For example: A fighter wants to make money, so they go to the local barracks to spar with and train recruits. The fighter might use either their best combat skill or their charisma as the appropriate skill check.
 
@@ -10,7 +10,7 @@ The Game Master might also opt to skip the skill check entirely and just provide
 
 # Wages
 
-Any money provided by working a real job is not going to be a lot of money compared to going on quests, heists, or any kind of adventure. Regardless, it can help fill in the gaps. Making money in this way is usually done over extended periods of time, and does not require a skill check. Instead you will use your average roll. To determine your average roll, take half your maximum roll, add any bonuses, then add 1 for every two dice you would roll.
+Any money provided by working a real job is not going to be a lot of money compared to going on quests, heists, or other kinds of adventures. Regardless, it can help fill in the gaps. Making money in this way is usually done over extended periods of time, and does not require a skill check. Instead you will use your average roll. To determine your average roll, take half your maximum roll, add any bonuses, then add 1 for every two dice you would roll.
 
 The following values are calculated including any mandatory costs that a character might incur over a given period of time, such as food and shelter.
 

@@ -10,16 +10,14 @@
 * [Spellstones](#spellstones)
     * [Spellstone Qualities](#spellstone-qualities)
 
-Click [here](/Fantasy/Equipment.md) for the page on normal equipment.  
+Click [here](/Medieval/Equipment.md) for the page on normal equipment.  
 Click [here](/Fantasy/ArtifactEquipment.md) for the page on artifact equipment.
 
-In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and even rarer to be available for purchase. Even in wealthy cities, some magic items might never be available. Very expensive magical items (with a magic effect valuing more than 150sp) or items requiring someone exceptionally skilled, will require the use of the [craft skill](/Fantasy/Skills.md#craft-int).
-
-Activating any spell effect without the use of a spellstone does not count as casting a spell.
+In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and even rarer to be available for purchase. Even in wealthy cities, some magic items might never be available. Very expensive magical items (with a magic effect valuing 200sp or more) or items requiring someone exceptionally skilled, will likely require the use of the [craft skill](/Basic/PHB.md#craft-int).
 
 ## Scrolls
 
-While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as they are only usable by users of the arcana skill. The cost of these scrolls depends on the tier of the spell.
+While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited to spells only available to the [arcana skill](/Fantasy/Skills.md#arcana-int). The cost of these scrolls depends on the tier of the spell.
 
 ##### Table: Scrolls Cost
 | Tier | Tier Name | Price |
@@ -31,7 +29,9 @@ While not technically a magic item, scrolls do contain information for casting m
 
 ## Attunement
 
-Some magic items require that they be attuned to before providing their effects. This functions similarly to the maintenance of concentration. Anyone can attune to a magic item, but they can only attune to three items at a time. Once an item is attuned to, it is essentially turned on. Attuning to an item does not require any skills or spellcasting ability, but it does take a short amount of time equivalent to a swift action. Deattuning to an item, to turn it off, can be done as a free action.
+Some magic items require that they be attuned to before providing their effects. This functions similarly to the maintenance of concentration. Anyone can attune to a magic item, but they can only attune to *three* items at a time.
+
+Attuning to an item does not require any skills or spellcasting ability, but it does take a short amount of time equivalent to a swift action. Once an item is attuned to, it is essentially turned on. Deattuning to an item, to turn it off, can be done as a free action.
 
 Magic items listed note if they require attunement. For custom crafted magic items, you can tell if it requires attunement if the spell used to craft it requires concentration. Any magical effects they provide last for the maximum duration that the spell can last.
 
@@ -39,46 +39,63 @@ Potions and spellstones do not require attunement to use.
 
 ## Magic Gear
 
-Most magic gear requires attunement to provide their effects, and may do so continuously. Magic gear can be made out of any other wearable item such as boots, belts, gloves, hats, cloaks, etc. Not all magic gear needs to be worn, some are held in the hand. Magic gear that provide a continuous effect does so at a fixed effectiveness. This effectiveness is typically equal to a what a normal success would be if that spell was cast.
+Magic gear can be made out of any wearable item such as boots, belts, gloves, hats, cloaks, etc. Not all magic gear needs to be worn, some are held in the hand.
 
-##### Table: Magic Gear
+Magic gear that provides a continuous effect requires attunement, and provides that effect at a fixed effectiveness. This effectiveness is typically equal to a what a normal success would be if that spell was cast. Activating the effects of magic gear by attunement does not count as casting a spell.
+
+##### Table: Magic Gear, Continuous Attunement
 | Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|:-:|
-| Cloak of Feather Fall | Cloak (2sp) | 37sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 |
-| Gloves of Telekinesis | Gloves (5cp) | 35sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 7 |
-| Mask of Water Breathing | Mask (1sp) | 101sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 |
-| Spectacles of Sight | Glasses (2sp) | 37sp | [Sight](/Fantasy/Spells.md#sight) | 7 |
-| Sunrod | Small Iron Rod (½kg) (1sp) | 36sp | [Light](/Fantasy/Spells.md#light) | 7 |
+| Cloak of Feather Fall | Cloak (2sp) | 72sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 |
+| Gloves of Telekinesis | Gloves (5cp) | 70sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 7 |
+| Mask of Water Breathing | Mask (1sp) | 201sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 |
+| Spectacles of Sight | Glasses (2sp) | 72sp | [Sight](/Fantasy/Spells.md#sight) | 7 |
+| Lightrod | Small Iron Rod (½kg) (1sp) | 71sp | [Light](/Fantasy/Spells.md#light) | 7 |
+
+Some attunement items can only be used a limited number of times. They can only provide their effect for a limited duration, as determined by their spell effect.
+
+##### Table: Magic Gear, Limited Attunement
+|:-|:-:|:-:|:-:|:-:|
+| Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
+| Lightrod (1 use) | Small Iron Rod (½kg) (1sp) | 8sp | [Light](/Fantasy/Spells.md#light) | 7 |
 
 ### Magic Weapons
 
-Magic weapons require attunement to provide their effects, and may do so continuously. They deal half damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
+Magic weapons deal half damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they deal a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
 
-All magic weapons cost exactly 100sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
+All magic weapons cost exactly 200sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
 
-##### Table: Magic Weapons
+##### Table: Magic Weapon Examples
 | Name | Base Item | Price | Spell |
 |:-|:-:|:-:|:-:|
-| Arcane Crossbow | Crossbow (16sp) | 116sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
-| Chilling Battleaxe | Battleaxe (8sp) | 108sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
-| Flaming Longsword | Longsword (8sp) | 108sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
-| Lightning Warhammer | Warhammer (8sp) | 108sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
-| Necrotic Dagger | Dagger (5sp) | 105sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
-| Radiant Warstaff | Warstaff (8sp) | 108sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
+| Arcane Crossbow | Crossbow (16sp) | 216sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
+| Chilling Battleaxe | Battleaxe (8sp) | 208sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
+| Flaming Longsword | Longsword (8sp) | 208sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
+| Lightning Warhammer | Warhammer (8sp) | 208sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
+| Necrotic Dagger | Dagger (5sp) | 205sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
+| Radiant Warstaff | Warstaff (8sp) | 208sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
+
+### Magic Ammunition
+
+While weapons themselves are suited for repeated use, ammunition is not. Magic ammunition is much cheaper to acquire than magic weapons. They deal half elemental damage of a predetermined type just like magic weapons, including a bonus effect if they deal a critical strike.
+
+If you fire magic ammunition from a magic weapon, use the elemental type of the ammunition instead of the weapon.
+
+All magic ammunition costs exactly 20sp more than a normal sized bundle (20 items) of the same type.
 
 ### Magic Armour
 
-Magic armour requires attunement to provide their effects, and may do so continuously. Magical armour allows you to use your damage reduction from armour to prevent elemental damage. The armour still retains its other features, but loses its weaknesses.
+Magic armour allows you to use your damage reduction from armour to prevent elemental damage. The armour still retains its other features, but loses its weaknesses.
 
-All magic armour costs exactly 100sp more than their base item counterpart. Only body armour can be enchanted with this effect.
+All magic armour costs exactly 200sp more than their base item counterpart. Only body armour can be enchanted with this effect.
 
 ## Potions
 
-Potions are single use items that provide a magic effect when consumed. They can be used personally or applied to another character or object. Normally this requires the other character to be either willing or unconscious. Alternatively, you can throw the potion at a target as an improvised ranged weapon, which causes its effects to occur upon impact. When consumed or thrown it is used as a swift action, when poured out onto the ground or an object, it takes a standard action.
+Potions are single use items that provide a magic effect when consumed. They can be used personally or applied to another character or object. Normally this requires the other character to be either willing or unconscious. Alternatively, you can pour out the potion or throw the potion at a target as an improvised ranged weapon. Throwing it causes its effects to occur upon impact. When consumed or thrown it is used as a swift action. When poured out onto the ground or an object, it takes a standard action.
 
 When a potion applies the effects of a spell, it applies it at a fixed spellcasting roll. This is done instead of rolling a spellcasting skill for that spell effect, as no spell is actually cast and the effect is guaranteed. This is true even for potions that are thrown to inflict their effects. Potions that apply continuous effects do so without requiring attunement, but an object or creature can only be under the continuous effects of a single potion at a time.
 
-All potions have the same weight: ½kg.
+All potions are made from an alchemical base and have the same weight: ½kg.
 
 ##### Table: Potions
 | Name | Price | Spell | Spellcasting<br/>Roll |
@@ -104,7 +121,7 @@ Some potions are capable of automatically refilling. These potions are usuable o
 
 ##### Table: Refilling Potions
 | Name | Price | Spell | Continuous<br/>Effect | Spellcasting<br/>Roll |
-|:-|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|
 | Refilling Potion of Feather Fall | 15sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Yes | 7 (Success) |
 | Refilling Potion of Grease | 41sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 10 (Success) |
 | Refilling Potion of Grease, Critical | 69sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 17 (Critical) |

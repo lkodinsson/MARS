@@ -4,19 +4,24 @@
 * [Base Magic Cost](#base-magic-cost)
 * [Scrolls](#scrolls)
 * [Limited Use Items](#limited-use-items)
+	* [Potions](#potions)
+	* [Spellstones](#spellstones)
 * [Multiple Use Items](#multiple-use-items)
-* [Continuous Use Items](#continuous-use-items)
+* [Attunement Items](#attunement-items)
+	* [Limited Attunement](#limited-attunement)
+	* [Continuous Attunement](#contiunous-attunement)
 * [Multiple Effects](#multiple-effects)
 * [Triggered Effects](#triggered-effects)
 * [Curses](#curses)
 * [Charge Bonding](#charge-bonding)
 * [Focusing](#focusing)
 
-Click [here](/Fantasy/MagicEquipment.md) for examples of low cost magic equipment, or [here](/Fantasy/ArtifactEquipment.md) for examples of high cost magic equipment.
+Click [here](/Fantasy/MagicEquipment.md) for examples of low cost magic equipment.  
+Click [here](/Fantasy/ArtifactEquipment.md) for examples of high cost magic equipment.
 
-## Magic Item Crafting
+# Magic Item Crafting
 
-The cost for determining a magic item craft is found by combining two values together: the *base item cost* (which is the cost of the item including any adjustments from [equipment properties](/Fantasy/Equipment.md#equipment-properties)), and *magic effect cost*.
+The cost for determining a magic item craft is found by combining two values together: the *base item cost* (which is the cost of the item including any adjustments from [equipment properties](/Medieval/Equipment.md#equipment-properties)), and *magic effect cost*.
 
 As an equation: the total cost = the base item cost + the magic effect cost
 
@@ -33,10 +38,11 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 | Spell Scroll | Base Magic Cost × 1½ |
 | Limited Uses | Base Magic Cost × Uses ÷ 5 |
 | Uses per Day | Base Magic Cost × Uses × 2 |
-| Continuous Use | Base Magic Cost × 5 |
+| Limited<br/>Attunement | Base Magic Cost × Uses |
+| Continuous<br/>Attunement | Base Magic Cost × 10 |
 | Multiple<br/>Effects | Combined Magic Costs<br/>× (½ + Number of Effects × ½) |
 
-### Base Magic Cost
+## Base Magic Cost
 
 The base magic cost of an item is equal to the focus cost of the spell multiplied by the difficulty to cast that spell.
 
@@ -52,7 +58,7 @@ Crafting items using metamagics has a few restrictions. Adjustments made by meta
 
 For example: continuous use items cannot be made with either the channelled or fickle metamagics because using them does not count as casting a spell and their effects do not have a set duration.
 
-### Scrolls
+## Scrolls
 
 This is the simplest form of magic item craft. Scrolls are made by inscribing the details of how to cast a spell into a some form of paper (generally of negligible value) or a page in a book. A scroll can only contain enough information for one spell. While technically the scroll itself is not magical, it does use the same crafting rules. Only spells provided by the arcana skill can be made into scrolls.
 
@@ -60,9 +66,11 @@ The cost to make a scroll is equal to the base magic cost multiplied by 1½.
 
 For example: if you wanted to make a scroll of the spell *arcane missiles*, it would be 2 multiplied by 10, for a base magic cost of 20. Multiply that by 2, for a total cost of 40.
 
-### Limited Use Items
+## Limited Use Items
 
 These types of items can take two forms: *potions* and *spellstones*. Both use the same cost multiplier. This multipler is equal to a ratio of how many uses it holds divided by 5. Potions can only be made as single use items, while spellstones can be made with any quantity of uses.
+
+### Potions
 
 Potions are limited to certain types of spells. Only spells that can target a creature or a point, regardless of their other targeting options, can be made into potions. The spellcasting difficulty chosen pre-determines the spellcasting roll made when applying the effects of potions. The base item cost is 1 silver (or an alchemical base) to create potions.
 
@@ -81,6 +89,8 @@ Potions are limited to certain types of spells. Only spells that can target a cr
 > **Cost:** 5sp (1sp for the alchemical base, 4sp for the effect)
 >
 > **Difficulty:** 6
+
+### Spellstones
 
 Any spell can be chosen when crafting spellstones, but you must be able to cast it. Spellstones come in several different qualities: 2 silver for a rough gemstone, 10 silver for a fine gemstone, 50 silver for an exceptional gemstone, and 100 silver for a magnificent gemstone.
 
@@ -102,19 +112,45 @@ Any spell can be chosen when crafting spellstones, but you must be able to cast 
 
 Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items.
 
-### Multiple Use Items
+## Multiple Use Items
 
 These types of items are very similar to limited use items. They even take the same two forms: *potions* and *spellstones*. The primary difference is that rather than having a total limited number of uses, these types of items can be used a limited number of times *per day*. The cost multiplier for this type of item is equal to the number of times per day it can be used multiplied by 2.
 
 Multiple use potions are called refilling potions and can only be used once per day. Spellstones can still be crafted with any number of uses.
 
-### Continuous Use Items
+## Attunement Items
 
-Continuous effects are placed on items that are used or worn. Spells used to make these types of items effect either their wearer or the item itself. Only spells that require concentration can be chosen. A character must attune to this type of item to activate their effect. The cost multipler for this type of item is 5.
+Many spells have effects that last for extended periods of time. These types of effects can be placed onto normal items, that are then equipped or carried. Spells used to make these types of items effect either their wearer or the item itself. Only spells that normally require concentration can be chosen. A character must attune to this type of item to activate their effect.
 
 Typically this effect is placed on articles of clothing, like boots, gloves, cloaks, belts, etc. It is likely that this type of craft is performed on existing items, rather than from scratch, but both options are allowed.
 
-> ##### Continuous Use Item Upgrade Example
+Attunement items come in two forms: *limited* and *continuous*.
+
+### Limited Attunement
+
+Limitied attunement items can only be attuned to, to provide their effects, a limited number of times. These types of items are also only capable of providing the effect or a limited duration, as determined by the spell's normal duration. The cost multiplier for this type of item is equal to the number of uses it will provide.
+
+> ##### Limited Attunement Item Upgrade Example
+> ___
+> **Item:** Cloak -> Cloak of Featherfall (2 uses)
+>
+> **Spell:** Featherfall
+>
+> **Focus Cost:** 1
+>
+> **Spell Difficulty:** 7
+>
+> **Effect Cost:** 14 = 1 × 7 × 2 (limited attunement)
+>
+> **Cost:** 14sp (14sp for the effect, on a 2sp item)
+>
+> **Difficulty:** 7
+
+### Contiunous Attunement
+
+Continuous attunement items have no limit on the number of times they can be used, neither in total, or per day. These items provide their effects indefinitely, for as long as they are attuned to. The cost multipler for this type of item is 10.
+
+> ##### Continuous Attunement Item Upgrade Example
 > ___
 > **Item:** Fine Longsword -> Flaming Fine Longsword
 >
@@ -124,13 +160,13 @@ Typically this effect is placed on articles of clothing, like boots, gloves, clo
 >
 > **Spell Difficulty:** 10
 >
-> **Effect Cost:** 100 = 2 × 10 × 5 (continuous)
+> **Effect Cost:** 200 = 2 × 10 × 10 (continuous attunement)
 >
-> **Cost:** 100sp (100sp for the effect, on a 20sp item)
+> **Cost:** 200sp (200sp for the effect, on a 20sp item)
 >
-> **Difficulty:** 14
+> **Difficulty:** 18
 
-### Multiple Effects
+## Multiple Effects
 
 Magic items are not limited to a single magic effect, but there is an additional multipler for items that have more than one effect. You start by combining the costs of each individual effect, then you apply a multiplier to this combined cost. This multiplier is equal to ½ plus ½ for each magical effect.
 
@@ -158,7 +194,7 @@ Attuning to a single item with multiple continuous effects allows you to use any
 >
 > **Difficulty:** 8
 
-### Triggered Effects
+## Triggered Effects
 
 Any type of spell effect application can become triggered: *limited*, *per day*, and even *continuous*. The trigger sets a condition for it to be activated, and it must be activated in this way to be used.
 
@@ -180,17 +216,17 @@ Triggers on items follow the same rules as usual for triggered metamagics with o
 >
 > **Spell Difficulty:** 6 (-1 from reduced)
 >
-> **Effect Cost:** 45 = 1 × 6 × 5 × 1.5 (continuous, triggered)
+> **Effect Cost:** 90 = 1 × 6 × 10 × 1½ (continuous attunement, triggered)
 >
-> **Cost:** 45sp (45sp for the effect, on a 5sp item)
+> **Cost:** 90sp (90sp for the effect, on a 5sp item)
 >
-> **Difficulty:** 10
+> **Difficulty:** 13
 
-### Curses
+## Curses
 
 Curses are a special type of triggered effect. They are applied to items in the same way as normal triggered effects. The condition specified by a curse does not trigger a spell, instead it provides context for a drawback. There are two types of curses: *limitation* curses and *shackling* curses. An item can have both kinds of curses, but only one of each.
 
-Limitation curses provide restrictions how on the item is allowed to be used. These limitations can either prevent the item from providing magical effects or by directly influencing the actions of their users.
+Limitation curses provide restrictions how on the item is allowed to be used. These limitations can either prevent the item from providing magical effects or by directly influencing the actions of their users. This includes forcing the user to attune to the item when a different triggered effect occurs, essentially forcing the item to activate.
 
 Shackling curses are much more prohibitive than limitation curses. Once attuned to an item with a shackling curse, the item cannot be removed or deattuned except by a spell that removes or disables the curse, or by meeting the conditions of the curse.
 
@@ -198,7 +234,7 @@ All cursed items have conditions, even if they are not always known to their use
 
 Curses follow similar conditions to triggered effects: any condition is valid so long as it is knowable by the user, provided by the context of the curse, or involves detection of details within 100m from the user's location (even if not otherwise known).
 
-### Charge Bonding
+## Charge Bonding
 
 Charge bonding is a bonus effect. Meaning it has no base focus cost, but still increases the multiplier for having multiple effects.
 
@@ -208,10 +244,10 @@ This effect applies to all spells in that spellstone that are of the same catego
 
 For example: A spellstone with limited uses of jolt but per day uses of inspire and suggestion, could interchangably use inspire and suggestion. It could not use its per day uses to cast jolt, and vice versa.
 
-### Focusing
+## Focusing
 
 Focusing is another bonus effect. Meaning it has no base focus cost, but still increases the multiplier for having multiple effects.
 
-This effect, like charge bonding, increases the versatility of spellstones. Spellstones with this effect are no longer limited by their per day uses, but in order to cast spells exceeding their per day limit those spells will cost focus instead. Casting spells in this way is only possible to characters who have a skill appropriate to cast those spells, even if they do not have that spell learned.
+This effect, like charge bonding, increases the versatility of spellstones. Spellstones with this effect are no longer limited by their per day uses, but in order to cast spells exceeding their per day limit those spells will cost focus instead. Casting spells in this way is only possible for characters who have a skill appropriate to cast those spells, even if they do not have that spell learned.
 
 Limited use magic effects gain no bonus from focusing.

@@ -2,6 +2,7 @@
 
 * Part 1: Introduction
 	* [The Basics](#the-basics)
+		* [Roll Value](#roll-value)
 	* [Playing the Game](#playing-the-game)
 * Part 2: The Parts of a Character
 	* [Primary Stats](#primary-stats)
@@ -9,8 +10,8 @@
 	* [Skills](#skills-1)
 		* [Basic Skills](#basic-skills)
 		* [Advanced Skills](#advanced-skills)
-		* [Combat Skills](#combat-skills)
 		* [Languages](#languages)
+		* [Combat Skills](#combat-skills)
 		* [Other Skills](#other-skills)
 		* [Skill Checks](#skill-checks)
 * Part 3: Encounters & Abilities
@@ -45,30 +46,32 @@ There is only one exception to interpreting roll value, which is that if you get
 
 For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
 
-Whenever you add multiple roll values together they merge into a combined roll value: *r14* plus *r8* equals *r22*. Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
+Whenever you add multiple roll values together, they merge into a combined roll value: *r14* plus *r8* equals *r22*.
 
-| Roll Value | Dice to Roll |
-|:-:|:-|
-| r4 | 1d4 |
-| r6 | 1d6 |
-| r8 | 1d8 |
-| r10 | 1d10 |
-| r12 | 1d12 |
-| r14 | 1d10+1d4 |
-| r16 | 1d10+1d6 |
-| r18 | 1d10+1d8 |
-| r20 | 2d10 |
-| r22 | 1d12+1d10 |
-| r24 | 2d10+1d4 |
-| r26 | 2d10+1d6 |
-| r28 | 2d10+1d8 |
-| r30 | 3d10 |
+Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
 
-This has the added benefit of clearly indicating the maximum value you can roll (it is the same as the roll value), and makes calculating an approximation of the average value quite fast, as it is simply half of the roll value (then any additional bonuses or penalties).
+| Roll Value | Dice to Roll | Number of Dice |
+|:-:|:-|:-:|
+| r4 | 1d4 | 1 |
+| r6 | 1d6 | 1 |
+| r8 | 1d8 | 1 |
+| r10 | 1d10 | 1 |
+| r12 | 1d12 | 1 |
+| r14 | 1d10+1d4 | 2 |
+| r16 | 1d10+1d6 | 2 |
+| r18 | 1d10+1d8 | 2 |
+| r20 | 2d10 | 2 |
+| r22 | 1d12+1d10 | 2 |
+| r24 | 2d10+1d4 | 3 |
+| r26 | 2d10+1d6 | 3 |
+| r28 | 2d10+1d8 | 3 |
+| r30 | 3d10 | 3 |
+
+Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus any modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above.
 
 ### Stats
 
-Stats represent the innate capabilities of a character. There are two types of stats: *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are more specific properties of a character. While primary stats are simply given to a character, secondary stats are derived from other sources.
+Stats represent the innate capabilities of a character. There are two types of stats: *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are more specific properties of a character. While primary stats are something a character simply has, secondary stats are derived from other sources (such as primary stats).
 
 ### Skills
 
@@ -251,7 +254,7 @@ Perception is used to track animals, monsters, or people, to detect stealthy ind
 
 ## Advanced Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. Some additional genres provide their own advanced skills, but regardless of genre there are five core advanced skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and languages are also considered advanced skills.
+Unlike basic skills, a character must be at least trained in an advanced skill to use it. Some additional genres provide their own advanced skills, but regardless of genre there are five core advanced skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered advanced skills.
 
 ### Contacts (RES)
 
@@ -282,9 +285,17 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
+## Languages
+
+When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
+
+Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
+
+The availability of languages to your character are determined by the setting that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
+
 ## Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are considered advanced skills, characters can make attacks with weapons without training. If a character does so, they must roll the stat associated with the skill required to use that weapon (normally dexterity). Being trained in any combat skill allows you to use that skill to make attacks with weapons of a matching type, and all basic weapons. There are also cross-skill weapons which have multiple listed types. Any type listed can be used with those weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are advanced skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
 
 ### Finesse (DEX)
 
@@ -301,14 +312,6 @@ Ranged combat includes the use of all weapons that involve projectiles, such as 
 ### Unarmed (DEX)
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
-
-## Languages
-
-When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
-
-Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
-
-The availability of languages to your character are determined by the setting that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
 
 ## Other Skills
 
@@ -371,7 +374,7 @@ While most basic skills and actions can be performed in a matter of a couple sec
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with an advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
 
 Disadvantage works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
 
@@ -379,7 +382,7 @@ Paired instances of advantage and disadvantage cancel each other out. If you hav
 
 ### Group Actions
 
-Sometimes multiple players will want to perform the same type of action. If the circumstances (and the Game Master) determine it to be reasonable for multiple players to work together, then they will all roll the same skill check for that action, but only the best result will be used. A player can only assist in a task only if they are at least trained in that skill.
+Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best (or worst) result will be used.
 
 ### Talents & Special Abilities
 
@@ -487,7 +490,9 @@ This action covers most basic actions, like opening doors, activating wielded it
 
 Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
 
-If the terrain you are moving over is rough or difficult to navigate, then you can only move half as far over that terrain.
+If the terrain you are moving over is rough or difficult to navigate, then you can only move half as far over that terrain. If your speed is 1m or less, you can still move at least 1m over difficult terrain per move action.
+
+If your speed is reduced to 1m or less, you cannot move 1m as a free action. This includes moving 1m over difficut terrain, if your speed is reduced to 2m or less.
 
 #### Parry
 
@@ -503,6 +508,12 @@ Use a wielded item with the parry feature to defend against an attack, adding it
 Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice.
 
 For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action.
+
+#### Rise From Prone
+
+**Action Speed:** Swift
+
+You cancel the effects of prone. Ranged and melee attacks against you are made as normal, and your movement speed is restored.
 
 #### Seek Cover
 
@@ -530,6 +541,8 @@ Damaging items or objects is done by making the relevant skill checks against a 
 
 For example: breaking a door with an axe would be an Athletics or Martial check against an arbitrary difficulty value (if the door was made of wood, it would likely be easy).
 
+Damage that is halved or doubled multiple times are modified at an altered rate. If damage would be halved twice, it is instead reduced into a third. If it would be halved again, it is reduced to a quarter, and so on. Similarly, if damage is doubled twice, it is instead increased to a triple. If it would be douled again, it is increased to a quadruple, and so on.
+
 ## Damage Types
 
 There are three main categories of damage types: *physical*, *elemental*, and *typeless*.
@@ -544,11 +557,11 @@ Any time a damage type is not listed as one of the physical or elemental damage 
 
 The duration of any given effect is determined by the source of that effect. Usually this means that most effects are temporary. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent.
 
-Temporary effects that alter your primary stats, do not also alter your resource stats. They only change derived stats that rely on rolling that primary stat.
+Temporary effects that alter your primary stats, do not also alter your resource stats. They only change derived stats that rely on rolling that primary stat. Permanent effects that alter your primary stats, however, do alter your resource stats.
 
-For example: A character with a strength of r12 is given an effect with alters their size, increasing their strength by +2. This results in a strength of r12+2, which changes their athletic, fortitude, and damage rolls, but it does not change their maximum health from 12 to 14.
+For example: A character with a strength of r12 is given an effect with alters their size, increasing their strength by +2. This results in a strength of r12+2, which changes their athletics, fortitude, and damage rolls, but it does not change their maximum health from 12 to 14.
 
-Permanent effects that alter your primary stats, however, do alter your resource stats.
+Multiple effects of the same type do not stack unless otherwise specified.
 
 #### Blind
 
@@ -625,9 +638,7 @@ For example: You advanced your Unarmed skill and learned Heavy Strike. Since you
 Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.  
 Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
-Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. These types mostly serve as categorization, but other abilities may refer to the specific use of these types of maneuvers.
-
-Typically offensive maneuvers perform attacks, defensive maneuvers can be used to defend yourself or others, and tactical maneuvers provide other forms of actions.
+Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. Typically offensive maneuvers perform attacks, defensive maneuvers can be used to defend yourself or others, and tactical maneuvers provide other forms of actions.
 
 ### Performing Maneuvers
 
@@ -637,9 +648,9 @@ For example: You perform a Crippling Strike against a target. First you make an 
 
 ### Improvising Maneuvers
 
-Although maneuvers must normally be learned in order to use, you can improvise maneuvers. To do so, you must be at least trained in the skill required to learn it, but not have the maneuver itself learned. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a standard, swift, or free action, it becomes one action speed slower.
+Although maneuvers must normally be learned in order to use, you can also improvise maneuvers. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a standard, swift, or free action, it becomes one action speed slower.
 
-For example: You are trained in Finesse but aren't trained in the Feint maneuver. You attempt to improvise the maneuver, taking a -2 penalty on your charisma check to perform the maneuver. Additionally, it costs 3 stamina instead of 2, and is a standard action instead of a swift action.
+For example: You do not have the Feint maneuver, but intend to improvise it. You will get a -2 penalty on your charisma check to perform the maneuver, it will cost 3 stamina instead of 2, and becomes a standard action instead of a swift action.
 
 # Resting
 
@@ -729,15 +740,16 @@ Example: To find a lost family member; or to avenge a death.
 
 ## Equipment
 
-Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a fantasy setting, but a torch or a sword is.
+Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a medieval setting, but a torch or a sword is.
 
 Although you can generally have any item imaginable, some items have predetermined statistics. For example, weapons and armour are given tables detailing their properties.
 
-Click [here](/Fantasy/Equipment.md) to see the rules and tables for fantasy equipment.
+Click [here](/Medieval/Equipment.md) to see the rules and tables for medieval equipment.  
+Click [here](/Fantasy/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
 
 ### Currency
 
-There are various types of currency that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre. Regardless of the name of the currency, they are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces.
+There are various types of currencies that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre. Regardless of the name of the currency, they are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces.
 
 ### Weapons
 
@@ -753,13 +765,13 @@ For example: if you have a maximum strength of 11, and you are wearing a piece o
 
 ### Carrying Capacity
 
-Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially heavy ones. In this case you would need to determine the your carrying capacity. This is determined by your size, strength, and athletics. Although items do not have a listed size or bulk, use reason to determine how many items a character can carry.
+Many items will have a listed weight. Although it is optional to keep track of the weight of items, sometimes it might be necessary if a character is carrying an exceptional amount of them, especially if they are weak, or the items are very heavy. In this case you would need to determine the your carrying capacity. This is determined by your size, strength, and athletics. Although items do not have a listed size or bulk, use reason to determine how many large items a character can carry.
 
 ##### Table: Carrying Capacity
 | Modifier | Formula |
 |:-|:-|
-| Light Capacity (kg) | (Max STR + Athletics) × 3 |
-| Heavy Capacity (kg) | (Max STR + Athletics) × 5 |
+| Light Capacity (kg) | (Max STR + Max Athletics) × 3 |
+| Heavy Capacity (kg) | (Max STR + Max Athletics) × 5 |
 | Tiny | Capacity × ¼ |
 | Very Small | Capacity × ½ |
 | Small | Capacity × ¾ |
@@ -768,7 +780,7 @@ Many items will have a listed weight. Although it is optional to keep track of t
 | Very Large | Capacity × 2 |
 | Huge | Capacity × 3 |
 
-If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and have halved speed). If they exceed their heavy capacity then they become overencumbered (and cannot move).
+If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and have their speed halved). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
 Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, and push or drag something weighing four times that amount over a moderate distance (up to ten times that amount if assisted by wheels).
 
@@ -776,11 +788,17 @@ Casual carrying of items over extended periods of time is different than momenta
 
 As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 
-The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 2 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional experience point. This bonus stacks for each player that met their goals. Additionally, if a major goal of the campaign is met then each player receives a bonus of 2 experience points.
+The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 1 experience point. This bonus stacks for each player that met their goals. If a major goal of the adventure is met then each player receives an additional 3 experience points. Additionally, the Game Master may award bonus experience for any other reason, either to all characters, or to individual characters.
+
+The spending of experience points to improve a character is done in between each game session. Players may only advance individual stats, skills, or talents, once each, at each opportunity.
+
+Some Game Masters may require certain roleplaying events to occur for the advancement of certain abilities to be permitted.
 
 ### Improving Skills
 
-Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value. For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it would cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2.
+Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value.
+
+For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it will cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -810,11 +828,23 @@ Languages cost half as much as other advanced skills (rounded up):
 | 4 | 16 | r14 | Disciplined |
 | 4 | 20 | r16 | Accomplished |
 | 5 | 25 | r18 | Expert |
-| 5 | 30 | r20 | Master |
+| 5 | 30 | r20 | Master (Fluent) |
+
+#### Skill Limits
+
+Skills have a maximum step that they can be advanced to, which is equal to that of their associated stat.
+
+For example: if you have a *resolve* of r12, then the maximum that your *charisma* skill can be advanced to is also r12.
+
+Skills can be advanced even further if that skill or its primary stat have any additive bonuses. Subtractive penalties do not reduce the maximum that a skill can be advanced.
+
+For example: if you have a *strength* of r10+2, and a +1 bonus to *athletics* then the maximum that your *athletics* skill can be advanced to is r16, which is 3 steps past r10.
+
+This limitation does not apply to the advancement of language skills.
 
 ### Improving Primary Stats
 
-Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, it is instead exactly equal to the roll value.
+Improving primary stats functions very similarly to improving skills. The primary difference is that the cost is not equal to half the roll value, but is instead exactly equal to the roll value.
 
 For example: if you are improving a primary stat from a roll value of r12 to a roll value of r14 it would cost 14 experience points.
 
@@ -829,11 +859,17 @@ For example: if you are improving a primary stat from a roll value of r12 to a r
 | 18 | 70 | r18 | Powerful |
 | 20 | 90 | r20 | Epic |
 
+#### Experience Checkpoints
+
 There is also a second way that primary stats are improved: as your total experience gained reaches certain checkpoints you get additional bonuses to your stats for free. For every 50 total experience points gained, you will choose one of your primary stats and apply an additional +1 bonus to it. You may only choose a single primary stat twice to receive this bonus.
 
 ### Acquiring Talents
 
-While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability. Talents have varying experience costs which are listed along with their description. Some of them can even have multiple steps similar to stats and skills, such as the [toughness](/Basic/Talents.md#toughness) talent.
+While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability.
+
+Talents that provide minor abilities cost 4 experience, while those that provide more major abilities cost 8 experience. Some talents can be acquired more than once, such as the [toughness](/Basic/Talents.md#toughness) and [extra maneuver](/Basic/Talents.md#extra-maneuver) talents. These talents may have steps, similar to stats and skills. Each time they are acquired, they will cost 1 more experience for each time you have already acquired that talent.
+
+For example: The first time you acquire the toughness talent it will cost 4 experience, but the second and third times will each cost 5 and 6.
 
 Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring another archetype's starting talent so long as all other requirements are met.
 

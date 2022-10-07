@@ -4,6 +4,7 @@
     * [Lore](#lore)
     * [Scenarios](#scenarios)
     * [Scenes](#scenes)
+    * [Encounters](#encounters)
 * [Bestiary](#bestiary)
 * [Creating Creatures](#creating-creatures)
 
@@ -11,21 +12,27 @@
 
 Being a game master means being in control of an entire world that players directly interact with. It can be a lot of work to both prepare and to actively run that world, especially if the players completely subvert your preparations. The following guide is designed to streamline the worldbuilding process, allowing that world to be played as soon as possible.
 
+Each step in the worldbuilding process can be focused by the answering of several questions core to that step's proccess.
+
 ### Lore
 
+<!--LORE
 BUILDING BLOCKS OF WORLD
 INTUITIVE LORE DOESN'T NEED TO BE DEFINED
 DON'T INFO-DUMP PLAYERS
 PROVIDE LORE VIA CONTEXT CUES AND REQUEST BY PLAYERS
 DON'T MAKE TOO MUCH LORE (YOU CAN GO FOREVER)
+-->
 
 ### Scenarios
 
-Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world. Many scenarios can be prepared in advance, FLEXIBILITY FOR GM
+Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world.
 
 Example: A village is having their farms raided by nearby monsters, and they are in need of assistance if they are to continue feeding their population.
 
-It is important in the framing of your scenario not to decide exactly how it will be resolved. This is an important distinction to remember, as players may surprise you in how they decide to solve or complete your proposed scenarios. Having multiple scenarios prepared can be useful if players intend to completely subvert your originally planned scenario.
+It is important in the framing of your scenario not to decide exactly how it will be resolved. This is an important distinction to remember, as players may surprise you in how they decide to complete or subvert your proposed scenarios.
+
+Many scenarios can even be prepared in advance, allowing for the creation of storylines. This is massively beneficial because if any individual scenarios are subverted, there are at least others in the line that can still be used. Optionally, subverted scenarios can be repurposed for later use.
 
 #### Scenarios: Questions
 
@@ -36,11 +43,11 @@ It is important in the framing of your scenario not to decide exactly how it wil
 
 ### Scenes
 
-When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details given to be given for the reason of intentional interaction.
+When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details given to be given for the explicit purpose of intentional interaction.
 
 Example: There is a room with a locked door. The players know that there is something behind this door they want. The door can be broken into, lock picked, or you can break into the room by climbing into the window from the outside. There is also a key to the door hidden in the room.
 
-SCENES ARE GENERALLY IMPROVISED
+Most of this direct interactive content isdetermined by answers to the questions that help build a scenario, such as who can be asked for information and what information they will provide.
 
 #### Scenes: Questions
 
@@ -55,6 +62,8 @@ SCENES ARE GENERALLY IMPROVISED
 ### Storyline Escalation and Resolution
 
 # Bestiary
+
+EVERYTHING BELOW IS OUTDATED
 
 The bestiary is a collection of various pre-generated non-player characters and creatures. It is useful for anyone who immediately needs stats for a character or creature and doesn't want to spend the time generating all their stats manually.
 

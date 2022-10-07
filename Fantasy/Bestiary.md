@@ -17,7 +17,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 ---
 
 **STR** 3 (r8-1), **DEX** 6 (r8+2), **INT** 3 (r6), **RES** 5 (r8+1)  
-**Languages** Goblin (native), undercommon (native)  
+**Languages** Goblin (native), outsider (native)  
 **Abilities** Low-light vision  
 **Skills** [Agility](/Basic/PHB.md#agility-dex) +3 (r6), [Perception](/Basic/PHB.md#perception-dex) +2 (r4), [Sleight](/Basic/PHB.md#sleight-dex) +2 (r4)
 
@@ -83,7 +83,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 ---
 
 **STR** 3 (r8-1), **DEX** 7 (r10+2), **INT** 5 (r8+1), **RES** 5 (r10)  
-**Languages** Kobold (native), undercommon (native)  
+**Languages** Kobold (native), outsider (native)  
 **Abilities** Low-light vision    
 **Skills** [Agility](/Basic/PHB.md#agility-dex) +4 (r8), [Athletics](/Basic/PHB.md#athletics-str) +2 (r4), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)
 
@@ -114,7 +114,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 ---
 
 **STR** 10 (r16+2), **DEX** 6 (r14-1), **INT** 9 (r16+1), **RES** 7 (r14)  
-**Languages** Common (native), minotaur (native), undercommon (fluent)  
+**Languages** Common (native), minotaur (native), outsider (fluent)  
 **Abilities** Eidetic Memory, Natural Armour: Horns, Strong Back  
 **Skills** [Agility (Moving Silently)](/Basic/PHB.md#agility-dex) -2<sup>d</sup> (Noisy), [Athletics](/Basic/PHB.md#athletics-str) +8 (r16), [Charisma](/Basic/PHB.md#charisma-res) +3 (r6), [Knowledge](/Basic/PHB.md#knowledge-int) +6 (r12), [Perception](/Basic/PHB.md#perception-dex) +4 (r8)  
 **Talents** [Toughness (+22)](/Basic/Talents.md#toughness)

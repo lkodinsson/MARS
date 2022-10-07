@@ -133,7 +133,8 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Greathammer | 12sp | STR+r10 Blunt | +4 | Martial | 4kg | Momentum, Two-Handed |
 | Greatsword | 12sp | STR+r10 Piercing<br/>or Slashing | +4 | Martial | 4kg | Cleave, Two-Handed |
 | Mace | 8sp | STR+r8 Blunt | +6 | Martial | 3kg | Bypass 1, Momentum, Versatile |
-| Poleaxe | 12sp | STR+r10 Piercing<br/>or Slashing | +4 | Martial | 4kg | Two-Handed, Reach 2m |
+| Pike | 12sp | STR+r8 Piercing | +8 | Martial | 5½kg | Bypass 1, Large, Reach 4m, Two-Handed, Unfit 2m |
+| Poleaxe | 12sp | STR+r10 Piercing<br/>or Slashing | +4 | Martial | 4kg | Trip, Two-Handed, Reach 2m |
 | Spear | 8sp | STR+r8 Piercing | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
 | Warhammer | 8sp | STR+r8 Blunt | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
 | Warstaff | 8sp | STR+r8 Blunt | +6 | Martial | 3kg | Cleave, Reach 2m, Trip, Two-Handed |
@@ -167,7 +168,7 @@ When attacking with a weapon that has multiple damage types, you must specify wh
 | Windlass Crossbow | 40sp | r30 Piercing | +8 | Martial/Ranged | 6kg | Bypass 2, Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 24 seconds), Mechanical |
 | Whip | 2sp | STR+r6 Slashing | +6 | Martial/Ranged | 1kg | Reach 1m/3m, Trip |
 
-##### Table: Projectile Weapon Ammunition
+##### Table: Ammunition
 | Name | Price | Weight | Weapon |
 |:-|:-:|:-:|:-|
 | Sling bullets (20) | 5c | 1kg | Sling |
@@ -196,7 +197,7 @@ Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Cleave** Additional attacks made against new targets don’t suffer from the multiple attack penalty.
 
-**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks while next to walls, ceilings, or obstacles within 1m. If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack to hit your ally).
+**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks while next to walls, ceilings, or obstacles within 1m (or more if they have the unfit feature). If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack with disadvantage to hit a random adjacent ally).
 
 **Mechanical** This weapon does not add strength to damage, and can be preloaded before attacking with it.
 
@@ -206,23 +207,23 @@ Additionally, any weapon can also be thrown as if it has *Thrown 2m/20m*.
 
 **Parry** When you use this item to perform a parry action, add the given value to your Deflection.
 
-**Ranged** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range.
+**Ranged** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range. If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack with disadvantage to hit a random adjacent ally).
 
 **Reach** Functions like the ranged feature, but attacks are still considered melee.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon. Reloading the weapon in this way requires the use of both hands. Unless otherwise specified, it takes a swift action to reload the weapon, or a standard action if it is two-handed.
 
-**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by half (rounded up) to -2 and -4 (from -4 and -8).
+**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by 1 (from -4 to -3).
 
 **Thrown** Attacks can be made as if they were ranged, but the weapon must then be retrieved after use.
 
-**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack is made with -2 to hit, and deals half damage. If successful, the target can use agility to resist being tripped or drop prone.
+**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack deals blunt damage, is made with -2 to hit, and deals half damage. If successful, the target can use agility to resist being tripped or drop prone.
 
-**Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get -1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand.
+**Two-Handed** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get -1 to hit, and a disadvantage to damage. Two-Handed ranged weapons cannot make attacks with one hand, and get no advantage to damage.
 
 **Unfit** Attacks made at the given range or closer get -2 to hit.
 
-**Versatile** Attacks may be made two-handed with an advantage to damage and -2 to hit. Attacks made single-handed are made normally.
+**Versatile** Attacks may be made two-handed with an advantage to damage and -1 to hit. Attacks made single-handed are made normally.
 
 ## Armour
 
@@ -301,7 +302,7 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 ##### Table: Equipment Qualities
 | Quality Name | Weapons | Body Armour | Cost Adjustment |
 |:-|:-|:-|:-|
-| Improvised | -1 to hit, -1 damage | -1 armour rating, -1 damage reduction | ×½ |
+| Damaged,<br/>or Improvised | -1 to hit, -1 damage | -1 armour rating, -1 damage reduction | ×½ |
 | Crude | -1 to hit | -1 armour rating | ×¾ |
 | Fine | +1 to hit | +1 armour rating | ×1½ or +10sp |
 | Superior | +1 to hit, +1 damage | +1 armour rating, +1 damage reduction | ×2½ or +25sp |
@@ -314,7 +315,7 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | Heavy | ×1¼ Weight and modified abilities<sup>1</sup> | ×1¼ Weight and STR requirement | ×¾ |
 | Light | ×¾ Weight and modified abilities<sup>1</sup> | ×¾ Weight and STR requirement | ×1½ or +10sp |
 
-<sup>1</sup>Weapons will have one or none of the following features: *Swift*, *Versatile*, and *Two-Handed*. When a weapon becomes heavier or lighter, it has this ability changed into another ability depending on which ability it starts with.
+<sup>1</sup>Weapons will have one or none of the following features: *Swift*, *Versatile*, *Two-Handed*, and *Large*. When a weapon becomes heavier or lighter, it has this ability changed into another ability depending on which ability it starts with.
 
 ##### Table: Melee Weapon Weight
 | Default<br/>Ability | Heavier | Lighter |
@@ -323,3 +324,4 @@ Only weapons and body armours can be given equipment qualities, and only melee w
 | None | Versatile | Swift |
 | Versatile | Two-Handed | Swift |
 | Two-Handed | Two-Handed,<br/>-1 to hit,<br/>+1 damage | Versatile |
+| Large,<br/>Two-Handed | Large,<br/>Two-Handed,<br/>-1 to hit,<br/>+1 damage | Large,<br/>Two-Handed,<br/>+1 to hit |
