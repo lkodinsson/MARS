@@ -161,7 +161,7 @@
 | [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch | One object<br/>or surface | 30 minutes | Yes | None |
 | [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Agility<br/>and Fortitude |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Sickness](/Fantasy/Spells.md#sickness) | Standard | 10m | One creature | 1 week | No | Fortitude |
 
 ##### Table: Conjuration Greater Spells (Tier 3 Spells)
@@ -191,7 +191,7 @@
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Suggestion](/Fantasy/Spells.md#suggestion) | Swift | 10m | One creature | 1 hour | No | Willpower |
 | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Standard | 10m | One or more<br/>creatures | 30 minutes | Yes | Fortitude |
 
@@ -300,7 +300,7 @@
 | [Harm](/Fantasy/Spells.md#harm) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Sickness](/Fantasy/Spells.md#sickness) | Standard | 10m | One creature | 1 week | No | Fortitude |
 
 ##### Table: Militarism Greater Spells (Tier 3 Spells)
@@ -487,7 +487,7 @@
 ##### Table: Shouki Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Sight Projection](/Fantasy/Spells.md#sight-projection) | Standard | None | Self | 30 minutes | Yes | None |
 | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Standard | 10m | One or more<br/>creatures | 30 minutes | Yes | Fortitude |
 
@@ -700,7 +700,7 @@
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 
 ##### Table: Arcane Greater Spells (Tier 3 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |

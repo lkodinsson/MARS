@@ -87,15 +87,27 @@ And with swift weapons:
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Craft
 
-You always have craft materials available as long as you have your belongings, and all new crafts are made with partial progress for free. At least one craft check must be made to qualify for the free progress. This free bonus is applied before the results of that craft roll, but only if that roll succeeds or better (and is paid for).
+You always have access to materials as long as you have your belongings. All items crafted have their cost decreased by a small percentage.
+
+If multiple characters with craft preparation participate in a craft, only the best cost decrease is applied.
 
 ##### Table: Craft Preparation Steps & Cost
-| Step Cost | Total Cost | Free Progress |
+| Step Cost | Total Cost | Cost<br/>Decrease |
 |:-:|:-:|:-:|
-| 8 | 8 | 4% |
-| 9 | 17 | 7% |
-| 10 | 27 | 10% |
-| 11 | 38 | 12% |
+| 8 | 8 | 3% |
+| 9 | 17 | 6% |
+| 10 | 27 | 8% |
+| 11 | 38 | 10% |
+
+This cost decrease applies to all degrees of success. It even applies to failures at half the rate (rounded up).
+
+##### Table: Craft Preparation Cost by Success
+| Cost<br/>Decrease | Critical | Success | Graze | Failure |
+|:-:|:-:|:-:|:-:|:-:|
+| 3% | 77% | 87% | 97% | 8% |
+| 6% | 74% | 84% | 94% | 7% |
+| 8% | 72% | 82% | 92% | 6% |
+| 10% | 70% | 80% | 90% | 5% |
 
 ## Danger Sense
 
@@ -125,7 +137,7 @@ While conscious with the dying effect, you still lose health each turn, and make
 **Cost:** 4 EXP  
 **Requirements:** Any combat skill
 
-When you acquire this talent you will learn a new maneuver for a combat skill you are at least trained in.
+When you acquire this talent you will learn a new maneuver for a combat skill you trained in.
 
 This talent can be acquired any number of times.
 
@@ -134,7 +146,7 @@ This talent can be acquired any number of times.
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 13+ or Max Resolve 13+
 
-At any time you may gain advantage to your next skill check. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail any skill check, but only once per day.
+At any time you may gain advantage to your next skill check if you are trained in that skill. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail a skill check if you are trained in that skill, but only once per day.
 
 ##### Table: Fortune's Favour Steps & Cost
 | Step Cost | Total Cost | Ability Uses |
@@ -252,7 +264,7 @@ You can speak many languages well enough that you can easily figure out new ones
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 11+ or Max Resolve 11+, Trained in any combat skill
 
-The first block, evade, parry, or defensive maneuver that you use each round does not cost a reaction. Additionally, you may use each defensive maneuver twice each round instead of only once.
+The first defensive maneuver that you use each round does not cost a reaction. Additionally, you may use each defensive maneuver twice each round instead of only once.
 
 ## Rage
 

@@ -57,10 +57,10 @@ Scrolls can also be acquired by purchasing them from other wizards (including sp
 ##### Table: Scrolls Cost
 | Tier | Tier Name | Price |
 |:-:|:-:|:-:|
-| 1 | Cantrip | 10sp 5cp |
-| 2 | Lesser | 30sp |
-| 3 | Greater | 63sp |
-| 4 | Heroic | 114sp |
+| 1 | Cantrip | 20sp |
+| 2 | Lesser | 56sp |
+| 3 | Greater | 114sp |
+| 4 | Heroic | 200sp |
 
 ### Augury
 

@@ -1,7 +1,9 @@
-# Magic Equipment
+# Table of Contents
 
+* [Magic Items](#magic-items)
+    * [Magic Item Types](#magic-item-types)
+    * [Attunement](#attunement)
 * [Scrolls](#scrolls)
-* [Attunement](#attunement)
 * [Magic Gear](#magic-gear)
     * [Magic Weapons](#magic-weapons)
     * [Magic Armour](#magic-armour)
@@ -13,19 +15,11 @@
 Click [here](/Medieval/Equipment.md) for the page on normal equipment.  
 Click [here](/Fantasy/ArtifactEquipment.md) for the page on artifact equipment.
 
-In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and even rarer to be available for purchase. Even in wealthy cities, some magic items might never be available. Very expensive magical items (with a magic effect valuing 200sp or more) or items requiring someone exceptionally skilled, will likely require the use of the [craft skill](/Basic/PHB.md#craft-int).
+# Magic Items
 
-## Scrolls
+In most marketplaces, normal items of most varieties can be purchased. Magic items are much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and even rarer to be available for purchase. Even in wealthy cities, some magic items might never be available. Very expensive magical items (with a magic effect valuing 200sp or more) or items requiring someone exceptionally skilled, will likely require the use of the [craft skill](/Basic/PHB.md#craft-int).
 
-While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited to spells only available to the [arcana skill](/Fantasy/Skills.md#arcana-int). The cost of these scrolls depends on the tier of the spell.
-
-##### Table: Scrolls Cost
-| Tier | Tier Name | Price |
-|:-:|:-:|:-:|
-| 1 | Cantrip | 10sp 5cp |
-| 2 | Lesser | 30sp |
-| 3 | Greater | 63sp |
-| 4 | Heroic | 114sp |
+## Magic Item Types
 
 ## Attunement
 
@@ -37,7 +31,19 @@ Magic items listed note if they require attunement. For custom crafted magic ite
 
 Potions and spellstones do not require attunement to use.
 
-## Magic Gear
+# Scrolls
+
+While not technically a magic item, scrolls do contain information for casting spells. Scrolls are limited to spells only available to the [arcana skill](/Fantasy/Skills.md#arcana-int). The cost of these scrolls depends on the tier of the spell.
+
+##### Table: Scrolls Cost
+| Tier | Tier Name | Price |
+|:-:|:-:|:-:|
+| 1 | Cantrip | 20sp |
+| 2 | Lesser | 56sp |
+| 3 | Greater | 114sp |
+| 4 | Heroic | 200sp |
+
+# Magic Gear
 
 Magic gear can be made out of any wearable item such as boots, belts, gloves, hats, cloaks, etc. Not all magic gear needs to be worn, some are held in the hand.
 
@@ -46,34 +52,34 @@ Magic gear that provides a continuous effect requires attunement, and provides t
 ##### Table: Magic Gear, Continuous Attunement
 | Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|:-:|
-| Cloak of Feather Fall | Cloak (2sp) | 72sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 |
-| Gloves of Telekinesis | Gloves (5cp) | 70sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 7 |
-| Mask of Water Breathing | Mask (1sp) | 201sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 |
-| Spectacles of Sight | Glasses (2sp) | 72sp | [Sight](/Fantasy/Spells.md#sight) | 7 |
-| Lightrod | Small Iron Rod (½kg) (1sp) | 71sp | [Light](/Fantasy/Spells.md#light) | 7 |
+| Cloak of Feather Fall | Cloak (2sp) | 52sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 10 |
+| Gloves of Telekinesis | Gloves (5cp) | 50sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 10 |
+| Mask of Water Breathing | Mask (1sp) | 121sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 14 |
+| Spectacles of Sight | Glasses (2sp) | 52sp | [Sight](/Fantasy/Spells.md#sight) | 10 |
+| Lightrod | Small Iron Rod (½kg) (1sp) | 51sp | [Light](/Fantasy/Spells.md#light) | 10 |
 
 Some attunement items can only be used a limited number of times. They can only provide their effect for a limited duration, as determined by their spell effect.
 
 ##### Table: Magic Gear, Limited Attunement
 |:-|:-:|:-:|:-:|:-:|
 | Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
-| Lightrod (1 use) | Small Iron Rod (½kg) (1sp) | 8sp | [Light](/Fantasy/Spells.md#light) | 7 |
+| Lightrod (1 use) | Small Iron Rod (½kg) (1sp) | 6sp | [Light](/Fantasy/Spells.md#light) | 10 |
 
 ### Magic Weapons
 
 Magic weapons deal half damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they deal a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
 
-All magic weapons cost exactly 200sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
+All magic weapons cost exactly 120sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
 
 ##### Table: Magic Weapon Examples
 | Name | Base Item | Price | Spell |
 |:-|:-:|:-:|:-:|
-| Arcane Crossbow | Crossbow (16sp) | 216sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
-| Chilling Battleaxe | Battleaxe (8sp) | 208sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
-| Flaming Longsword | Longsword (8sp) | 208sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
-| Lightning Warhammer | Warhammer (8sp) | 208sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
-| Necrotic Dagger | Dagger (5sp) | 205sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
-| Radiant Warstaff | Warstaff (8sp) | 208sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
+| Arcane Crossbow | Crossbow (16sp) | 136sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
+| Chilling Battleaxe | Battleaxe (8sp) | 128sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
+| Flaming Longsword | Longsword (8sp) | 128sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
+| Lightning Warhammer | Warhammer (8sp) | 128sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
+| Necrotic Dagger | Dagger (5sp) | 125sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
+| Radiant Warstaff | Warstaff (8sp) | 128sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
 
 ### Magic Ammunition
 
@@ -81,13 +87,13 @@ While weapons themselves are suited for repeated use, ammunition is not. Magic a
 
 If you fire magic ammunition from a magic weapon, use the elemental type of the ammunition instead of the weapon.
 
-All magic ammunition costs exactly 20sp more than a normal sized bundle (20 items) of the same type.
+All magic ammunition costs exactly 14sp more than a normal sized bundle (20 items) of the same type.
 
 ### Magic Armour
 
 Magic armour allows you to use your damage reduction from armour to prevent elemental damage. The armour still retains its other features, but loses its weaknesses.
 
-All magic armour costs exactly 200sp more than their base item counterpart. Only body armour can be enchanted with this effect.
+All magic armour costs exactly 120sp more than their base item counterpart. Only body armour can be enchanted with this effect.
 
 ## Potions
 
@@ -100,20 +106,20 @@ All potions are made from an alchemical base and have the same weight: ½kg.
 ##### Table: Potions
 | Name | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|
-| Potion of Electricity | 2sp 4cp | [Jolt](/Fantasy/Spells.md#jolt) | 7 (Success) |
-| Potion of Electricity, Critical | 3sp 8cp | [Jolt](/Fantasy/Spells.md#jolt) | 14 (Critical) |
-| Potion of Feather Fall | 2sp 4cp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 7 (Success) |
-| Potion of Fire | 2sp 4cp | [Ignite](/Fantasy/Spells.md#ignite) | 7 (Success) |
-| Potion of Fire, Critical | 3sp 8cp | [Ignite](/Fantasy/Spells.md#ignite) | 14 (Critical) |
-| Potion of Inspiration | 5sp | [Inspire](/Fantasy/Spells.md#inspire) | 10 (Succes) |
-| Potion of Mending | 5sp | [Mend](/Fantasy/Spells.md#mend) | 10 (Success) |
-| Potion of Mending, Critical | 7sp 8cp | [Mend](/Fantasy/Spells.md#mend) | 17 (Critical) |
-| Potion of Restoration | 9sp 4cp | [Restoration](/Fantasy/Spells.md#restoration) | 14 (Success) |
-| Potion of Restoration, Critical | 12sp 6cp | [Restoration](/Fantasy/Spells.md#restoration) | 14 (Critical) |
-| Potion of Sickness | 5sp | [Sickness](/Fantasy/Spells.md#sickness) | 10 (Success) |
-| Potion of Sickness, Critical | 7sp 8cp | [Sickness](/Fantasy/Spells.md#sickness) | 17 (Critical) |
-| Potion of Sleep | 9sp 4cp | [Sleep](/Fantasy/Spells.md#sleep) | 14 (Success) |
-| Potion of Water Breathing | 5sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 10 (Success) |
+| Potion of Electricity | 3sp | [Jolt](/Fantasy/Spells.md#jolt) | 10 (Success) |
+| Potion of Electricity, Critical | 4sp 4cp | [Jolt](/Fantasy/Spells.md#jolt) | 17 (Critical) |
+| Potion of Feather Fall | 3sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 10 (Success) |
+| Potion of Fire | 3sp | [Ignite](/Fantasy/Spells.md#ignite) | 10 (Success) |
+| Potion of Fire, Critical | 4sp 4cp | [Ignite](/Fantasy/Spells.md#ignite) | 17 (Critical) |
+| Potion of Inspiration | 6sp 6cp | [Inspire](/Fantasy/Spells.md#inspire) | 14 (Success) |
+| Potion of Mending | 6sp 6cp | [Mend](/Fantasy/Spells.md#mend) | 14 (Success) |
+| Potion of Mending, Critical | 9sp 4cp | [Mend](/Fantasy/Spells.md#mend) | 21 (Critical) |
+| Potion of Restoration | 12sp 4cp | [Restoration](/Fantasy/Spells.md#restoration) | 19 (Success) |
+| Potion of Restoration, Critical | 16sp 6cp | [Restoration](/Fantasy/Spells.md#restoration) | 26 (Critical) |
+| Potion of Sickness | 6sp 6cp | [Sickness](/Fantasy/Spells.md#sickness) | 14 (Success) |
+| Potion of Sickness, Critical | 9sp 4cp | [Sickness](/Fantasy/Spells.md#sickness) | 21 (Critical) |
+| Potion of Sleep | 12sp 4cp | [Sleep](/Fantasy/Spells.md#sleep) | 19 (Success) |
+| Potion of Water Breathing | 6sp 6cp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 14 (Success) |
 
 ### Refilling Potions
 
@@ -122,14 +128,14 @@ Some potions are capable of automatically refilling. These potions are usuable o
 ##### Table: Refilling Potions
 | Name | Price | Spell | Continuous<br/>Effect | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|:-:|
-| Refilling Potion of Feather Fall | 15sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Yes | 7 (Success) |
-| Refilling Potion of Grease | 41sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 10 (Success) |
-| Refilling Potion of Grease, Critical | 69sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 17 (Critical) |
-| Refilling Potion of Inspiration | 41sp | [Inspire](/Fantasy/Spells.md#inspire) | Yes | 10 (Success) |
-| Refilling Potion of Mending | 41sp | [Mend](/Fantasy/Spells.md#mend) | No | 10 (Success) |
-| Refilling Potion of Mending, Critical | 69sp | [Mend](/Fantasy/Spells.md#mend) | No | 17 (Critical) |
-| Refilling Potion of Restoration | 85sp | [Restoration](/Fantasy/Spells.md#restoration) | No | 14 (Success) |
-| Refilling Potion of Water Breathing | 41sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Yes | 10 (Success) |
+| Refilling Potion of Feather Fall | 21sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Yes | 10 (Success) |
+| Refilling Potion of Grease | 57sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 14 (Success) |
+| Refilling Potion of Grease, Critical | 85sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 21 (Critical) |
+| Refilling Potion of Inspiration | 57sp | [Inspire](/Fantasy/Spells.md#inspire) | Yes | 14 (Success) |
+| Refilling Potion of Mending | 57sp | [Mend](/Fantasy/Spells.md#mend) | No | 14 (Success) |
+| Refilling Potion of Mending, Critical | 85sp | [Mend](/Fantasy/Spells.md#mend) | No | 21 (Critical) |
+| Refilling Potion of Restoration | 115sp | [Restoration](/Fantasy/Spells.md#restoration) | No | 19 (Success) |
+| Refilling Potion of Water Breathing | 57sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Yes | 14 (Success) |
 
 ## Spellstones
 
@@ -140,21 +146,21 @@ They can also be thrown as improvised weapons, like potions, to cause their effe
 ##### Table: Spellstones (Limited Uses)
 | Name | Price | Spell | Concentration |
 |:-|:-:|:-:|:-:|
-| Spellstone of Electricity (5 uses) | 9sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
-| Spellstone of Ignition (5 uses) | 9sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
-| Spellstone of Light (5 uses) | 9sp | [Light](/Fantasy/Spells.md#light) | Yes |
-| Spellstone of Mending (5 uses) | 22sp | [Mending](/Fantasy/Spells.md#mending) | No |
-| Spellstone of Telekinesis (5 uses) | 9sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
+| Spellstone of Electricity (5 uses) | 12sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
+| Spellstone of Ignition (5 uses) | 12sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
+| Spellstone of Light (5 uses) | 12sp | [Light](/Fantasy/Spells.md#light) | Yes |
+| Spellstone of Mending (5 uses) | 30sp | [Mending](/Fantasy/Spells.md#mending) | No |
+| Spellstone of Telekinesis (5 uses) | 12sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
 
 ##### Table: Spellstones (Per Day)
 | Name | Price | Spell | Concentration |
 |:-|:-:|:-:|:-:|
-| Spellstone of Electricity (1/day) | 16sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
-| Spellstone of Ignition (1/day) | 16sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
-| Spellstone of Knock (1/day) | 86sp | [Knock](/Fantasy/Spells.md#knock) | No |
-| Spellstone of Light (1/day) | 16sp | [Light](/Fantasy/Spells.md#light) | Yes |
-| Spellstone of Mending (1/day) | 42sp | [Mending](/Fantasy/Spells.md#mending) | No |
-| Spellstone of Telekinesis (1/day) | 16sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
+| Spellstone of Electricity (1/day) | 22sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
+| Spellstone of Ignition (1/day) | 22sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
+| Spellstone of Knock (1/day) | 116sp | [Knock](/Fantasy/Spells.md#knock) | No |
+| Spellstone of Light (1/day) | 22sp | [Light](/Fantasy/Spells.md#light) | Yes |
+| Spellstone of Mending (1/day) | 58sp | [Mending](/Fantasy/Spells.md#mending) | No |
+| Spellstone of Telekinesis (1/day) | 22sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
 
 Spellstones can also be socketed into another item (such as a ring or staff), allowing you to use that item to cast spells from the spellstone.
 

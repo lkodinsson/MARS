@@ -4,6 +4,7 @@
 | Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
 |:-|:-:|:-:|:-:|:-:|:-|
 | [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
+| [Back-step](#back-step) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
 | [Brace](#brace) | 0 | Swift | None | Defensive | Finesse, Martial, Unarmed |
@@ -50,6 +51,16 @@ Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
 
 Move 1m closer to a target 1m outside your melee attack range, or within your melee attack range but farther than 1m from you, then make a melee attack on that target with +1 to hit.
 
+## Back-step
+
+**Type:** Defensive  
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+Move 1m backward from a target who is making a melee attack against you. Get +2 to armour rating against that attack.
+
 ## Back-step Strike
 
 **Type:** Offensive  
@@ -60,7 +71,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 
 **Duration:** 1 Round
 
-Make an attack with -2 to hit, then you may move backward 1m. If you do move backward, get +2 to armour rating against the first attack from the target for the duration.
+Make an attack with -2 to hit, then move backward 1m. Get +2 to armour rating against the first attack from the target for the duration.
 
 ## Battle Cry
 
@@ -322,7 +333,7 @@ This maneuver cannot be used while prone.
 
 Make an attack. Reduce your threshold to get a critical by 2 during that attack.
 
-You may spend an additional 1 stamina to double the threshold reduction. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
+You may spend an additional 1 stamina to increase the critical threshold reduction to 3. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Pinning Shot
 
@@ -425,7 +436,7 @@ The next time you take the reload action this turn, it is one action speed faste
 
 **Resist:** Fortitude
 
-Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 crit damage. If successful, the target is knocked back 1m. If they can't be knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 crit damage. If successful, move with the target or knock them back 1m. If they can't be moved or knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Taunt
 

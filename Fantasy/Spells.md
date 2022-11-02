@@ -29,7 +29,7 @@
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | Extended<br/>(1 minute) | None | None | Instant | No | None |
-| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
+| [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Sickness](/Fantasy/Spells.md#sickness) | Standard | 10m | One creature | 1 week | No | Fortitude |
 | [Sight Projection](/Fantasy/Spells.md#sight-projection) | Standard | None | Self | 30 minutes | Yes | None |
 | [Suggestion](/Fantasy/Spells.md#suggestion) | Swift | 10m | One creature | 1 hour | No | Willpower |
@@ -53,9 +53,8 @@
 ## Alter Size
 
 **Specializations:** Enchantment, Transmutation  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 3m  
@@ -72,9 +71,8 @@ For example: If your target was Medium sized and you increased it to Huge (three
 ## Animal Form
 
 **Specializations:** Animism (Bonus: Practiced (r8))  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Target:** Self  
@@ -97,9 +95,8 @@ As an animal you lose the ability to speak normally and cast other spells. You m
 ## Arcane Missiles
 
 **Specializations:** Arcane, Conjuration, Evocation  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** 20m  
@@ -115,9 +112,8 @@ You shoot arcane missiles each dealing r8+1 arcane damage. These missiles *alway
 ## Darkness
 
 **Specializations:** Conjuration, Darkness, Entropy  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -131,9 +127,8 @@ You touch an object or surface, causing it to consume nearly all light in a 6m r
 ## Debilitate
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Entropy, Fire (Resolve), Water (Intelligence)  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -148,9 +143,8 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 ## Detect Thoughts
 
 **Specializations:** Augury, Authority, Light  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -167,9 +161,8 @@ Allows you to read the active thoughts of another creature. You may also choose 
 ## Enhance
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** 6m  
@@ -184,9 +177,8 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 ## Enhance Self
 
 **Specializations:** Discipline, Genki (Strength), Kiai (Dexterity), Shouki (Intelligence), Yuuki (Resolve)  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Swift
 
 **Target:** Self  
@@ -197,9 +189,8 @@ This spell functions exactly like the spell [Enhance](#enhance), but is faster t
 ## Feather Fall
 
 **Specializations:** Air, Discipline, Enchantment, Kiai, Liberty, Transmutation  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift or Reaction
 
 **Range:** 10m  
@@ -216,9 +207,8 @@ This spell's focus cost and difficulty increase by 1 for each additional creatur
 ## Grease
 
 **Specializations:** Conjuration, Water  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -235,9 +225,8 @@ The grease can be ignited, which gives burning 2 to any character who starts the
 ## Harm
 
 **Specializations:** Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -253,9 +242,8 @@ This spell can be used to destroy small mundane objects made of wood or stone, b
 ## Ignite
 
 **Specializations:** Evocation, Fire, Impulse, Transmutation  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
@@ -271,9 +259,8 @@ You fire a small burst of flame at a nearby object or creature, dealing fire dam
 ## Inspire
 
 **Specializations:** Altruism, Evocation, Fire, Harmony, Impulse, Yuuki  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch or 20m  
@@ -288,9 +275,8 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 ## Jolt
 
 **Specializations:** Air, Evocation, Impulse, Transmutation  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
@@ -306,9 +292,8 @@ You launch a small pulse of electricity at a nearby object or creature, dealing 
 ## Knock
 
 **Specializations:** Augury, Authority, Entropy, Light, Transmutation  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Extended (1 minute)
 
 **Range:** Touch  
@@ -323,9 +308,8 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 ## Light
 
 **Specializations:** Altruism, Augury, Conjuration, Enchantment, Fire, Harmony, Liberty, Light  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -339,9 +323,8 @@ You touch an object or surface, causing it to radiate light like a torch in a 6m
 ## Magic Armour
 
 **Specializations:** Arcane, Conjuration, Enchantment, Militarism  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -358,9 +341,8 @@ You create a suit of magical armour on the target of your spell. It has an armou
 ## Magic Weapon
 
 **Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, Water (Cold)  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -381,9 +363,8 @@ You touch a weapon, granting it magical properties. It deals half of its damage 
 ## Mend
 
 **Specializations:** Altruism, Balance, Charity (Bonus: Adept (r6)), Discipline, Earth, Harmony, Liberty, Light, Transmutation, Water, Yuuki  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -399,9 +380,8 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 ## Message
 
 **Specializations:** Air, Augury, Enchantment, Liberty, Light, Shouki  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch or 3m  
@@ -418,9 +398,8 @@ Communicating in this way does not guarantee an understanding. Creatures must al
 ## Prestidigitation
 
 **Specializations:** Arcane, Authority, Conjuration, Darkness  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 1m  
@@ -433,9 +412,8 @@ You create the illusion of a miniscule object or creature, or various small magi
 ## Restoration
 
 **Specializations:** Altruism, Genki, Harmony, Transmutation, Liberty, Light, Yuuki  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Standard
 
 **Range:** Touch  
@@ -452,9 +430,8 @@ You restore a living creature to good health, removing negative conditions of a 
 ## Seek Guidance
 
 **Specializations:** Augury, Authority, Balance, Service (Bonus: Adept (r6)), Entropy, Harmony, Light  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Extended (1 minute)
 
 Provides you with some information about any subject. Only information that can be determined within the next 30 minutes can be requested. Ask the Game Master a simple question (no longer than one sentence). You must ask this question from the perspective of your character.
@@ -466,26 +443,28 @@ Provides you with some information about any subject. Only information that can 
 ## Shield
 
 **Specializations:** Arcane, Conjuration, Enchantment, Militarism, Shouki  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
-**Action Speed:** Swift or Reaction
+**Action Speed:** Swift or Free Reaction
 
 **Target:** Self  
 **Duration:** Instant or 5 minutes (concentration)
 
-You create a magical shield. It acts like a shield in that it has a block value, but it has no weight or strength requirements. Additionally, this shield is capable of reducing magical damage unlike real shields. This spell can be cast as a reaction to block an incoming attack or spell, or it can be maintained with concentration. If it is maintained, it is as though it is attached to your hand or wrist, but it does not require that your hand is empty. As long as it is maintained you may block with it as normal, and you may spend focus or stamina when doing so. If this spell was only cast as a reaction and not maintained, it costs 1 less focus.
+You create a magical shield that acts like a normal shield in that it has a block value and durability, but it has no weight or strength requirements. Because the shield is weightless, it floats next to you rather than occupying a hand.
 
-***Critical:*** Block 6.  
-***Success:*** Block 5.  
-***Graze:*** Block 4.
+While the shield is present, it can be used to block as a normal shield would, but you may spend focus instead of stamina to perform the block action with it.
+
+If this spell is cast as a free reaction, it does not require concentration, but may only be used to block a single incoming attack. If so, it costs 1 less focus to cast, but will still cost an additional 1 stamina or focus to block.
+
+***Critical:*** Block 5, Durability 14.  
+***Success:*** Block 4, Durability 12.  
+***Graze:*** Block 3, Durability 10.
 
 ## Sickness
 
 **Specializations:** Conjuration, Darkness, Earth, Militarism, Transmutation, Water  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -502,9 +481,8 @@ Inflict sickness upon a living creature, causing it to perform tasks worse and s
 ## Sight
 
 **Specializations:** Augury, Authority, Balance, Discipline, Enchantment, Light, Shouki  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** Touch  
@@ -519,9 +497,8 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 ## Sight Projection
 
 **Specializations:** Augury, Authority, Light, Shouki  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Target:** Self  
@@ -532,9 +509,8 @@ You project your sight as though it is coming from another body. This effect beg
 ## Sleep
 
 **Specializations:** Authority, Darkness, Enchantment, Evocation  
-**Difficulty:** 14 (Hard)
+**Spell Tier:** 3 (Greater)
 
-**Focus Cost:** 3  
 **Action Speed:** Full-round
 
 **Range:** 10m  
@@ -555,9 +531,8 @@ This spell's focus cost and difficulty increases by 2 for each additional creatu
 ## Speak with Animals
 
 **Specializations:** Animism (Bonus: Trained (r4))  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Standard
 
 **Target:** Self  
@@ -570,9 +545,8 @@ You gain the ability to properly communicate with animals. This provides advanta
 ## Suggestion
 
 **Specializations:** Authority, Enchantment, Evocation, Fire  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Swift
 
 **Range:** 10m  
@@ -589,9 +563,8 @@ You make a simple request of a creature. If that creature can understand what yo
 ## Telekinesis
 
 **Specializations:** Air, Arcane, Kiai, Transmutation  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -610,9 +583,8 @@ Any objects can only be moved a total distance equal to twice the range of this 
 ## Water Breathing
 
 **Specializations:** Air, Enchantment, Shouki, Transmutation, Water  
-**Difficulty:** 10 (Moderate)
+**Spell Tier:** 2 (Lesser)
 
-**Focus Cost:** 2  
 **Action Speed:** Standard
 
 **Range:** 10m  
@@ -627,9 +599,8 @@ Allows the targets to breath underwater the same as they breath air above water,
 ## Water Jet
 
 **Specializations:** Conjuration, Water  
-**Difficulty:** 7 (Easy)
+**Spell Tier:** 1 (Cantrip)
 
-**Focus Cost:** 1  
 **Action Speed:** Swift
 
 **Range:** 3m  
@@ -637,6 +608,6 @@ Allows the targets to breath underwater the same as they breath air above water,
 **Duration:** Instant  
 **Resist:** Fortitude
 
-Soak a target with a stream of water generated from your body, optionally pushing it a distance up to 3m. This stream of water can be generated from a body of water (up to a distance away based on the range of this spell) instead of your body. Doing so gives the stream twice the range and pushback, but costs 1 addditional focus and with 2 higher difficulty. This spell can also be used to put out fires and stop objects or creatures from burning. When used on grease or oil fires it will not stop any burning.
+Soak a target with a stream of water generated from your body, optionally pushing it a distance up to 3m away. This stream of water can be generated from a body of water (up to a distance away based on the range of this spell) instead of your body. Doing so gives the stream twice the range and pushback, but costs 1 addditional focus and with 2 higher difficulty. This spell can also be used to put out fires and stop objects or creatures from burning. When used on grease or oil fires it will not stop any burning.
 
 ***Graze:*** The target can only be pushed half the distance (rounded up).

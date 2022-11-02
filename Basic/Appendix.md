@@ -98,6 +98,19 @@ The following tables are example tasks at various difficulties for some of the b
 | Climbing up a sheer cliff or wall<br/>without the use of rope or tools | 25 (Ambitious) |
 | Jumping a 7m gap | 25 (Ambitious) |
 
+##### Table: Craft Common Tasks
+| Task | Difficulty |
+|:-|:-|
+| Creating a basic<br/>improvised weapon | 7 (Easy) |
+| Creating a rope<br/>from sheets or clothing | 7 (Easy) |
+| Creating a weak knot | 7 (Easy) |
+| Creating a basic trap | 10 (Moderate) |
+| Creating an average knot | 10 (Moderate) |
+| Creating a specialized<br/>improvised weapon | 10 (Moderate) |
+| Learning how to use<br/>an unrecognized simple device | 10 (Moderate) |
+| Creating a strong knot | 14 (Hard)
+| Learning how to use<br/>an unrecognized complex device | 19 (Challenging) |
+
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
@@ -111,6 +124,8 @@ The following tables are example tasks at various difficulties for some of the b
 | Task | Difficulty |
 |:-|:-|
 | Stabilize a dying character | 10 (Moderate) |
+| Recognizing dangerous materials | 10 (Moderate) |
+| Recognizing dangerous plants | 14 (Hard) |
 | Staunching a bleeding wound | 14 (Hard) |
 | Treat a resting wounded character | 14 (Hard) |
 | Treat a resting injured character | 19 (Challenging) |
@@ -125,7 +140,7 @@ The following tables are example tasks at various difficulties for some of the b
 | Noticing a magical trap | 19 (Challenging) |
 | Tracking something you don't know of | 19 (Challenging) |
 | Finding a secret door | 25 (Ambitious) |
-| Finding a needle in a hay stack | 32 (Absurd) |
+| Finding a needle in a hay stack | 40 (Improbable) |
 
 ##### Table: Sleight Common Tasks
 | Task | Difficulty |
@@ -149,7 +164,7 @@ Below is a table to use as a reference for converting roll values to dice notati
 
 ##### Table: Roll Values from r2 to r40
 | Roll Value | Dice to Roll | Passive Value | Total Dice |
-|:-:|:-|:-:|:-:|:-:|
+|:-:|:-|:-:|:-:|
 | r2 | 1d2 (coin) | 1 | 1 |
 | r4 | 1d4 | 2 | 1 |
 | r6 | 1d6 | 3 | 1 |
@@ -178,8 +193,8 @@ This table encompasses all size categories available to living creatures.
 ##### Table: Carrying Capacity, All Sizes
 | Modifier | Formula |
 |:-|:-|
-| Light Capacity (kg) | Max STR × 4 |
-| Heavy Capacity (kg) | Max STR × 7 |
+| Light Capacity (kg) | (Max STR + Max Athletics) × 3 |
+| Heavy Capacity (kg) | (Max STR + Max Athletics) × 5 |
 | Miniscule | Capacity × ⅒ |
 | Very Tiny | Capacity × ⅛ |
 | Tiny | Capacity × ¼ |

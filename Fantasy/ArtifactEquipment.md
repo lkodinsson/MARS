@@ -11,17 +11,17 @@ Minor artifacts follow all the normal rules of magic item creation, and as such 
 
 | Name | Material<br/>Cost | Magic<br/>Cost | Price |
 |:-|:-:|:-:|:-:|
-| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 1170sp | 1170sp 5cp |
-| [Scrying Orb](#scrying-orb) | 15sp | 160sp | 175sp |
-| [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 384sp | 405sp |
+| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 667sp 5cp | 668sp |
+| [Scrying Orb](#scrying-orb) | 15sp | 224sp | 239sp |
+| [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 476sp | 497sp |
 | [Staff of the Magi](#staff-of-the-magi) | 76sp | ?sp | ?sp |
-| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 1125sp | 1206sp |
+| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 775sp | 856sp |
 
 ### Belt of Giant's Might
 
 **Materials:** Belt (5cp)  
-**Magic Cost:** 1170sp  
-**Price:** 1170sp 5cp
+**Magic Cost:** 667sp 5cp  
+**Price:** 668sp
 
 This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to empowered in both strength and size. 
 
@@ -30,8 +30,8 @@ Attuning to this item provides an advantage to all strength rolls (from the spel
 ### Scrying Orb
 
 **Materials:** Crystal Ball (5sp), Fine Gemstone (10sp)  
-**Magic Cost:** 160sp  
-**Price:** 175sp
+**Magic Cost:** 224sp  
+**Price:** 239sp
 
 This is a palm-sized silvered glass ball capable of casting several spells via a charge bonded fine spellstone embedded deep within it, which cannot be removed or modified without destroying crystal ball.
 
@@ -45,8 +45,8 @@ The following spells can each be used collectively 2 times per day, with a +1 bo
 ### Staff of the Apprentice
 
 **Materials:** Fine Staff (11sp), Fine Gemstone (10sp)  
-**Magic Cost:** 384sp  
-**Price:** 405sp
+**Magic Cost:** 476sp  
+**Price:** 497sp
 
 This staff is capable of casting several spells via a charged bonded and focused fine spellstone socketed in it. This staff is designed to be wielded by an apprentice spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
 
@@ -78,8 +78,8 @@ The following spells can be used collectively ? times per day, or by spending fo
 ### Thundergod's Warhammer
 
 **Materials:** Masterwork Heavy Warhammer (81sp)
-**Magic Cost:** 1125sp  
-**Price:** 1206sp
+**Magic Cost:** 775sp  
+**Price:** 856sp
 
 This is a masterwork heavy warhammer with a large head and a short handle. Carved into it are glowing runic symbols. Those who do not possess enough physical strength perceive this item as having an impossibly heavy weight and cannot lift it. While attuned this item gently crackles with lightning and appears to weigh as little as a feather.
 

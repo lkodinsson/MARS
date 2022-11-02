@@ -25,7 +25,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 **INIT** 11 (r16+3), **SPD** 6m  
 **HP+ED** 16 (7+9), **ST** 10  
-**DEF** 6 (r8+2), **EVA** 7 (r8+3), **DR** 2 (1 vs blunt)  
+**DEF** 6 (r8+2), **EVA** 7 (r8+3), **DR** 2  
 **FORT** 8 (r16), **WILL** 8 (r14+1)  
 **Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +3 (r6), [Ranged](/Basic/PHB.md#ranged-dex) +2 (r4)  
 **Maneuvers** [Battle Cry](/Basic/Maneuvers.md#battle-cry), [Escape](/Basic/Maneuvers.md#escape)
@@ -37,7 +37,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 ---
 
-**Equipment** Improvised jerkin, crude knife, crude shortbow, arrows (4), copper (2)
+**Equipment** Crude leather armour, crude knife, crude shortbow, arrows (4), copper (2)
 
 ## Hedge Wizard
 
@@ -68,11 +68,11 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 ---
 
-**Fine staff** 9 to hit (Martial+1), 7 blunt (STR+r6), Crit +6, Cleave, Trip, Versatile
+**Fine staff** 9 to hit (Martial+1), 7 blunt (STR+r6), Crit +6, Backswing, Trip, Versatile
 
 ---
 
-**Equipment** Doublet, cloak, fine staff, potion of mending, alchemical base (1), silver ring, electrum (2)
+**Equipment** Doublet (padded armour), cloak, fine staff, potion of mending, alchemical base (1), silver ring, electrum (2)
 
 ## Kobold
 
@@ -91,7 +91,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 
 **INIT** 12 (r20+2), **SPD** 6m  
 **HP+ED** 17 (7+10), **ST** 12  
-**DEF** 6 (r10+1), **EVA** 8 (r10+3), **DR** 3 (1 vs blunt)  
+**DEF** 6 (r10+1), **EVA** 8 (r10+3), **DR** 2  
 **FORT** 8 (r18-1), **WILL** 10 (r18+1)  
 **Combat Skills** [Finesse](/Basic/PHB.md#finesse-dex) +3 (r6), [Ranged](/Basic/PHB.md#ranged-dex) +3 (r6)  
 **Maneuvers** [Back-step Strike](/Basic/Maneuvers.md#back-step-strike), [Escape](/Basic/Maneuvers.md#escape)
@@ -103,7 +103,7 @@ A small copper-skinned creature with rough skin and sharp teeth. They resemble d
 
 ---
 
-**Equipment** Crude jerkin, crude knife, crude shortbow, arrows (4), copper (2)
+**Equipment** Crude leather armour, crude knife, crude shortbow, arrows (4), copper (2)
 
 ## Minotaur
 
@@ -134,4 +134,4 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 ---
 
-**Equipment** Exceptional heavy greataxe, exceptional scalemail, half helm, plated bracers, greaves, electrum (5)
+**Equipment** Exceptional heavy greataxe, exceptional scale armour, half helm, plated bracers, greaves, electrum (5)

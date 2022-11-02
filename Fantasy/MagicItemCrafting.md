@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [Magic Item Crafting](#magic-item-crafting)
-* [Base Magic Cost](#base-magic-cost)
+	* [Base Magic Cost](#base-magic-cost)
 * [Scrolls](#scrolls)
 * [Limited Use Items](#limited-use-items)
 	* [Potions](#potions)
@@ -35,22 +35,23 @@ Below is a table to use as a shortcut for determining costs and multipliers:
 | Modifier | Cost Formula |
 |:-|:-|
 | Base Magic Cost | Focus Cost × Spell Difficulty |
-| Spell Scroll | Base Magic Cost × 1½ |
-| Limited Uses | Base Magic Cost × Uses ÷ 5 |
-| Uses per Day | Base Magic Cost × Uses × 2 |
-| Limited<br/>Attunement | Base Magic Cost × Uses |
-| Continuous<br/>Attunement | Base Magic Cost × 10 |
+| Spell Scroll | Base Magic Cost × 2 |
+| Limited Uses | Base Magic Cost × Uses ÷ 2 |
+| Uses per Day | Base Magic Cost × Uses × 5 |
+| Continuous Use | Base Magic Cost × 25 |
+| Limited<br/>Attunement | Base Magic Cost × Uses ÷ 2 |
+| Continuous<br/>Attunement | Base Magic Cost × 5 |
 | Multiple<br/>Effects | Combined Magic Costs<br/>× (½ + Number of Effects × ½) |
 
 ## Base Magic Cost
 
 The base magic cost of an item is equal to the focus cost of the spell multiplied by the difficulty to cast that spell.
 
-For example: if you choose the spell *mend*, this would be 2 multiplied by 10, for a total of 20.
+For example: if you choose the spell *mend*, this would be 2 multiplied by 14, for a total of 28.
 
 The effectiveness of a magic effect is determined by the spell difficulty, which can be changed to any value. At a minimum this value must be at least equal to the spell's required difficulty, and at a maximum no higher than the maximum possible roll to cast that spell (after bonuses and penalties) that you or an assistant can cast.
 
-For example: if you choose the spell *mend*, you could choose a difficulty of 20. This would effectively double the previous example's total to 40.
+For example: if you choose the spell *mend*, you could choose a difficulty of 21. This would increase the previous example's total to 42.
 
 In part of determining the magic effect, you must also make any decisions that the spell must normally make. This includes decisions that alter the cost and difficulty to cast the spell, any modal or elemental decisions that the spell requires, and even metamagics. Any other modifers from talents or any unique features of spellcasting skills cannot be used to alter spells crafted onto items.
 
@@ -58,63 +59,65 @@ Crafting items using metamagics has a few restrictions. Adjustments made by meta
 
 For example: continuous use items cannot be made with either the channelled or fickle metamagics because using them does not count as casting a spell and their effects do not have a set duration.
 
-## Scrolls
+# Scrolls
 
 This is the simplest form of magic item craft. Scrolls are made by inscribing the details of how to cast a spell into a some form of paper (generally of negligible value) or a page in a book. A scroll can only contain enough information for one spell. While technically the scroll itself is not magical, it does use the same crafting rules. Only spells provided by the arcana skill can be made into scrolls.
 
-The cost to make a scroll is equal to the base magic cost multiplied by 1½.
+The cost to make a scroll is equal to the base magic cost multiplied by 2.
 
-For example: if you wanted to make a scroll of the spell *arcane missiles*, it would be 2 multiplied by 10, for a base magic cost of 20. Multiply that by 2, for a total cost of 40.
+For example: if you wanted to make a scroll of the spell *arcane missiles*, it would be 2 multiplied by 14, for a base magic cost of 28. Multiply that by 2, for a total cost of 56.
 
-## Limited Use Items
+# Limited Use Items
 
-These types of items can take two forms: *potions* and *spellstones*. Both use the same cost multiplier. This multipler is equal to a ratio of how many uses it holds divided by 5. Potions can only be made as single use items, while spellstones can be made with any quantity of uses.
+These types of items can take two forms: *potions* and *spellstones*. Both use the same cost multiplier. This multipler is equal to a ratio of how many uses it holds divided by 2. Potions can only be made as single use items, while spellstones can be made with any quantity of uses.
 
-### Potions
+## Potions
 
 Potions are limited to certain types of spells. Only spells that can target a creature or a point, regardless of their other targeting options, can be made into potions. The spellcasting difficulty chosen pre-determines the spellcasting roll made when applying the effects of potions. The base item cost is 1 silver (or an alchemical base) to create potions.
 
 > ##### Potion Crafting Example
-> ___
 > **Item:** Potion of Mending
->
-> **Spell:** Mend
->
-> **Focus Cost:** 2
->
-> **Spell Difficulty:** 10
->
-> **Effect Cost:** 4 = 2 × 10 × 1 ÷ 5 (1 limited use)
->
-> **Cost:** 5sp (1sp for the alchemical base, 4sp for the effect)
->
-> **Difficulty:** 6
+>___
+> **Base Item:** Alchemical Base  
+> **Base Cost:** 1
+>___
+> **Spell:** Mend  
+> **Focus Cost:** 2  
+> **Spell Difficulty:** 14  
+> **Type:** Limited Use (÷2)  
+> **Uses:** 1  
+> **Magic Cost:** 14 = 2×14÷2×1
+>___
+> **Combined Cost:** 15  
+> **Difficulty:** 10  
+> **Time:** 2 days
 
-### Spellstones
+## Spellstones
 
 Any spell can be chosen when crafting spellstones, but you must be able to cast it. Spellstones come in several different qualities: 2 silver for a rough gemstone, 10 silver for a fine gemstone, 50 silver for an exceptional gemstone, and 100 silver for a magnificent gemstone.
 
 > ##### Spellstone Crafting Example
-> ___
 > **Item:** Spellstone of Ignition (5 uses)
->
-> **Spell:** Ignite
->
-> **Focus Cost:** 1
->
-> **Spell Difficulty:** 7
->
-> **Effect Cost:** 7 = 1 × 3 × 5 ÷ 5 (5 limited uses)
->
-> **Cost:** 9sp (2sp for the gemstone, 7sp for the effect)
->
-> **Difficulty:** 7
+>___
+> **Base Item:** Rough Gemstone  
+> **Base Cost:** 2
+>___
+> **Spell:** Ignite  
+> **Focus Cost:** 1  
+> **Spell Difficulty:** 10  
+> **Type:** Limited Use (÷2)  
+> **Uses:** 5  
+> **Magic Cost:** 25 = 1×10÷2×5
+>___
+> **Combined Cost:** 27  
+> **Difficulty:** 11  
+> **Time:** 3 days
 
 Spellstones can also be socketed into another item (such as a ring), allowing that item to cast spells from the spellstone. No crafting check is necessary to socket spellstones into other items.
 
-## Multiple Use Items
+# Multiple Use Items
 
-These types of items are very similar to limited use items. They even take the same two forms: *potions* and *spellstones*. The primary difference is that rather than having a total limited number of uses, these types of items can be used a limited number of times *per day*. The cost multiplier for this type of item is equal to the number of times per day it can be used multiplied by 2.
+These types of items are very similar to limited use items. They even take the same two forms: *potions* and *spellstones*. The primary difference is that rather than having a total limited number of uses, these types of items can be used a limited number of times *per day*. The cost multiplier for this type of item is equal to the number of times per day it can be used multiplied by 5.
 
 Multiple use potions are called refilling potions and can only be used once per day. Spellstones can still be crafted with any number of uses.
 
@@ -130,21 +133,24 @@ Attunement items come in two forms: *limited* and *continuous*.
 
 Limitied attunement items can only be attuned to, to provide their effects, a limited number of times. These types of items are also only capable of providing the effect or a limited duration, as determined by the spell's normal duration. The cost multiplier for this type of item is equal to the number of uses it will provide.
 
-> ##### Limited Attunement Item Upgrade Example
-> ___
-> **Item:** Cloak -> Cloak of Featherfall (2 uses)
->
-> **Spell:** Featherfall
->
-> **Focus Cost:** 1
->
-> **Spell Difficulty:** 7
->
-> **Effect Cost:** 14 = 1 × 7 × 2 (limited attunement)
->
-> **Cost:** 14sp (14sp for the effect, on a 2sp item)
->
-> **Difficulty:** 7
+> ##### Limited Attunement Upgrade Example
+> **Item:** Cloak of Featherfall (2 uses)
+>___
+> **Base Item:** Cloak  
+> **Base Cost:** 2
+>___
+> **Spell:** Featherfall  
+> **Focus Cost:** 1  
+> **Spell Difficulty:** 10  
+> **Type:** Limited Attunement (÷2)  
+> **Uses:** 2  
+> **Magic Cost:** 10 = 1×10÷2×2
+>___
+> **Total Cost:** 12 = 2+10  
+> **Difficulty:** 10
+>___
+> **Upgrade Cost:** 10 = 12-2  
+> **Time:** 2 days
 
 ### Contiunous Attunement
 
@@ -158,13 +164,13 @@ Continuous attunement items have no limit on the number of times they can be use
 >
 > **Focus Cost:** 2
 >
-> **Spell Difficulty:** 10
+> **Spell Difficulty:** 14
 >
-> **Effect Cost:** 200 = 2 × 10 × 10 (continuous attunement)
+> **Effect Cost:** 120 = 2 × 14 × 5 (continuous attunement)
 >
-> **Cost:** 200sp (200sp for the effect, on a 20sp item)
+> **Cost:** 120sp (120sp for the effect, on a 20sp item)
 >
-> **Difficulty:** 18
+> **Difficulty:** 14
 
 ## Multiple Effects
 
@@ -184,15 +190,15 @@ Attuning to a single item with multiple continuous effects allows you to use any
 >
 > **Focus Cost:** 1 (both spells)
 >
-> **Spell Difficulty:** 7 (both spells)
+> **Spell Difficulty:** 10 (both spells)
 >
-> **Effect Cost:** 7 = 1 × 7 × 5 ÷ 5 (5 limited uses) (both spells)
+> **Effect Cost:** 10 = 1 × 10 × 5 ÷ 5 (5 limited uses) (both spells)
 >
-> **Combined Cost, with Multiplier:** 21 = (7 + 7) × (½ + 2 × ½) = 14 × 1½ (two effects)
+> **Combined Cost, with Multiplier:** 30 = (10 + 10) × (½ + 2 × ½) = 20 × 1½ (two effects)
 >
-> **Cost:** 23sp (2sp for the gemstone, 21sp for the effect)
+> **Cost:** 32sp (2sp for the gemstone, 30sp for the effect)
 >
-> **Difficulty:** 8
+> **Difficulty:** 9
 
 ## Triggered Effects
 
@@ -214,13 +220,13 @@ Triggers on items follow the same rules as usual for triggered metamagics with o
 >
 > **Focus Cost:** 1
 >
-> **Spell Difficulty:** 6 (-1 from reduced)
+> **Spell Difficulty:** 9 (-1 from reduced)
 >
-> **Effect Cost:** 90 = 1 × 6 × 10 × 1½ (continuous attunement, triggered)
+> **Effect Cost:** 67.5 = 1 × 9 × 5 × 1½ (continuous attunement, triggered)
 >
-> **Cost:** 90sp (90sp for the effect, on a 5sp item)
+> **Cost:** 67sp 5cp (67sp 5cp for the effect, on a 5sp item)
 >
-> **Difficulty:** 13
+> **Difficulty:** 12
 
 ## Curses
 

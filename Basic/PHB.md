@@ -258,15 +258,13 @@ Unlike basic skills, a character must be at least trained in an advanced skill t
 
 ### Contacts (RES)
 
-Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill can also be used to determine if you already have an existing rapport with newly introduced non-player characters.
+Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill may even used to determine if you already have an existing rapport with newly introduced non-player characters.
 
 ### Craft (INT)
 
-Someone must create all the items and artifacts that you use, and that someone could even be you. This skill is used for a wide variety of item crafting. It can be used to create both specialized and everyday normal items.
+Adventurers may often find themselves in unexpected situations. Crafting can allow for the improvisational construction of traps and tools, for tying strong knots, and even the repair of damaged items. While not necessarily a craft itself, it can even be used to appraise the quality of goods and equipment, or learn how to use unrecognizable equipment.
 
-This skill requires that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that pertains to the type of items you are crafting. If you do not possess some measure of these things, someone who does can provide you with the means to do so. The specifics of item crafting can be complicated and require the use of a calculator. 
-
-Various settings will have different ways to apply special modifiers to various items. In the fantasy setting this extends to applying magical effects to items, while in a modern or sci-fi setting this may mean technological advancements to items. These processes work simarly to normal item crafting but have additional costs associated with their modifiers.
+This skill can also be used to make higher quality custom equipment. When doing so, it will require that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that relates to the type of items you are crafting. If you do not possess some measure of these things, you can always work together with other characters.
 
 Click [here](/Basic/ItemCrafting.md) to go the page dedicated to item crafting.  
 Click [here](/Fantasy/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
@@ -429,7 +427,7 @@ Since a turn is six seconds long, we can also measure each action in seconds. Fu
 
 Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they can be interrupted at any point in their duration, so long as it is your turn.
 
-Additionally there are also *reactions*. Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. Reactions can only be used once each round, and only if you meet the conditions to use that reaction.
+Additionally there are also *reactions* and *free reactions*. Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. You may only take a single reaction each round, and only if you meet the conditions to use that reaction. There is no limit on the number of free reactions that can be taken each round.
 
 In addition to the following basic actions, characters may perform other special actions provided by skills and talents, such as maneuvers or spells.
 
@@ -439,7 +437,9 @@ In addition to the following basic actions, characters may perform other special
 
 Make an attack on a target with one of your wielded weapons or with your bare hands.
 
-When making an attack, first roll your appropriate combat skill to hit your target versus their deflection. Then roll your weapon's damage. Grazing hits deal half damage after damage reduction. Critical hits ignore all damage reduction and get a bonus to damage as specified by that weapon. The minimum amount of damage that can be dealt by a hit that grazes or better is 1 damage.
+When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze or better is considered a hit.
+
+On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used. The minimum amount of damage that is dealt by a hit is 1 damage.
 
 Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
 
@@ -448,9 +448,13 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 #### Block
 
 **Stamina Cost:** 1  
-**Action Speed:** Reaction
+**Action Speed:** Free Reaction
 
-Use a wielded item with the block feature to block all incoming attacks or spells coming from in front of you, adding its block value to your damage reduction. If this action is used to block projectiles, add its block value to your armour rating instead.
+If you would be hit, you may use your shield to block an incoming attack in front of you. If you do, that damage is dealt to your shield's durability instead of you, and is reduced by the block value of that shield. Critical hits get half of their bonus damage against blocked hits.
+
+If the shield would be dealt damage in excess of the shield's durability, the remaining damage is dealt directly to you as a successful hit reduced by your armour's damage reduction (to a minimum of 1).
+
+Shields with no durability are considered broken and cannot be used to block until they are repaired.
 
 #### Brandish
 
@@ -473,9 +477,9 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 #### Evade
 
 **Stamina Cost:** 1  
-**Action Speed:** Reaction
+**Action Speed:** Free Reaction or Reaction
 
-Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may move up to 1m or drop prone.
+Roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, it is considered a failure instead. After you evade, you may drop prone. You may evade as a reaction instead of a free reaction to move up to 1m instead of dropping prone.
 
 #### Interact
 
@@ -497,7 +501,7 @@ If your speed is reduced to 1m or less, you cannot move 1m as a free action. Thi
 #### Parry
 
 **Stamina Cost:** 1  
-**Action Speed:** Reaction
+**Action Speed:** Free Reaction
 
 Use a wielded item with the parry feature to defend against an attack, adding its parry value to your deflection. If the incoming attack grazes against your deflection roll, it is considered a failure instead.
 
@@ -547,7 +551,7 @@ Damage that is halved or doubled multiple times are modified at an altered rate.
 
 There are three main categories of damage types: *physical*, *elemental*, and *typeless*.
 
-The majority of damage is dealt as physical damage, which has three types: *blunt*, *piercing*, and *slashing*. Most sources of damage will deal one of these three types of damage. 
+The majority of damage is dealt as physical damage, which has three types: *bludgeoning*, *piercing*, and *slashing*. Most sources of damage will deal one of these three types of damage. 
 
 Most other damage is dealt as elemental damage. By default, all elemental damage bypasses damage reduction unless otherwise specified, or it is blocked. The types of elemental damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
 
@@ -742,26 +746,39 @@ Example: To find a lost family member; or to avenge a death.
 
 Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a medieval setting, but a torch or a sword is.
 
-Although you can generally have any item imaginable, some items have predetermined statistics. For example, weapons and armour are given tables detailing their properties.
+Although you can generally have any item imaginable, some items have predetermined statistics like weapons and armour.
 
+Click [here](/Basic/Equipment.md) to see the specific rules for various types of equipment.  
 Click [here](/Medieval/Equipment.md) to see the rules and tables for medieval equipment.  
 Click [here](/Fantasy/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
 
 ### Currency
 
-There are various types of currencies that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre. Regardless of the name of the currency, they are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces.
+There are various types of currencies that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre, including a specified baseline currency which are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert these currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces. Some settings and genres may have additional currencies that are measured relative to the baseline currency.
+
+All characters start with 50 units of starting money which they can spend on starting equipment.
 
 ### Weapons
 
 Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category.
 
+Click [here](/Basic/Equipment.md#weapons) for the specific rules for weapons and weapon features.
+
 ### Armour
 
-Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *hands*, and *feet*. Armour items will have some minor features, but usually they also have an armour rating and a damage reduction. These values from all your slots are added together to provide a total armour rating and damage reduction.
+Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *arms*, *hands*, *shield*, *legs*, and *feet*. Armour items will have some minor features, but usually they also have an armour rating and a damage reduction. The values from all of your slots are added together to provide a total armour rating and damage reduction.
 
 Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all combat rolls, spellcasting rolls, dexterity skill checks, deflection, evasion, and speed.
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
+
+Click [here](/Basic/Equipment.md#armour) for the specific rules for armour and armour features.
+
+### Equipment Properties
+
+?
+
+Click [here](/Basic/Equipment.md#weapons) for the specific rules on equipment properties.
 
 ### Carrying Capacity
 
@@ -780,7 +797,7 @@ Many items will have a listed weight. Although it is optional to keep track of t
 | Very Large | Capacity × 2 |
 | Huge | Capacity × 3 |
 
-If a character exceeds their light capacity they become encumbered (getting a disadvantage to all rolls with strength and dexterity, and have their speed halved). If they exceed their heavy capacity then they become overencumbered (and cannot move).
+If a character exceeds their light capacity they become encumbered (getting a disadvantage to strength and dexterity, and have their speed halved). If they exceed their heavy capacity then they become overencumbered (and cannot move).
 
 Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, and push or drag something weighing four times that amount over a moderate distance (up to ten times that amount if assisted by wheels).
 
