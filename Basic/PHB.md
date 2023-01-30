@@ -130,7 +130,7 @@ Resolve is the determination, intuition, and spirituality of your character. It 
 
 # Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's race. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
@@ -189,7 +189,7 @@ Fortitude is your ability to resist poison and disease. In dire circumstances it
 
 ### Willpower (WILL)
 
-Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind. It is also used to determine whether or not someone seems believable.
+Willpower is your ability to resist temptation or supernatural influence, both mental and physical. This is not the same as preventing effects that harm the body, but instead those that control the body or mind. Similarly it allows you to judge whether or not someone seems believable. When casting spells it determines the strength of that spell's effect.
 
 ### Speed (SPD)
 
@@ -400,12 +400,16 @@ Encounters from start to end follow this sequence:
 
 1. All characters roll initiative.
 2. If it is combat, determine which characters are aware of their opponents. If these characters are aware of their opponents, but not the other way around, they can act during a surprise round.
-3. Characters who are not surprised take turns in initiative order during the surprise round.
-4. After the surprise round (if any), all characters take turns in initiative order during regular rounds. This repeats until the encounter ends.
+3. Characters who are not surprised take turns in initiative order for their team during the surprise round.
+4. After the surprise round (if any), all characters take turns in initiative order for their team during regular rounds. This repeats until the encounter ends.
 
 ### Initiative
 
-When it comes time to *roll for initiative* each player will roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. If there are any ties, players can decide amongst each other who goes first.
+When it comes time to begin an encounter each player will roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. If there are any ties, players can decide amongst each other who goes first.
+
+If there are multiple teams in conflict (such as during a combat encounter), each team present will take turns, one character at a time. The team with the individial with the highest initiative will go first. For each team, the characters with the highest initiative will go first. Teams will take turns in this way until all of their characters have acted, then will do so again during the next round.
+
+For example: Four players attempt to sneak up on two guards. They fail to be stealthy and alert the guards who begin to attack the players. All six characters will roll for initiative. One of the players rolled the highest initiative so their team will go first. Player #1 will act, then Guard #1, Player #2, Guard #2, Player #3, and finally Player #4. The team containing the players had more characters to act, but each team's members still get to act.
 
 ### Rounds
 
@@ -425,7 +429,7 @@ During an encounter with more concrete turn length (such as a tactical combat), 
 
 Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn is considered a swift action.
 
-Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they can be interrupted at any point in their duration, so long as it is your turn.
+Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they may be cancelled at any point in their duration, so long as it is your turn.
 
 Additionally there are also *reactions* and *free reactions*. Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. You may only take a single reaction each round, and only if you meet the conditions to use that reaction. There is no limit on the number of free reactions that can be taken each round.
 
@@ -439,9 +443,9 @@ Make an attack on a target with one of your wielded weapons or with your bare ha
 
 When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze or better is considered a hit.
 
-On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used. The minimum amount of damage that is dealt by a hit is 1 damage.
+On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
 
-Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions. This is known as the *multiple attack penalty*. Attacks made as a reaction are exempt from this penalty (such as by a readied action).
+Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions except reactions (such as by a readied action). This is known as the *multiple attack penalty*.
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack. If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
 
@@ -619,6 +623,8 @@ A character can become stunned multiple times, causing them to lose more swift a
 
 For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose three swift actions (their whole turn), and no longer be stunned. They may still perform a free action.
 
+If a character is in the middle of an extended action or readying an action and they become stunned, then that action becomes interrupted and is not performed.
+
 #### Unconscious
 
 Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual. When a character becomes unconscious they also become prone.
@@ -670,7 +676,7 @@ At some point during an adventure you may find yourself low on your resources (h
 
 You can calculate the minimum of a stat by counting the number of dice you would roll and then adding any bonuses.
 
-For example: If you have a Fortitude of r22+1, that would be a ten-sided-die and a twelve-sided-die. 2 dice, plus the modifier of plus 1, and the minimum roll is a 3. 
+For example: If you have a Fortitude of r22+1, that would be a ten-sided-die and a twelve-sided-die. Two dice plus the modifier of 1 results in a minimum roll that is 3. 
 
 If the amount of a resource recovered during a rest would be greater than the maximum amount you can have of that resource type, it would recover that amount instead.
 
@@ -700,13 +706,13 @@ Characters can only physically rest so often and are limited to a number of rest
 
 # Creating a Character
 
-The process of creating a character is a series of small steps. A character is made up of a few aspects: *race*, *background*, *archetype*, and *trait*. As a reminder, whenever you assign any stat or skill a roll value, it does not mean to roll those dice and assign it the resulting value. It means that you assign it the roll value itself. This represents what you roll when you use that stat or skill.
+The process of creating a character is a series of small steps. A character is made up of a few aspects: *ancestry*, *background*, *archetype*, and *trait*. As a reminder, whenever you assign any stat or skill a roll value, it does not mean to roll those dice and assign it the resulting value. It means that you assign it the roll value itself. This represents what you roll when you use that stat or skill.
 
-### Race
+### Ancestry
 
-It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The race you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
+It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
 
-Click [here](/Fantasy/Races.md) for a list of fantasy races.
+Click [here](/Fantasy/Ancestries.md) for a list of fantasy ancestries.
 
 ### Background
 
@@ -730,7 +736,7 @@ Click [here](/Basic/Traits.md) for a list of example traits.
 
 ### Starting Stats
 
-After choosing your race, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (r12), one of them to be *below average* (r8), and the rest as *average* (r10).
+After choosing your ancestry, background, archetype, and trait, you will need to decide what your starting primary stats are. Assign one of them to be *above average* (r12), one of them to be *below average* (r8), and the rest as *average* (r10).
 
 ### Motivation
 
@@ -762,7 +768,8 @@ All characters start with 50 units of starting money which they can spend on sta
 
 Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category.
 
-Click [here](/Basic/Equipment.md#weapons) for the specific rules for weapons and weapon features.
+Click [here](/Basic/Equipment.md#weapons) for the rules for weapons and weapon features.  
+Click [here](/Medieval/Equipment.md#weapons) for the rules and tables for medieval weapons.
 
 ### Armour
 
@@ -772,13 +779,17 @@ Some armours will have a strength value listed. This value is the recommended st
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
-Click [here](/Basic/Equipment.md#armour) for the specific rules for armour and armour features.
+Click [here](/Basic/Equipment.md#armour) for the rules for armour and armour features.
+Click [here](/Medieval/Equipment.md#armour) for the rules and tables for medieval weapons.
 
 ### Equipment Properties
 
-?
+While individual listings for equipment have specific features, they can also have certain details modified which allows for different versions of the same type of item to be represented. This can be represented as a change to that item's quality or weight, or as a material change.
 
-Click [here](/Basic/Equipment.md#weapons) for the specific rules on equipment properties.
+In genres with magic equipment can also have magical properties with wide ranging effects. These can change how the item functions entirely or empower the user of the item.
+
+Click [here](/Basic/Equipment.md#equipment-properties) for the rules on equipment properties.  
+Click [here](/Fantasy/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
 
 ### Carrying Capacity
 

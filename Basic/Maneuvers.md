@@ -216,7 +216,7 @@ All participants can only perform the following actions and maneuvers: [*attack*
 
 Participants in a grapple all move together.
 
-Only those who are are in control may attack with non-unarmed weapons. Unarmed attacks may be made even while holding a weapon. Weapons with the *large*, *two-handed*, or *versatile* features are too big to be used, even while in control. Attacks made by participants who do not have control deal half damage.
+Only those who are are in control may attack with non-unarmed weapons. Unarmed attacks may be made even while holding a weapon. Weapons with the *large*, *two-handed*, or *versatile* features are too big to be used, even while in control. Attacks made by participants who do not have control are downgraded to a graze if they result in a success or better.
 
 Attacks from non-grappled characters against grappled targets are made with advantage.
 
@@ -262,7 +262,7 @@ While wielding an axe or hooked object, give an incoming melee attack disadvanta
 
 Trade places with an adjacent ally (within 1m) who is being attacked, become the new attack target, and get +2 to armour rating against the attack. You may also block or parry the attack for free as a part of this action.
 
-# Intercepting Strike
+## Intercepting Strike
 
 **Type:** Defensive  
 **Specializations:** Finesse, Martial, Ranged, Unarmed

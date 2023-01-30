@@ -23,7 +23,7 @@ The denominations of currency are determined by their material. These materials 
 | 1 Electrum (ep) | 10 Silver (sp) |
 | 1 Gold (gp) | 10 Electrum (ep) |
 
-<sup>1</sup> Silver is the baseline currency, and most prices of items are determined simply by their value in silver. Sometimes copper is used for very cheap items, or as a partial amount of silver.
+<sup>1</sup> Silver is the baseline currency, and most prices of items are determined simply by their value in silver. Sometimes copper is used for very cheap items, or as a partial amount of silver. Since characters start with 50 units of starting money, that means that in a medieval setting characters start with 50 silver pieces.
 
 # Adventuring Gear
 
@@ -304,3 +304,41 @@ The denominations of currency are determined by their material. These materials 
 | Small Shield | 15sp | - | 8 | Wood | 3kg | Parry r6, Block 3, Durability 10 |
 | Medium Shield | 25sp | 1 | 10 | Wood | 4kg | Parry r4, Block 4, Durability 12 |
 | Large Shield | 40sp | 1 | 12 | Wood | 6kg | Block 5, Durability 15 |
+
+## Armour Descriptions
+
+**Boots**
+
+**Chainmail**
+
+**Full Helm**
+
+**Full Plate**
+
+**Gauntlets**
+
+**Gloves**
+
+**Greaves**
+
+**Half Helm**
+
+**Hood**
+
+**Leather**
+
+**Leather Bracers**
+
+**Mask**
+
+**Padded**
+
+**Plated Boots**
+
+**Plated Bracers**
+
+**Segmented**
+
+**Transitional**
+
+**Vambraces**

@@ -69,4 +69,4 @@ Could have been an adventurer like you, but I'm sure they have some excuse. Eith
 
 ---
 
-**Equipment** Mail armour, greaves, half helm, small shield, straight sword, shortspear, latchet crossbow, bolts (20), electrum (1), silver (5)
+**Equipment** Chainmail armour, greaves, half helm, small shield, straight sword, shortspear, latchet crossbow, bolts (20), electrum (1), silver (5)

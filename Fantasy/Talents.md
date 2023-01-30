@@ -39,9 +39,9 @@ After rolling to cast a spell using the arcana or sorcery skill, you may increas
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Arcana and Craft
 
-Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell, and it does not prevent you from making a normal craft check during the same day. Items created using this talent must satisfy all other normal crafting requirements.
+Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell. Items created using this talent must satisfy all other normal crafting requirements.
 
-All items created by this ability lose their effects if not used before a week has passed.
+All items created by this ability lose their effects if not used before a week has passed since their creation.
 
 The advancement of this talent determines what types of items can be created.
 
@@ -53,7 +53,9 @@ The advancement of this talent determines what types of items can be created.
 | 10 | 27 | Rank 3 Items |
 | 11 | 38 | Rank 4 Items |
 
-##### Table: Arcane Synthesis Potions
+Each rank of items made available correspond to those present in the following tables:
+
+##### Table: Arcane Synthesis, Potions
 | Rank | Focus Cost | Item Created |
 |:-:|:-:|:-|
 | 1 | 2 | Cantrip Potions |
@@ -62,9 +64,9 @@ The advancement of this talent determines what types of items can be created.
 | 3 | 5 | Critical Lesser Potions |
 | 4 | 6 | Greater Potions |
 
-Potions require alchemical base or the equivalent cost in silver.
+Potions require alchemical base or the equivalent cost in silver to create.
 
-##### Table: Arcane Synthesis Spellstones
+##### Table: Arcane Synthesis, Spellstones
 | Rank | Focus Cost | Item Created |
 |:-:|:-:|:-|
 | 1 | 2 | Cantrip Spellstones (1 uses) |
@@ -73,9 +75,9 @@ Potions require alchemical base or the equivalent cost in silver.
 | 3 | 5 | Lesser Spellstones (2 uses) |
 | 4 | 6 | Greater Spellstones (1 use) |
 
-Spellstones require gemstones or the equivalent cost in silver.
+Spellstones require gemstones or the equivalent cost in silver to create.
 
-##### Table: Arcane Synthesis Limited Attunement Items
+##### Table: Arcane Synthesis, Limited Use (Attunement)
 | Rank | Focus Cost | Item Created |
 |:-:|:-:|:-|
 | 1 | 2 | Cantrip Attunement (1 use) |

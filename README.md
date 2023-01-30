@@ -10,8 +10,8 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 * Character Creation
 	* [Traits](/Basic/Traits.md)
-	* Races
-		* [Races (Fantasy)](/Fantasy/Races.md)
+	* Ancestries
+		* [Ancestries (Fantasy)](/Fantasy/Ancestries.md)
 	* Backgrounds
 		* [Backgrounds (Medieval)](/Medieval/Backgrounds.md)
 	* Archetypes
@@ -49,8 +49,8 @@ Once you have learned the rules and are ready to create a character, you will ne
 The following rules are entirely optional, and their use is determined by the Game Master.
 
 * [Advanced Ailments](/Advanced/AdvancedAilments.md)
+* [Custom Ancestries](/Advanced/CustomAncestries.md)
 * [Custom Archetypes](/Advanced/CustomArchetypes.md)
 * [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
 * [Epic Characters](/Advanced/EpicCharacters.md)
-* [Half-Race Characters](/Advanced/HalfRaceCharacters.md)
 * [Professions and Wages](/Advanced/ProfessionsAndWages.md)

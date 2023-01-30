@@ -239,4 +239,4 @@ At a later date, the craft may be resumed where the remaining percentage of the 
 > **Cost Remaining:** 112 (56% of 200)  
 > **Time Adjusted:** 7 days (from 9 days)
 
-The remaining time to craft is determined by treating the cost of the remaining percentage as if it was the whole cost to craft.
+The remaining time to craft is determined by treating the cost of the remaining percentage as if it was the whole cost to craft. Breaking up crafting into multiple steps this way can result in a craft that takes longer overall but can be done in short bursts.

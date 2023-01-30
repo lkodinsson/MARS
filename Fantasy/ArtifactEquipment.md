@@ -7,33 +7,33 @@ Artifacts are essentially powerful magic items. What separates them from normal 
 
 ## Minor Artifacts
 
-Minor artifacts follow all the normal rules of magic item creation, and as such can be crafted by players.
+Minor artifacts follow all the normal rules of magic item creation, and can be crafted by players.
 
 | Name | Material<br/>Cost | Magic<br/>Cost | Price |
 |:-|:-:|:-:|:-:|
-| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 667sp 5cp | 668sp |
-| [Scrying Orb](#scrying-orb) | 15sp | 224sp | 239sp |
-| [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 476sp | 497sp |
+| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 787sp 5cp | 788sp |
+| [Scrying Orb](#scrying-orb) | 15sp | 560sp | 575sp |
+| [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 700sp | 721sp |
 | [Staff of the Magi](#staff-of-the-magi) | 76sp | ?sp | ?sp |
-| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 775sp | 856sp |
+| [Thundergod's Warhammer](#thungergods-warhammer) | 81sp | 3875sp | 3956sp |
 
 ### Belt of Giant's Might
 
 **Materials:** Belt (5cp)  
-**Magic Cost:** 667sp 5cp  
-**Price:** 668sp
+**Magic Cost:** 787sp 5cp  
+**Price:** 788sp
 
-This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to empowered in both strength and size. 
+This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to be empowered in both strength and size. 
 
-Attuning to this item provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spells.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spells.md#alter-size)). This size change provides a +2 bonus to strength and a -1 penalty to dexterity.
+This item can be attuned to once a day and provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spells.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spells.md#alter-size)). This size change provides a +2 bonus to strength and a -1 penalty to dexterity.
 
 ### Scrying Orb
 
 **Materials:** Crystal Ball (5sp), Fine Gemstone (10sp)  
-**Magic Cost:** 224sp  
-**Price:** 239sp
+**Magic Cost:** 560sp  
+**Price:** 575sp
 
-This is a palm-sized silvered glass ball capable of casting several spells via a charge bonded fine spellstone embedded deep within it, which cannot be removed or modified without destroying crystal ball.
+This is a palm-sized silvered glass ball capable of casting several spells via a harmonized fine spellstone embedded deep within it, which cannot be removed or modified without destroying crystal ball.
 
 The following spells can each be used collectively 2 times per day, with a +1 bonus to their rolls:
 
@@ -45,18 +45,17 @@ The following spells can each be used collectively 2 times per day, with a +1 bo
 ### Staff of the Apprentice
 
 **Materials:** Fine Staff (11sp), Fine Gemstone (10sp)  
-**Magic Cost:** 476sp  
-**Price:** 497sp
+**Magic Cost:** 700sp  
+**Price:** 721sp
 
-This staff is capable of casting several spells via a charged bonded and focused fine spellstone socketed in it. This staff is designed to be wielded by an apprentice spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
+This staff is capable of casting several spells via a harmonized and catalyzed fine spellstone socketed in it. This staff is designed to be wielded by an apprentice spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
 
-The following spells can be used collectively 5 times per day, or by spending focus, with a +1 bonus to their rolls:
+The following spells can be used collectively 4 times per day, or by spending focus, with a +1 bonus to their rolls:
 
 | Spell | Concentration |
 |:-|:-:|
 | [Ignite](/Fantasy/Spells.md#ignite) | No |
 | [Light](/Fantasy/Spells.md#light) | Yes |
-| [Mend](/Fantasy/Spells.md#mend) | No |
 | [Prestidigitation](/Fantasy/Spells.md#prestidigitation) | No |
 | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
 
@@ -66,7 +65,7 @@ The following spells can be used collectively 5 times per day, or by spending fo
 **Magic Cost:** ?sp  
 **Price:** ?sp
 
-This staff is capable of casting several spells via a charged bonded and focused exceptional spellstone socketed in it. This staff is designed to be wielded by an accomplished spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
+This staff is capable of casting several spells via a harmonized and catalyzed exceptional spellstone socketed in it. This staff is designed to be wielded by an accomplished spellcaster who may continue to cast the contained spells with the appropriate skills by spending focus when the spellstone runs out of charges.
 
 The following spells can be used collectively ? times per day, or by spending focus, with a +2 bonus to their rolls:
 
@@ -74,12 +73,13 @@ The following spells can be used collectively ? times per day, or by spending fo
 |:-|:-:|
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | No |
 | [Knock](/Fantasy/Spells.md#knock) | No |
+| [Mend](/Fantasy/Spells.md#mend) | No |
 
 ### Thundergod's Warhammer
 
 **Materials:** Masterwork Heavy Warhammer (81sp)
-**Magic Cost:** 775sp  
-**Price:** 856sp
+**Magic Cost:** 3875sp  
+**Price:** 3956sp
 
 This is a masterwork heavy warhammer with a large head and a short handle. Carved into it are glowing runic symbols. Those who do not possess enough physical strength perceive this item as having an impossibly heavy weight and cannot lift it. While attuned this item gently crackles with lightning and appears to weigh as little as a feather.
 

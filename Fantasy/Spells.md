@@ -64,7 +64,7 @@
 
 Increase or decrease the size category of a creature or object. You may change the size an additional size category by raising the focus cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
 
-For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 focus with a difficulty of 14.
+For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 focus with a difficulty of 18.
 
 ***Graze:*** Lasts for half the duration, applying one size category change less (to a minimum of one size category).
 

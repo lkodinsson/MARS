@@ -146,7 +146,7 @@ This talent can be acquired any number of times.
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 13+ or Max Resolve 13+
 
-At any time you may gain advantage to your next skill check if you are trained in that skill. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail a skill check if you are trained in that skill, but only once per day.
+At any time you may gain advantage to your next skill check if you are trained in that skill. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail a skill check if you are trained in that skill, but only once per day. This ability does not recover any uses during a rest of any duration.
 
 ##### Table: Fortune's Favour Steps & Cost
 | Step Cost | Total Cost | Ability Uses |

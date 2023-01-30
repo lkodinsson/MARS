@@ -78,7 +78,7 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 Common | Small monstrous humanoid  
 
-A small copper-skinned creature with rough skin and sharp teeth. They resemble dragons even though they do not have scales or wings. Due to their appearance they are often seen as threats but they usually only resort to violence as a means of self-defense. Outside of their cave-dwelling communities they are usually found in small groups of two or three members.
+A small copper-skinned creature with rough skin and sharp teeth. They resemble dragons even though they do not have scales or wings. Due to their appearance they are often seen as threats but they usually only resort to violence as a means of self-defense. Outside of their cave-dwelling communities they are usually found in small groups of two to four members.
 
 ---
 

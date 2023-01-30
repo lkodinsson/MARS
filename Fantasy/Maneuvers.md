@@ -20,7 +20,7 @@ Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.
 
 **Resist:** Willpower
 
-Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell. If they do, they cannot cast that spell on their next turn.
+Make a melee attack with +1 to hit. If successful, the target must lose concentration on a spell. If they do, they cannot cast that spell on their next turn. Additionally, if the target is in the middle of an extended action or readying an action, then that action becomes interrupted and is not performed.
 
 ## Spell Deflection
 

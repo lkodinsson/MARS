@@ -1,7 +1,7 @@
-# Races
+# Fantasy Ancestries
 
-##### Table: Fantasy Races
-| Name | Stat Modifiers | Racial Ability | Size | Speed |
+##### Table: Fantasy Ancestries
+| Name | Stat Modifiers | Abilities | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
 | [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Stability | Medium | 5m |
 | [Elf](#elf) | INT +2, DEX +1, STR -1 | Cognition | Medium | 6m |
@@ -133,7 +133,7 @@ Mycelians are large, mobile fungus folk roughly in the shape of humanoids. The b
 
 ## Vulpine
 
-Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations often keeping a distance from other races. 
+Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend to live in small-sized tribes amongst their own kind (some of which are nomadic), with older generations often keeping a distance from other races.
 
 **Stats** Vulpines get +1 Dexterity and +1 Intelligence, plus any size modifiers.
 
