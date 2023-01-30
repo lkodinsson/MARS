@@ -103,7 +103,7 @@ As an animal you lose the ability to speak normally and cast other spells. You m
 **Target:** One or more creatures or objects  
 **Resist:** Deflection (for half damage)
 
-You shoot arcane missiles each dealing r8+1 arcane damage. These missiles *always* hit their targets, but deal half damage if they graze or fail against a target's resistance. If multiple missiles hit the same target, they deal their damage together in one roll.
+You shoot one to three arcane missiles which each deal arcane damage. Roll willpower plus 2, then divide the result by half to determine the damage of your missiles. These missiles *always* hit their targets, but deal half damage (again) if they graze or fail against a target's resistance. If multiple missiles hit the same target, they deal their damage together as if it was one hit.
 
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
@@ -235,9 +235,9 @@ The grease can be ignited, which gives burning 2 to any character who starts the
 
 This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have the same effect on undead creatures as the spell mend does on living creatures. This spell deals half damage if it grazes against a target's resistance.
 
-***Critical:*** Deal r24 void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
-***Success:*** Deal r16 void damage.  
-***Graze:*** Deal r8 void damage.
+***Critical:*** Roll willpower plus 4 to deal void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
+***Success:*** Roll willpower to deal void damage.  
+***Graze:*** Roll willpower minus 4 to deal void damage.
 
 ## Ignite
 
@@ -252,9 +252,9 @@ This spell can be used to destroy small mundane objects made of wood or stone, b
 
 You fire a small burst of flame at a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet targets get advantage to resist this spell, but if they fail they become dry instead of taking damage. This spell deals half damage if it grazes against a target's resistance.
 
-***Critical:*** Deal r12 fire damage and the target gets burning 2, light a dry object on fire, or dry a wet object.  
-***Success:*** Deal r10 fire damage and the target gets burning 1, light a dry object on fire, or dry a wet object.  
-***Graze:*** Deal r8 fire damage, or light a dry object on fire.
+***Critical:*** Roll willpower plus 4 to deal fire damage and the target gets burning 2, light a dry object on fire, or dry a wet object.  
+***Success:*** Roll willpower to deal fire damage and the target gets burning 1, light a dry object on fire, or dry a wet object.  
+***Graze:*** Roll willpower minus 4 to deal fire damage, or light a dry object on fire.
 
 ## Inspire
 
@@ -285,9 +285,9 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 
 You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained in or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
 
-***Critical:*** Deal r20 electric damage and the target becomes stunned.  
-***Success:*** Deal r14 electric damage.  
-***Graze:*** Deal r8 electric damage.
+***Critical:*** Roll willpower plus 4 to deal electric damage and the target becomes stunned.  
+***Success:*** Roll willpower to deal electric damage.  
+***Graze:*** Roll willpower minus 4 to deal electric damage.
 
 ## Knock
 
@@ -373,9 +373,9 @@ You touch a weapon, granting it magical properties. It deals half of its damage 
 
 This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures, but dealing radiant instead of void damage. This spell restores half as much if it grazes against a target's resistance.
 
-***Critical:*** Restore 1 health, and r24 endurance.  
-***Success:*** Restore r16 endurance.  
-***Graze:*** Restore r8 endurance.
+***Critical:*** Restore 1 health, and roll willpower to restore endurance.  
+***Success:*** Roll willpower to restore endurance.  
+***Graze:*** Roll willpower minus 4 to restore endurance.
 
 ## Message
 
