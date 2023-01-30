@@ -3,15 +3,15 @@
 ##### Table: Fantasy Ancestries
 | Name | Stat Modifiers | Abilities | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
-| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Stability | Medium | 5m |
-| [Elf](#elf) | INT +2, DEX +1, STR -1 | Cognition | Medium | 6m |
-| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Gold-hearted | Small | 6m |
-| [Human](#human) | Any two +1,<br/>and size modifiers | Adaptability | Small to Large | 6m |
-| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Scaly Vigor<br/> and Natural Weapons | Medium or Large | 6m |
+| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Iron Gut,<br/>Stability,<br/>and Strong Back | Medium | 5m |
+| [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/> and Niche: Wilderness | Medium | 6m |
+| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/> and Fabled | Small | 6m |
+| [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/> and Versatility | Small to Large | 6m |
+| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br> and Natural Weapons | Medium or Large | 6m |
 | [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 6m |
-| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong | Medium or Large | 6m |
-| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Fungal Body | Small to Large | 5m |
-| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Nimble<br/> and Natural Weapons | Small or Medium | 7m |
+| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m |
+| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>and Fungal Body,<br/>and Grit | Small to Large | 5m |
+| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Low-light Vision,<br/>Nimble,<br/> and Natural Weapons | Small or Medium | 6m |
 
 ## Dwarf
 
@@ -19,7 +19,11 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 **Stats** Dwarves get +2 Strength, +1 Resolve, and -1 Dexterity.
 
-**Stability** Dwarves get advantage on skill checks to resist any effects that would knock them back, knock them prone, or poison them (such as getting drunk from alcohol). Additionally, they have a carrying capacity as though they were one size larger.
+**Iron Gut** Dwarves get advantage to fortitude checks to resist any effects that would make them sick (such as poison, disease, or drinking alcohol).
+
+**Stability** Dwarves get advantage to athletics checks resist any effects that would knock them back or knock them prone.
+
+**Strong Back** Dwarves have a carrying capacity as though they were one size larger.
 
 **Size** Dwarves are medium sized, but are as short as a small sized creature and weigh as much as a large sized creature.
 
@@ -29,11 +33,13 @@ Dwarves tend to live in isolated communities deep within caves and mountains. Ty
 
 ## Elf
 
-Elves are proud noble creatures fond of nature. They are not well known for living in communities amongst the other races, but it does happen. Although they are very similar to humans, there is an air of magic and beauty about them that is unmistakeable.
+Elves are proud noble creatures with exceptionally long life spans who are fond of nature. They are not well known for living in communities amongst the other races, but it does happen. Although they are very similar to humans, there is an air of magic and beauty about them that is unmistakeable.
 
 **Stats** Elves get +2 Intelligence, +1 Dexterity, and -1 Strength.
 
-**Cognition** Elves have exceptional memories due to their long life span, and exceptional perception due to living in the wilds. They get a +1 to knowledge, and +1 to any perception checks made while in the wild.
+**Adaptation: Long Life** Elves get a +1 bonus knowledge, but at the cost of a -1 penalty to charisma.
+
+**Niche: Wilderness** Elves get a +1 bonus to perception only while in the wilderness.
 
 **Size** Elves are medium sized, but can be as tall as a large sized creature.
 
@@ -41,13 +47,15 @@ Elves are proud noble creatures fond of nature. They are not well known for livi
 
 **Languages** Elves start with the common and elven languages.
 
-## Halflings
+## Halfling
 
 Halfling are a lot like any other folk, but they mostly keep to their own communities. They care more for food, drink, and entertainment more than the dramatic affairs of others. Even so, they are not shy to gossip about strangers passing through their parts of the world, as anything can be made into a good story, even rumors about what would be nothing at all.
 
 **Stats** Halflings get +2 Dexterity, +1 Resolve, and -1 Strength.
 
-**Gold-hearted** Halflings are brave when it really matters. They get an advantage to willpower checks to resist fear. Additionally, they get +2 to charisma checks that involve telling stories, and when using the Inspirational Charisma talent to assist and inspire someone.
+**Brave** Halflings get advantage to willpower checks resist any effects that would cause them fear.
+
+**Fabled** Halflings get a +1 bonus to charisma checks that involve telling stories and when using the Inspirational Charisma talent to assist someone.
 
 **Size** Halflings are small sized.
 
@@ -61,7 +69,9 @@ Humans are known for being good at generally anything, but aren't well known for
 
 **Stats** Humans get a +1 bonus to each of any two different primary stats, plus any size modifiers.
 
-**Adaptability** Humans get a +1 to any skill not provided by their background.
+**Grit** Humans get a +1 bonus to maximum endurance, stamina, and focus.
+
+**Versatility** Humans get a +1 bonus to any one skill not provided by the character's background.
 
 **Size** Humans can be small, medium, or large sized, but are typically medium sized.
 
@@ -75,14 +85,13 @@ Typically found dwelling in dark and damp environments, they do not often intera
 
 **Stats** Lizardfolk get +1 Dexterity and +1 Resolve, plus any size modifiers.
 
-**Natural weapon, claw** Deals STR+r4 slashing damage (crit +6), has the features: Bypass 2, Mode Piercing, Swift  
-**Natural weapon, tail** Deals STR+r4 blunt damage (crit +6), has the features: Momentum, Trip
+**Regeneration** While taking a long rest, Lizardfolk recover 2 health instead of 1.
 
-**Scaly Vigor** Lizardfolk recover 2 health during long rests instead of 1. Additionally, while in wet terrain, lizardfolk have +1 damage reduction and can attack completely unhindered by water.
+**Natural Weapon: Claw** STR+r4 piercing/slashing damage, Crit +6, Swift
 
 **Size** Lizardfolk can be be medium or large sized, but are typically medium sized.
 
-**Speed** Lizardfolk have a movement speed of 6m, including swimming.
+**Speed** Lizardfolk have a movement speed of 6m.
 
 **Languages** Lizardfolk start with the common and lizardfolk languages.
 
@@ -92,10 +101,11 @@ Lupines are humanoid wolves with hardy, imposing builds. They live in tight-knit
 
 **Stats** Lupines get +1 Strength and +1 Dexterity, plus any size modifiers.
 
-**Natural weapon, bite** Deals STR+r4 piercing damage (crit +6), has the features: Bypass 2, Momentum, Swift  
-**Natural weapon, claw** Deals STR+r6 slashing damage (crit +4), has the features: Bypass 2, Cleave, Swift
+**Vigilance** Lupines can see in both daylight and poorly lit areas with ease, and get a +1 bonus to perception checks using smell to detect other creatures.
 
-**Vigilance** Lupines have very sharp senses. They can see in both daylight and poorly lit areas, and they receive +1 to perception checks to sense other creatures.
+**Natural Weapon: Bite** STR+r6 piercing damage, Crit +4, Momentum
+
+**Natural Weapon: Claw** STR+r4 piercing/slashing damage, Crit +6, Swift
 
 **Size** Lupines can be be medium or large sized, but are typically large sized.
 
@@ -109,7 +119,9 @@ Known for their size and muscular structure, orcs they are often mistakenly labe
 
 **Stats** Orcs get +1 Strenth and +1 Resolve, plus any size modifiers.
 
-**Headstrong** Orcs possess a strength beyond muscles, and can shrug off pain easily. The first time during an encounter that they are reduced to zero endurance by damage, any excess damage is reduced to zero (they take none of that damage to their health). Additionally, they get +1 to charisma checks when attempting to intimdate other creatures, and a +1 to willpower checks to resist being influenced in the same way.
+**Headstrong** Orcs get a +1 bonus to charisma checks to intimdate other creatures and a +1 bonus to willpower checks to resist being influenced in the same way.
+
+**Pain Tolerance** The first time during an encounter that orcs are reduced to zero endurance by damage, any excess damage is reduced to zero (they take none of that damage to their health).
 
 **Size** Orcs are medium or large sized, but weigh as much as a creature one size larger.
 
@@ -123,7 +135,11 @@ Mycelians are large, mobile fungus folk roughly in the shape of humanoids. The b
 
 **Stats** Mycelians get +1 Intelligence and +1 Resolve, plus any size modifiers.
 
-**Fungal Body** Mycelians cannot speak normally, but can speak telepathically to any living thing they are directly touching, as long as the recipient is willing. This communication does not require that both creatures speak the same languages, but some may find it intrusive. The sporecap on their head prevents them from wearing any kind of headgear, but they can emit spores to identify the position of nearby creatures regardless of lighting conditions. Additionally, mycelians can see in both daylight and poorly lit areas.
+**Adaptation: Spores** Mycelians get a +1 bonus to medicine, but at the cost of a -1 penalty to agility.
+
+**Fungal Body** Mycelians cannot speak normally, but can speak telepathically to any living thing they are directly touching, as long as the recipient is willing. This communication does not require that both creatures speak the same languages, but some may find it intrusive. The sporecap on their head prevents them from wearing any kind of headgear, but they can emit spores to identify the position of nearby creatures regardless of lighting conditions.
+
+**Grit** Mycelians get a +1 bonus to maximum endurance, stamina, and focus.
 
 **Size** Mycelians can be small, medium, or large sized, but are typically medium sized.
 
@@ -137,12 +153,14 @@ Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend t
 
 **Stats** Vulpines get +1 Dexterity and +1 Intelligence, plus any size modifiers.
 
-**Natural weapon, claw** Deals STR+r4 slashing damage (crit +6), has the features: Bypass 2, Mode Piercing, Swift
+**Low-light Vision** Vulpines can see in both daylight and poorly lit areas with ease.
 
-**Nimble** Vulpines are graceful and keen. They can see in both daylight and poorly lit areas, and receive +1 to agility and athletics checks when leaping, running, climbing, or rolling.
+**Nimble** Vulpines get a +1 bonus to agility and athletics checks when leaping, running, climbing, or rolling.
+
+**Natural Weapon: Claw** STR+r4 piercing/slashing damage, Crit +6, Swift
 
 **Size** Vulpines can be be small or medium sized, but are typically medium sized.
 
-**Speed** Vulpines have a movement speed of 7m.
+**Speed** Vulpines have a movement speed of 6m.
 
 **Languages** Vulpines start with the common and vulpine languages.

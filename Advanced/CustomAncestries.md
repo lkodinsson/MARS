@@ -1,6 +1,6 @@
 # Custom Ancestries
 
-Rather than picking a predetermined ancestry to create a character with, ancestries can be built from the ground up to represent a mixed heritage or a unique culture. Although ancestries are completely customizable, it is recommended to keep them similar to existing ancestries that are already similar in theme or heritage.
+Rather than picking a predetermined ancestry to create a character with, ancestries can be built from the ground up to represent a mixed heritage or a unique culture. Although ancestries are completely customizable, it is recommended to keep them similar to existing ancestries that are already similar in theme or heritage. The game master always has final say in what is reasonable or appropriate.
 
 Ancestries have several properties including: *stat modifiers*, *size*, *abilities*, *speed*, and *starting langauges*.
 
@@ -22,7 +22,7 @@ Click [here](/Advanced/AncestryAbilities.md) for the list of ancestry abilities.
 
 ## Speed
 
-The default speed is 6m, which can be changed but at a cost of ancestry points. Speed can be increased to 7m at the cost of 2 ancestry points, or reduced to 5m providing an additional ancestry point to spend on abilities.
+The default speed is 6m, which can be changed but at a cost of ancestry points. Speed can be increased to 7m at the cost of an ancestry point, or reduced to 5m providing an additional ancestry point.
 
 ## Starting Languages
 
