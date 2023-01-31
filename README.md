@@ -6,30 +6,33 @@ The **Modular Adventure Role-playing System** or **MARS** is a [generic role-pla
 
 All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md). Additional information and reference tables can be found in the [**Appendix**](/Basic/Appendix.md).
 
-# Creating a Character
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character, with some content marked with their genre:
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character matching the genre you are going to play. Everything under the *universal* heading is available in all genres.
-
-### Universal
-
-* [Traits](/Basic/Traits.md)
-* [Skills](/Basic/PHB.md#skills-1)
-* [Maneuvers](/Basic/Maneuvers.md)
-* [Talents](/Basic/Talents.md)
-
-### Fantasy
-
-* [Races](/Fantasy/Races.md)
-* [Backgrounds](/Fantasy/Backgrounds.md)
-* [Archetypes](/Fantasy/Archetypes.md)
-* [Skills](/Fantasy/Skills.md)
-* [Maneuvers](/Fantasy/Maneuvers.md)
-* [Talents](/Fantasy/Talents.md)
-* [Spellcasting](/Fantasy/Spellcasting.md)
-* [Equipment](/Fantasy/Equipment.md)
-* [Magic Equipment](/Fantasy/MagicEquipment.md)
-* [Item Crafting](/Fantasy/ItemCrafting.md)
-* [Artifact Equipment](/Fantasy/ArtifactEquipment.md)
+* Character Creation
+	* [Traits](/Basic/Traits.md)
+	* Ancestries
+		* [Ancestries (Fantasy)](/Fantasy/Ancestries.md)
+	* Backgrounds
+		* [Backgrounds (Medieval)](/Medieval/Backgrounds.md)
+	* Archetypes
+		* [Archetypes (Medieval)](/Medieval/Archetypes.md)
+		* [Archetypes (Fantasy)](/Fantasy/Archetypes.md)
+	* [Skills](/Basic/PHB.md#skills-1)
+		* [Skills (Fantasy)](/Fantasy/Skills.md)
+* Character Abilities
+	* [Talents](/Basic/Talents.md)
+		* [Talents (Fantasy)](/Fantasy/Talents.md)
+	* [Maneuvers](/Basic/Maneuvers.md)
+		* [Maneuvers (Fantasy)](/Fantasy/Maneuvers.md)
+	* [Spellcasting](/Fantasy/Spellcasting.md)
+		* [Spells](/Fantasy/Spells.md)
+		* [Spells Index](/Fantasy/SpellsIndex.md)
+	* [Item Crafting](/Basic/ItemCrafting.md)
+		* [Magic Item Crafting (Fantasy)](/Fantasy/MagicItemCrafting.md)
+* Items and Equipment
+	* [Equipment (Medieval)](/Medieval/Equipment.md)
+	* [Magic Equipment (Fantasy)](/Fantasy/MagicEquipment.md)
+	* [Artifact Equipment (Fantasy)](/Fantasy/ArtifactEquipment.md)
 
 # Game Mastering
 
@@ -37,19 +40,17 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 ## Reference Material
 
-### Fantasy
-
-* [Bestiary](/Fantasy/Bestiary.md)
+* Bestiary
+	* [Bestiary (Medieval)](/Medieval/Bestiary.md)
+	* [Bestiary (Fantasy)](/Fantasy/Bestiary.md)
 
 # Advanced (Variant) Rules
 
 The following rules are entirely optional, and their use is determined by the Game Master.
 
-### Universal
-
+* [Advanced Ailments](/Advanced/AdvancedAilments.md)
+* [Custom Ancestries](/Advanced/CustomAncestries.md)
 * [Custom Archetypes](/Advanced/CustomArchetypes.md)
 * [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
 * [Epic Characters](/Advanced/EpicCharacters.md)
-* [Half-Race Characters](/Advanced/HalfRaceCharacters.md)
-* [Injuries and Exhaustion](/Advanced/InjuriesAndExhaustion.md)
 * [Professions and Wages](/Advanced/ProfessionsAndWages.md)

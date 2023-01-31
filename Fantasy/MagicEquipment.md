@@ -1,111 +1,188 @@
-# Magic Equipment
+# Table of Contents
 
-* [Attunement](#attunement)
-* [Potions](#potions)
-* [Refilling Potions](#refilling-potions)
+* [Magic Items](#magic-items)
+    * [Attunement](#attunement)
+    * [Magic Item Types](#magic-item-types)
 * [Scrolls](#scrolls)
-* [Spellstones](#spellstones)
-* [Spellstone Qualities](#spellstone-qualities)
-* [Magic Weapons](#magic-weapons)
-* [Magic Armour](#magic-armour)
 * [Magic Gear](#magic-gear)
+    * [Magic Weapons](#magic-weapons)
+    * [Magic Armour](#magic-armour)
+* [Potions](#potions)
+    * [Refilling Potions](#refilling-potions)
+* [Spellstones](#spellstones)
+    * [Spellstone Qualities](#spellstone-qualities)
 
-Click [here](/Fantasy/Equipment.md) for the page on normal equipment.
+Click [here](/Medieval/Equipment.md) for the page on normal equipment.  
+Click [here](/Fantasy/ArtifactEquipment.md) for the page on artifact equipment.
 
-In most marketplaces, normal items of most varieties can be purchased. Magic equipment is much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and rarer still to be available for purchase. Even in wealthy cities, some magic items might not be available. More expensive magical items (with a magic effect valuing more than 100sp) will require the use of the [craft skill](/Fantasy/Skills.md#craft-int).
+ALL ITEMS NEED TO BE REPRICED
 
-Activating any spell effect without the use of a spellstone does not count as casting a spell.
+# Magic Items
+
+In essence magic items are objects that when used offer the effects of a spell to the item, the item's user, or another specified target. Some types of magic items may also be usable as normal equipment in addition to their magic effects, such as magic weapons and armour.
+
+In most marketplaces, normal items of most varieties can be purchased. Magic items are much more difficult to acquire. Outside of wealthy cities, magic items are very rare to find, and even rarer to be available for purchase. Even in wealthy cities, some magic items might never be available. Very expensive magical items (with a magic effect valuing 200sp or more) or items requiring someone exceptionally skilled, will likely require the use of the [craft skill](/Basic/PHB.md#craft-int).
 
 ## Attunement
 
-Some magic items require that they be attuned to before providing their effects. This functions similarly to the maintenance of concentration. Anyone can attune to a magic item, but they can only attune to one item at a time. Once an item is attuned to it is essentially turned on. Attuning to an item does not require any skills or spellcasting ability, but it does take a short amount of time equivalent to a swift action. If the item requires you to attune to it as a part of casting a spell, the attunement does not require the use of an additional swift action. Deattuning to an item, to turn it off, can be done as a free action.
+Some magic items require that they be attuned to before providing their effects. This functions similarly to the maintenance of concentration. Anyone can attune to a magic item, but they can only attune to *three* items at a time.
 
-Magic items listed note if they require attunement. For custom crafted magic items, you can tell if it requires attunement if the spell used to craft it requires concentration. This is true with one exception: potions never require attunement. Any magical effects they provide last for the maximum duration that the spell can last.
+Attuning to an item does not require any skills or spellcasting ability, but it does take a short amount of time equivalent to a swift action. Once an item is attuned to, it is essentially turned on. Deattuning to an item, to turn it off, can be done as a free action.
 
-## Potions
+Magic items listed note if they require attunement. For custom crafted magic items, you can tell if it requires attunement if the spell used to craft it requires concentration. Any magical effects they provide last for the maximum duration that the spell can last.
 
-Potions are single use items that provide a magic effect when consumed. They can be used personally or applied to another character or object. Normally this requires the other character to be either willing or unconscious. Alternatively, you can throw the potion at a target as an improvised ranged weapon, which causes its effects to occur upon impact. When consumed or thrown it is used as a swift action, when poured out onto the ground or an object, it takes a standard action.
+Potions and spellstones do not require attunement to use.
 
-When a potion applies the effects of a spell, it applies it at a fixed spellcasting roll. This is done instead of rolling a spellcasting skill for that spell effect, as the effect is guaranteed and no spell is actually cast. This is true even for potions that are thrown to inflict their effects.
+## Magic Item Types
 
-All potions have the same weight: ½kg.
+Magic items come in various types which determine how their magical effect is used: *limited use*, *daily use*, and *continuous use*.  These methods may alter how many times they can be used, how long they can be used, and how difficult they are to use.
+
+### Limited Use
+
+Limited use magic items are typically those that are something consumable or spent to create an effect, like potions or ammunition. Sometimes they are also just cheaper alternatives to items that can be used more regularly like *daily use* or *continuous use* magic items. Limited use magic items will have a specified number of uses of their magic effects, after which they will either be destroyed or remain as a non-magical item.
+
+Any lasting effects caused by limited use items remain for their full duration, or if attunement or concentration on that effect is ended. Ending effects early does not refund any uses of a limited use item.
+
+### Daily Use
+
+Daily use items function exactly the same way as limited use items, but at the beginning of the next day, the uses of that item are restored. Because they are reusable, they are often much more expensive than limited use items. Even so, they are often considered as budget alternatives to continuous use items.
+
+### Continuous Use
+
+Continuous use items have no limit on the number of times they can be used or the duration of their magic effects. This makes them the most expensive form of magic item.
+
+Items of this kind are always items that require attunement. Potions and spellstones can never be made as continuous use items.
+
+# Scrolls
+
+While not technically a magic item, scrolls are pages that do contain information for casting spells. Scrolls are limited to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int). The cost of these scrolls depends on the tier of the spell.
+
+##### Table: Scrolls Cost
+| Tier | Tier Name | Price |
+|:-:|:-:|:-:|
+| 1 | Cantrip | 20sp |
+| 2 | Lesser | 56sp |
+| 3 | Greater | 114sp |
+| 4 | Heroic | 200sp |
+
+# Magic Gear
+
+Magic gear can be made out of any wearable or usable item such as boots, belts, gloves, hats, cloaks, etc. Not all magic gear needs to be worn, as some are held in the hand. Magic gear can be any of the magic item types: *limited use*, *daily use*, or *continuous use*. Regardless of the type, magic gear requires attunement to active their magical effects.
+
+Effects provided by magic gear have a fixed effectiveness. This effectiveness is typically equal to what a normal success what be if that spell was cast. Activating the effects of magic gear by attunement does not count as casting a spell.
+
+##### Table: Magic Gear, Limited Use (Attunement)
+| Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
+|:-|:-:|:-:|:-:|:-:|
+| Lightrod (1 use) | Small Iron Rod (½kg) (1sp) | 6sp | [Light](/Fantasy/Spells.md#light) | 10 |
+
+##### Table: Magic Gear, Continuous Use (Attunement)
+| Name | Base Item | Price | Spell | Spellcasting<br/>Roll |
+|:-|:-:|:-:|:-:|:-:|
+| Cloak of Feather Fall | Cloak (2sp) | 52sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 10 |
+| Gloves of Telekinesis | Gloves (5cp) | 50sp 5cp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | 10 |
+| Mask of Water Breathing | Mask (1sp) | 121sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 14 |
+| Spectacles of Sight | Glasses (2sp) | 52sp | [Sight](/Fantasy/Spells.md#sight) | 10 |
+| Lightrod | Small Iron Rod (½kg) (1sp) | 51sp | [Light](/Fantasy/Spells.md#light) | 10 |
+
+## Magic Weapons
+
+Magic weapons are *continuous use* magic items that require attunement. They deal half damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they deal a critical strike (as listed on the spell [magic weapon](/Fantasy/Spells.md#magic-weapon)).
+
+All magic weapons cost exactly 700sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
+
+##### Table: Magic Weapon Examples
+| Name | Base Item | Price | Spell |
+|:-|:-:|:-:|:-:|
+| Arcane Crossbow | Crossbow (16sp) | 716sp | [Magic Weapon (arcane)](/Fantasy/Spells.md#magic-weapon) |
+| Chilling Battleaxe | Battleaxe (8sp) | 708sp | [Magic Weapon (cold)](/Fantasy/Spells.md#magic-weapon) |
+| Flaming Longsword | Longsword (8sp) | 708sp | [Magic Weapon (fire)](/Fantasy/Spells.md#magic-weapon) |
+| Lightning Warhammer | Warhammer (8sp) | 708sp | [Magic Weapon (electric)](/Fantasy/Spells.md#magic-weapon) |
+| Necrotic Dagger | Dagger (5sp) | 705sp | [Magic Weapon (void)](/Fantasy/Spells.md#magic-weapon) |
+| Radiant Warstaff | Warstaff (8sp) | 708sp | [Magic Weapon (radiant)](/Fantasy/Spells.md#magic-weapon) |
+
+### Magic Ammunition
+
+While weapons themselves are suited for repeated use, ammunition is not. Magic ammunition is considered a *limited use* magic item, making it much cheaper to acquire than normal magic weapons. They deal half elemental damage of a predetermined type just like magic weapons, including a bonus effect if they deal a critical strike.
+
+If you shoot magic ammunition from a magic weapon, use the elemental type of the ammunition instead of the weapon.
+
+All magic ammunition costs exactly 14sp more than a normal sized bundle (20 items) of the same type.
+
+## Magic Armour
+
+Magic armours are *continuous use* magic items that require attunement. They allow you to use your damage reduction from armour to prevent elemental damage. The armour still retains its other features, but loses its weaknesses.
+
+All magic armour costs exactly 700sp more than their base item counterpart. Only body armour can be enchanted with this effect.
+
+# Potions
+
+Potions are *limited use* items that provide a magic effect when consumed. They can be used personally or applied to another character or object. Normally this requires the other character to be either willing or unconscious. Alternatively, you can pour out the potion or throw the potion at a target as an improvised ranged weapon. Throwing it causes its effects to occur upon impact. When consumed or thrown it is used as a swift action. When poured out onto the ground or an object, it takes a standard action.
+
+When a potion applies the effects of a spell, it applies it at a fixed spellcasting roll. This is done instead of rolling a spellcasting skill for that spell effect, as no spell is actually cast and the effect is guaranteed. This is true even for potions that are thrown to inflict their effects. Potions that apply lasting effects do so without requiring attunement, but an object or creature can only be under the lasting effect of a single potion at a time.
+
+All potions are made from an alchemical base and have the same weight: ½kg.
 
 ##### Table: Potions
 | Name | Price | Spell | Spellcasting<br/>Roll |
 |:-|:-:|:-:|:-:|
-| Potion of Electricity | 2sp 6cp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 8 (Success) |
-| Potion of Electricity, Critical | 3sp 8cp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 14 (Critical) |
-| Potion of Feather Fall | 2sp 4cp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) | 7 (Graze/Success) |
-| Potion of Fire | 2sp 6cp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 8 (Success) |
-| Potion of Fire, Critical | 3sp 8cp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 14 (Critical) |
-| Potion of Inspiration | 5sp | [Inspire](/Fantasy/Spellcasting.md#inspire) | 10 (Graze/Succes) |
-| Potion of Mending | 5sp 4cp | [Mend](/Fantasy/Spellcasting.md#mend) | 11 (Success) |
-| Potion of Mending, Critical | 9sp | [Mend](/Fantasy/Spellcasting.md#mend) | 20 (Critical) |
-| Potion of Restoration | 9sp 4sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 14 (Graze/Success) |
-| Potion of Restoration, Critical | 17sp 8sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 28 (Critical) |
-| Potion of Sickness | 5sp | [Sickness](/Fantasy/Spellcasting.md#sickness) | 10 (Graze/Success) |
-| Potion of Sickness, Critical | 9sp | [Sickness](/Fantasy/Spellcasting.md#sickness) | 20 (Critical) |
-| Potion of Sleep | 9sp 4cp | [Sleep](/Fantasy/Spellcasting.md#sleep) | 14 (Graze/Success) |
-| Potion of Water Breathing | 5sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) | 10 (Graze/Success) |
+| Potion of Electricity | 6sp | [Jolt](/Fantasy/Spells.md#jolt) | 10 (Success) |
+| Potion of Electricity, Critical | 9sp 5cp | [Jolt](/Fantasy/Spells.md#jolt) | 17 (Critical) |
+| Potion of Feather Fall | 5sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | 10 (Success) |
+| Potion of Fire | 5sp | [Ignite](/Fantasy/Spells.md#ignite) | 10 (Success) |
+| Potion of Fire, Critical | 9sp 5cp | [Ignite](/Fantasy/Spells.md#ignite) | 17 (Critical) |
+| Potion of Inspiration | 15sp | [Inspire](/Fantasy/Spells.md#inspire) | 14 (Success) |
+| Potion of Mending | 15sp | [Mend](/Fantasy/Spells.md#mend) | 14 (Success) |
+| Potion of Mending, Critical | 21sp | [Mend](/Fantasy/Spells.md#mend) | 21 (Critical) |
+| Potion of Restoration | 28sp 5cp | [Restoration](/Fantasy/Spells.md#restoration) | 19 (Success) |
+| Potion of Restoration, Critical | 39sp | [Restoration](/Fantasy/Spells.md#restoration) | 26 (Critical) |
+| Potion of Sickness | 15sp | [Sickness](/Fantasy/Spells.md#sickness) | 14 (Success) |
+| Potion of Sickness, Critical | 21sp | [Sickness](/Fantasy/Spells.md#sickness) | 21 (Critical) |
+| Potion of Sleep | 28sp 5cp | [Sleep](/Fantasy/Spells.md#sleep) | 19 (Success) |
+| Potion of Water Breathing | 15sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | 14 (Success) |
 
 ## Refilling Potions
 
-Some potions are capable of automatically refilling. These potions are usuable once a day. If thrown to cause their effect, they are destroyed the same as normal potions.
+Some potions are capable of automatically refilling every day, making them *daily use* items. If thrown to cause their effect, they are destroyed the same as normal potions.
 
 ##### Table: Refilling Potions
-| Name | Price | Spell | Spellcasting<br/>Roll |
+| Name | Price | Spell | Continuous<br/>Effect | Spellcasting<br/>Roll |
+|:-|:-:|:-:|:-:|:-:|
+| Refilling Potion of Feather Fall | 51sp | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Yes | 10 (Success) |
+| Refilling Potion of Grease | 141sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 14 (Success) |
+| Refilling Potion of Grease, Critical | 211sp | [Grease](/Fantasy/Spells.md#grease) | Yes | 21 (Critical) |
+| Refilling Potion of Inspiration | 141sp | [Inspire](/Fantasy/Spells.md#inspire) | Yes | 14 (Success) |
+| Refilling Potion of Mending | 141sp | [Mend](/Fantasy/Spells.md#mend) | No | 14 (Success) |
+| Refilling Potion of Mending, Critical | 211sp | [Mend](/Fantasy/Spells.md#mend) | No | 21 (Critical) |
+| Refilling Potion of Restoration | 286sp | [Restoration](/Fantasy/Spells.md#restoration) | No | 19 (Success) |
+| Refilling Potion of Water Breathing | 141sp | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Yes | 14 (Success) |
+
+# Spellstones
+
+Spellstones hold one or more uses of a spell as *limited use* or *daily use* magic items. They can be activated to cast spells stored in them. When used, the user of the spellstone makes an appropriate spellcasting roll if possible. If they do not have a skill capable of casting that spell, then they instead roll their intelligence or resolve (whichever they want). Even if the user does not have the spell learned, they may still use the appropriate skill (one where it is learnable). This activation requires the same amount of time that it would take to normally cast the stored spell. Spellstones do not require attunement, so any spell that normally requires concentration still requires concentration.
+
+They can also be thrown as improvised weapons, like potions, to cause their effect on impact. Using them in this way does not count as casting a spell. If thrown to cause their effect, they are destroyed in the process. If the spell effect is caused by the destruction of the spellstone (such as from throwing it or smashing it), it is given an automatic roll equal to that spell's spellcasting difficulty.
+
+##### Table: Spellstones, Limited Use
+| Name | Price | Spell | Concentration |
 |:-|:-:|:-:|:-:|
-| Refilling Potion of Feather Fall | 15sp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) | 7 (Graze/Success) |
-| Refilling Potion of Grease | 41sp | [Grease](/Fantasy/Spellcasting.md#grease) | 10 (Graze/Success) |
-| Refilling Potion of Grease, Critical | 81sp | [Grease](/Fantasy/Spellcasting.md#grease) | 20 (Critical) |
-| Refilling Potion of Inspiration | 41sp | [Inspire](/Fantasy/Spellcasting.md#inspire) | 10 (Graze/Success) |
-| Refilling Potion of Mending | 45sp | [Mend](/Fantasy/Spellcasting.md#mend) | 11 (Success) |
-| Refilling Potion of Mending, Critical | 81sp | [Mend](/Fantasy/Spellcasting.md#mend) | 20 (Critical) |
-| Refilling Potion of Restoration | 85sp | [Restoration](/Fantasy/Spellcasting.md#restoration) | 14 (Graze/Success) |
-| Refilling Potion of Water Breathing | 41sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) | 10 (Graze/Success) |
+| Spellstone of Electricity (5 uses) | 27sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
+| Spellstone of Ignition (5 uses) | 27sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
+| Spellstone of Light (5 uses) | 27sp | [Light](/Fantasy/Spells.md#light) | Yes |
+| Spellstone of Mending (5 uses) | 72sp | [Mend](/Fantasy/Spells.md#mend) | No |
+| Spellstone of Telekinesis (5 uses) | 27sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
 
-## Scrolls
+##### Table: Spellstones, Daily Use
+| Name | Price | Spell | Concentration |
+|:-|:-:|:-:|:-:|
+| Spellstone of Electricity (1/day) | 52sp | [Jolt](/Fantasy/Spells.md#jolt) | No |
+| Spellstone of Ignition (1/day) | 52sp | [Ignite](/Fantasy/Spells.md#ignite) | No |
+| Spellstone of Knock (1/day) | 287sp | [Knock](/Fantasy/Spells.md#knock) | No |
+| Spellstone of Light (1/day) | 52sp | [Light](/Fantasy/Spells.md#light) | Yes |
+| Spellstone of Mending (1/day) | 142sp | [Mend](/Fantasy/Spells.md#mend) | No |
+| Spellstone of Telekinesis (1/day) | 52sp | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Optional |
 
-While not technically a magic item, scrolls do contain information for casting magic spells. Scrolls are limited only to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int), as it only provides them a benefit. The cost of a scroll depends on the mana cost and difficulty to cast a spell. All spells that share these values will cost the same amount to buy.
-
-##### Table: Scrolls Cost
-| Mana<br/>Cost | Spellcasting<br/>Difficulty | Price |
-|:-|:-:|:-:|
-| 1 | 7 | 7sp |
-| 2 | 10 | 20sp |
-| 3 | 14 | 42sp |
-| 4 | 19 | 76sp |
-
-## Spellstones
-
-Spellstones hold one or more uses of a single spell, and can be activated to cast spells stored in them. This activation requires the same amount of time that it would take to normally cast that spell, and can be done even if the user could not normally cast it. They can also be thrown as improvised weapons, like potions, to cause their effect on impact. Using them in this way does not count as casting a spell. If thrown to cause their effect, they are destroyed in the process.
-
-Spellstones (unlike potions) actually require the spells inside them to be cast and are not given automatic spellcasting rolls. Instead they are given an automatic minimum. When used, the user of the spellstone makes an appropriate spellcasting roll if possible. If they do not have a skill capable of casting that spell, then they instead roll their intelligence or resolve (whichever they want). Even if the user does not have the spell learned, they may still use the appropriate skill (one where it is learnable). Then, if the roll made is less than that spellstone's automatic minimum for that spell (including bonuses), their roll gets upgraded to the minimum. If the spell effect is caused by the destruction of the spellstone (such as from throwing it), it is given an automatic roll equal to twice the minimum roll.
-
-Spellstones are typically crafted with one of two primary uses in mind: to always guarantee at least some degree of success, or to always prevent serious spell failure. Spellstones that have a limited number of uses are typically used by non-spellcasters who want access to spell effects. These are cheaper to create and are usually good enough to guarantee a grazing success.
-
-##### Table: Spellstones (Limited Uses)
-| Name | Price | Spell | Spellcasting<br/>Minimum | Attunement |
-|:-|:-:|:-:|:-:|:-:|
-| Spellstone of Electricity (5 uses) | 16sp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 7 (Graze) | No |
-| Spellstone of Ignition (5 uses) | 16sp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 7 (Graze) | No |
-| Spellstone of Light (5 uses) | 16sp | [Light](/Fantasy/Spellcasting.md#light) | 7 (Graze/Success) | Yes |
-| Spellstone of Mending (5 uses) | 42sp | [Mending](/Fantasy/Spellcasting.md#mending) | 10 (Graze) | No |
-| Spellstone of Telekinesis (5 uses) | 16sp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) | 7 (Graze/Success) | Optional |
-
-Spellstones that are reusable (providing daily uses) are typically used by trained spellcasters, as they usually only safeguard against spellcasting fumbles.
-
-##### Table: Spellstones (Per Day)
-| Name | Price | Spell | Spellcasting<br/>Minimum | Attunement |
-|:-|:-:|:-:|:-:|:-:|
-| Spellstone of Electricity (1/day) | 18sp | [Jolt](/Fantasy/Spellcasting.md#jolt) | 4 (Fail) | No |
-| Spellstone of Ignition (1/day) | 18sp | [Ignite](/Fantasy/Spellcasting.md#ignite) | 4 (Fail) | No |
-| Spellstone of Knock (1/day) | 98sp | [Knock](/Fantasy/Spellcasting.md#knock) | 8 (Fail) | No |
-| Spellstone of Light (1/day) | 18sp | [Light](/Fantasy/Spellcasting.md#light) | 4 (Fail) | Yes |
-| Spellstone of Mending (1/day) | 50sp | [Mending](/Fantasy/Spellcasting.md#mending) | 6 (Fail) | No |
-| Spellstone of Telekinesis (1/day) | 18sp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) | 4 (Fail) | Optional |
-
-Spellstones can also be socketed into another item (such as a ring or staff), allowing you to use that item to cast spells from the spellstone. Unfortunately, spellstones socketed into items conflict with other spellstones and other magic effects on the same item. This renders all of these items and effects unusable until the conflict is resolved, or *all* of the items are [magically stabilized](/Fantasy/ItemCrafting.md#magic-stabilization) by someone with the craft skill, allowing them to work together.
+Spellstones can also be socketed into another item (such as a ring or staff), allowing you to use that item to cast spells from the spellstone.
 
 ## Spellstone Qualities
 
@@ -117,38 +194,3 @@ Spellstones can be made of gemstones ranging several degrees of quality. The qua
 | Gemstone, fine | 8sp | +1 |
 | Gemstone, exceptional | 48sp | +2 |
 | Gemstone, magnificent | 98sp | +3 |
-
-## Magic Weapons
-
-Magic weapons require attunement to provide their effects, and may do so continuously. They deal half magical damage of a specified element. This causes them to ignore half of the damage reduction from the attack target's armour. They also provide an additional effect when they perform a critical strike (as listed on the spell [magic weapon](/Fantasy/Spellcasting.md#magic-weapon)).
-
-All magic weapons cost exactly 100sp more than their base item counterpart. Any weapon is capable of being a magic weapon (with any elemental effect), and not just those limited to the following table:
-
-##### Table: Magic Weapons
-| Name | Base Item | Price | Spell |
-|:-|:-:|:-:|:-:|
-| Arcane Crossbow | Crossbow | 116sp | [Magic Weapon (arcane)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Chilling Battleaxe | Battleaxe | 108sp | [Magic Weapon (cold)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Flaming Longsword | Longsword | 108sp | [Magic Weapon (fire)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Lightning Warhammer | Warhammer | 108sp | [Magic Weapon (electric)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Necrotic Dagger | Dagger | 105sp | [Magic Weapon (void)](/Fantasy/Spellcasting.md#magic-weapon) |
-| Radiant Warstaff | Warstaff | 108sp | [Magic Weapon (radiant)](/Fantasy/Spellcasting.md#magic-weapon) |
-
-## Magic Armour
-
-Magic armour requires attunement to provide their effects, and may do so continuously. Magical armour allows you to use your damage reduction to prevent magic damage. The armour still retains all of its other features.
-
-All magic armour costs exactly 100sp more than their base item counterpart. Only body armour can be enchanted with this effect.
-
-## Magic Gear
-
-Most magic gear requires attunement to provide their effects, and may do so continuously. Magic gear can be made out of any other wearable item such as boots, belts, gloves, hats, cloaks, etc. Not all magic gear needs to be worn, some are held in the hand. Magic gear that provide a continuous effect do so at a fixed effectiveness, similar to potions. This effectiveness is typically equal to a what a normal success would be if that spell was cast.
-
-##### Table: Magic Gear
-| Name | Base Item | Price | Spell |
-|:-|:-:|:-:|:-:|
-| Cloak of Feather Fall | Cloak | 37sp | [Feather Fall](/Fantasy/Spellcasting.md#feather-fall) |
-| Gloves of Telekinesis | Gloves | 35sp 5cp | [Telekinesis](/Fantasy/Spellcasting.md#telekinesis) |
-| Mask of Water Breathing | Mask | 101sp | [Water Breathing](/Fantasy/Spellcasting.md#water-breathing) |
-| Spectacles of Sight | Glasses | 37sp | [Sight](/Fantasy/Spellcasting.md#sight) |
-| Sunrod | Small Iron Rod (1kg) | 36sp | [Light](/Fantasy/Spellcasting.md#light) |
