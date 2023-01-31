@@ -4,11 +4,14 @@
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Swift<br/>or Reaction | 10m | One or more<br/>creatures<br/>or objects | 5 minutes | Yes | Willpower |
+| [Guidance](/Fantasy/Spells.md#guidance) | Swift | Touch or 6m | One creature | 1 minute | No | Willpower |
 | [Ignite](/Fantasy/Spells.md#ignite) | Swift | Touch<br/>or 3m | One creature<br/>or object | Instant | No | Fortitude |
 | [Jolt](/Fantasy/Spells.md#jolt) | Swift | Touch<br/>or 3m | One creature<br/>or object | Instant | No | Deflection |
 | [Light](/Fantasy/Spells.md#light) | Swift | Touch | One object<br/>or surface | 1 hour | Yes | None |
+| [Mental Strike](/Fantasy/Spells.md#mental-strike) | Swift | 20m | One creature | Instant | No | Willpower |
 | [Message](/Fantasy/Spells.md#message) | Swift | Touch<br/>or 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
 | [Prestidigitation](/Fantasy/Spells.md#prestidigitation) | Swift | 1m | None | Instant<br/>or 24 hours | Optional | None |
+| [Sacred Bond](/Fantasy/Spells.md#sacred-bond) | Swift | 3m | One creature | 24 hours | No | Willpower |
 | [Sight](/Fantasy/Spells.md#sight) | Swift | Touch | One creature | 24 hours | Yes | None |
 | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None |
 | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Swift | 3m | One creature<br/>or object | Instant<br/>or 5 minutes | Optional | Fortitude |
@@ -20,18 +23,24 @@
 | [Alter Size](/Fantasy/Spells.md#alter-size) | Standard | 3m | One creature<br/>or object | 5 minutes | Yes | Willpower |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None |
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
+| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Curse](/Fantasy/Spells.md#curse) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch | One object<br/>or surface | 30 minutes | Yes | None |
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
+| [Elemental Ward](/Fantasy/Spells.md#elemental-ward) | Standard | Touch or 6m | One creature | 5 minutes | Yes | Willpower |
+| [Entangle](/Fantasy/Spells.md#entangle) | Standard | 20m | One point | 1 minute | No | Athletics<br/>and Agility |
 | [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Agility<br/>and Fortitude |
 | [Harm](/Fantasy/Spells.md#harm) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch<br/>or 20m | One creature | 5 minutes | No | Willpower |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
+| [Physical Ward](/Fantasy/Spells.md#physical-ward) | Standard | Touch or 6m | One creature | 5 minutes | Yes | Willpower |
 | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | Extended<br/>(1 minute) | None | None | Instant | No | None |
 | [Shield](/Fantasy/Spells.md#shield) | Swift<br/>or Free Reaction | None | Self | Instant<br/>or 5 minutes | Optional | None |
 | [Sickness](/Fantasy/Spells.md#sickness) | Standard | 10m | One creature | 1 week | No | Fortitude |
 | [Sight Projection](/Fantasy/Spells.md#sight-projection) | Standard | None | Self | 30 minutes | Yes | None |
+| [Spirit Communion](/Fantasy/Spells.md#spirit-communion) | Extended<br/>(1 minute) | 1m | One dead creature | 5 minutes | Yes | Willpower |
 | [Suggestion](/Fantasy/Spells.md#suggestion) | Swift | 10m | One creature | 1 hour | No | Willpower |
 | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Standard | 10m | One or more<br/>creatures | 30 minutes | Yes | Fortitude |
 
@@ -88,7 +97,7 @@ Additionally, you acquire any natural weapons, abilities (but not talents), and 
 
 For example: If you transformed into a bear, this would change your strength to r16+3 and your dexterity to r14-1, even if they were higher. Your movement speed would also change to 14m.
 
-As an animal you lose the ability to speak normally and cast other spells. You may still speak to other animals that are similar to you and cast this spell to transform directly into other animals. Casting this spell in this way is treated is if casting it from your normal form.
+As an animal you lose the ability to speak normally and cast other spells. You may still speak to other animals that are similar to you and cast this spell to transform directly into other animals. Casting this spell in this way is treated as if casting it from your normal form.
 
 ***Graze:*** Lasts for half the duration, with a -2 penalty to the transformed physical stats.
 
@@ -108,6 +117,42 @@ You shoot one to three arcane missiles which each deal arcane damage. Roll willp
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
 ***Graze:*** Shoot one missile.
+
+## Bless
+
+**Specializations:** Altruism, Family (Bonus: Adept (r6)), Harmony, Liberty, Light  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 10m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You lay your hand upon another creature, providing it comfort and a feeling of purpose. They get a +1 bonus to all rolls. You may cast this spell at a range by speaking words of good fortune, but the spell will cost 1 additional focus. This spell and the curse spell cancel each other out.
+
+This spell may be used to have the same effect on undead creatures as the spell curse does on living creatures.
+
+***Graze:*** Lasts for half the duration.
+
+## Curse
+
+**Specializations:** Anarchy (Bonus: Adept (r6)), Authority, Darkness, Entropy, Militarism  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 10m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You lay your hand upon another creature, providing it unease and a feeling of a futility. They get a -1 penalty to all rolls. You may cast this spell at a range by speaking words of misfortune, but the spell will cost 1 additional focus. This spell and the bless spell cancel each other out.
+
+This spell may be used to have the same effect on undead creatures as the spell bless does on living creatures.
+
+***Graze:*** Lasts for half the duration.
 
 ## Darkness
 
@@ -204,6 +249,44 @@ This spell's focus cost and difficulty increase by 1 for each additional creatur
 
 ***Graze:*** Lasts for half the duration, and can only effect a single target.
 
+## Elemental Ward
+
+**Specializations:** Air (Electric), Arcane, Darkness (Void), Discipline, Enchantment, Fire,  Light (Radiant), Militarism, Shouki, Water (Cold)  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 6m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+Provide a creature with your choice of protection versus one of: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*. For the duration, all attacks of that type deal half damage after any damage reduction.
+
+You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus up to three types.
+
+***Graze:*** Lasts for half the duration.
+
+## Entangle
+
+**Specializations:** Authority, Balance, Earth, Entropy, Harmony  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** 20m  
+**Target:** One point  
+**Duration:** 1 minute  
+**Resist:** Agility (vs entanglement), Athletics (to break free)  
+
+Plants in a 6m radius grow into spiny vines that begin to entangle all creatures in the radius. Any creature who starts their turn or steps onto or through the entangling area must resist using Agility or become entangled and take damage. Grazing against this effect allows the creature to avoid entanglement but still take damage. This effect occurs every time the creature attempts to move while still in the entangling area. Creatures that do not treat the entangling area as difficult terrain get disadvantage to their resist roll.
+
+Entangled creatures cannot move unless they spend a swift action and make an Athletics check to break free. Failing to break free also causes the vines to deal damage. Grazing against this effect allows the creature to break free but still take damage.
+
+***Critical:*** The vines deal 6 piercing damage.  
+***Success:*** The vines deal 4 piercing damage.  
+***Graze:*** The vines deal 2 piercing damage, last for half the duration, and with half the radius.
+
 ## Grease
 
 **Specializations:** Conjuration, Water  
@@ -216,9 +299,9 @@ This spell's focus cost and difficulty increase by 1 for each additional creatur
 **Duration:** 5 minutes  
 **Resist:** Agility (vs grease), Fortitude (vs ignition)
 
-Creates a thin pool of slippery grease in a 3m radius. Any character who starts their turn or steps onto or through the greasy area must resist using Agility or fall prone. Characters that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. This effect occurs every time one of those characters attempts to move while still in the greasy area.
+Creates a thin pool of slippery grease in a 3m radius. Any creature who starts their turn or steps onto or through the greasy area must resist using Agility or fall prone. This effect occurs every time the creature attempts to move while still in the greasy area. Creatures that do not treat the greasy area as difficult terrain get disadvantage to their resist roll. 
 
-The grease can be ignited, which gives burning 2 to any character who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's focus cost by 1 and difficulty by 2.
+The grease can be ignited, which gives burning 2 to any creature who starts their turn or steps onto or through the greasy area. This burning effect can only be given once per turn and can be resisted with Fortitude (causing burning 1 instead). Ignited grease lasts half as long. The range and radius of this spell can both be simultaneously increased by 1m by increasing this spell's focus cost by 1 and difficulty by 2.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
@@ -233,11 +316,29 @@ The grease can be ignited, which gives burning 2 to any character who starts the
 **Target:** One object or creature  
 **Resist:** Fortitude (graze for half damage)
 
-This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell may be used to have the same effect on undead creatures as the spell mend does on living creatures. This spell deals half damage if it grazes against a target's resistance.
+This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell deals half damage if it grazes against a target's resistance.
+
+This spell may be used to have the same effect on undead creatures as the spell mend does on living creatures.
 
 ***Critical:*** Roll willpower plus 4 to deal void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
 ***Success:*** Roll willpower to deal void damage.  
 ***Graze:*** Roll willpower minus 4 to deal void damage.
+
+## Guidance
+
+**Specializations:** Altruism, Balance, Evocation, Fire, Harmony, Impulse, Yuuki  
+**Spell Tier:** 1 (Cantrip)
+
+**Action Speed:** Swift
+
+**Range:** Touch or 10m  
+**Target:** One creature  
+**Duration:** 1 minute (until used)  
+**Resist:** Willpower
+
+You lay your hand upon another creature, providing it comfort and a feeling of intention. They get a +1 bonus to the next skill check they perform. You may cast this spell at a range by speaking words of advice, but the spell will cost 1 additional focus.
+
+***Graze:*** Lasts for half the duration, and only provides the bonus to skills the target is at least trained in.
 
 ## Ignite
 
@@ -258,7 +359,7 @@ You fire a small burst of flame at a nearby object or creature, dealing fire dam
 
 ## Inspire
 
-**Specializations:** Altruism, Evocation, Fire, Harmony, Impulse, Yuuki  
+**Specializations:** Altruism, Evocation, Fire, Harmony, Impulse, Peace (Bonus: Adept (r6)), Yuuki  
 **Spell Tier:** 2 (Lesser)
 
 **Action Speed:** Standard
@@ -340,7 +441,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 ## Magic Weapon
 
-**Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, Water (Cold)  
+**Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, War (Bonus: Adept (r6)), Water (Cold)  
 **Spell Tier:** 2 (Lesser)
 
 **Action Speed:** Standard
@@ -371,11 +472,30 @@ You touch a weapon, granting it magical properties. It deals half of its damage 
 **Target:** One object or creature  
 **Resist:** Fortitude
 
-This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures, but dealing radiant instead of void damage. This spell restores half as much if it grazes against a target's resistance.
+This spell can be used to repair any broken mundane objects, fuse two objects of a similar material, or treat superficial wounds to a creature. Creatures affected by this spell are automatically stabilized. This spell restores half as much if it grazes against a target's resistance.
+
+This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures, but dealing radiant instead of void damage.
 
 ***Critical:*** Restore 1 health, and roll willpower to restore endurance.  
 ***Success:*** Roll willpower to restore endurance.  
 ***Graze:*** Roll willpower minus 4 to restore endurance.
+
+## Mental Strike
+
+**Specializations:** Air, Arcane, Darkness, Enchantment, Entropy, Impulse, Shouki  
+**Spell Tier:** 1 (Cantrip)
+
+**Action Speed:** Swift
+
+**Range:** 20m  
+**Target:** One creature  
+**Resist:** Willpower (graze for half damage)
+
+You barrage the target with a series of vicious words that cut deep into the target's mind dealing arcane damage. If the target does not understand the language you use, they get advantage to resist the spell. This spell deals half damage if it grazes against the target's resistance and does not cause the target to lose concentration.
+
+***Critical:*** Roll willpower plus 4 to deal arcane damage and the target loses concentration.  
+***Success:*** Roll willpower to deal arcane damage.  
+***Graze:*** Roll willpower minus 4 to deal arcane damage.
 
 ## Message
 
@@ -427,6 +547,24 @@ You restore a living creature to good health, removing negative conditions of a 
 ***Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.  
 ***Graze:*** Remove one of the following conditions: sickness, burning, or sleep.
 
+## Physical Ward
+
+**Specializations:** Discipline, Earth, Enchantment, Genki, Militarism, Yuuki  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 6m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+Provide a creature with your choice of protection versus one of: *blunt*, *piercing*, or *slashing*. For the duration, all attacks of that type deal half damage after any damage reduction.
+
+You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus all types.
+
+***Graze:*** Lasts for half the duration.
+
 ## Seek Guidance
 
 **Specializations:** Augury, Authority, Balance, Service (Bonus: Adept (r6)), Entropy, Harmony, Light  
@@ -477,6 +615,23 @@ Inflict sickness upon a living creature, causing it to perform tasks worse and s
 ***Critical:*** The target gets sickness 2.  
 ***Success:*** The target gets sickness 1.  
 ***Graze:*** The target gets sickness 1, but it only lasts 1 minute.
+
+## Sacred Bond
+
+**Specializations:** Altruism, Authority, Balance, Discipline, Harmony  
+**Spell Tier:** 1 (Cantrip)
+
+**Action Speed:** Swift
+
+**Range:** 3m  
+**Target:** One creature  
+**Duration:** 24 hours  
+**Resist:** Willpower
+
+You form a sacred bond between yourself and a target, allowing you to cast spells that require touch which target that creature but instead up to a distance of 100m away. This bond is not broken no matter how far away they are, but only lasts for a duration of 24 hours. While this spell does not require concentration, you may only have a sacred bond with one target at a time.
+
+***Critical:*** Lasts indefinitely, and up to twice the distance.  
+***Graze:*** Lasts for half the duration, and half the distance.
 
 ## Sight
 
@@ -542,9 +697,27 @@ You gain the ability to properly communicate with animals. This provides advanta
 
 ***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
+## Spirit Communion
+
+**Specializations:** Augury, Authority, Balance, Conjuration, Justice ((Bonus: Adept (r6))), Light, Militarism  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Extended (1 minute)
+
+**Range:** 1m  
+**Target:** One dead creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You perform simple rites to honour the spirit of a dead creature nearby. The body does not need to be completely intact, but a majority of its body must be present. If the creature died recently (within the last 7 days) and their spirit is willing, it will manifest from the corpse and can be spoken to. The spirit cannot travel further than 1m from its dead body, but the body can be physically moved to move the spirit. If the body is significantly damaged while the spirit is present, then the spirit will disappear and it can no longer be summoned.
+
+If the creature did not die recently and/or only bones remain, this spell may be cast with an increased focus cost of 1 and spell difficulty of 5 for each of those things that are wrong. If only ashes remain or a severely incomplete corpse, then this spell still cannot be performed.
+
+***Graze:*** Lasts for half the duration and only you can hear the spirit of the creature.
+
 ## Suggestion
 
-**Specializations:** Authority, Enchantment, Evocation, Fire  
+**Specializations:** Authority, Enchantment, Evocation, Fire, Order (Bonus: Adept (r6))  
 **Spell Tier:** 2 (Lesser)
 
 **Action Speed:** Swift

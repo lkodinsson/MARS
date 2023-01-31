@@ -633,7 +633,7 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 
 Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
 
-Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the difficulty to cast that spell. If successful, the spell is maintained.
+Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If the source does not have a difficulty value, then make the check against a difficult of 10 instead. If successful, the concentration is maintained.
 
 # Maneuvers
 

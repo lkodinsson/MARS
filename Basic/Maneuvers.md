@@ -4,7 +4,7 @@
 | Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
 |:-|:-:|:-:|:-:|:-:|:-|
 | [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
-| [Back-step](#back-step) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
+| [Back-step](#back-step) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed |
 | [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
 | [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
 | [Brace](#brace) | 0 | Swift | None | Defensive | Finesse, Martial, Unarmed |
@@ -54,7 +54,7 @@ Move 1m closer to a target 1m outside your melee attack range, or within your me
 ## Back-step
 
 **Type:** Defensive  
-**Specializations:** Finesse, Martial, Unarmed
+**Specializations:** Finesse, Martial, Ranged, Unarmed
 
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
