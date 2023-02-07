@@ -9,7 +9,6 @@ All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md)
 Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character, with some content marked with their genre:
 
 * Character Creation
-	* [Traits](/Basic/Traits.md)
 	* Ancestries
 		* [Ancestries (Fantasy)](/Fantasy/Ancestries.md)
 	* Backgrounds
@@ -19,6 +18,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 		* [Archetypes (Fantasy)](/Fantasy/Archetypes.md)
 	* [Skills](/Basic/PHB.md#skills-1)
 		* [Skills (Fantasy)](/Fantasy/Skills.md)
+	* [Traits](/Basic/Traits.md)
 * Character Abilities
 	* [Talents](/Basic/Talents.md)
 		* [Talents (Fantasy)](/Fantasy/Talents.md)
@@ -48,9 +48,11 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 The following rules are entirely optional, and their use is determined by the Game Master.
 
-* [Advanced Ailments](/Advanced/AdvancedAilments.md)
-* [Custom Ancestries](/Advanced/CustomAncestries.md)
-* [Custom Archetypes](/Advanced/CustomArchetypes.md)
-* [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
-* [Epic Characters](/Advanced/EpicCharacters.md)
-* [Professions and Wages](/Advanced/ProfessionsAndWages.md)
+* Customization
+	* [Custom Ancestries](/Advanced/CustomAncestries.md)
+	* [Custom Archetypes](/Advanced/CustomArchetypes.md)
+	* [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
+* Extended Systems
+	* [Advanced Ailments](/Advanced/AdvancedAilments.md)
+	* [Epic Characters](/Advanced/EpicCharacters.md)
+	* [Professions and Wages](/Advanced/ProfessionsAndWages.md)

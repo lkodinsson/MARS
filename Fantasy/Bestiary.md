@@ -43,7 +43,7 @@ A small green-skinned creature with fierce eyes and teeth, and a few short hairs
 
 Uncommon | Medium humanoid
 
-A wizard who is unaffiliated with any major organization. They can be found in or nearby urban areas which may have high demand for magical services. Typically they are capable of casting mostly benign  and utilitarian spells. They are often willing to assist those who are in need, but will require payment.
+A wizard who is unaffiliated with any major organization. They can be found in or nearby urban areas which may have high demand for magical services. Typically they are capable of casting mostly benign and utilitarian spells. They are often willing to assist those who are in need, but will require payment.
 
 ---
 
@@ -64,7 +64,7 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 ---
 
 **Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +3 (r6), [Arcana (Transmutation)](/Fantasy/Skills.md#arcana-int) +5 (r10)  
-**Spells: Arcana** [Ignite](/Fantasy/Spells.md#ignite), [Light](/Fantasy/Spells.md#light), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)  
+**Spells: Arcana** [Ignite](/Fantasy/Spells.md#ignite), [Light](/Fantasy/Spells.md#light), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)
 
 ---
 
@@ -72,7 +72,7 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 ---
 
-**Equipment** Doublet (padded armour), cloak, fine staff, potion of mending, alchemical base (1), silver ring, electrum (2)
+**Equipment** Doublet (padded armour), cloak, fine staff, spellbook, potion of mending, alchemical base (1), silver ring, electrum (2)
 
 ## Kobold
 
@@ -130,7 +130,7 @@ Large muscular creature with the head of a bull and the body of a man. They have
 
 ---
 
-**Exceptional heavy greataxe** 15 to hit (Martial+1), 20<sup>a</sup> slashing (STR+r10+3), Crit +6, Cleave, Two-Handed
+**Exceptional heavy greataxe** 15 to hit (Martial+1), 18+2<sup>a</sup> slashing (STR+r10+3), Crit +6, Cleave, Two-Handed
 
 ---
 

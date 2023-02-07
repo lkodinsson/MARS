@@ -14,8 +14,8 @@ To cast a spell you must perform the following steps:
 1. Wait for the complete action time required to cast that spell.
 2. Roll your spellcasting skill and associated stat versus the spell's difficulty.
 3. Regardless of success, spend focus equal to that spell's cost.
-4. Perform the effects of that spell based on your degree of success.
-5. The targets (if any) may roll to resist the effects of that spell (if allowed).
+4. The targets (if any) may roll to resist the effects of that spell (if allowed).
+5. Perform the effects of that spell based on your degree of success versus the target's resist.
 
 Most spells have varying degrees of effect based on how well you roll to cast them the same as normal skill checks: *failure*, *graze*, *success*, and *critical success*. Regardless of your degree of success, you may choose to downgrade the success of your spell (your roll is the same, and you choose a lower success category). Failure to cast a spell not only causes the spell to not perform its intended effect, but also causes additional unintended effects. The exact nature of these effects is to be determined by the Game Master based on the spell attempted. The lowest degree of success you can choose to perform is a graze; you cannot downgrade your degree of success to a failure. If a spell does not specify reduced effects as a graze, then grazes are considered failures instead.
 
@@ -51,6 +51,21 @@ The highest tier spell you can learn is determined by the dice step you are adva
 | r16 | Accomplished | 4 (Heroic) |
 | r18 | Expert | 4 (Heroic) |
 | r20 | Master | 4 (Heroic) |
+
+<!--
+##### Table: Spell Learning Tier Limit
+| Roll Value | Step Name | Highest Tier |
+|:-:|:-|:-|
+| r4 | Trained | 1 (Cantrip) |
+| r6 | Adept | 1 (Cantrip) |
+| r8 | Practiced | 2 (Lesser) |
+| r10 | Proficient | 2 (Lesser) |
+| r12 | Exceptional | 2 (Lesser) |
+| r14 | Disciplined | 3 (Greater) |
+| r16 | Accomplished | 3 (Greater) |
+| r18 | Expert | 3 (Greater) |
+| r20 | Master | 4 (Heroic) |
+-->
 
 ### Specialization Restrictions
 

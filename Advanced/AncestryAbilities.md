@@ -139,7 +139,7 @@ The first time during an encounter that the creature is reduced to zero enduranc
 
 **Point Cost:** 3
 
-While taking a long rest, the creature recovers 2 health instead of 1.
+After taking a long rest, the creature recovers 2 health instead of 1.
 
 ## Stability
 

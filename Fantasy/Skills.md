@@ -30,6 +30,19 @@ As you advance in animism you also get bonus spells at specific ranks, regardles
 | r12 | Exceptional | Control Plants (?) |
 | r16 | Accomplished | Control Weather (?) |
 
+<!--
+##### Table: Animism Bonus Spells
+| Roll Value | Step Name | Bonus Spell |
+|:-:|:-|:-|
+| r6 | Adept | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) |
+| r10 | Proficient | [Animal Form](/Fantasy/Spells.md#animal-form) |
+| r16 | Accomplished | Control Plants (?) |
+| r20 | Master | Control Weather (?) |
+
+Probably no master bonus ???
+
+-->
+
 ### Balance
 
 Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
@@ -89,16 +102,16 @@ Most forms of spellcasting come from an internal source, either force of persona
 Like most other spellcasting skills, you will pick a specialization. However, unlike other casting skills, that specialization is created from several choices. There are three different choices to make along three different ideological axes: *altruism* or *militarism*, *impulse* or *discipline*, and *liberty* or *authority*. These choices combined result in eight different specializations: *charity*, *family*, *peace*, *service*, *anarchy*, *war*, *justice*, and *order*.
 
 ##### Table: Faith Specializations by Ideologies
-| Specialization | First Axis | Second Axis | Third Axis |
+| First Axis | Second Axis | Third Axis | Specialization |
 |:-:|:-:|:-:|:-:|
-| Charity | Altruism | Impulse | Liberty |
-| Family | Altruism | Impulse | Authority |
-| Peace | Altruism | Discipline | Liberty |
-| Service | Altruism | Discipline | Authority |
-| Anarchy | Militarism | Impulse | Liberty |
-| War | Militarism | Impulse | Authority |
-| Justice | Militarism | Discipline | Liberty |
-| Order | Militarism | Discipline | Authority |
+| Altruism | Impulse | Liberty | Charity |
+| Altruism | Impulse | Authority | Family |
+| Altruism | Discipline | Liberty | Peace |
+| Altruism | Discipline | Authority | Service |
+| Militarism | Impulse | Liberty | Anarchy |
+| Militarism | Impulse | Authority | War |
+| Militarism | Discipline | Liberty | Justice |
+| Militarism | Discipline | Authority | Order |
 
 Clerics do not require or use scrolls or spell books. You can only have one faith specialization, as it represents the core of your character's philosophical ideologies. You acquire a new spell from your specialization when you advance your faith skill. The spells available for you to choose are determined by each ideology chosen, rather than strictly the specialization itself.
 
@@ -202,6 +215,25 @@ Sorcerers have it a bit easier than others when it comes to casting spells. As y
 | r12 | Exceptional | -2 | -1 |
 | r16 | Accomplished | -3 | -1 |
 | r20 | Master | -4 | -2 |
+
+<!--
+Considering if I should remove the Master bonus and move the focus reduction to be 0, -1, -2...
+Or just move the whole thing down so Accomplished gets -4/-2...
+
+OR...!
+r4  -1/-0
+r8  -2/-1
+r12 -3/-1
+r16 -4/-2
+
+OR...!
+r6  -1/-0
+r10 -2/-1
+r14 -3/-1
+r18 -4/-2
+
+Probably that last one...
+-->
 
 ### Air
 

@@ -217,7 +217,7 @@ The denominations of currency are determined by their material. These materials 
 
 **Large Crossbow** Similar to a normal crossbow but utilizing mechanical force too difficult to arm without assistance. External tools like a windlass or a cranequin are required to arm large crossbows and take a considerable amount of time. Alternate names for large crossbows include: *arbalest*, *cranequin crossbow*, or *windlass crossbow*.
 
-**Longbow** Similar to a shortbow but requiring more strength due to its larger size. It is capable of launching arrows much greater distances. Alternate names for longbows include: *warbow*
+**Longbow** Similar to a shortbow but requiring more strength due to its larger size. It is capable of launching arrows much greater distances. Alternate names for longbows include: *warbow*.
 
 **Longsword** Similar to a straight sword but featuring a longer blade. Alternate names for longswords include: *bastard sword*, *espadón*, *hand-and-a-half sword*, or *spatha*.
 
@@ -309,11 +309,11 @@ The denominations of currency are determined by their material. These materials 
 
 **Boots**
 
-**Chainmail**
+**Chainmail** Armour made from rings of metal linked together in a mesh designed to soften the impact of blows and deflect blades. Alternate names for chainmail armour includes: *byrnie*, *haubergeon*, *hauberk*, *kusari*, *lorica hamata*, or *maille*.
 
 **Full Helm**
 
-**Full Plate**
+**Full Plate** Armour made from a solid plate cuirass (body armour) with additional plates covering most joints and areas of movement, such as a gorget (neck armour), pauldrons (shoulder armour), faulds (waist armour), and cuisses (upper leg armour). Alternate names for full plate armours include: *munitions armour*, *riveted plate*, or *white armour*.
 
 **Gauntlets**
 
@@ -325,20 +325,20 @@ The denominations of currency are determined by their material. These materials 
 
 **Hood**
 
-**Leather**
+**Leather** Armour made from leather is often either boiled, hardened, or lacquered, then either quilted or laced together. Alternate names for leather armours include: *buff coat*, *cuir bouilli*, *jerkin*, *lamellar*, or *ō-yoroi*.
 
 **Leather Bracers**
 
 **Mask**
 
-**Padded**
+**Padded** Armour made from layered cloth materials which are capable of providing more defense than one might expect. Alternate names for padded armours include: *aketon*, *doublet*, *gambeson*, *linothorax*, *padded jack*, or *pourpoint*.
 
 **Plated Boots**
 
 **Plated Bracers**
 
-**Segmented**
+**Segmented** Armour made from layered or laced metal plates which usually come in the form of rectangular plates or scales. Alternate names for segmented armours include: *laminar*, *lorica segmentata*, *lorica squamata*, *panoply*, or *scalemail*.
 
-**Transitional**
+**Transitional** Armour made from a composite of partial plate armour and chainmail either layered or combined, and optionally riveted into a cloth coat. Alternate names for transitional armour include: *brigandine*, *coat of plates*, *jack of plates*, *plated mail*, or *splint mail*.
 
 **Vambraces**

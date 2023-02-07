@@ -9,7 +9,7 @@
 	* [Secondary Stats](#secondary-stats)
 	* [Skills](#skills-1)
 		* [Basic Skills](#basic-skills)
-		* [Advanced Skills](#advanced-skills)
+		* [Complex Skills](#complex-skills)
 		* [Languages](#languages)
 		* [Combat Skills](#combat-skills)
 		* [Other Skills](#other-skills)
@@ -75,11 +75,11 @@ Stats represent the innate capabilities of a character. There are two types of s
 
 ### Skills
 
-Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *advanced skills*. Basic skills are tasks that anyone can perform, while advanced skills can only be performed by characters that are at least trained in that skill. Some of the advanced skills that a character can learn depend on the genre you are playing in. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
+Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *complex skills*. Basic skills are tasks that anyone can perform, while complex skills can only be performed by characters that are at least trained in that skill. Some of the complex skills that a character can learn depend on the genre you are playing in. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
 
 ### Talents
 
-Talents are powerful abilities that characters can learn. They usually provide you the ability to perform unique actions that are not simple enough to be performed by skills, or are modifiers to how a character performs their normal abilities. Most talents that can be acquired are dependant on the type of genre you are playing (similar to advanced skills).
+Talents are powerful abilities that characters can learn. They usually provide you the ability to perform unique actions that are not simple enough to be performed by skills, or are modifiers to how a character performs their normal abilities. Most talents that can be acquired are dependant on the type of genre you are playing (similar to complex skills).
 
 ### Traits
 
@@ -165,11 +165,11 @@ Focus is used to cast spells and perform special abilities.
 
 ### Initiative (INIT)
 
-Initiative is your ability to react first in a moment of conflict.
+Initiative is your ability to react first in a moment of conflict, and in other rare circumstances.
 
 ### Armour Rating (AR)
 
-Armour rating represents the effectiveness of defensive equipment to neutralize incoming attacks.
+Armour rating represents the effectiveness of defensive equipment to neutralize incoming attacks. This stat is directly applied to your deflection and evasion.
 
 ### Damage Reduction (DR)
 
@@ -177,15 +177,15 @@ Damage reduction represents the effectiveness of defensive equipment to reduce t
 
 ### Deflection (DEF)
 
-Deflection is the capacity to shrug off incoming attacks and abilities before they can even take effect.
+Deflection is the capacity to shrug off incoming attacks and abilities before they can even take effect. The use of deflection is often done automatically if no other type of defense is appropriate.
 
 ### Evasion (EVA)
 
-Evasion is your ability to quickly avoid danger, rather than relying on deflection to take hits.
+Evasion is your ability to quickly avoid danger, rather than relying on deflection to take hits. The use of evasion is often done intentionally rather than automatically relying on other forms of defense.
 
 ### Fortitude (FORT)
 
-Fortitude is your ability to resist poison and disease. In dire circumstances it is also used to avoid potential death.
+Fortitude is your ability to resist poison and disease, and many forms of elemental damage. In dire circumstances it is also used to avoid potential death.
 
 ### Willpower (WILL)
 
@@ -193,22 +193,22 @@ Willpower is your ability to resist temptation or supernatural influence, both m
 
 ### Speed (SPD)
 
-Your speed is a measurement of your average walking distance over six seconds. You can run three times this distance in the same amount of time.
+Your speed is a measurement of your average walking distance over six seconds. You can run three times this distance in the same amount of time. This stat also effects other forms of travel, like climbing, swimming, and flying if able. Usually these are performed at half your speed without if you do not have special abilities that state otherwise.
 
 ### Size (SZ)
 
 Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres and settings may provide you with additional options for playing in different size categories. Your size may provide you with modifiers to some of your other stats.
 
 ##### Table: Size & Size Modifiers
-| Size | Avg. Height | Avg. Weight | Strength | Dexterity |
-|:-|:-:|:-:|:-:|:-:|
-| Tiny | ½~¾m | 5~15kg | -3 | +2 |
-| Very Small | ¾~1m | 15~30kg | -2 | +1 |
-| Small | 1~1½m | 30~60kg | -1 | +1 |
-| Medium | 1½~2m | 40~90kg | - | - |
-| Large | 2~2½m | 60~150kg | +1 | -1 |
-| Very Large | 2½~3m | 90~250kg | +2 | -1 |
-| Huge | 3~4m | 150~500kg | +3 | -2 |
+| Size | Avg. Height | Avg. Weight | Strength | Dexterity | Speed |
+|:-|:-:|:-:|:-:|:-:|:-:|
+| Tiny | ½m~¾m | 5kg~15kg | -3 | +2 | -1 |
+| Very Small | ¾m~1m | 15kg~30kg | -2 | +1 | -1 |
+| Small | 1m~1½m | 30kg~60kg | -1 | +1 | - |
+| Medium | 1½m~2m | 40kg~90kg | - | - | - |
+| Large | 2m~2½m | 60kg~150kg | +1 | -1 | - |
+| Very Large | 2½m~3m | 90kg~250kg | +2 | -1 | +1 |
+| Huge | 3m~4m | 150kg~500kg | +3 | -2 | +1 |
 
 # Skills
 
@@ -252,9 +252,9 @@ Knowledge represents your ability to recall information. It can be anything from
 
 Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps. This skill covers the use of all major senses. Even if one sense is limited, it may still be possible to use your other senses to make up for it. 
 
-## Advanced Skills
+## Complex Skills
 
-Unlike basic skills, a character must be at least trained in an advanced skill to use it. Some additional genres provide their own advanced skills, but regardless of genre there are five core advanced skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered advanced skills.
+Unlike basic skills, a character must be at least trained in an complex skill to use it unless their ancestry or background provides a bonus to that skill. Some additional genres provide their own complex skills, but regardless of genre there are five core complex skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered complex skills.
 
 ### Contacts (RES)
 
@@ -285,7 +285,7 @@ While this skill does not provide the ability to understand animals directly, it
 
 ## Languages
 
-When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new advanced skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
+When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
@@ -293,7 +293,7 @@ The availability of languages to your character are determined by the setting th
 
 ## Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are advanced skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
+There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are complex skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
 
 ### Finesse (DEX)
 
@@ -368,7 +368,7 @@ A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-v
 
 ### Skill Duration
 
-While most basic skills and actions can be performed in a matter of a couple seconds, some advanced skills and actions cannot be performed so quickly. While it is expected that most advanced actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
+While most basic skills and actions can be performed in a matter of a couple seconds, some complex skills and actions cannot be performed so quickly. While it is expected that most complex actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
 
 ### Advantage & Disadvantage
 
@@ -535,7 +535,7 @@ You may also use this action as a free action if you have moved more than once d
 
 **Action Speed:** Variable
 
-Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenge. Some skills may take more than a few minutes to complete. This means that most characters who attempt to use advanced skills during an encounter may find themselves unable to perform other actions until the action is completed (unless they leave their attempt as incomplete).
+Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenge. Some skills may take more than a few minutes to complete. This means that most characters who attempt to use complex skills during an encounter may find themselves unable to perform other actions until the action is completed (unless they leave their attempt as incomplete).
 
 # Damage
 
@@ -684,15 +684,15 @@ For example: If you have a maximum Stamina of 10, but half your maximum Initiati
 
 ### Short Rest
 
-A short rest is basically a short break. Whenever you take a break to relax, meditate, or make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
+A short rest is basically a break from strenuous activity. Whenever you take a break to relax, meditate, or make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
 
-An extended period up to about four hours containing a single simple activity, such as performing research or crafting an item with a very low difficulty (of 5 or less) can also be considered a short rest.
+An extended period up to about two hours containing a single simple activity, such as performing research or crafting an item with a very low difficulty (of 5 or less) can also be considered a short rest.
 
 ### Long Rest
 
 A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
-Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of another character performing a long rest by using the medicine skill against a difficulty of 10 (moderate). If successful, the amount of health that characters heals during their long rest is increased by 1 to 2.
+Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of another character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 14 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 to 2.
 
 Abilties that can be used a number of times per rest are restored after a complete long rest.
 
@@ -779,7 +779,7 @@ Some armours will have a strength value listed. This value is the recommended st
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
-Click [here](/Basic/Equipment.md#armour) for the rules for armour and armour features.
+Click [here](/Basic/Equipment.md#armour) for the rules for armour and armour features.  
 Click [here](/Medieval/Equipment.md#armour) for the rules and tables for medieval weapons.
 
 ### Equipment Properties
@@ -816,7 +816,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 
-The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 3 experience points at the end of every game session. For each player that met their character's goals during that session, all players receive an additional 1 experience point. This bonus stacks for each player that met their goals. If a major goal of the adventure is met then each player receives an additional 3 experience points. Additionally, the Game Master may award bonus experience for any other reason, either to all characters, or to individual characters.
+The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 3 experience points at the end of every game session. For each player that met their character's motivations during that session, all players receive an additional 1 experience point. This bonus stacks for each player that met their motivations. If a major goal of the adventure is met then each player receives an additional 3 experience points. Additionally, the Game Master may award bonus experience for any other reason, either to all characters, or to individual characters.
 
 The spending of experience points to improve a character is done in between each game session. Players may only advance individual stats, skills, or talents, once each, at each opportunity.
 
@@ -826,7 +826,7 @@ Some Game Masters may require certain roleplaying events to occur for the advanc
 
 Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value.
 
-For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it will cost 5 experience points. The only exception to this is that the first time you acquire an advanced skill it costs 4 experience instead of 2.
+For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it will cost 5 experience points. The only exception to this is that the first time you acquire an complex skill it costs 4 experience instead of 2.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -841,9 +841,9 @@ For example: if you are improving a skill from a roll value of r8 to a roll valu
 | 9 | 44 | r18 | Expert |
 | 10 | 54 | r20 | Master |
 
-<sup>1</sup>Becoming trained in any advanced skill costs 4 experience points, while basic skills cost 2.
+<sup>1</sup>Becoming trained in any complex skill costs 4 experience points, while basic skills cost 2.
 
-Languages cost half as much as other advanced skills (rounded up):
+Languages cost half as much as other complex skills (rounded up):
 
 ##### Table: Language Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |

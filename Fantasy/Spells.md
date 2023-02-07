@@ -1,37 +1,37 @@
 # Spells
 
 ##### Table: All Cantrips (Tier 1 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range<br/>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Feather Fall](/Fantasy/Spells.md#feather-fall) | Swift<br/>or Reaction | 10m | One or more<br/>creatures<br/>or objects | 5 minutes | Yes | Willpower |
 | [Guidance](/Fantasy/Spells.md#guidance) | Swift | Touch or 6m | One creature | 1 minute | No | Willpower |
-| [Ignite](/Fantasy/Spells.md#ignite) | Swift | Touch<br/>or 3m | One creature<br/>or object | Instant | No | Fortitude |
-| [Jolt](/Fantasy/Spells.md#jolt) | Swift | Touch<br/>or 3m | One creature<br/>or object | Instant | No | Deflection |
-| [Light](/Fantasy/Spells.md#light) | Swift | Touch | One object<br/>or surface | 1 hour | Yes | None |
+| [Ignite](/Fantasy/Spells.md#ignite) | Swift | Touch or 3m | One creature<br/>or object | Instant | No | Fortitude |
+| [Jolt](/Fantasy/Spells.md#jolt) | Swift | Touch or 3m | One creature<br/>or object | Instant | No | Deflection |
+| [Light](/Fantasy/Spells.md#light) | Swift | Touch<br/>(6m) | One object<br/>or surface | 1 hour | Yes | None |
 | [Mental Strike](/Fantasy/Spells.md#mental-strike) | Swift | 20m | One creature | Instant | No | Willpower |
-| [Message](/Fantasy/Spells.md#message) | Swift | Touch<br/>or 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
+| [Message](/Fantasy/Spells.md#message) | Swift | Touch or 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
 | [Prestidigitation](/Fantasy/Spells.md#prestidigitation) | Swift | 1m | None | Instant<br/>or 24 hours | Optional | None |
 | [Sacred Bond](/Fantasy/Spells.md#sacred-bond) | Swift | 3m | One creature | 24 hours | No | Willpower |
-| [Sight](/Fantasy/Spells.md#sight) | Swift | Touch | One creature | 24 hours | Yes | None |
+| [Sight](/Fantasy/Spells.md#sight) | Swift | Touch | One creature | 24 hours | Yes | Willpower |
 | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None |
 | [Telekinesis](/Fantasy/Spells.md#telekinesis) | Swift | 3m | One creature<br/>or object | Instant<br/>or 5 minutes | Optional | Fortitude |
 | [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | Instant | No | Fortitude |
 
 ##### Table: All Lesser Spells (Tier 2 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Alter Size](/Fantasy/Spells.md#alter-size) | Standard | 3m | One creature<br/>or object | 5 minutes | Yes | Willpower |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None |
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
 | [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Curse](/Fantasy/Spells.md#curse) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
-| [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch | One object<br/>or surface | 30 minutes | Yes | None |
+| [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch<br/>(6m) | One object<br/>or surface | 30 minutes | Yes | None |
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Elemental Ward](/Fantasy/Spells.md#elemental-ward) | Standard | Touch or 6m | One creature | 5 minutes | Yes | Willpower |
-| [Entangle](/Fantasy/Spells.md#entangle) | Standard | 20m | One point | 1 minute | No | Athletics<br/>and Agility |
-| [Grease](/Fantasy/Spells.md#grease) | Standard | 10m | One point | 5 minutes | No | Agility<br/>and Fortitude |
+| [Entangle](/Fantasy/Spells.md#entangle) | Standard | 20m<br/>(3m) | One point | 1 minute | No | Athletics<br/>and Agility |
+| [Grease](/Fantasy/Spells.md#grease) | Standard | 10m<br/>(3m) | One point | 5 minutes | No | Agility<br/>and Fortitude |
 | [Harm](/Fantasy/Spells.md#harm) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
-| [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch<br/>or 20m | One creature | 5 minutes | No | Willpower |
+| [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch or 20m | One creature | 5 minutes | No | Willpower |
 | [Magic Armour](/Fantasy/Spells.md#magic-armour) | Standard | Touch | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
@@ -45,17 +45,19 @@
 | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Standard | 10m | One or more<br/>creatures | 30 minutes | Yes | Fortitude |
 
 ##### Table: All Greater Spells (Tier 3 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Blessing Chant](/Fantasy/Spells.md#blessing-chant) | Standard | 10m | One or more<br/>creatures | 5 minutes | Yes | Willpower |
+| [Cursing Chant](/Fantasy/Spells.md#cursing-chant) | Standard | 10m | One or more<br/>creatures | 5 minutes | Yes | Willpower |
 | [Detect Thoughts](/Fantasy/Spells.md#detect-thoughts) | Swift | 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
 | [Enhance](/Fantasy/Spells.md#enhance) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Enhance Self](/Fantasy/Spells.md#enhance-self) | Swift | None | Self | 12 seconds<br/>or 5 minutes | Optional | None |
-| [Knock](/Fantasy/Spells.md#knock) | Extended<br/>(1 minute) | Touch | One locked<br/>object | Instant | No | None |
+| [Knock](/Fantasy/Spells.md#knock) | Extended<br/>(1 minute) | Touch<br/>(10m to 60m) | One locked<br/>object | Instant | No | None |
 | [Restoration](/Fantasy/Spells.md#restoration) | Standard | Touch | One creature<br/>or object | Instant<br/>or 1 week | No | Willpower |
 | [Sleep](/Fantasy/Spells.md#sleep) | Full-round | 10m | One or more<br/>creatures | 1 minute,<br/>30 minutes,<br/>or 8 hours | No | Willpower |
 
 ##### Table: All Heroic Spells (Tier 4 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [](/Fantasy/Spells.md#) |
 
@@ -71,9 +73,27 @@
 **Duration:** 5 minutes (concentration)  
 **Resist:** Willpower
 
-Increase or decrease the size category of a creature or object. You may change the size an additional size category by raising the focus cost by 1 and difficulty by 2 for each category after the first. Changing the size category of a creature also modifies its stats. It will receive +1 Strength per increase or -1 Strength per decrease, as well as -1 Dexterity per two increases (rounded up) or +1 Dexterity per two decreases (rounded up).
+Increase or decrease the size category of a creature or object, altering its Strength, Dexterity, and Speed. You may change the size an additional size category by raising the focus cost by 1 and spell difficulty by 4 for each size after the first.
 
-For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength and -2 Dexterity. This would cost 4 focus with a difficulty of 18.
+Increasing the size of a creature increases its Strength by 1 for each size increase. Dexterity is decreased by 1, and an additional 1 for every two size increases after the first. Speed is increased by 1 for every two size increases.
+
+Decreasing the size of a creature decreases its Strength by 1 for each size decrease. Dexterity is increased by 1, and an additional 1 for every two size decreases after the first. Speed is decreased by 1 for every two size decreases.
+
+For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength, -2 Dexterity, and +1 Speed. This would cost 2 additional focus (4 total) with an increased difficulty of 8 (22 total).
+
+##### Table: Alter Size Modifiers
+| Size<br/>Change | Focus<br/>Cost | Spell<br/>Difficulty | Strength | Dexterity | Speed |
+|:-|:-:|:-:|:-:|:-:|
+| +5 Sizes | +4 | +16 | +5 | -3 | +2 |
+| +4 Sizes | +3 | +12 | +4 | -2 | +2 |
+| +3 Sizes | +2 | +8 | +3 | -2 | +1 |
+| +2 Sizes | +1 | +4 | +2 | -1 | +1 |
+| +1 Sizes | - | - | +1 | -1 | - |
+| -1 Size | - | - | -1 | +1 | - |
+| -2 Sizes | +1 | +4 | -2 | +1 | -1 |
+| -3 Sizes | +2 | +8 | -3 | +2 | -1 |
+| -4 Sizes | +3 | +12 | -4 | +2 | -2 |
+| -5 Sizes | +4 | +16 | -5 | +3 | -2 |
 
 ***Graze:*** Lasts for half the duration, applying one size category change less (to a minimum of one size category).
 
@@ -112,7 +132,7 @@ As an animal you lose the ability to speak normally and cast other spells. You m
 **Target:** One or more creatures or objects  
 **Resist:** Deflection (for half damage)
 
-You shoot one to three arcane missiles which each deal arcane damage. Roll willpower plus 2, then divide the result by half to determine the damage of your missiles. These missiles *always* hit their targets, but deal half damage (again) if they graze or fail against a target's resistance. If multiple missiles hit the same target, they deal their damage together as if it was one hit.
+You shoot one to three arcane missiles which each deal arcane damage. Roll willpower plus 2, then divide the result by half to determine the damage of your missiles. These missiles *always* hit their targets, but deal half damage (again) if they graze or fail against a creature's resistance. If multiple missiles hit the same target, they deal their damage together as if it was one hit.
 
 ***Critical:*** Shoot three missiles.  
 ***Success:*** Shoot two missiles.  
@@ -136,6 +156,24 @@ This spell may be used to have the same effect on undead creatures as the spell 
 
 ***Graze:*** Lasts for half the duration.
 
+## Blessing Chant
+
+**Specializations:** Altruism, Liberty  
+**Spell Tier:** 3 (Greater)
+
+**Action Speed:** Standard
+
+**Range:** 10m  
+**Target:** One or more creatures  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You repeatedly vocalize a chant of purpose and good fortune, giving one or more creatures within a range of 10m a +1 bonus to all rolls. The effect from this spell and the curse or cursing chant spells cancel each other out.
+
+This spell may be used to have the same effect on undead creatures as the spell cursing chant does on living creatures.
+
+***Graze:*** Lasts for half the duration.
+
 ## Curse
 
 **Specializations:** Anarchy (Bonus: Adept (r6)), Authority, Darkness, Entropy, Militarism  
@@ -154,6 +192,24 @@ This spell may be used to have the same effect on undead creatures as the spell 
 
 ***Graze:*** Lasts for half the duration.
 
+## Cursing Chant
+
+**Specializations:** Authority, Militarism  
+**Spell Tier:** 3 (Greater)
+
+**Action Speed:** Standard
+
+**Range:** 10m  
+**Target:** One or more creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+You repeatedly vocalize a chant of futility and misfortune, giving one or more creatures within a range of 10m a -1 penalty to all rolls. The effect from this spell and the bless or blessing chant spells cancel each other out.
+
+This spell may be used to have the same effect on undead creatures as the spell blessing chant does on living creatures.
+
+***Graze:*** Lasts for half the duration.
+
 ## Darkness
 
 **Specializations:** Conjuration, Darkness, Entropy  
@@ -162,6 +218,7 @@ This spell may be used to have the same effect on undead creatures as the spell 
 **Action Speed:** Swift
 
 **Range:** Touch  
+**Radius:** 6m  
 **Target:** One object or surface  
 **Duration:** 30 minutes (concentration, range of 30m)  
 
@@ -203,6 +260,24 @@ Allows you to read the active thoughts of another creature. You may also choose 
 ***Success:*** Allows you to read only the active thoughts.  
 ***Graze:*** Allows you to read only the active thoughts but the target will know what you are doing.
 
+## Elemental Ward
+
+**Specializations:** Air (Electric), Arcane, Darkness (Void), Discipline, Enchantment, Fire,  Light (Radiant), Militarism, Shouki, Water (Cold)  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 6m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+Provide a creature with your choice of protection versus one of: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*. For the duration, all attacks of that type deal half damage after any damage reduction.
+
+You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus up to three types.
+
+***Graze:*** Lasts for half the duration.
+
 ## Enhance
 
 **Specializations:** Air (Dexterity), Earth (Strength), Enchantment, Fire (Resolve), Harmony, Water (Intelligence)  
@@ -231,6 +306,28 @@ Choose a primary stat (strength, intelligence, dexterity, or resolve). That stat
 
 This spell functions exactly like the spell [Enhance](#enhance), but is faster to cast and can only be cast on yourself.
 
+## Entangle
+
+**Specializations:** Authority, Balance, Earth, Entropy, Harmony  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** 20m  
+**Radius:** 3m  
+**Target:** One point  
+**Duration:** 1 minute  
+**Resist:** Agility (vs entanglement), Athletics (to break free)  
+
+Plants in a 3m radius grow into spiny vines that begin to entangle all creatures in the radius. Any creature who starts their turn or steps onto or through the entangling area must resist using Agility or become entangled and take damage. Grazing against this effect allows the creature to avoid entanglement but still take damage. This effect occurs every time the creature attempts to move while still in the entangling area. Creatures that do not treat the entangling area as difficult terrain get disadvantage to their resist roll.
+
+Entangled creatures cannot move unless they spend a swift action and make an Athletics check to break free. Failing to break free also causes the vines to deal damage. Grazing against this effect allows the creature to break free but still take damage.
+
+***Critical:*** The vines deal 6 piercing damage.  
+***Success:*** The vines deal 4 piercing damage.  
+***Graze:*** The vines deal 2 piercing damage, last for half the duration, and with half the radius.
+
+
 ## Feather Fall
 
 **Specializations:** Air, Discipline, Enchantment, Kiai, Liberty, Transmutation  
@@ -249,44 +346,6 @@ This spell's focus cost and difficulty increase by 1 for each additional creatur
 
 ***Graze:*** Lasts for half the duration, and can only effect a single target.
 
-## Elemental Ward
-
-**Specializations:** Air (Electric), Arcane, Darkness (Void), Discipline, Enchantment, Fire,  Light (Radiant), Militarism, Shouki, Water (Cold)  
-**Spell Tier:** 2 (Lesser)
-
-**Action Speed:** Standard
-
-**Range:** Touch or 6m  
-**Target:** One creature  
-**Duration:** 5 minutes (concentration)  
-**Resist:** Willpower
-
-Provide a creature with your choice of protection versus one of: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*. For the duration, all attacks of that type deal half damage after any damage reduction.
-
-You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus up to three types.
-
-***Graze:*** Lasts for half the duration.
-
-## Entangle
-
-**Specializations:** Authority, Balance, Earth, Entropy, Harmony  
-**Spell Tier:** 2 (Lesser)
-
-**Action Speed:** Standard
-
-**Range:** 20m  
-**Target:** One point  
-**Duration:** 1 minute  
-**Resist:** Agility (vs entanglement), Athletics (to break free)  
-
-Plants in a 6m radius grow into spiny vines that begin to entangle all creatures in the radius. Any creature who starts their turn or steps onto or through the entangling area must resist using Agility or become entangled and take damage. Grazing against this effect allows the creature to avoid entanglement but still take damage. This effect occurs every time the creature attempts to move while still in the entangling area. Creatures that do not treat the entangling area as difficult terrain get disadvantage to their resist roll.
-
-Entangled creatures cannot move unless they spend a swift action and make an Athletics check to break free. Failing to break free also causes the vines to deal damage. Grazing against this effect allows the creature to break free but still take damage.
-
-***Critical:*** The vines deal 6 piercing damage.  
-***Success:*** The vines deal 4 piercing damage.  
-***Graze:*** The vines deal 2 piercing damage, last for half the duration, and with half the radius.
-
 ## Grease
 
 **Specializations:** Conjuration, Water  
@@ -295,6 +354,7 @@ Entangled creatures cannot move unless they spend a swift action and make an Ath
 **Action Speed:** Standard
 
 **Range:** 10m  
+**Radius:** 3m  
 **Target:** One point  
 **Duration:** 5 minutes  
 **Resist:** Agility (vs grease), Fortitude (vs ignition)
@@ -316,7 +376,7 @@ The grease can be ignited, which gives burning 2 to any creature who starts thei
 **Target:** One object or creature  
 **Resist:** Fortitude (graze for half damage)
 
-This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell deals half damage if it grazes against a target's resistance.
+This spell can be used to destroy small mundane objects made of wood or stone, break a part of a larger object, or cause wounds to a creature. Creatures affected by this spell gain the dying effect if they have negative health, even if they still have positive endurance. This spell deals half damage if it grazes against a creature's resistance.
 
 This spell may be used to have the same effect on undead creatures as the spell mend does on living creatures.
 
@@ -351,10 +411,10 @@ You lay your hand upon another creature, providing it comfort and a feeling of i
 **Target:** One creature or object  
 **Resist:** Fortitude (graze for half damage)
 
-You fire a small burst of flame at a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet targets get advantage to resist this spell, but if they fail they become dry instead of taking damage. This spell deals half damage if it grazes against a target's resistance.
+You fire a small burst of flame at a nearby object or creature, dealing fire damage. This spell can be used to light flammable material instantly. If you target a creature with this spell that is wearing cloth armour or just clothes, reduce their resist roll by 2. Wet creatures get advantage to resist this spell, and if they fail they become dry and still only take half damage. This spell deals half damage if it grazes against a creature's resistance.
 
-***Critical:*** Roll willpower plus 4 to deal fire damage and the target gets burning 2, light a dry object on fire, or dry a wet object.  
-***Success:*** Roll willpower to deal fire damage and the target gets burning 1, light a dry object on fire, or dry a wet object.  
+***Critical:*** Roll willpower plus 4 to deal fire damage and the creature gets burning 2, light a dry object on fire, or dry a wet object.  
+***Success:*** Roll willpower to deal fire damage and the creature gets burning 1, light a dry object on fire, or dry a wet object.  
 ***Graze:*** Roll willpower minus 4 to deal fire damage, or light a dry object on fire.
 
 ## Inspire
@@ -384,9 +444,9 @@ You lay your hand upon another creature, providing it comfort and a feeling of g
 **Target:** One creature or object  
 **Resist:** Deflection (graze for half damage)
 
-You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Targets that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained in or connected to that body of water. This spell deals half damage if it grazes against a target's resistance.
+You launch a small pulse of electricity at a nearby object or creature, dealing electric damage. This spell can also be used to recharge or activate simple devices that use electricity. Creatures targeted by this spell ignore any armour rating they get from metal armour while attempting to resist this spell, but double the armour rating from any leather armour. Creatures that are wet get a disadvantage to resist this spell. If this spell targets a body of water, it effects all objects and creatures within 6m from the targeted point that are contained in or connected to that body of water. This spell deals half damage if it grazes against a creature's resistance.
 
-***Critical:*** Roll willpower plus 4 to deal electric damage and the target becomes stunned.  
+***Critical:*** Roll willpower plus 4 to deal electric damage and the creature becomes stunned.  
 ***Success:*** Roll willpower to deal electric damage.  
 ***Graze:*** Roll willpower minus 4 to deal electric damage.
 
@@ -398,6 +458,7 @@ You launch a small pulse of electricity at a nearby object or creature, dealing 
 **Action Speed:** Extended (1 minute)
 
 **Range:** Touch  
+**Radius:** 10m to 60m  
 **Target:** One locked object
 
 You touch a physically locked object and it becomes unlocked. This spell works on all objects with physical locking mechanisms; it does not work on magically locked objects. When this spell is cast, regardless of success, it also creates a very loud sound. This sound is similar to a large hammer slamming into a door with intent to break it.
@@ -414,10 +475,11 @@ You touch a physically locked object and it becomes unlocked. This spell works o
 **Action Speed:** Swift
 
 **Range:** Touch  
+**Radius:** 6m  
 **Target:** One object or surface  
 **Duration:** 1 hour (concentration, range of 30m)
 
-You touch an object or surface, causing it to radiate light like a torch in a 6m radius. The colour of this light can be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light. This spell and the darkness spell cancel each other out.
+You touch an object or surface, causing it to radiate light like a torch in a 6m radius. The colour of this light may be any colour of your choice. In daylight or a well lit area, the magical light is unnoticeable unless it has a specified colour (but still weak). Creatures who are sensitive to bright lights are treated as blinded while they are within the light. This spell and the darkness spell cancel each other out.
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
@@ -482,7 +544,7 @@ This spell may be used to have the same effect on undead creatures as the spell 
 
 ## Mental Strike
 
-**Specializations:** Air, Arcane, Darkness, Enchantment, Entropy, Impulse, Shouki  
+**Specializations:** Air, Arcane, Augury, Darkness, Enchantment, Entropy, Impulse, Shouki  
 **Spell Tier:** 1 (Cantrip)
 
 **Action Speed:** Swift
@@ -491,9 +553,9 @@ This spell may be used to have the same effect on undead creatures as the spell 
 **Target:** One creature  
 **Resist:** Willpower (graze for half damage)
 
-You barrage the target with a series of vicious words that cut deep into the target's mind dealing arcane damage. If the target does not understand the language you use, they get advantage to resist the spell. This spell deals half damage if it grazes against the target's resistance and does not cause the target to lose concentration.
+You barrage a creature with a series of vicious words that cut deep into their mind dealing arcane damage. If the creature does not understand the language you use, they get advantage to resist the spell. This spell deals half damage if it grazes against the creature's resistance and does not cause the target to lose concentration.
 
-***Critical:*** Roll willpower plus 4 to deal arcane damage and the target loses concentration.  
+***Critical:*** Roll willpower plus 4 to deal arcane damage and the creature loses concentration.  
 ***Success:*** Roll willpower to deal arcane damage.  
 ***Graze:*** Roll willpower minus 4 to deal arcane damage.
 
@@ -594,7 +656,7 @@ While the shield is present, it can be used to block as a normal shield would, b
 
 If this spell is cast as a free reaction, it does not require concentration, but may only be used to block a single incoming attack. If so, it costs 1 less focus to cast, but will still cost an additional 1 stamina or focus to block.
 
-***Critical:*** Block 5, Durability 14.  
+***Critical:*** Block 5, Durability 15.  
 ***Success:*** Block 4, Durability 12.  
 ***Graze:*** Block 3, Durability 10.
 
@@ -610,11 +672,11 @@ If this spell is cast as a free reaction, it does not require concentration, but
 **Duration:** 1 week  
 **Resist:** Fortitude
 
-Inflict sickness upon a living creature, causing it to perform tasks worse and suffer loss of health from long-term exposure. Whenever the duration is met, the target may make a fortitude check to reduce their sickness by 1.
+Inflict sickness upon a living creature, causing it to perform tasks worse and suffer loss of health from long-term exposure. Whenever the duration is met, the creature may make a fortitude check to reduce their sickness by 1.
 
-***Critical:*** The target gets sickness 2.  
-***Success:*** The target gets sickness 1.  
-***Graze:*** The target gets sickness 1, but it only lasts 1 minute.
+***Critical:*** The creature gets sickness 2.  
+***Success:*** The creature gets sickness 1.  
+***Graze:*** The creature gets sickness 1, but it only lasts 1 minute.
 
 ## Sacred Bond
 
@@ -628,7 +690,7 @@ Inflict sickness upon a living creature, causing it to perform tasks worse and s
 **Duration:** 24 hours  
 **Resist:** Willpower
 
-You form a sacred bond between yourself and a target, allowing you to cast spells that require touch which target that creature but instead up to a distance of 100m away. This bond is not broken no matter how far away they are, but only lasts for a duration of 24 hours. While this spell does not require concentration, you may only have a sacred bond with one target at a time.
+You form a sacred bond between yourself and a creature, allowing you to cast spells that require touch which target that creature but instead up to a distance of 100m away. This bond is not broken no matter how far away they are, but only lasts for a duration of 24 hours. While this spell does not require concentration, you may only have a sacred bond with one creature at a time.
 
 ***Critical:*** Lasts indefinitely, and up to twice the distance.  
 ***Graze:*** Lasts for half the duration, and half the distance.
@@ -645,9 +707,9 @@ You form a sacred bond between yourself and a target, allowing you to cast spell
 **Duration:** 24 hours (concentration, range of 30m)  
 **Resist:** Willpower
 
-Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the target adjusts naturally to any degree of light or darkness.
+Allows a creature to see, even if they are naturally blind, in any amount of light or darkness as though they could see with normal daylight vision. The sight of the creature adjusts naturally to any degree of light or darkness.
 
-***Graze:*** It takes the target 1 minute to adjust to the vision, and 1 minute to adjust to a change in light or darkness.
+***Graze:*** It takes the creature 1 minute to adjust to the vision, and 1 minute to adjust to a change in light or darkness.
 
 ## Sight Projection
 

@@ -11,7 +11,7 @@ Minor artifacts follow all the normal rules of magic item creation, and can be c
 
 | Name | Material<br/>Cost | Magic<br/>Cost | Price |
 |:-|:-:|:-:|:-:|
-| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 787sp 5cp | 788sp |
+| [Belt of Giant's Might](#belt-of-giants-might) | 5cp | 832sp 5cp | 833sp |
 | [Scrying Orb](#scrying-orb) | 15sp | 560sp | 575sp |
 | [Staff of the Apprentice](#staff-of-the-apprentice) | 21sp | 700sp | 721sp |
 | [Staff of the Magi](#staff-of-the-magi) | 76sp | ?sp | ?sp |
@@ -20,12 +20,12 @@ Minor artifacts follow all the normal rules of magic item creation, and can be c
 ### Belt of Giant's Might
 
 **Materials:** Belt (5cp)  
-**Magic Cost:** 787sp 5cp  
-**Price:** 788sp
+**Magic Cost:** 832sp 5cp  
+**Price:** 833sp
 
 This is a wide leather belt with a crest on its clasp depicting a humanoid with strong arms. This belt causes its wearer to be empowered in both strength and size. 
 
-This item can be attuned to once a day and provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spells.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spells.md#alter-size)). This size change provides a +2 bonus to strength and a -1 penalty to dexterity.
+This item can be attuned to once a day and provides an advantage to all strength rolls (from the spell [enhance (strength)](/Fantasy/Spells.md#enhance)), and an increase of two size categories (from the spell [alter size](/Fantasy/Spells.md#alter-size)). This size change provides a +2 bonus to Strength, a -1 penalty to Dexterity, and a +1 bonus to Speed.
 
 ### Scrying Orb
 
@@ -33,7 +33,7 @@ This item can be attuned to once a day and provides an advantage to all strength
 **Magic Cost:** 560sp  
 **Price:** 575sp
 
-This is a palm-sized silvered glass ball capable of casting several spells via a harmonized fine spellstone embedded deep within it, which cannot be removed or modified without destroying crystal ball.
+This is a palm-sized silvered glass ball capable of casting several spells via a harmonized fine spellstone embedded deep within it, which cannot be removed or modified without destroying the crystal ball.
 
 The following spells can each be used collectively 2 times per day, with a +1 bonus to their rolls:
 
@@ -77,7 +77,7 @@ The following spells can be used collectively ? times per day, or by spending fo
 
 ### Thundergod's Warhammer
 
-**Materials:** Masterwork Heavy Warhammer (81sp)
+**Materials:** Masterwork Heavy Warhammer (81sp)  
 **Magic Cost:** 3875sp  
 **Price:** 3956sp
 
