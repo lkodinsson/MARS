@@ -8,6 +8,7 @@ Testing ground for new bestiary entries
 | [Beastman](#beastman) | Common | Medium monstrous humanoid |
 | [Beastman Shaman](#beastman-shaman) | Uncommon | Medium monstrous humanoid |
 | [Black Ooze](#black-ooze) | Uncommon | Small monstrous formless |
+| [Dread Leviathan](#dread-leviathan) | Rare | Gigantic aquatic monstrous beast |
 | [Rot Grub](#rot-grub) | Rare | Very tiny monstrous beast |
 | [Vine Horror](#vine-horror) | Uncommon | Small monstrous plant |
 
@@ -126,7 +127,6 @@ Has 8 tentacles, which act like creatures above the water on their own. Each ind
 ---
 
 **Tentacles** 10 to hit, 13 bludgeoning (STR+r4), Crit +4, Momentum, Swift
-
 
 ## Rot Grub
 

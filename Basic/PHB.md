@@ -718,12 +718,13 @@ Click [here](/Fantasy/Ancestries.md) for a list of fantasy ancestries.
 
 Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
 
-Click [here](/Fantasy/Backgrounds.md) for a list of fantasy backgrounds.
+Click [here](/Medieval/Backgrounds.md) for a list of medieval backgrounds.
 
 ### Archetype
 
 Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
 
+Click [here](/Medieval/Archetypes.md) for a list of medieval archetypes.
 Click [here](/Fantasy/Archetypes.md) for a list of fantasy archetypes.
 
 ### Trait

@@ -29,7 +29,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 		* [Spells Index](/Fantasy/SpellsIndex.md)
 	* [Item Crafting](/Basic/ItemCrafting.md)
 		* [Magic Item Crafting (Fantasy)](/Fantasy/MagicItemCrafting.md)
-* Items and Equipment
+* [Items and Equipment](/Basic/Equipment.md)
 	* [Equipment (Medieval)](/Medieval/Equipment.md)
 	* [Magic Equipment (Fantasy)](/Fantasy/MagicEquipment.md)
 	* [Artifact Equipment (Fantasy)](/Fantasy/ArtifactEquipment.md)

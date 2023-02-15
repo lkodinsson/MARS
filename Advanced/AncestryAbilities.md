@@ -44,7 +44,7 @@ Provides a +1 bonus to charisma checks that involve telling stories and when usi
 
 **Point Cost:** 2
 
-The creature cannot speak normally, but can speak telepathically to any living thing they are directly touching, as long as the recipient is willing. This communication does not require that both creatures speak the same languages, but some may find it intrusive. The sporecap on their head prevents them from wearing any kind of headgear, but they can emit spores to identify the position of nearby creatures regardless of lighting conditions.
+The creature cannot speak normally, but can speak mentally to any living thing they are directly touching, as long as the recipient is willing. This communication does not require that both creatures speak the same languages, but some may find it intrusive. The sporecap on their head prevents them from wearing any kind of headgear, but they can emit spores to identify the position of nearby creatures regardless of lighting conditions.
 
 ## Grit
 
@@ -74,7 +74,7 @@ The creature can see in both daylight and poorly lit areas with ease.
 
 **Point Cost:** Variable
 
-The creature gains a defensive bonus from a specified netural armour from one of the tables below. Natural armour provided by the body only applies their armour rating or damage reduction if that value is better than any armour that the creature wears.
+The creature gains a defensive bonus from a specified natural armour from one of the tables below. Natural armour provided by the body only applies their armour rating or damage reduction if that value is better than any armour that the creature wears.
 
 ##### Table: Natural Body Armours
 | Name | Point<br/>Cost | AR | DR | Features |
