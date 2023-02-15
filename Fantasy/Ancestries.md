@@ -4,14 +4,14 @@
 | Name | Stat Modifiers | Abilities | Size | Speed |
 |:-|:-|:-:|:-:|:-:|
 | [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Iron Gut,<br/>Stability,<br/>and Strong Back | Medium | 5m |
-| [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/> and Niche: Wilderness | Medium | 6m |
-| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/> and Fabled | Small | 6m |
-| [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/> and Versatility | Small to Large | 6m |
-| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br> and Natural Weapons | Medium or Large | 6m |
-| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/> and Natural Weapons | Medium or Large | 6m |
+| [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/>and Niche: Wilderness | Medium | 6m |
+| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/>and Fabled | Small | 6m |
+| [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/>and Versatility | Small to Large | 6m |
+| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br>and Natural Weapons | Medium or Large | 6m |
+| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/>and Natural Weapons | Medium or Large | 6m |
 | [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m |
 | [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>and Fungal Body,<br/>and Grit | Small to Large | 5m |
-| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Low-light Vision,<br/>Nimble,<br/> and Natural Weapons | Small or Medium | 6m |
+| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Graceful,<br/>Low-light Vision,<br/>and Natural Weapons | Small or Medium | 6m |
 
 ## Dwarf
 
@@ -153,9 +153,9 @@ Vulpines are agile, intelligent creatures resembling humanoid foxes. They tend t
 
 **Stats** Vulpines get +1 Dexterity and +1 Intelligence, plus any size modifiers.
 
-**Low-light Vision** Vulpines can see in both daylight and poorly lit areas with ease.
+**Graceful** Vulpines get a +1 bonus to agility and athletics checks when leaping, running, climbing, or rolling.
 
-**Nimble** Vulpines get a +1 bonus to agility and athletics checks when leaping, running, climbing, or rolling.
+**Low-light Vision** Vulpines can see in both daylight and poorly lit areas with ease.
 
 **Natural Weapon: Claw** STR+r4 piercing/slashing damage, Crit +6, Swift
 

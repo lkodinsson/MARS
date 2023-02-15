@@ -83,7 +83,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 
 ##### Table: Alter Size Modifiers
 | Size<br/>Change | Focus<br/>Cost | Spell<br/>Difficulty | Strength | Dexterity | Speed |
-|:-|:-:|:-:|:-:|:-:|
+|:-|:-:|:-:|:-:|:-:|:-:|
 | +5 Sizes | +4 | +16 | +5 | -3 | +2 |
 | +4 Sizes | +3 | +12 | +4 | -2 | +2 |
 | +3 Sizes | +2 | +8 | +3 | -2 | +1 |

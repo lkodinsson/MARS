@@ -7,6 +7,7 @@
 | [Brave](#brave) | 2 |
 | [Fabled](#rich-history) | 2 |
 | [Fungal Body](#fungal-body) | 2 |
+| [Graceful](#graceful) | 2 |
 | [Grit](#grit) | 1 |
 | [Headstrong](#headstrong) | 2 |
 | [Iron Gut](#iron-gut) | 2 |
@@ -14,7 +15,6 @@
 | [Natural Armour](#natural-armour) | Variable |
 | [Natural Weapon](#natural-weapon) | Variable |
 | [Niche](#niche) | 2 |
-| [Nimble](#nimble) | 2 |
 | [Pain Tolerance](#pain-tolerance) | 2 |
 | [Regeneration](#regeneration) | 3 |
 | [Stability](#stability) | 2 |
@@ -45,6 +45,12 @@ Provides a +1 bonus to charisma checks that involve telling stories and when usi
 **Point Cost:** 2
 
 The creature cannot speak normally, but can speak mentally to any living thing they are directly touching, as long as the recipient is willing. This communication does not require that both creatures speak the same languages, but some may find it intrusive. The sporecap on their head prevents them from wearing any kind of headgear, but they can emit spores to identify the position of nearby creatures regardless of lighting conditions.
+
+## Graceful
+
+**Point Cost:** 2
+
+Provides a +1 bonus to agility and athletics checks when leaping, running, climbing, or rolling.
 
 ## Grit
 
@@ -122,12 +128,6 @@ Optionally, more powerful versions may also be acquired from the table below:
 **Point Cost:** 2
 
 Provides a +1 bonus to a specific skill only while in a specific environment.
-
-## Nimble
-
-**Point Cost:** 2
-
-Provides a +1 bonus to agility and athletics checks when leaping, running, climbing, or rolling.
 
 ## Pain Tolerance
 
