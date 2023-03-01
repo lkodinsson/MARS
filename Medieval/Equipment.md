@@ -283,7 +283,7 @@ The denominations of currency are determined by their material. These materials 
 | Leather Bracers | 5sp | - | - | Arms | Leather | ½kg | Guiding |
 | Plated Bracers | 15sp | 1 | - | Arms | Metal | 1kg | Guiding |
 | Vambraces | 30sp | 1 | 1 | Arms | Metal | 2kg | Noisy |
-| Gloves<sup>2</sup> | 2sp | - | - | Hands | Leather | ½kg | - |
+| Gloves<sup>2</sup> | 2sp | - | - | Hands | Leather | ¼kg | - |
 | Gauntlets<sup>3</sup> | 40sp | 1 | 1 | Arms & Hands | Metal | 3kg | Noisy, Locking Grip |
 | Greaves | 15sp | 1 | - | Legs | Metal | 1kg | - |
 | Boots<sup>2</sup> | 2sp | - | - | Feet | Leather | ½kg | - |

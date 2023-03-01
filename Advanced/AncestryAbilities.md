@@ -34,6 +34,12 @@ Provides a +1 bonus to any one skill, but at the cost of a -1 penalty to another
 
 The creature gets advantage to willpower checks resist any effects that would cause them fear.
 
+## Construct
+
+**Point Cost:** 2
+
+The creature's body is constructed of inorganic materials and does not perform normal biological functions. The creature is no longer required to eat or sleep, and does not recover 1 health after a long rest. It can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if the construct would be magically repaired such as by the mend spell, it always recovers at least 1 health.
+
 ## Fabled
 
 **Point Cost:** 2
@@ -139,7 +145,7 @@ The first time during an encounter that the creature is reduced to zero enduranc
 
 **Point Cost:** 3
 
-After taking a long rest, the creature recovers 2 health instead of 1.
+After taking a long rest, the creature recovers 1 additional health.
 
 ## Stability
 

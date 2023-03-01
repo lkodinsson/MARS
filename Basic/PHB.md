@@ -130,7 +130,7 @@ Resolve is the determination, intuition, and spirituality of your character. It 
 
 # Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
@@ -692,7 +692,7 @@ An extended period up to about two hours containing a single simple activity, su
 
 A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
-Characters with substantial wounds will require substantial rest to recover. Other characters may treat the wounds of another character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 14 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 to 2.
+Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 14 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
 
 Abilties that can be used a number of times per rest are restored after a complete long rest.
 

@@ -37,6 +37,16 @@ Spells are broken down into tiers which determine both their difficulty to cast,
 | 3 | Greater | 3 | 19 (Challenging) |
 | 4 | Heroic | 4 | 25 (Ambitious) |
 
+<!--
+##### Table: Spell Tiers
+| Tier | Tier Name | Focus Cost | Spellcasting Difficulty |
+|:-:|:-:|:-:|:-:|
+| 1 | Cantrip | 1 | 10 (Moderate) |
+| 2 | Lesser | 2 | 15 (Hard) |
+| 3 | Greater | 3 | 20 (Challenging) |
+| 4 | Heroic | 4 | 25 (Ambitious) |
+-->
+
 The highest tier spell you can learn is determined by the dice step you are advancing to. You may still choose to learn spells of a lower tier when you advance.
 
 ##### Table: Spell Learning Tier Limit

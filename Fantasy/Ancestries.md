@@ -9,6 +9,7 @@
 | [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/>and Versatility | Small to Large | 6m |
 | [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br>and Natural Weapons | Medium or Large | 6m |
 | [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/>and Natural Weapons | Medium or Large | 6m |
+| [Machina](#machina) | Any two +1,<br/> and size modifiers | Construct<br/>and Low-light Vision | Small to Large | 6m |
 | [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m |
 | [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>and Fungal Body,<br/>and Grit | Small to Large | 5m |
 | [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Graceful,<br/>Low-light Vision,<br/>and Natural Weapons | Small or Medium | 6m |
@@ -85,7 +86,7 @@ Typically found dwelling in dark and damp environments, they do not often intera
 
 **Stats** Lizardfolk get +1 Dexterity and +1 Resolve, plus any size modifiers.
 
-**Regeneration** While taking a long rest, Lizardfolk recover 2 health instead of 1.
+**Regeneration** After taking a long rest, Lizardfolk recovers 1 additional health.
 
 **Natural Weapon: Claw** STR+r4 piercing/slashing damage, Crit +6, Swift
 
@@ -112,6 +113,22 @@ Lupines are humanoid wolves with hardy, imposing builds. They live in tight-knit
 **Speed** Lupines have a movement speed of 6m.
 
 **Languages** Lupines start with the common and lupine languages.
+
+## Machina
+
+Machina are quite rare, as they are not a naturally occuring creature. They are constructed typically by exceptional artificers and are usually found in their accompaniment or lost and abandoned.
+
+**Stats** Machina get a +1 bonus to each of any two different primary stats, plus any size modifiers.
+
+**Construct** The machina's body is constructed of inorganic materials and does not perform normal biological functions. Machina are no longer required to eat or sleep, and do not recover 1 health after a long rest. They can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if they would be magically repaired such as by the mend spell, it always recovers at least 1 health.
+
+**Low-light Vision** Machina can see in both daylight and poorly lit areas with ease.
+
+**Size** Machina can be small, medium, or large sized, but are typically medium sized.
+
+**Speed** Machina have a movement speed of 6m.
+
+**Languages** Machina start with common and one additional langauge.
 
 ## Orc
 

@@ -262,7 +262,7 @@ Allows you to read the active thoughts of another creature. You may also choose 
 
 ## Elemental Ward
 
-**Specializations:** Air (Electric), Arcane, Darkness (Void), Discipline, Enchantment, Fire,  Light (Radiant), Militarism, Shouki, Water (Cold)  
+**Specializations:** Air (Electric), Arcane (Arcane), Darkness (Void), Discipline, Enchantment, Fire (Fire),  Light (Radiant), Militarism, Shouki, Water (Cold)  
 **Spell Tier:** 2 (Lesser)
 
 **Action Speed:** Standard
@@ -503,7 +503,7 @@ You create a suit of magical armour on the target of your spell. It has an armou
 
 ## Magic Weapon
 
-**Specializations:** Air (Electric), Arcane, Darkness (Void), Enchantment, Fire, Light (Radiant), Militarism, Transmutation, War (Bonus: Adept (r6)), Water (Cold)  
+**Specializations:** Air (Electric), Arcane (Arcane), Darkness (Void), Enchantment, Fire (Fire), Light (Radiant), Militarism, Transmutation, War (Bonus: Adept (r6)), Water (Cold)  
 **Spell Tier:** 2 (Lesser)
 
 **Action Speed:** Standard
