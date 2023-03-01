@@ -3,7 +3,7 @@
 ##### Table: Fantasy Archetypes
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
-| [Artificer](#artificer) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r6), [Craft](/Basic/PHB.md#craft-int) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6) | [Arcane Synthesis (Rank 1)](/Fantasy/Talents.md#arcane-synthesis) | INT |
+| [Artificer](#artificer) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) or [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Craft](/Basic/PHB.md#craft-int) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6) | [Arcane Synthesis (Rank 1)](/Fantasy/Talents.md#arcane-synthesis) | INT |
 | [Bard](#bard) | [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r4), [Charisma](/Basic/PHB.md#charisma-res) (r8), [Finesse](/Basic/PHB.md#finesse-dex) or [Ranged](/Basic/PHB.md#ranged-dex) (r6),<br/> [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4)  | [Inspirational Charisma (+1)](/Basic/Talents.md#inspirational-charisma) | RES |
 | [Champion](#champion) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Faith (Any Militarist)](/Fantasy/Skills.md#faith-res) (r6), [Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex),<br/>or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6) | [Divine Axiom (Any)](/Fantasy/Talents.md#divine-axiom) | RES |
 | [Cleric](#cleric) | [Charisma](/Basic/PHB.md#charisma-res) (r4), [Faith (Any)](/Fantasy/Skills.md#faith-res) (r8), [Knowledge](/Basic/PHB.md#knowledge-int) (r6),<br/>[Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Divine Devotion (1/rest)](/Fantasy/Talents.md#divine-devotion) | RES |
@@ -18,7 +18,7 @@
 
 Artificers are gifted craftspersons that are capable of inventing all kinds of devices with the assistance of magic. Some of these devices they use themselves, but some artificers prefer to craft solely to witness others benefit from their inventions.
 
-**Skills** [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r6), [Craft](/Basic/PHB.md#craft-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6)  
+**Skills** [Arcana (Any)](/Fantasy/Skills.md#arcana-int) (r6), [Charisma](/Basic/PHB.md#charisma-res) or [Knowledge](/Basic/PHB.md#knowledge-int) (r6), [Craft](/Basic/PHB.md#craft-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r6)  
 **Spells** Artificers start with two spells.  
 **Talent** [Arcane Synthesis (Rank 1)](/Fantasy/Talents.md#arcane-synthesis)  
 **Primary Stat** Artificer must start with a maximum intelligence of 11 or greater.
