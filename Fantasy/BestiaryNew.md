@@ -108,23 +108,23 @@ Uncommon | Medium humanoid
 
 ---
 
-**STR** 5 (r10), **DEX** 6 (r10+1), **INT** 6 (r10+1), **RES** 7 (r14)
-**Skills** [Athletics]() +4 (r8)
+**STR** 5 (r10), **DEX** 6 (r10+1), **INT** 6 (r10+1), **RES** 7 (r14)  
+**Skills** [Athletics]() +4 (r8)  
 **Talents** [Toughness (+4)]()
 
 ---
 
-**INIT** 13 (r24+1), **SPD** 5m
-**HP+ED** 28 (10+18), **ST** 11, **FP** 11
-**DEF** 9 (r14+2), **EVA** 8 (r10+3), **DR** 2
-**FORT** 12 (r24), **WILL** 13 (r24+1)
-**Combat Skills** [Martial]() +5 (r10)
+**INIT** 13 (r24+1), **SPD** 6m  
+**HP+ED** 28 (10+18), **ST** 11, **FP** 11  
+**DEF** 9 (r14+2), **EVA** 8 (r10+3), **DR** 2  
+**FORT** 12 (r24), **WILL** 13 (r24+1)  
+**Combat Skills** [Martial]() +5 (r10)  
 **Maneuvers** [Grapple](), [Trip]()
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +3 (r6)
-**Spells: Arcana** [Mental Strike]()
+**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +3 (r6)  
+**Spells: Arcana** [Mental Strike]()  
 **Spells: Faith** [Curse](), [Elemental Ward](), [Guidance]()
 
 ---
@@ -141,22 +141,22 @@ Common | Medium humanoid
 
 ---
 
-**STR** 5 (r10), **DEX** 5 (r8+1), **INT** 6 (r10+1), **RES** 6 (r12)
+**STR** 5 (r10), **DEX** 5 (r8+1), **INT** 6 (r10+1), **RES** 6 (r12)  
 **Skills** [Athletics]() +3 (r6)
 
 ---
 
-**INIT** 11 (r20+1), **SPD** 5m
-**HP+ED** 22 (10+12), **ST** 9, **FP** 11
-**DEF** 6 (r12), **EVA** 5 (r8+1), **DR** 0
-**FORT** 11 (r22), **WILL** 12 (r22+1)
-**Combat Skills** [Martial]() +4 (r8)
+**INIT** 11 (r20+1), **SPD** 6m  
+**HP+ED** 22 (10+12), **ST** 9, **FP** 11  
+**DEF** 6 (r12), **EVA** 5 (r8+1), **DR** 0  
+**FORT** 11 (r22), **WILL** 12 (r22+1)  
+**Combat Skills** [Martial]() +4 (r8)  
 **Maneuvers** [Grapple](), [Trip]()
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +2 (r4)
-**Spells: Arcana** [Mental Strike]()
+**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +2 (r4)  
+**Spells: Arcana** [Mental Strike]()  
 **Spells: Faith** [Guidance]()
 
 ---
@@ -199,17 +199,17 @@ Uncommon | Medium monstrous beast
 
 ---
 
-**STR** 4 (r10-1), **DEX** 4 (r8), **INT** 5 (r10), **RES** 4 (r10-1)
-**Abilities** Natural Weapon: Tentacles
+**STR** 4 (r10-1), **DEX** 4 (r8), **INT** 5 (r10), **RES** 4 (r10-1)  
+**Abilities** Natural Weapon: Tentacles  
 **Skills** [Athletics]() +3 (r6)
 
 ---
 
-**INIT** 9 (r20-1), **SPD** 5m
-**HP+ED** 18 (9+9), **ST** 8
-**DEF** 4 (r10-1), **EVA** 4 (r8), **DR** 0
-**FORT** 8 (r18-1), **WILL** 9 (r20-1)
-**Combat Skills** [Martial]() +4 (r8)
+**INIT** 9 (r20-1), **SPD** 6m  
+**HP+ED** 18 (9+9), **ST** 8  
+**DEF** 4 (r10-1), **EVA** 4 (r8), **DR** 0  
+**FORT** 8 (r18-1), **WILL** 9 (r20-1)  
+**Combat Skills** [Martial]() +4 (r8)  
 **Maneuvers** [Grapple](), [Trip]()
 
 ---
