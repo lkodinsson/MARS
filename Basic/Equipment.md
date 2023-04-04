@@ -197,7 +197,7 @@ Properties effect different types of equipment differently, and are limited to o
 
 ##### Table: Equipment Weight Properties
 | Name | Cost<br/>Adjustment | Weight<br/>Adjustment | Strength<br/>Adjustment |
-|:-|:-|
+|:-|:-|:-|:-|
 | Heavy | ×¾ | ×1¼<sup>2</sup> | +2 |
 | Light | ×2 or +10<sup>1</sup> | ×¾<sup>2</sup> | -2 |
 
