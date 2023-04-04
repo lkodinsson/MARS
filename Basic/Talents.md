@@ -271,17 +271,17 @@ The first defensive maneuver that you use each round does not cost a reaction. A
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
 
-You gain an ability allowing you to fly into a rage at the cost of 1 health and 1 stamina as a swift action, giving you a temporary bonus to strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating.
+You gain an ability allowing you to fly into a rage at the cost of 2 focus as a swift action, giving you a temporary bonus to strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating.
 
 Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
 
 ##### Table: Rage Steps & Cost
 | Step Cost | Total Cost | Bonus |
 |:-:|:-:|:-:|
-| 8 | 8 | +1 |
-| 9 | 17 | +2 |
-| 10 | 27 | +3 |
-| 11 | 38 | +4 |
+| 8 | 8 | +2 |
+| 9 | 17 | +3 |
+| 10 | 27 | +4 |
+| 11 | 38 | +5 |
 
 ## Second Wind
 

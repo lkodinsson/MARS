@@ -93,7 +93,7 @@ Uncommon | Small monstrous formless
 
 **INIT** 7 (r10+2), **SPD** 2m  
 **HP+ED** 28 (13+15), **ST** 5  
-**DEF** 4, **EVA** 3, **DR** 0 (half vs S/P)  
+**DEF** 4 (r6+1), **EVA** 3 (r4+1), **DR** 0 (half vs S/P)  
 **FORT** 11 (r18+2), **WILL** 5 (r10)  
 **Combat Skills** [Unarmed](/Basic/PHB.md#unarmed-dex) +4 (r8)  
 **Maneuvers** [Concussive Strike](/Basic/Maneuvers.md#concussive-strike), [Grapple](/Basic/Maneuvers.md#grapple)
@@ -102,23 +102,88 @@ Uncommon | Small monstrous formless
 
 **Pseudopod** 7 to hit (Unarmed), 9 bludgeoning (STR+r4), Crit +4, Momentum, Swift, Inflicts Burn 1 on hit
 
+## Cultist Adept
+
+Uncommon | Medium humanoid
+
+---
+
+**STR** 5 (r10), **DEX** 6 (r10+1), **INT** 6 (r10+1), **RES** 7 (r14)
+**Skills** [Athletics]() +4 (r8)
+**Talents** [Toughness (+4)]()
+
+---
+
+**INIT** 13 (r24+1), **SPD** 5m
+**HP+ED** 28 (10+18), **ST** 11, **FP** 11
+**DEF** 9 (r14+2), **EVA** 8 (r10+3), **DR** 2
+**FORT** 12 (r24), **WILL** 13 (r24+1)
+**Combat Skills** [Martial]() +5 (r10)
+**Maneuvers** [Grapple](), [Trip]()
+
+---
+
+**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +3 (r6)
+**Spells: Arcana** [Mental Strike]()
+**Spells: Faith** [Curse](), [Elemental Ward](), [Guidance]()
+
+---
+
+**Khophesh** 11 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
+
+---
+
+**Equipment** Robes, padded armour, khopesh (curved sword)
+
+## Cultist Initiate
+
+Common | Medium humanoid
+
+---
+
+**STR** 5 (r10), **DEX** 5 (r8+1), **INT** 6 (r10+1), **RES** 6 (r12)
+**Skills** [Athletics]() +3 (r6)
+
+---
+
+**INIT** 11 (r20+1), **SPD** 5m
+**HP+ED** 22 (10+12), **ST** 9, **FP** 11
+**DEF** 6 (r12), **EVA** 5 (r8+1), **DR** 0
+**FORT** 11 (r22), **WILL** 12 (r22+1)
+**Combat Skills** [Martial]() +4 (r8)
+**Maneuvers** [Grapple](), [Trip]()
+
+---
+
+**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +2 (r4)
+**Spells: Arcana** [Mental Strike]()
+**Spells: Faith** [Guidance]()
+
+---
+
+**Khophesh** 9 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
+
+---
+
+**Equipment** Robes, khopesh (curved sword)
+
 ## Dread Leviathan
 
 Rare | Gigantic aquatic monstrous beast
 
-Has 8 tentacles, which act like creatures above the water on their own. Each individual tentacle can take 7 damage before being destroyed, which is also dealt to the creature itself.
+Has 8 tentacles, which act like creatures above the water on their own. Each individual tentacle can take 10 damage before being destroyed, half of that damage is also dealt to the creature itself.
 
 ---
 
 **STR** 11 (r12+5), **DEX** 5 (r12-1), **INT** 6 (r12), **RES** 7 (r12+1)  
-**Abilities** Resistance: Fire, Natural Armour: Carapace (+2/+3) Natural Weapon: Tentacles  
+**Abilities** Resistance: Fire, Natural Armour: Carapace (+2/+3), Natural Weapon: Tentacles  
 **Skills** [Athletics](/Basic/PHB.md#athletics-str) +5 (r10)  
-**Talents** [Toughness (+20)](/Basic/Talents.md#toughness)
+**Talents** [Toughness (+30)](/Basic/Talents.md#toughness)
 
 ---
 
 **INIT** 12 (r24), **SPD** 8m  
-**HP+ED** 50 (17+33), **ST** 11  
+**HP+ED** 60 (17+43), **ST** 11  
 **DEF** 9 (r12+3), **EVA** 7 (r12+1), **DR** 3 (half vs fire)  
 **FORT** 18 (r24+6), **WILL** 13 (r24+1)  
 **Combat Skills** [Unarmed](/Basic/PHB.md#unarmed-dex) +5 (r10)  
@@ -127,6 +192,30 @@ Has 8 tentacles, which act like creatures above the water on their own. Each ind
 ---
 
 **Tentacles** 10 to hit, 13 bludgeoning (STR+r4), Crit +4, Momentum, Swift
+
+## Octoform
+
+Uncommon | Medium monstrous beast
+
+---
+
+**STR** 4 (r10-1), **DEX** 4 (r8), **INT** 5 (r10), **RES** 4 (r10-1)
+**Abilities** Natural Weapon: Tentacles
+**Skills** [Athletics]() +3 (r6)
+
+---
+
+**INIT** 9 (r20-1), **SPD** 5m
+**HP+ED** 18 (9+9), **ST** 8
+**DEF** 4 (r10-1), **EVA** 4 (r8), **DR** 0
+**FORT** 8 (r18-1), **WILL** 9 (r20-1)
+**Combat Skills** [Martial]() +4 (r8)
+**Maneuvers** [Grapple](), [Trip]()
+
+---
+
+**Tentacle** 8 to hit (Martial), 6 bludgeoning (STR+r4), Crit +4, Momentum, Swift
+
 
 ## Rot Grub
 

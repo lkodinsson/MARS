@@ -4,7 +4,7 @@
 | Name | Skills | Talent | Primary Stat |
 |:-|:-|:-|:-|
 | [Assassin](#assassin) | [Agility](/Basic/PHB.md#agility-dex) (r8), [Finesse](/Basic/PHB.md#finesse-dex) or [Ranged](/Basic/PHB.md#ranged-dex) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r4), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Sleight](/Basic/PHB.md#sleight-dex) (r4) | [Ambidexterity (+1)](/Basic/Talents.md#ambidexterity) | DEX |
-| [Berserker](#berserker) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Charimsa](/Basic/PHB.md#charisma-res) (r6), [Martial](/Basic/PHB.md#martial-dex) (r8),<br/>[Unarmed](/Basic/PHB.md#unarmed-dex) (r4), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r4) | [Rage (+1)](/Basic/Talents.md#rage),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | STR *and* RES |
+| [Berserker](#berserker) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Charimsa](/Basic/PHB.md#charisma-res) (r6), [Martial](/Basic/PHB.md#martial-dex) (r8),<br/>[Unarmed](/Basic/PHB.md#unarmed-dex) (r4), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r4) | [Rage (+2)](/Basic/Talents.md#rage) | STR *and* RES |
 | [Fighter](#fighter) | [Athletics](/Basic/PHB.md#athletics-str) (r6), [Charisma](/Basic/PHB.md#charisma-res) (r4), [Medicine](/Basic/PHB.md#medicine-int) (r6),<br/>[Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Ranged](/Basic/PHB.md#ranged-dex) (r8), [Perception](/Basic/PHB.md#perception-dex) (r4) | [Extra Maneuver](/Basic/Talents.md#extra-maneuver),<br/>[Toughness (+4)](/Basic/Talents.md#toughness) | STR *or* DEX |
 | [Magister](#magister) | [Craft](/Basic/PHB.md#craft-int) (r6), [Knowledge](/Basic/PHB.md#knowledge-int) (r8), [Medicine](/Basic/PHB.md#medicine-int) (r6),<br/>[Perception](/Basic/PHB.md#perception-dex) (r4), [Sleight](/Basic/PHB.md#sleight-dex) (r4) | [Always Prepared (1/rest)](/Basic/Talents.md#always-prepared) | INT |
 | [Ranger](#ranger) | [Agility](/Basic/PHB.md#agility-dex) or [Athletics](/Basic/PHB.md#athletics-str) (r6), [Medicine](/Basic/PHB.md#medicine-int) (r6), [Perception](/Basic/PHB.md#perception-dex) (r6),<br/>[Finesse](/Basic/PHB.md#finesse-dex), [Martial](/Basic/PHB.md#martial-dex), or [Ranged](/Basic/PHB.md#ranged-dex) (r6), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r6) | [Deduction](/Basic/Talents.md#deduction),<br/>and [Toughness (+4)](/Basic/Talents.md#toughness) | INT |
@@ -25,7 +25,7 @@ While fighters might choose diplomacy, or paladins might seek to protect their a
 
 **Skills** [Athletics](/Basic/PHB.md#athletics-str) (r6), [Charimsa](/Basic/PHB.md#charisma-res) (r6), [Martial](/Basic/PHB.md#martial-dex) (r8), [Unarmed](/Basic/PHB.md#unarmed-dex) (r4), [Wild Empathy](/Basic/PHB.md#wild-empathy-res) (r4)  
 **Maneuvers** Berserkers start with two maneuvers for martial, and one maneuver for unarmed.  
-**Talent** [Rage (+1)](/Basic/Talents.md#rage)  
+**Talent** [Rage (+2)](/Basic/Talents.md#rage)  
 **Primary Stat** Berserkers must start with a maximum strength and a maximum resolve of 11 or greater.
 
 ## Fighter
