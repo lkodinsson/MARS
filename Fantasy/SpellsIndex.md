@@ -75,7 +75,7 @@
 ##### Table: Harmony Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Entangle](/Fantasy/Spells.md#entangle) | Standard | 20m<br/>(3m) | One point | 1 minute | No | Athletics<br/>and Agility |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch or 20m | One creature | 5 minutes | No | Willpower |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
@@ -243,6 +243,7 @@
 ##### Table: Evocation Greater Spells (Tier 3 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 | [Sleep](/Fantasy/Spells.md#sleep) | Full-round | 10m | One or more<br/>creatures | 1 minute,<br/>30 minutes,<br/>or 8 hours | No | Willpower |
 
 ##### Table: Evocation Heroic Spells (Tier 4 Spells)
@@ -295,7 +296,7 @@
 ##### Table: Altruism Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch or 20m | One creature | 5 minutes | No | Willpower |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 
@@ -333,6 +334,7 @@
 ##### Table: Militarism Greater Spells (Tier 3 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 | [Cursing Chant](/Fantasy/Spells.md#cursing-chant) | Standard | 10m | One or more<br/>creatures | 5 minutes | Yes | Willpower |
 
 ##### Table: Militarism Heroic Spells (Tier 4 Spells)
@@ -358,7 +360,7 @@
 ##### Table: Impulse Greater Spells (Tier 3 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [](/Fantasy/Spells.md#) |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 
 ##### Table: Impulse Heroic Spells (Tier 4 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
@@ -403,7 +405,7 @@
 ##### Table: Liberty Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |
 
 ##### Table: Liberty Greater Spells (Tier 3 Spells)
@@ -454,7 +456,7 @@
 ##### Table: Faith Bonus Lesser Spells (Tier 2 Spells) by Specialization and Rank
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist | Specialization<br/>and Rank |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower | Family<br/>(Adept) (r6) |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower | Family<br/>(Adept) (r6) |
 | [Curse](/Fantasy/Spells.md#curse) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower | Anarchy<br/>(Adept) (r6) |
 | [Inspire](/Fantasy/Spells.md#inspire) | Standard | Touch or 20m | One creature | 5 minutes | No | Willpower | Peace<br/>(Adept) (r6) |
 | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None | War<br/>(Adept) (r6) |
@@ -492,6 +494,7 @@
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Enhance Self](/Fantasy/Spells.md#enhance-self) | Swift | None | Self | 12 seconds<br/>or 5 minutes | Optional | None |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 | [Restoration](/Fantasy/Spells.md#restoration) | Standard | Touch | One creature<br/>or object | Instant<br/>or 1 week | No | Willpower |
 
 ##### Table: Genki Heroic Spells (Tier 4 Spells)
@@ -516,6 +519,7 @@
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Enhance Self](/Fantasy/Spells.md#enhance-self) | Swift | None | Self | 12 seconds<br/>or 5 minutes | Optional | None |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 
 ##### Table: Kiai Heroic Spells (Tier 4 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
@@ -654,6 +658,7 @@
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Enhance](/Fantasy/Spells.md#enhance) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 
 ##### Table: Fire Heroic Spells (Tier 4 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
@@ -701,7 +706,7 @@
 ##### Table: Light Lesser Spells (Tier 2 Spells)
 | Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Elemental Ward (Radiant)](/Fantasy/Spells.md#elemental-ward) | Standard | Touch or 6m | One creature | 5 minutes | Yes | Willpower |
 | [Magic Weapon (Radiant)](/Fantasy/Spells.md#magic-weapon) | Standard | Touch | One weapon | 5 minutes | Yes | None |
 | [Mend](/Fantasy/Spells.md#mend) | Standard | Touch | One creature<br/>or object | Instant | No | Fortitude |

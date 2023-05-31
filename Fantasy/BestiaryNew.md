@@ -8,7 +8,10 @@ Testing ground for new bestiary entries
 | [Beastman](#beastman) | Common | Medium monstrous humanoid |
 | [Beastman Shaman](#beastman-shaman) | Uncommon | Medium monstrous humanoid |
 | [Black Ooze](#black-ooze) | Uncommon | Small monstrous formless |
+| [Cultist Adept](#cultist-adept) | Uncommon | Medium humanoid |
+| [Cultist Initiate](#cultist-initiate) | Common | Medium humanoid |
 | [Dread Leviathan](#dread-leviathan) | Rare | Gigantic aquatic monstrous beast |
+| [Octoform](#octoform) | Uncommon | Medium monstrous beast |
 | [Rot Grub](#rot-grub) | Rare | Very tiny monstrous beast |
 | [Vine Horror](#vine-horror) | Uncommon | Small monstrous plant |
 
@@ -109,8 +112,8 @@ Uncommon | Medium humanoid
 ---
 
 **STR** 5 (r10), **DEX** 6 (r10+1), **INT** 6 (r10+1), **RES** 7 (r14)  
-**Skills** [Athletics]() +4 (r8)  
-**Talents** [Toughness (+4)]()
+**Skills** [Athletics](/Basic/PHB.md#athletics-str) +4 (r8)  
+**Talents** [Toughness (+4)](/Basic/Talents.md#toughness)
 
 ---
 
@@ -118,18 +121,18 @@ Uncommon | Medium humanoid
 **HP+ED** 28 (10+18), **ST** 11, **FP** 11  
 **DEF** 9 (r14+2), **EVA** 8 (r10+3), **DR** 2  
 **FORT** 12 (r24), **WILL** 13 (r24+1)  
-**Combat Skills** [Martial]() +5 (r10)  
-**Maneuvers** [Grapple](), [Trip]()
+**Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +5 (r10)  
+**Maneuvers** [Grapple](/Basic/Maneuvers.md#grapple), [Trip](/Basic/Maneuvers.md#trip)
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +3 (r6)  
-**Spells: Arcana** [Mental Strike]()  
-**Spells: Faith** [Curse](), [Elemental Ward](), [Guidance]()
+**Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +3 (r6)  
+**Spells: Arcana** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
+**Spells: Faith** [Curse](/Fantasy/Spells.md#curse), [Elemental Ward](/Fantasy/Spells.md#elemental-ward), [Guidance](/Fantasy/Spells.md#guidance)
 
 ---
 
-**Khophesh** 11 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
+**Khopesh** 11 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
 
 ---
 
@@ -142,7 +145,7 @@ Common | Medium humanoid
 ---
 
 **STR** 5 (r10), **DEX** 5 (r8+1), **INT** 6 (r10+1), **RES** 6 (r12)  
-**Skills** [Athletics]() +3 (r6)
+**Skills** [Athletics](/Basic/PHB.md#athletics-str) +3 (r6)
 
 ---
 
@@ -150,18 +153,18 @@ Common | Medium humanoid
 **HP+ED** 22 (10+12), **ST** 9, **FP** 11  
 **DEF** 6 (r12), **EVA** 5 (r8+1), **DR** 0  
 **FORT** 11 (r22), **WILL** 12 (r22+1)  
-**Combat Skills** [Martial]() +4 (r8)  
-**Maneuvers** [Grapple](), [Trip]()
+**Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +4 (r8)  
+**Maneuvers** [Grapple](/Basic/Maneuvers.md#grapple), [Trip](/Basic/Maneuvers.md#trip)
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)]() +2 (r4), [Faith (Anarchy)]() +2 (r4)  
-**Spells: Arcana** [Mental Strike]()  
-**Spells: Faith** [Guidance]()
+**Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +2 (r4)  
+**Spells: Arcana** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
+**Spells: Faith** [Guidance](/Fantasy/Spells.md#guidance)
 
 ---
 
-**Khophesh** 9 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
+**Khop9pesh** 9 to hit (Martial), 8 slashing (STR+r6), Crit +8, Parry r4, Cleave, Swift
 
 ---
 
@@ -171,7 +174,7 @@ Common | Medium humanoid
 
 Rare | Gigantic aquatic monstrous beast
 
-Has 8 tentacles, which act like creatures above the water on their own. Each individual tentacle can take 10 damage before being destroyed, half of that damage is also dealt to the creature itself.
+Has 8 tentacles, which act like creatures above the water on their own. Each individual tentacle can take 10 damage before being destroyed, and half of that damage is also dealt to the creature itself.
 
 ---
 
@@ -201,7 +204,7 @@ Uncommon | Medium monstrous beast
 
 **STR** 4 (r10-1), **DEX** 4 (r8), **INT** 5 (r10), **RES** 4 (r10-1)  
 **Abilities** Natural Weapon: Tentacles  
-**Skills** [Athletics]() +3 (r6)
+**Skills** [Athletics](/Basic/PHB.md#athletics-str) +3 (r6)
 
 ---
 
@@ -209,8 +212,8 @@ Uncommon | Medium monstrous beast
 **HP+ED** 18 (9+9), **ST** 8  
 **DEF** 4 (r10-1), **EVA** 4 (r8), **DR** 0  
 **FORT** 8 (r18-1), **WILL** 9 (r20-1)  
-**Combat Skills** [Martial]() +4 (r8)  
-**Maneuvers** [Grapple](), [Trip]()
+**Combat Skills** [Martial](/Basic/PHB.md#martial-dex) +4 (r8)  
+**Maneuvers** [Grapple](/Basic/Maneuvers.md#grapple), [Trip](/Basic/Maneuvers.md#trip)
 
 ---
 

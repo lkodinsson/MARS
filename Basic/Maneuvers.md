@@ -24,6 +24,7 @@
 | [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed |
 | [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed |
 | [Knock Down](#knock-down) | 1 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
+| [Leap Srtike](#leap-strike) | 2 | Standard | None | Offensive | Finesse, Martial, Unarmed |
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed |
 | [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged |

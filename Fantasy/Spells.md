@@ -23,7 +23,7 @@
 | [Alter Size](/Fantasy/Spells.md#alter-size) | Standard | 3m | One creature<br/>or object | 5 minutes | Yes | Willpower |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None |
 | [Arcane Missiles](/Fantasy/Spells.md#arcane-missiles) | Swift | 20m | One or more<br/>creatures<br/>or objects | Instant | No | Deflection |
-| [Bless](/Fantasy/Spells.md#bless) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
+| [Bless](/Fantasy/Spells.md#bless) | Swift | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Curse](/Fantasy/Spells.md#curse) | Standard | Touch or 10m | One creature | 5 minutes | Yes | Willpower |
 | [Darkness](/Fantasy/Spells.md#darkness) | Swift | Touch<br/>(6m) | One object<br/>or surface | 30 minutes | Yes | None |
 | [Debilitate](/Fantasy/Spells.md#debilitate) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
@@ -52,6 +52,7 @@
 | [Detect Thoughts](/Fantasy/Spells.md#detect-thoughts) | Swift | 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
 | [Enhance](/Fantasy/Spells.md#enhance) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Enhance Self](/Fantasy/Spells.md#enhance-self) | Swift | None | Self | 12 seconds<br/>or 5 minutes | Optional | None |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
 | [Knock](/Fantasy/Spells.md#knock) | Extended<br/>(1 minute) | Touch<br/>(10m to 60m) | One locked<br/>object | Instant | No | None |
 | [Restoration](/Fantasy/Spells.md#restoration) | Standard | Touch | One creature<br/>or object | Instant<br/>or 1 week | No | Willpower |
 | [Sleep](/Fantasy/Spells.md#sleep) | Full-round | 10m | One or more<br/>creatures | 1 minute,<br/>30 minutes,<br/>or 8 hours | No | Willpower |
@@ -88,7 +89,7 @@ For example: If your target was Medium sized and you increased it to Huge (three
 | +4 Sizes | +3 | +12 | +4 | -2 | +2 |
 | +3 Sizes | +2 | +8 | +3 | -2 | +1 |
 | +2 Sizes | +1 | +4 | +2 | -1 | +1 |
-| +1 Sizes | - | - | +1 | -1 | - |
+| +1 Size | - | - | +1 | -1 | - |
 | -1 Size | - | - | -1 | +1 | - |
 | -2 Sizes | +1 | +4 | -2 | +1 | -1 |
 | -3 Sizes | +2 | +8 | -3 | +2 | -1 |
@@ -143,7 +144,7 @@ You shoot one to three arcane missiles which each deal arcane damage. Roll willp
 **Specializations:** Altruism, Family (Bonus: Adept (r6)), Harmony, Liberty, Light  
 **Spell Tier:** 2 (Lesser)
 
-**Action Speed:** Standard
+**Action Speed:** Swift
 
 **Range:** Touch or 10m  
 **Target:** One creature  
@@ -327,7 +328,6 @@ Entangled creatures cannot move unless they spend a swift action and make an Ath
 ***Success:*** The vines deal 4 piercing damage.  
 ***Graze:*** The vines deal 2 piercing damage, last for half the duration, and with half the radius.
 
-
 ## Feather Fall
 
 **Specializations:** Air, Discipline, Enchantment, Kiai, Liberty, Transmutation  
@@ -345,6 +345,24 @@ Reduces the speed of a creature so that it falls slowly enough to always land sa
 This spell's focus cost and difficulty increase by 1 for each additional creature and object you target.
 
 ***Graze:*** Lasts for half the duration, and can only effect a single target.
+
+## Fireball
+
+**Specializations:** Evocation, Fire, Genki, Impulse, Kiai, Militarism  
+**Spell Tier:** 3 (Greater)
+
+**Action Speed:** Standard
+
+**Range:** 30m  
+**Radius:** 4m  
+**Target:** One creature, object, or point  
+**Resist:** Fortitude (graze for half damage)
+
+You launch a powerful globe of blazing fire toward a target where it erupts into a sweeping blaze in a radius of 4m, dealing fire damage and causing burning to all nearby targets. Creatures within half the radius that are not wet take an additional 4 damage and get burning 1. Creatures effected that are wearing cloth armour or just clothes get their resist roll redcued by 2. Wet creatures and objects get advantage to resist this spell, and if they fail they become dry and still only take half damage. This spell deals half damage if it grazes against a creature's resistance.
+
+***Critical:*** Roll willpower plus 4 to deal fire damage and the creatures get burning 2, light dry objects on fire, and dry wet objects.  
+***Success:*** Roll willpower to deal fire damage and the creatures get burning 1, light dry objects on fire, and dry wet objects.  
+***Graze:*** Roll willpower minus 4 to deal fire damage, and light dry objects on fire.
 
 ## Grease
 
@@ -365,6 +383,22 @@ The grease can be ignited, which gives burning 2 to any creature who starts thei
 
 ***Graze:*** Lasts for half the duration, with half the radius.
 
+## Guidance
+
+**Specializations:** Altruism, Balance, Evocation, Fire, Harmony, Impulse, Yuuki  
+**Spell Tier:** 1 (Cantrip)
+
+**Action Speed:** Swift
+
+**Range:** Touch or 10m  
+**Target:** One creature  
+**Duration:** 1 minute (until used)  
+**Resist:** Willpower
+
+You lay your hand upon another creature, providing it comfort and a feeling of intention. They get a +1 bonus to the next skill check they perform. You may cast this spell at a range by speaking words of advice, but the spell will cost 1 additional focus.
+
+***Graze:*** Lasts for half the duration, and only provides the bonus to skills the target is at least trained in.
+
 ## Harm
 
 **Specializations:** Balance, Darkness, Earth, Entropy, Genki, Militarism, Transmutation, Water  
@@ -383,22 +417,6 @@ This spell may be used to have the same effect on undead creatures as the spell 
 ***Critical:*** Roll willpower plus 4 to deal void damage and 1 bonus damage directly to health (this bonus damage cannot be prevented in any way).  
 ***Success:*** Roll willpower to deal void damage.  
 ***Graze:*** Roll willpower minus 4 to deal void damage.
-
-## Guidance
-
-**Specializations:** Altruism, Balance, Evocation, Fire, Harmony, Impulse, Yuuki  
-**Spell Tier:** 1 (Cantrip)
-
-**Action Speed:** Swift
-
-**Range:** Touch or 10m  
-**Target:** One creature  
-**Duration:** 1 minute (until used)  
-**Resist:** Willpower
-
-You lay your hand upon another creature, providing it comfort and a feeling of intention. They get a +1 bonus to the next skill check they perform. You may cast this spell at a range by speaking words of advice, but the spell will cost 1 additional focus.
-
-***Graze:*** Lasts for half the duration, and only provides the bonus to skills the target is at least trained in.
 
 ## Ignite
 
@@ -538,7 +556,7 @@ This spell can be used to repair any broken mundane objects, fuse two objects of
 
 This spell may be used to have the same effect on undead creatures as the spell harm does on living creatures, but dealing radiant instead of void damage.
 
-***Critical:*** Restore 1 health, and roll willpower to restore endurance.  
+***Critical:*** Restore 1 health, and roll willpower plus 4 to restore endurance.  
 ***Success:*** Roll willpower to restore endurance.  
 ***Graze:*** Roll willpower minus 4 to restore endurance.
 
@@ -553,7 +571,7 @@ This spell may be used to have the same effect on undead creatures as the spell 
 **Target:** One creature  
 **Resist:** Willpower (graze for half damage)
 
-You barrage a creature with a series of vicious words that cut deep into their mind dealing arcane damage. If the creature does not understand the language you use, they get advantage to resist the spell. This spell deals half damage if it grazes against the creature's resistance and does not cause the target to lose concentration.
+You barrage a creature with a series of vicious words that cut deep into their mind dealing arcane damage and possibly interrupting concentration. If the creature does not understand the language you use, they get advantage to resist the spell. If this spell grazes against the target's resistance it deals half damage and does not cause it to lose concentration.
 
 ***Critical:*** Roll willpower plus 4 to deal arcane damage and the creature loses concentration.  
 ***Success:*** Roll willpower to deal arcane damage.  
@@ -605,7 +623,7 @@ You create the illusion of a miniscule object or creature, or various small magi
 
 You restore a living creature to good health, removing negative conditions of a mundane nature. While this spell cannot dispel magical effects directly, it can restore natural conditions caused by spells. The degree of success determines which conditions this spell is capable of removing, but only one condition can be removed at a time. Additionally, any creatures that have health restored by this spell are automatically stabilized. This spell can even temporarily cure blindness (for 1 week).
 
-***Critical:*** Restore 1 health, and remove one of the following conditions: debilitation, sickness, sleep, burning, or blindness (1 week).  
+***Critical:*** Restore 2 health, and remove one of the following conditions: debilitation, sickness, sleep, burning, or blindness (1 week).  
 ***Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.  
 ***Graze:*** Remove one of the following conditions: sickness, burning, or sleep.
 
@@ -741,7 +759,7 @@ Creatures fall prone when they fall asleep.
 
 When cast on creatures in combat, the active adrenaline in their body makes the sleep last for only 1 minute (10 rounds). Additionally, every round they get a chance to resist and wake from the sleep at the start of their turn (except for their first turn while asleep). Dealing damage to these creatures will automatically wake them.
 
-This spell's focus cost and difficulty increases by 2 for each additional creature you target.
+This spell's focus cost increases by 1 and difficulty increases by 2 for each additional creature you target.
 
 ***Graze:*** Lasts for half the duration, and can only target a single creature or object.
 
