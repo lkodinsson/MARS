@@ -100,7 +100,7 @@ If at any point during the game you are required to perform math that results in
 
 There are many different worlds and environments that can be played in, such as worlds featuring one or more of elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless amounts more.
 
-Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *fantasy*, *industrial*, *steampunk*, *post-industrial*, *cyberpunk*, *space*, and *sci-fantasy*.
+Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *fantasy*, *industrial*, *steampunk*, *post-industrial*, *cyberpunk*, *space*, and *sci-fantasy*.
 
 These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
 
