@@ -4,6 +4,7 @@
 	* [The Basics](#the-basics)
 		* [Roll Value](#roll-value)
 	* [Playing the Game](#playing-the-game)
+		* [Genres](#genres)
 * Part 2: The Parts of a Character
 	* [Primary Stats](#primary-stats)
 	* [Secondary Stats](#secondary-stats)
@@ -30,7 +31,7 @@
 
 # The Basics
 
-MARS features many similarities to other role-playing game systems. You will control a character that is defined by several abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
+**MARS** features many similarities to other role-playing game systems. You will control a character that is defined by several abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
 
 As a player you will interact inside a world controlled by a Game Master who determines certain properties about the world, such as the genre and setting. The genre of a world determines a lot of its core features like what types of abilities characters can use, what types of characters you will expect to play as and interact with, and what type of technology is present in that world.
 
@@ -42,7 +43,7 @@ Roll value will typically have one or two numbers: *r14+1*. The first number fol
 
 For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
 
-There is only one exception to interpreting roll value, which is that if you get a remainder of 2, then you upgrade one of those ten-sided-dice to a twelve-sided-die.
+There is only one exception to this: if you get a remainder of 2 then you upgrade one of those ten-sided-dice to a twelve-sided-die instead.
 
 For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
 
@@ -95,9 +96,17 @@ While describing what your character does, try not to detail the results of your
 
 If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
 
+## Genres
+
+There are many different worlds and environments that can be played in, such as worlds featuring one or more of elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless amounts more.
+
+Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *fantasy*, *industrial*, *steampunk*, *post-industrial*, *cyberpunk*, *space*, and *sci-fantasy*.
+
+These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
+
 # Primary Stats
 
-Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values ranging from r8 to r20.
+Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
 
 ##### Table: Primary Stat Steps
 | Roll Value | Step Name |
@@ -110,7 +119,7 @@ Each character has four Primary Stats that are used to derive other stats and ab
 | r18 | Powerful |
 | r20 | Epic |
 
-Characters typically start with stats ranging from below average (r8) to above average (r10).
+Characters typically start with stats ranging from below average (r8) to above average (r12).
 
 ### Strength (STR)
 
@@ -161,7 +170,7 @@ Stamina is used to perform tricks, maneuvers, and certain physical actions.
 
 ### Focus (FP)
 
-Focus is used to cast spells and perform special abilities.
+Focus is used to use powers, cast spells, and perform special abilities.
 
 ### Initiative (INIT)
 
@@ -185,7 +194,7 @@ Evasion is your ability to quickly avoid danger, rather than relying on deflecti
 
 ### Fortitude (FORT)
 
-Fortitude is your ability to resist poison and disease, and many forms of elemental damage. In dire circumstances it is also used to avoid potential death.
+Fortitude is your ability to resist poison and disease, and many forms of elemental damage like ice and fire. In dire circumstances it is also used to avoid potential death.
 
 ### Willpower (WILL)
 
@@ -254,7 +263,7 @@ Perception is used to track animals, monsters, or people, to detect stealthy ind
 
 ## Complex Skills
 
-Unlike basic skills, a character must be at least trained in an complex skill to use it unless their ancestry or background provides a bonus to that skill. Some additional genres provide their own complex skills, but regardless of genre there are five core complex skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered complex skills.
+Unlike basic skills, a character must be at least trained in an complex skill to use it unless their ancestry or background provides a bonus to that skill. Some additional genres provide their own complex skills, but regardless of genre there are five main complex skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered complex skills.
 
 ### Contacts (RES)
 
@@ -293,7 +302,7 @@ The availability of languages to your character are determined by the setting th
 
 ## Combat Skills
 
-There are four core combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are complex skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
+There are four main combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are complex skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
 
 ### Finesse (DEX)
 

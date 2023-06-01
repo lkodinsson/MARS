@@ -3,90 +3,15 @@
 ##### Table: Fantasy Talents
 | Name | Cost | Steps | Requirements |
 |:-|:-:|:-:|:-|
-| [Arcane Precision](#arcane-precision) | 8 | 4 | INT 11+, Arcana or Sorcery |
-| [Arcane Synthesis](#arcane-synthesis) | 8 | 4 | INT 11+, Arcana, Craft |
-| [Chaotic Magic](#chaotic-magic) | 8 | - | RES 11+, Can cast spells |
-| [Divine Axiom](#divine-axiom) | 8 | - | RES 11+, Faith (Militarist), Any combat skill |
-| [Divine Devotion](#divine-devotion) | 8 | 4 | RES 11+, Faith |
-| [Eldritch Infusion](#eldritch-infusion) | 4 | - | INT 11+ or RES 11+, Can cast spells |
-| [Esoteric Will](#esoteric-will) | 8 | 4 | RES 11+, Can cast spells |
-| [Extra Spell](#extra-spell) | 4</br>or 8 | ∞ | Can cast spells |
-| [Magic Resistance](#magic-resistance) | 8 | - | STR 11+, RES 13+ |
-| [Mental Balance](#mental-balance) | 8 | - | INT 13+, Can cast spells |
-| [Metamagic](#metamagic) | 8 | 14 | INT 13+ or RES 13+, Can cast 5+ spells |
-| [Steady Mind](#steady-mind) | 8 | - | INT 11+, RES 11+, Can cast spells |
-| [Wild Magic](#wild-magic) | 8 | - | RES 11+, Can cast Animal Form |
+
+
+
 
 Click [here](/Basic/Talents.md) for the list of universal talents.
 
-## Arcane Precision
 
-**Cost:** 8 EXP  
-**Requirements:** Max Intelligence 11+, Trained in Arcana or Sorcery
 
-After rolling to cast a spell using the arcana or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 2. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
 
-##### Table: Arcane Precision Steps & Cost
-| Step Cost | Total Cost | Ability Uses<r/>Per Spell |
-|:-:|:-:|:-:|
-| 8 | 8 | 1/spell |
-| 9 | 17 | 2/spell |
-| 10 | 27 | 3/spell |
-| 11 | 38 | 4/spell |
-
-## Arcane Synthesis
-
-**Cost:** 8 EXP  
-**Requirements:** Max Intelligence 11+, Trained in Arcana and Craft
-
-Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell. Items created using this talent must satisfy all other normal crafting requirements.
-
-All items created by this ability lose their effects if not used before a week has passed since their creation.
-
-The advancement of this talent determines what types of items can be created.
-
-##### Table: Arcane Synthesis Steps & Cost
-| Step Cost | Total Cost | Creatable Items |
-|:-:|:-:|:-|
-| 8 | 8 | Rank 1 Items |
-| 9 | 17 | Rank 2 Items |
-| 10 | 27 | Rank 3 Items |
-| 11 | 38 | Rank 4 Items |
-
-Each rank of items made available correspond to those present in the following tables:
-
-##### Table: Arcane Synthesis, Potions
-| Rank | Focus Cost | Item Created |
-|:-:|:-:|:-|
-| 1 | 2 | Cantrip Potions |
-| 1 | 3 | Critical Cantrip Potions |
-| 2 | 4 | Lesser Potions |
-| 3 | 5 | Critical Lesser Potions |
-| 4 | 6 | Greater Potions |
-
-Potions require alchemical base or the equivalent cost in silver to create.
-
-##### Table: Arcane Synthesis, Spellstones
-| Rank | Focus Cost | Item Created |
-|:-:|:-:|:-|
-| 1 | 2 | Cantrip Spellstones (1 uses) |
-| 1 | 3 | Cantrip Spellstones (2 uses) |
-| 2 | 4 | Lesser Spellstones (1 uses) |
-| 3 | 5 | Lesser Spellstones (2 uses) |
-| 4 | 6 | Greater Spellstones (1 use) |
-
-Spellstones require gemstones or the equivalent cost in silver to create.
-
-##### Table: Arcane Synthesis, Limited Use (Attunement)
-| Rank | Focus Cost | Item Created |
-|:-:|:-:|:-|
-| 1 | 2 | Cantrip Attunement (1 use) |
-| 1 | 3 | Cantrip Attunement (2 uses) |
-| 2 | 4 | Lesser Attunement (1 use) |
-| 3 | 5 | Lesser Attunement (2 uses) |
-| 4 | 6 | Greater Attunement (1 use) |
-
-Limited attunements may be placed on any normal piece of equipment.
 
 ## Chaotic Magic
 
@@ -95,7 +20,7 @@ Limited attunements may be placed on any normal piece of equipment.
 
 Before casting any spell you may choose to invoke the power of chaos, forcibly altering your spell. If you do, first choose your spell then roll r6 and use the following table to determine how it is altered. You may then make any choices for that spell.
 
-You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a failed spell that costs 1 focus, and end your turn (if during an encounter, and it is your turn).
+You must attempt to cast the spell after rolling for the random effect. If you are unable to even begin casting the spell, considered it a failed spell that costs 1 focus, and end your turn (if during an encounter and it is your turn).
 
 ##### Table: Chaotic Magic Modifiers
 | Roll | Modifier |
@@ -255,15 +180,15 @@ When you acquire this talent you will choose a metamagic category from the table
 
 Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must make adjustments to that spell to pay for the metamagic: a focus cost adjustment and a spellcasting difficulty adjustment. You will apply both of these adjustments, per each use of any metamagic.
 
-Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the focus cost or spellcasting difficulty can only be applied half this many times each (to a minimum of up to once), but still count toward the total. You may apply the same metamagic more than once in this way.
+Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the focus cost or spellcasting difficulty can only be applied half this many times each (a minimum of up to once), but still counts toward the total. You may apply the same metamagic more than once in this way.
 
-Spells cannot be adjusted by metamagics that change features they do not have, or to reduce those modifiers to zero. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, for it would result in no change.
+Spells cannot be adjusted by metamagics that change features they do not have. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, for it would result in no change.
 
 ###### Table: Metamagic Categories & Modifiers
 | Metamagic | Focus Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
 |:-|:-:|:-:|:-|
-| Bloodied | -1 | +1 | The spell causes you to lose 1 health |
-| Channelled | -1 | -1 | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
+| Bloodied | -1 | - | The spell causes you to lose 1 health |
+| Channelled | -1 | - | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
 | Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
 | Fickle | - | -1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
 | Heightened | +1 | - | The spell gets +2 to its difficulty to resist |

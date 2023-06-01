@@ -1,36 +1,47 @@
 # Talents
 
-##### Table: Basic Talents
-| Name | Cost | Steps | Requirements |
-|:-|:-:|:-:|:-|
-| [Always Prepared](#always-prepared) | 8 | 4 | INT 11+, Sleight |
-| [Ambidexterity](#ambidexterity) | 8 | 4 | DEX 11+, Any combat skill |
-| [Craft Preparation](#craft-preparation) | 8 | 4 | INT 11+, Craft |
-| [Danger Sense](#danger-sense) | 8 | - | DEX 11+, Perception |
-| [Deduction](#deduction) | 4 | - | INT 11+, Perception |
-| [Diehard](#diehard) | 8 | - | RES 13+ |
-| [Extra Maneuver](#extra-maneuver) | 4 | ∞ | Any combat skill |
-| [Fortune's Favour](#fortunes-favour) | 8 | 4 | DEX 13 or RES 13+ |
-| [Inspirational Charisma](#inspirational-charisma) | 8 | 4 | RES 11+, Charisma |
-| [Intimidation](#intimidation) | 4 | - | STR 11+, Charisma |
-| [Irrefutable Logic](#irrefutable-logic) | 4 | - | INT 11+, Charisma |
-| [Latent Trait](#latent-trait) | 8 | - | - |
-| [Long-distance Running](#long-distance-running) | 8 | - | STR 11+, Athletics |
-| [Meditative Rest](#meditative-rest) | 8 | 4 | RES 11+ |
-| [Mobility](#mobility) | 8 | - | STR 13+, Athletics |
-| [Natural Intuition](#natural-intuition) | 8 | - | INT 11+, Perception |
-| [Nimble](#nimble) | 8 | - | DEX 13+, Agility |
-| [Opportunist](#opportunist) | 8 | - | DEX 11+ or INT 11+, Opportunity Strike |
-| [Polyglot](#polyglot) | 4 | - | INT 11+, Four languages |
-| [Prepared Defense](#prepared-defense) | 8 | - | DEX 11+ or RES 11+, Any combat skill |
-| [Rage](#rage) | 8 | 4 | STR 11+, RES 11+, Any combat skill |
-| [Second Wind](#second-wind) | 8 | 4 | STR 11+, RES 11+, Athletics |
-| [Sprinting](#sprinting) | 8 | - | STR 11+, DEX 11+, Athletics |
-| [Teamwork](#teamwork) | 8 | - | INT 11+, Charisma |
-| [Toughness](#toughness) | 4 | 9 | - |
-| [Weightlifter](#weightlifter) | 4 | - | STR 13+, Athletics |
-
-Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
+##### Table: Talents
+| Name | Cost | Steps | Requirements | Genres |
+|:-|:-:|:-:|:-|:-|
+| [Always Prepared](#always-prepared) | 8 | 4 | INT 11+, Sleight | Any |
+| [Ambidexterity](#ambidexterity) | 8 | 4 | DEX 11+, Any combat skill | Any |
+| [Arcane Precision](#arcane-precision) | 8 | 4 | INT 11+, Arcana or Sorcery | Fantasy |
+| [Arcane Synthesis](#arcane-synthesis) | 8 | 4 | INT 11+, Arcana, Craft | Fantasy |
+| [Chaotic Magic](#chaotic-magic) | 8 | - | RES 11+, Can cast spells | Fantasy |
+| [Craft Preparation](#craft-preparation) | 8 | 4 | INT 11+, Craft | Any |
+| [Danger Sense](#danger-sense) | 8 | - | DEX 11+, Perception | Any |
+| [Deduction](#deduction) | 4 | - | INT 11+, Perception | Any |
+| [Diehard](#diehard) | 8 | - | RES 13+ | Any |
+| [Divine Axiom](#divine-axiom) | 8 | - | RES 11+, Faith (Militarist), Any combat skill | Fantasy |
+| [Divine Devotion](#divine-devotion) | 8 | 4 | RES 11+, Faith | Fantasy |
+| [Eldritch Infusion](#eldritch-infusion) | 4 | - | INT 11+ or RES 11+, Can cast spells | Fantasy |
+| [Esoteric Will](#esoteric-will) | 8 | 4 | RES 11+, Can cast spells | Fantasy |
+| [Extra Maneuver](#extra-maneuver) | 4 | ∞ | Any combat skill | Any |
+| [Extra Spell](#extra-spell) | 4</br>or 8 | ∞ | Can cast spells | Fantasy |
+| [Fortune's Favour](#fortunes-favour) | 8 | 4 | DEX 13 or RES 13+ | Any |
+| [Inspirational Charisma](#inspirational-charisma) | 8 | 4 | RES 11+, Charisma | Any |
+| [Intimidation](#intimidation) | 4 | - | STR 11+, Charisma | Any |
+| [Irrefutable Logic](#irrefutable-logic) | 4 | - | INT 11+, Charisma | Any |
+| [Latent Trait](#latent-trait) | 8 | - | - | Any |
+| [Long-distance Running](#long-distance-running) | 8 | - | STR 11+, Athletics | Any |
+| [Magic Resistance](#magic-resistance) | 8 | - | STR 11+, RES 13+ | Fantasy |
+| [Meditative Rest](#meditative-rest) | 8 | 4 | RES 11+ | Any |
+| [Mental Balance](#mental-balance) | 8 | - | INT 13+, Can cast spells | Fantasy |
+| [Metamagic](#metamagic) | 8 | 14 | INT 13+ or RES 13+, Can cast 5+ spells | Fantasy |
+| [Mobility](#mobility) | 8 | - | STR 13+, Athletics | Any |
+| [Natural Intuition](#natural-intuition) | 8 | - | INT 11+, Perception | Any |
+| [Nimble](#nimble) | 8 | - | DEX 13+, Agility | Any |
+| [Opportunist](#opportunist) | 8 | - | DEX 11+ or INT 11+, Opportunity Strike | Any |
+| [Polyglot](#polyglot) | 4 | - | INT 11+, Four languages | Any |
+| [Prepared Defense](#prepared-defense) | 8 | - | DEX 11+ or RES 11+, Any combat skill | Any |
+| [Rage](#rage) | 8 | 4 | STR 11+, RES 11+, Any combat skill | Any |
+| [Second Wind](#second-wind) | 8 | 4 | STR 11+, RES 11+, Athletics | Any |
+| [Sprinting](#sprinting) | 8 | - | STR 11+, DEX 11+, Athletics | Any |
+| [Steady Mind](#steady-mind) | 8 | - | INT 11+, RES 11+, Can cast spells | Fantasy |
+| [Teamwork](#teamwork) | 8 | - | INT 11+, Charisma | Any |
+| [Toughness](#toughness) | 4 | 9 | - | Any |
+| [Weightlifter](#weightlifter) | 4 | - | STR 13+, Athletics | Any |
+| [Wild Magic](#wild-magic) | 8 | - | RES 11+, Can cast Animal Form | Fantasy |
 
 ## Always Prepared
 
@@ -52,7 +63,7 @@ You may find any mundane item amongst your belongings as though you have always 
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 11+, Trained in any combat skill
 
-Attacks made with a different weapon than the last weapon you used in the same turn, get a bonus to hit. This includes making unarmed attacks with different hands.
+Attacks made with a different weapon than the last weapon you used in the same turn, gets a bonus to hit. This includes making unarmed attacks with different hands.
 
 ##### Table: Ambidexterity Steps & Cost
 | Step Cost | Total Cost | Bonus |
@@ -81,6 +92,75 @@ And with swift weapons:
 | +2 | +0 | -1 | -4 |
 | +3 | +0 | +0 | -3 |
 | +4 | +0 | +1 | -2 |
+
+## Arcane Precision
+
+**Cost:** 8 EXP  
+**Requirements:** Max Intelligence 11+, Trained in Arcana or Sorcery
+
+After rolling to cast a spell using the arcana or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 2. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
+
+##### Table: Arcane Precision Steps & Cost
+| Step Cost | Total Cost | Ability Uses<r/>Per Spell |
+|:-:|:-:|:-:|
+| 8 | 8 | 1/spell |
+| 9 | 17 | 2/spell |
+| 10 | 27 | 3/spell |
+| 11 | 38 | 4/spell |
+
+## Arcane Synthesis
+
+**Cost:** 8 EXP  
+**Requirements:** Max Intelligence 11+, Trained in Arcana and Craft
+
+Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus and materials. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell. Items created using this talent must satisfy all other normal crafting requirements.
+
+All items created by this ability lose their effects if not used before a week has passed since their creation.
+
+The advancement of this talent determines what types of items can be created.
+
+##### Table: Arcane Synthesis Steps & Cost
+| Step Cost | Total Cost | Creatable Items |
+|:-:|:-:|:-|
+| 8 | 8 | Rank 1 Items |
+| 9 | 17 | Rank 2 Items |
+| 10 | 27 | Rank 3 Items |
+| 11 | 38 | Rank 4 Items |
+
+Each rank of items made available correspond to those present in the following tables:
+
+##### Table: Arcane Synthesis, Potions
+| Rank | Focus Cost | Item Created |
+|:-:|:-:|:-|
+| 1 | 2 | Cantrip Potions |
+| 1 | 3 | Critical Cantrip Potions |
+| 2 | 4 | Lesser Potions |
+| 3 | 5 | Critical Lesser Potions |
+| 4 | 6 | Greater Potions |
+
+Potions require alchemical base or their equivalent cost to create.
+
+##### Table: Arcane Synthesis, Spellstones
+| Rank | Focus Cost | Item Created |
+|:-:|:-:|:-|
+| 1 | 2 | Cantrip Spellstones (1 uses) |
+| 1 | 3 | Cantrip Spellstones (2 uses) |
+| 2 | 4 | Lesser Spellstones (1 uses) |
+| 3 | 5 | Lesser Spellstones (2 uses) |
+| 4 | 6 | Greater Spellstones (1 use) |
+
+Spellstones require gemstones or their equivalent cost to create.
+
+##### Table: Arcane Synthesis, Limited Use (Attunement)
+| Rank | Focus Cost | Item Created |
+|:-:|:-:|:-|
+| 1 | 2 | Cantrip Attunement (1 use) |
+| 1 | 3 | Cantrip Attunement (2 uses) |
+| 2 | 4 | Lesser Attunement (1 use) |
+| 3 | 5 | Lesser Attunement (2 uses) |
+| 4 | 6 | Greater Attunement (1 use) |
+
+Limited attunements may be placed on any normal piece of equipment.
 
 ## Craft Preparation
 
