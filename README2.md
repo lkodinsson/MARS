@@ -21,11 +21,10 @@ Once you have learned the rules and are ready to create a character, you will ne
 		* [Powers List](/Core/PowersList.md)
 		* [Powers Index](/Core/PowersIndex.md)
 	* [Item Crafting](/Core/ItemCrafting.md)
-* Items and Equipment
-	* [Basic Equipment](/Core/BasicEquipment.md)
-		* [Equipment Details](/Core/EquipmentDetails.md)
+* Itemization
+	* [Equipment](/Core/Equipment.md)
 	* [Magic Equipment](/Core/MagicEquipment.md)
-	* [Artifact Equipment](/Core/ArtifactEquipment.md)
+		* [Artifact Equipment](/Core/ArtifactEquipment.md)
 <!--
 * Character Creation
 	* Ancestries

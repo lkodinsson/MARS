@@ -2,7 +2,7 @@
 
 Below is a list of example traits to use and to provide inspiration for your own traits. 
 
-* [Animal Familiar](#animal-familiar)
+* [Animal Companion](#animal-companion)
 * [Arcane Bond](#arcane-bond)
 * [Blind Sight](#blind-sight)
 * [Efficient Sleeper](#efficient-sleeper)
@@ -10,7 +10,7 @@ Below is a list of example traits to use and to provide inspiration for your own
 * [Involuntary Transformation](#involuntary-transformation)
 * [Necrovisitation](#necrovisitation)
 
-## Animal Familiar
+## Animal Companion
 
 You have an animal companion that you share a special bond with. It is easy to communicate with them, almost as if you can speak directly into each other's minds, and people likely find this at least a little bit weird.
 
@@ -37,4 +37,3 @@ You can transform in some way under circumstances which are at least occassional
 ## Necrovisitation
 
 Whether intentional or unintentional, you can see and often speak to the spirits of the deceased. Likely you are used to this as a common occurence. As you find yourself casually conversing with the spirits you witness, others may assume you are just speaking to yourself.
-

@@ -49,7 +49,7 @@ For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
 
 Whenever you add multiple roll values together, they merge into a combined roll value: *r14* plus *r8* equals *r22*.
 
-Below is a table for visualization (with a more full table available in the [appendix](/Basic/Appendix.md#roll-values)):
+Below is a table for visualization (with a more full table available in the [appendix](/Core/Appendix.md#roll-values)):
 
 | Roll Value | Dice to Roll | Number of Dice |
 |:-:|:-|:-:|
@@ -100,7 +100,7 @@ If at any point during the game you are required to perform math that results in
 
 There are many different worlds and environments that can be played in, such as worlds featuring one or more of elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless amounts more.
 
-Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *fantasy*, *industrial*, *steampunk*, *post-industrial*, *cyberpunk*, *space*, and *sci-fantasy*.
+Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*.
 
 These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
 
@@ -275,8 +275,8 @@ Adventurers may often find themselves in unexpected situations. Crafting can all
 
 This skill can also be used to make higher quality custom equipment. When doing so, it will require that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that relates to the type of items you are crafting. If you do not possess some measure of these things, you can always work together with other characters.
 
-Click [here](/Basic/ItemCrafting.md) to go the page dedicated to item crafting.  
-Click [here](/Fantasy/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
+Click [here](/Core/ItemCrafting.md) to go the page dedicated to item crafting.  
+Click [here](/Core/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
 
 ### Medicine (INT)
 
@@ -324,8 +324,8 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 
 There may be additional skills available depending on the genre you are playing.
 
-Click [here](/Fantasy/Skills.md) for the list of fantasy skills.  
-Click [here](/Fantasy/Spellcasting.md) for the rules for fantasy spellcasting.
+Click [here](/Core/FantasySkills.md) for the list of fantasy skills.  
+Click [here](/Core/Spellcasting.md) for the rules for fantasy spellcasting.
 
 ## Skill Checks
 
@@ -374,7 +374,7 @@ For a visualization on what rolls represent different outcomes in relation to va
 | 23 | Critical | Critical | Success | Graze |
 | 25 | Critical | Critical | Success | Success |
 
-A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
+A more full table is available in the [appendix](/Core/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
 
 ### Skill Duration
 
@@ -647,7 +647,7 @@ Unconscious characters can perform no actions. Loud noises or other disrupting b
 
 Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
 
-Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If the source does not have a difficulty value, then make the check against a difficult of 10 instead. If successful, the concentration is maintained.
+Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If successful, the concentration is maintained. If the source does not have a difficulty value, then make the check against a difficulty of 10 instead.
 
 # Maneuvers
 
@@ -659,8 +659,7 @@ Whenever you become trained in a new combat skill, you acquire a maneuver from t
 
 For example: You advanced your Unarmed skill and learned Heavy Strike. Since you are also trained in Martial, you can also use Heavy Strike with the Martial skill.
 
-Click [here](/Basic/Maneuvers.md) for the list of universal maneuvers.  
-Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
+Click [here](/Core/Maneuvers.md) for the list of maneuvers.
 
 Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. Typically offensive maneuvers perform attacks, defensive maneuvers can be used to defend yourself or others, and tactical maneuvers provide other forms of actions.
 
@@ -672,9 +671,9 @@ For example: You perform a Crippling Strike against a target. First you make an 
 
 ### Improvising Maneuvers
 
-Although maneuvers must normally be learned in order to use, you can also improvise maneuvers. If you do improvise a maneuver, you make all skill checks and attack rolls specified in that maneuver with a -2 penalty (not including damage rolls), and the stamina cost is increased by 1. If that maneuver is a standard, swift, or free action, it becomes one action speed slower.
+Although maneuvers must normally be learned in order to use, you can also improvise maneuvers. If you do improvise a maneuver, you perform the manuever as normal but with an additional cost of your choice: either the stamina cost is increased by 1, or the action speed becomes one action speed slower so long as it is a standard, swift, or free action.
 
-For example: You do not have the Feint maneuver, but intend to improvise it. You will get a -2 penalty on your charisma check to perform the maneuver, it will cost 3 stamina instead of 2, and becomes a standard action instead of a swift action.
+For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so you perform it as a standard action instead of a swift action.
 
 # Resting
 
@@ -726,20 +725,19 @@ The process of creating a character is a series of small steps. A character is m
 
 It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
 
-Click [here](/Fantasy/Ancestries.md) for a list of fantasy ancestries.
+Click [here](/Core/Ancestries.md) for the list of ancestries.
 
 ### Background
 
 Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
 
-Click [here](/Medieval/Backgrounds.md) for a list of medieval backgrounds.
+Click [here](/Core/Backgrounds.md) for the list of backgrounds.
 
 ### Archetype
 
 Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
 
-Click [here](/Medieval/Archetypes.md) for a list of medieval archetypes.
-Click [here](/Fantasy/Archetypes.md) for a list of fantasy archetypes.
+Click [here](/Core/Archetypes.md) for the list of archetypes.
 
 ### Trait
 
@@ -747,7 +745,7 @@ Traits are unique abilities that only you possess. This part of character creati
 
 The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
 
-Click [here](/Basic/Traits.md) for a list of example traits.
+Click [here](/Core/Traits.md) for a list of example traits.
 
 ### Starting Stats
 
@@ -769,9 +767,9 @@ Characters start with some degree of currency or equipment. Most items that a ch
 
 Although you can generally have any item imaginable, some items have predetermined statistics like weapons and armour.
 
-Click [here](/Basic/Equipment.md) to see the specific rules for various types of equipment.  
-Click [here](/Medieval/Equipment.md) to see the rules and tables for medieval equipment.  
-Click [here](/Fantasy/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
+Click [here](/Core/Equipment.md) to see the rules and tables for equipment.  
+Click [here](/Core/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.  
+Click [here](/Core/ArtifactEquipment.md) to see the rules and tables for fantasy artifact equipment.
 
 ### Currency
 
@@ -783,8 +781,7 @@ All characters start with 50 units of starting money which they can spend on sta
 
 Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category.
 
-Click [here](/Basic/Equipment.md#weapons) for the rules for weapons and weapon features.  
-Click [here](/Medieval/Equipment.md#weapons) for the rules and tables for medieval weapons.
+Click [here](/Core/Equipment.md#weapons) for the rules for weapons and weapon features.
 
 ### Armour
 
@@ -794,8 +791,7 @@ Some armours will have a strength value listed. This value is the recommended st
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
-Click [here](/Basic/Equipment.md#armour) for the rules for armour and armour features.  
-Click [here](/Medieval/Equipment.md#armour) for the rules and tables for medieval weapons.
+Click [here](/Core/Equipment.md#armour) for the rules for armour and armour features.
 
 ### Equipment Properties
 
@@ -803,8 +799,8 @@ While individual listings for equipment have specific features, they can also ha
 
 In genres with magic equipment can also have magical properties with wide ranging effects. These can change how the item functions entirely or empower the user of the item.
 
-Click [here](/Basic/Equipment.md#equipment-properties) for the rules on equipment properties.  
-Click [here](/Fantasy/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
+Click [here](/Core/Equipment.md#equipment-properties) for the rules on equipment properties.  
+Click [here](/Core/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
 
 ### Carrying Capacity
 
@@ -910,11 +906,10 @@ There is also a second way that primary stats are improved: as your total experi
 
 While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability.
 
-Talents that provide minor abilities cost 4 experience, while those that provide more major abilities cost 8 experience. Some talents can be acquired more than once, such as the [toughness](/Basic/Talents.md#toughness) and [extra maneuver](/Basic/Talents.md#extra-maneuver) talents. These talents may have steps, similar to stats and skills. Each time they are acquired, they will cost 1 more experience for each time you have already acquired that talent.
+Talents that provide minor abilities cost 4 experience, while those that provide more major abilities cost 8 experience. Some talents can be acquired more than once, such as the [toughness](/Core/Talents.md#toughness) and [extra maneuver](/Core/Talents.md#extra-maneuver) talents. These talents may have steps, similar to stats and skills. Each time they are acquired, they will cost 1 more experience for each time you have already acquired that talent.
 
 For example: The first time you acquire the toughness talent it will cost 4 experience, but the second and third times will each cost 5 and 6.
 
 Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring another archetype's starting talent so long as all other requirements are met.
 
-Click [here](/Basic/Talents.md) for the list of universal talents.  
-Click [here](/Fantasy/Talents.md) for the list of fantasy talents.
+Click [here](/Core/Talents.md) for the list of talents.

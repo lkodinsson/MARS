@@ -545,7 +545,7 @@ The first defensive maneuver that you use each round does not cost a reaction. A
 
 You gain an ability allowing you to fly into a rage at the cost of 2 focus as a swift action, giving you a temporary bonus to strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating. Additionally, half of your total damage reduction (rounded up) applies when you are critically hit (instead of zero damage reduction).
 
-Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way).
+Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way). Rage cannot be inerrupted or lost except by becoming unconscious or manually ending the rage.
 
 ##### Table: Rage Steps & Cost
 | Step Cost | Total Cost | Bonus |

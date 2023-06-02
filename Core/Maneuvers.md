@@ -1,46 +1,48 @@
 # Maneuvers
 
-##### Table: Universal Maneuvers
-| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations |
-|:-|:-:|:-:|:-:|:-:|:-|
-| [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed |
-| [Back-step](#back-step) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed |
-| [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed |
-| [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Brace](#brace) | 0 | Swift | None | Defensive | Finesse, Martial, Unarmed |
-| [Bullrush](#bullrush) | 2 | Full-round | None | Offensive | Martial, Unarmed |
-| [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Offensive | Martial, Unarmed |
-| [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Offensive | Martial, Ranged |
-| [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Offensive | Finesse, Unarmed |
-| [Disarm](#disarm) | 2 | Standard | Athletics | Tactical | Finesse, Unarmed |
-| [Double Shot](#double-shot) | 1 | Standard | None | Offensive | Ranged |
-| [Escape](#escape) | 2 | Swift | Perception | Tactical | Finesse, Ranged |
-| [Feint](#feint) | 2 | Swift | Willpower | Tactical | Finesse, Martial, Unarmed |
-| [Grapple](#grapple) | 1 | Standard | Agility<br/>(not grappled),<br/>Athletics,<br/>or Unarmed | Tactical | Unarmed |
-| [Hard Parry](#hard-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
-| [Heavy Strike](#heavy-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
-| [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial |
-| [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed |
-| [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed |
-| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed |
-| [Knock Down](#knock-down) | 1 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed |
-| [Leap Srtike](#leap-strike) | 2 | Standard | None | Offensive | Finesse, Martial, Unarmed |
-| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed |
-| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged |
-| [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged |
-| [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Offensive | Ranged |
-| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged |
-| [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed |
-| [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Push](#push) | 1 | Swift | Athletics | Tactical | Martial, Unarmed |
-| [Quick Reload](#quick-reload) | 1 | Free | None | Tactical | Ranged |
-| [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed |
-| [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed |
-| [Trip](#trip) | 1 | Standard | Agility | Offensive | Martial, Unarmed |
-| [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged |
-| [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed |
-
-Click [here](/Fantasy/Maneuvers.md) for the list of fantasy maneuvers.
+##### Table: Maneuvers
+| Name | Stamina<br/>Cost | Action<br/>Speed | Resist | Type | Specializations | Genres |
+|:-|:-:|:-:|:-:|:-:|:-|:-|
+| [Advancing Strike](#advancing-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Unarmed | Any |
+| [Back-step](#back-step) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed | Any |
+| [Back-step Strike](#back-step-strike) | 1 | Swift | None | Offensive | Finesse, Martial, Ranged, Unarmed | Any |
+| [Battle Cry](#battle-cry) | 2 | Swift | None | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
+| [Brace](#brace) | 0 | Swift | None | Defensive | Finesse, Martial, Unarmed | Any |
+| [Bullrush](#bullrush) | 2 | Full-round | None | Offensive | Martial, Unarmed | Any |
+| [Concussive Strike](#concussive-strike) | 2 | Standard | Fortitude | Offensive | Martial, Unarmed | Any |
+| [Crippling Strike](#crippling-strike) | 2 | Standard | Fortitude | Offensive | Martial, Ranged | Any |
+| [Dancing Strike](#dancing-strike) | 1 | Standard | Willpower | Offensive | Finesse, Unarmed | Any |
+| [Disarm](#disarm) | 2 | Standard | Athletics | Tactical | Finesse, Unarmed | Any |
+| [Distracting Strike](#distracting-strike) | 2 | Standard | Willpower | Offensive | Finesse, Martial, Unarmed | Any |
+| [Double Shot](#double-shot) | 1 | Standard | None | Offensive | Ranged | Any |
+| [Escape](#escape) | 2 | Swift | Perception | Tactical | Finesse, Ranged | Any |
+| [Feint](#feint) | 2 | Swift | Willpower | Tactical | Finesse, Martial, Unarmed | Any |
+| [Grapple](#grapple) | 1 | Standard | Agility<br/>(not grappled),<br/>Athletics,<br/>or Unarmed | Tactical | Unarmed | Any |
+| [Hard Parry](#hard-parry) | 1 | Reaction | None | Defensive | Finesse, Martial | Any |
+| [Heavy Strike](#heavy-strike) | 1 | Swift | None | Offensive | Martial, Unarmed | Any |
+| [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial | Any |
+| [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed | Any |
+| [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed | Any |
+| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed | Any |
+| [Knock Down](#knock-down) | 1 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed | Any |
+| [Leap Srtike](#leap-strike) | 2 | Standard | None | Offensive | Finesse, Martial, Unarmed | Any |
+| [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed | Any |
+| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged | Any |
+| [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged | Any |
+| [Point-blank Shot](#point-blank-shot) | 1 | Swift | None | Offensive | Ranged | Any |
+| [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged | Any |
+| [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed | Any |
+| [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
+| [Push](#push) | 1 | Swift | Athletics | Tactical | Martial, Unarmed | Any |
+| [Quick Reload](#quick-reload) | 1 | Free | None | Tactical | Ranged | Any |
+| [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed | Any |
+| [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed | Fantasy |
+| [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Defensive | Finesse, Ranged, Unarmed | Fantasy |
+| [Spell Strike](#spell-strike) | 1 | Standard | None | Offensive | Finesse, Martial, Ranged, Unarmed | Fantasy |
+| [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
+| [Trip](#trip) | 1 | Standard | Agility | Offensive | Martial, Unarmed | Any |
+| [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged | Any |
+| [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed | Any |
 
 ## Advancing Strike
 
@@ -161,6 +163,18 @@ Make a melee attack. If successful, trade places with your target if they are wi
 Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take it. Otherwise, they drop it up to 3m away.
 
 You cannot disarm a target of their shield or an unarmed weapon.
+
+## Distracting Strike
+
+**Type:** Offensive  
+**Specializations:** Finesse, Martial, Unarmed
+
+**Stamina Cost:** 2  
+**Action Speed:** Standard
+
+**Resist:** Willpower
+
+Make a melee attack with +1 to hit. If successful, the target must lose concentration on an ability or effect. If they do, they cannot perform that ability on their next turn. Additionally, if the target is in the middle of an extended action or readying an action, then that action becomes interrupted and is not performed.
 
 ## Double Shot
 
@@ -438,6 +452,36 @@ The next time you take the reload action this turn, it is one action speed faste
 **Resist:** Fortitude
 
 Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 crit damage. If successful, move with the target or knock them back 1m. If they can't be moved or knocked back because there is not enough room, then gain advantage to your damage roll.
+
+## Spell Deflection
+
+**Type:** Defensive  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+Get a +1 bonus to resist an incoming spell that targets only you. If you also have the Intercept maneuver, you may use this maneuver like the Intercept maneuver on an adjacent ally who is targeted by a spell. If you do, you get +2 to resist the incoming spell instead of +1. You may also block that spell for free as a part of this action.
+
+## Spell Evasion
+
+**Type:** Defensive  
+**Specializations:** Finesse, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Reaction
+
+Roll your evasion to resist a spell instead of making the normal resist roll. If the incoming spell grazes against your evasion roll, it is considered a failure instead. After you evade, you may move a distance up to half your speed or drop prone. If the spell targets an area, and you are still in the area at the end of free the move from evading, grazes are treats as normal instead.
+
+## Spell Strike
+
+**Type:** Offensive  
+**Specializations:** Finesse, Martial, Ranged, Unarmed
+
+**Stamina Cost:** 1  
+**Action Speed:** Standard
+
+Make an attack with +1 to hit. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
 
 ## Taunt
 
