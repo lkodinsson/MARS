@@ -343,35 +343,36 @@ For other types of opposed checks where only one side can win (such as an arm wr
 
 ### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *easy* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
 
 ##### Table: Challenge Difficulties
 | Difficulty<br/>Value | Difficulty Name |
 |:-:|:-|
-| 5 | Everyday |
-| 7 | Easy |
+| 5 | Easy |
 | 10 | Moderate |
-| 14 | Hard |
-| 19 | Challenging |
+| 15 | Hard |
+| 20 | Challenging |
 | 25 | Ambitious |
-| 32 | Absurd |
+| 30 | Absurd |
 | 40 | Improbable |
 
 For a visualization on what rolls represent different outcomes in relation to various difficulty values:
 
 ##### Table: Roll vs Difficulty as Outcomes
-| Roll | 7<br/>(Easy) | 10<br/>(Moderate) | 14<br/>(Hard) | 19<br/>(Challenging) | 25<br/>(Ambitious) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 2 | Graze | Fail | Fail | Fail | Fail |
-| 5 | Graze | Graze | Fail | Fail | Fail |
-| 7 | Success | Graze | Fail | Fail | Fail |
-| 10 | Success | Success | Graze | Fail | Fail |
-| 12 | Success | Success | Graze | Fail | Fail |
-| 15 | Critical | Success | Success | Graze | Fail |
-| 17 | Critical | Critical | Success | Graze | Fail |
-| 20 | Critical | Critical | Success | Success | Graze |
-| 22 | Critical | Critical | Critical | Success | Graze |
-| 25 | Critical | Critical | Critical | Success | Success |
+| Roll | | 10<br/>(Moderate) | 15<br/>(Hard) | 20<br/>(Challenging) | 25<br/>(Ambitious) |
+|:-:|:-:|:-:|:-:|:-:|
+| 3 | Fail | Fail | Fail | Fail |
+| 5 | Graze | Fail | Fail | Fail |
+| 8 | Graze | Fail | Fail | Fail |
+| 10 | Success | Graze | Fail | Fail |
+| 13 | Success | Graze | Fail | Fail |
+| 15 | Success | Success | Graze | Fail |
+| 17 | Critical | Success | Graze | Fail
+| 18 | Critical | Success | Graze | Fail |
+| 20 | Critical | Success | Success | Graze |
+| 22 | Critical | Critical | Success | Graze |
+| 23 | Critical | Critical | Success | Graze |
+| 25 | Critical | Critical | Success | Success |
 
 A more full table is available in the [appendix](/Basic/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
 
@@ -452,9 +453,13 @@ Make an attack on a target with one of your wielded weapons or with your bare ha
 
 When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze or better is considered a hit.
 
-On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
+On a hit, you then roll your weapon's damage. Damage from successful hits are reduced by the target's damage reduction. Damage from grazing hits are reduced by half (rounded up) or the target's damage reduction (whichever reduces more damage). The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
 
-Additional attacks made during the same turn get a -4 penalty to hit for each attack you made before it in the same turn. This penalty applies to all forms of attack actions except reactions (such as by a readied action). This is known as the *multiple attack penalty*.
+<!--
+On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
+-->
+
+Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions except reactions (such as by a readied action). This is known as the *multiple attack penalty*.
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack. If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
 
@@ -701,7 +706,7 @@ An extended period up to about two hours containing a single simple activity, su
 
 A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
-Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 14 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
+Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 15 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
 
 Abilties that can be used a number of times per rest are restored after a complete long rest.
 

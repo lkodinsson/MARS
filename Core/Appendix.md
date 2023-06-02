@@ -16,46 +16,46 @@
 ## Challenge Difficulties
 
 ##### Table: Roll vs Difficulty as Outcomes, Expanded
-| Roll | 7 (Easy) | 10 (Moderate) | 14 (Hard) | 19 (Challenging) | 25 (Ambitious) | 32 (Absurd) | 40 (Improbable) |
+| Roll | 5 (Easy) | 10 (Moderate) | 15 (Hard) | 20 (Challenging) | 25 (Ambitious) | 30 (Absurd) | 40 (Improbable) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
 | 2 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
 | 3 | Graze | Fail | Fail | Fail | Fail | Fail | Fail |
 | 4 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
-| 5 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
-| 6 | Graze | Graze | Fail | Fail | Fail | Fail | Fail |
+| 5 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
+| 6 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
 | 7 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
-| 8 | Success | Graze | Graze | Fail | Fail | Fail | Fail |
+| 8 | Success | Graze | Fail | Fail | Fail | Fail | Fail |
 | 9 | Success | Graze | Graze | Fail | Fail | Fail | Fail |
 | 10 | Success | Success | Graze | Fail | Fail | Fail | Fail |
 | 11 | Success | Success | Graze | Fail | Fail | Fail | Fail |
-| 12 | Success | Success | Graze | Fail | Fail | Fail | Fail |
-| 13 | Success | Success | Graze | Graze | Fail | Fail | Fail |
-| 14 | Critical | Success | Success | Graze | Fail | Fail | Fail |
+| 12 | Critical | Success | Graze | Fail | Fail | Fail | Fail |
+| 13 | Critical | Success | Graze | Fail | Fail | Fail | Fail |
+| 14 | Critical | Success | Graze | Graze | Fail | Fail | Fail |
 | 15 | Critical | Success | Success | Graze | Fail | Fail | Fail |
 | 16 | Critical | Success | Success | Graze | Fail | Fail | Fail |
 | 17 | Critical | Critical | Success | Graze | Fail | Fail | Fail |
 | 18 | Critical | Critical | Success | Graze | Fail | Fail | Fail |
-| 19 | Critical | Critical | Success | Success | Graze | Fail | Fail |
+| 19 | Critical | Critical | Success | Graze | Graze | Fail | Fail |
 | 20 | Critical | Critical | Success | Success | Graze | Fail | Fail |
-| 21 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
+| 21 | Critical | Critical | Success | Success | Graze | Fail | Fail |
 | 22 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
 | 23 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
-| 24 | Critical | Critical | Critical | Success | Graze | Fail | Fail |
-| 25 | Critical | Critical | Critical | Success | Success | Fail | Fail |
-| 26 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
+| 24 | Critical | Critical | Critical | Success | Graze | Graze | Fail |
+| 25 | Critical | Critical | Critical | Success | Success | Graze | Fail |
+| 26 | Critical | Critical | Critical | Success | Success | Graze | Fail |
 | 27 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
 | 28 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
 | 29 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
-| 30 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
-| 31 | Critical | Critical | Critical | Critical | Success | Graze | Fail |
+| 30 | Critical | Critical | Critical | Critical | Success | Success | Fail |
+| 31 | Critical | Critical | Critical | Critical | Success | Success | Fail |
 | 32 | Critical | Critical | Critical | Critical | Critical | Success | Fail |
 | 33 | Critical | Critical | Critical | Critical | Critical | Success | Fail |
 | 34 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
 | 35 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
 | 36 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
-| 37 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
-| 38 | Critical | Critical | Critical | Critical | Critical | Success | Graze |
+| 37 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
+| 38 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
 | 39 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
 | 40 | Critical | Critical | Critical | Critical | Critical | Critical | Success |
 
@@ -66,58 +66,58 @@ The following tables are example tasks at various difficulties for some of the b
 ##### Table: Agility Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Silently hiding from an<br/>untrained opponent | 7 (Easy) |
-| Squeezing through a tight space<br/>as a Small sized character | 7 (Easy) |
+| Silently hiding from an<br/>untrained opponent | 5 (Easy) |
+| Squeezing through a tight space<br/>as a Small sized character | 5 (Easy) |
 | Balancing on slippery surface | 10 (Moderate) |
 | Falling 3m safely | 10 (Moderate) |
 | Silently hiding from a<br/>trained opponent | 10 (Moderate) |
 | Squeezing through a tight space<br/>as a Medium sized character | 10 (Moderate) |
 | Walking across a beam | 10 (Moderate) |
-| Falling 5m safely | 14 (Hard) |
-| Silently hiding from a<br/>proficient opponent | 14 (Hard) |
-| Falling 7m safely | 19 (Challenging) |
-| Silently hiding from a<br/>master opponent | 19 (Challenging) |
-| Squeezing through a tight space<br/>as a Large sized character | 19 (Challenging) |
-| Walking a tightrope | 19 (Challenging) |
+| Falling 5m safely | 15 (Hard) |
+| Silently hiding from a<br/>proficient opponent | 15 (Hard) |
+| Falling 7m safely | 20 (Challenging) |
+| Silently hiding from a<br/>master opponent | 20 (Challenging) |
+| Squeezing through a tight space<br/>as a Large sized character | 20 (Challenging) |
+| Walking a tightrope | 20 (Challenging) |
 
 ##### Table: Athletics Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Breaking a rusty lock | 7 (Easy) |
-| Climbing with a rope | 7 (Easy) |
+| Breaking a rusty lock | 5 (Easy) |
+| Climbing with a rope | 5 (Easy) |
 | Jumping a 3m gap | 10 (Moderate) |
 | Swimming a long distance | 10 (Moderate) |
-| Breaking a normal lock | 14 (Hard) |
-| Jumping a 5m gap | 14 (Hard) |
-| Swimming across an active river | 14 (Hard) |
-| Breaking a sturdy lock | 19 (Challenging) |
-| Climbing a ledge without a rope | 19 (Challenging) |
-| Jumping a 6m gap | 19 (Challenging) |
-| Pushing a small boulder over | 19 (Challenging) |
-| Swimming across a rushing river | 19 (Challenging) |
+| Breaking a normal lock | 15 (Hard) |
+| Jumping a 5m gap | 15 (Hard) |
+| Swimming across an active river | 15 (Hard) |
+| Breaking a sturdy lock | 20 (Challenging) |
+| Climbing a ledge without a rope | 20 (Challenging) |
+| Jumping a 6m gap | 20 (Challenging) |
+| Pushing a small boulder over | 20 (Challenging) |
+| Swimming across a rushing river | 20 (Challenging) |
 | Climbing up a sheer cliff or wall<br/>without the use of rope or tools | 25 (Ambitious) |
 | Jumping a 7m gap | 25 (Ambitious) |
 
 ##### Table: Craft Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Creating a basic<br/>improvised weapon | 7 (Easy) |
-| Creating a rope<br/>from sheets or clothing | 7 (Easy) |
-| Creating a weak knot | 7 (Easy) |
+| Creating a basic<br/>improvised weapon | 5 (Easy) |
+| Creating a rope<br/>from sheets or clothing | 5 (Easy) |
+| Creating a weak knot | 5 (Easy) |
 | Creating a basic trap | 10 (Moderate) |
 | Creating an average knot | 10 (Moderate) |
 | Creating a specialized<br/>improvised weapon | 10 (Moderate) |
 | Learning how to use<br/>an unrecognized simple device | 10 (Moderate) |
-| Creating a strong knot | 14 (Hard)
-| Learning how to use<br/>an unrecognized complex device | 19 (Challenging) |
+| Creating a strong knot | 15 (Hard)
+| Learning how to use<br/>an unrecognized complex device | 20 (Challenging) |
 
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Asking simple questions | 7 (Easy) |
+| Asking simple questions | 5 (Easy) |
 | Reading inscriptions or signs | 10 (Moderate) |
-| Casual conversation | 14 (Hard) |
-| Reading books | 19 (Challenging) |
+| Casual conversation | 15 (Hard) |
+| Reading books | 20 (Challenging) |
 | Technical conversation | 25 (Ambitious) |
 
 ##### Table: Medicine Common Tasks
@@ -125,39 +125,39 @@ The following tables are example tasks at various difficulties for some of the b
 |:-|:-|
 | Stabilize a dying character | 10 (Moderate) |
 | Recognizing dangerous materials | 10 (Moderate) |
-| Recognizing dangerous plants | 14 (Hard) |
-| Staunching a bleeding wound | 14 (Hard) |
+| Recognizing dangerous plants | 15 (Hard) |
+| Staunching a bleeding wound | 15 (Hard) |
 | Treat a resting wounded character | 10 (Moderate) |
-| Treat a resting injured character | 14 (Hard) |
-| Treat a resting seriously injured character | 19 (Challenging) |
+| Treat a resting injured character | 15 (Hard) |
+| Treat a resting seriously injured character | 20 (Challenging) |
 
 ##### Table: Perception Common Tasks
 | Task | Difficulty |
 |:-|:-|
 | Noticing a simple trap | 10 (Moderate) |
 | Tracking something you know of | 10 (Moderate) |
-| Noticing a complex trap | 14 (Hard) |
-| Discerning an obscured identity | 19 (Challenging) |
-| Noticing a magical trap | 19 (Challenging) |
-| Tracking something you don't know of | 19 (Challenging) |
+| Noticing a complex trap | 15 (Hard) |
+| Discerning an obscured identity | 20 (Challenging) |
+| Noticing a magical trap | 20 (Challenging) |
+| Tracking something you don't know of | 20 (Challenging) |
 | Finding a secret door | 25 (Ambitious) |
 | Finding a needle in a hay stack | 40 (Improbable) |
 
 ##### Table: Sleight Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Concealing a small item | 7 (Easy) |
+| Concealing a small item | 5 (Easy) |
 | Disabling a simple trap | 10 (Moderate) |
 | Opening a simple lock | 10 (Moderate) |
 | Picking a bag or pouch | 10 (Moderate) |
-| Picking an outer pocket | 14 (Hard) |
-| Opening a rusty lock | 14 (Hard) |
-| Disabling a complex trap | 19 (Challenging) |
-| Opening a complex lock | 19 (Challenging) |
+| Picking an outer pocket | 15 (Hard) |
+| Opening a rusty lock | 15 (Hard) |
+| Disabling a complex trap | 20 (Challenging) |
+| Opening a complex lock | 20 (Challenging) |
 | Concealing a large item | 25 (Ambitious) |
 | Disabling a magical trap | 25 (Ambitious) |
 | Picking an inner pocket | 25 (Ambitious) |
-| Opening a jammed lock | 32 (Absurd) |
+| Opening a jammed lock | 30 (Absurd) |
 
 ## Roll Values
 
