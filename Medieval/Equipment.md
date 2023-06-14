@@ -61,7 +61,7 @@ The denominations of currency are determined by their material. These materials 
 
 <sup>2</sup> Toolkits contain all necessary tools to perform certain skillsets or crafts. When you buy a toolkit you must specify the skillset or craft it is for, rather than simply its size. For example, small toolkits could be used for cartography, cooking, fletching, jewelry making, lock picking, sewing, woodworking, and writing. Some skillsets require a larger amount of tools, such as alchemy, engineering, pottery, smithing, and trapmaking.
 
-## Goods & Services
+# Goods & Services
 
 ##### Table: Medieval Goods & Services
 | Name | Price | Weight |

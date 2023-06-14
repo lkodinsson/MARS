@@ -102,7 +102,7 @@ Most forms of spellcasting come from an internal source, either force of persona
 Like most other spellcasting skills, you will pick a specialization. However, unlike other casting skills, that specialization is created from several choices. There are three different choices to make along three different ideological axes: *altruism* or *militarism*, *impulse* or *discipline*, and *liberty* or *authority*. These choices combined result in eight different specializations: *charity*, *family*, *peace*, *service*, *anarchy*, *war*, *justice*, and *order*.
 
 ##### Table: Faith Specializations by Ideologies
-| First Axis | Second Axis | Third Axis | Specialization |
+| First Axis | Second Axis | Third Axis | Specialization<br/>Name |
 |:-:|:-:|:-:|:-:|
 | Altruism | Impulse | Liberty | Charity |
 | Altruism | Impulse | Authority | Family |
@@ -202,7 +202,7 @@ This is the spirit that holds your body and mind together to act as a single for
 
 ## Sorcery (RES)
 
-Sorcery is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of sorcery are more philosophical. Sorcery has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may also choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any of the bonuses of that spellcasting skill.
+Sorcery is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of sorcery are more philosophical. Sorcery has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may also choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any other bonuses of that spellcasting skill.
 
 Sorcerers do not require or use scrolls or spell books. The magic they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your sorcery skill. You can take this skill multiple times to learn how to cast from different specializations. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the specialization you learned it from.
 
@@ -211,7 +211,7 @@ Sorcerers have it a bit easier than others when it comes to casting spells. As y
 ##### Table: Sorcery Signature Spell Difficulty Reduction
 | Roll Value | Step Name | Difficulty<br/>Reduction | Focus Cost<br/>Reduction |
 |:-:|:-|:-:|:-:|
-| r8 | Practiced | -1 | -0 |
+| r8 | Practiced | -1 | - |
 | r12 | Exceptional | -2 | -1 |
 | r16 | Accomplished | -3 | -1 |
 | r20 | Master | -4 | -2 |

@@ -192,8 +192,8 @@ Properties effect different types of equipment differently, and are limited to o
 | Crude | ×¾ | -1 to hit | -1 to AR | -2 to durability |
 | Fine | ×2 or +10<sup>1</sup> | +1 to hit | +1 to AR | +2 to durability |
 | Superior | ×3 or +40<sup>1</sup> | +1 to hit and damage | +1 to AR and DR | +4 to durability |
-| Exceptional | ×6 or +150<sup>1</sup> | +2 to hit, +1 to damage | +2 to AR, +1 to DR | +6 to durability |
-| Masterwork | ×10 or +360<sup>1</sup> | +2 to hit and damage | +2 to AR and DR | +8 to durability |
+| Exceptional | ×6 or +150<sup>1</sup> | +2 to hit, +1 to damage | +2 to AR, +1 to DR | +7 to durability |
+| Masterwork | ×10 or +360<sup>1</sup> | +2 to hit and damage | +2 to AR and DR | +10 to durability |
 
 ##### Table: Equipment Weight Properties
 | Name | Cost<br/>Adjustment | Weight<br/>Adjustment | Strength<br/>Adjustment |

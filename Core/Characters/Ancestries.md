@@ -1,18 +1,18 @@
-# Fantasy Ancestries
+# Ancestries
 
-##### Table: Fantasy Ancestries
-| Name | Stat Modifiers | Abilities | Size | Speed |
-|:-|:-|:-:|:-:|:-:|
-| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Iron Gut,<br/>Stability,<br/>and Strong Back | Medium | 5m |
-| [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/>and Niche: Wilderness | Medium | 6m |
-| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/>and Fabled | Small | 6m |
-| [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/>and Versatility | Small to Large | 6m |
-| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br>and Natural Weapons | Medium or Large | 6m |
-| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/>and Natural Weapons | Medium or Large | 6m |
-| [Machina](#machina) | Any two +1,<br/> and size modifiers | Construct<br/>and Low-light Vision | Small to Large | 6m |
-| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m |
-| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>and Fungal Body,<br/>and Grit | Small to Large | 5m |
-| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Graceful,<br/>Low-light Vision,<br/>and Natural Weapons | Small or Medium | 6m |
+##### Table: Ancestries
+| Name | Stat Modifiers | Abilities | Size | Speed | Genres |
+|:-|:-|:-:|:-:|:-:|:-:|
+| [Dwarf](#dwarf) | STR +2, RES +1, DEX -1 | Iron Gut,<br/>Stability,<br/>and Strong Back | Medium | 5m | Fantasy |
+| [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/>and Niche: Wilderness | Medium | 6m | Fantasy |
+| [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/>and Fabled | Small | 6m | Fantasy |
+| [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/>and Versatility | Small to Large | 6m | Any |
+| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br>and Natural Weapons | Medium or Large | 6m | Fantasy |
+| [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/>and Natural Weapons | Medium or Large | 6m | Fantasy |
+| [Machina](#machina) | Any two +1,<br/> and size modifiers | Construct, Grit,<br/>and Low-light Vision | Small to Large | 6m | Fantasy |
+| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m | Fantasy |
+| [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>Fungal Body,<br/>and Grit | Small to Large | 5m | Fantasy |
+| [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Graceful,<br/>Low-light Vision,<br/>and Natural Weapons | Small or Medium | 6m | Fantasy |
 
 ## Dwarf
 
@@ -120,7 +120,11 @@ Machina are quite rare, as they are not a naturally occuring creature. They are 
 
 **Stats** Machina get a +1 bonus to each of any two different primary stats, plus any size modifiers.
 
-**Construct** The machina's body is constructed of inorganic materials and does not perform normal biological functions. Machina are no longer required to eat or sleep, and do not recover 1 health after a long rest. They can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if they would be magically repaired such as by the mend spell, it always recovers at least 1 health.
+**Construct** The machina's body is constructed of various artificial materials and does not perform normal biological functions. Machina are no longer required to eat or sleep, and do not recover 1 health after a long rest. They can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if they would be magically repaired such as by the mend spell, they always recover at least 1 health.
+
+The machina also gets natural armour as a part of its body, which can be modified like any other armour, or replaced by any other metal armour type. This natural armour only applies its armour rating or damage reduction if that value is better than any body armour that the machina wears. By default the natural armour provides 1 armour rating and 2 damage reduction. This armour is treated as having a cost of 15.
+
+**Grit** Machina get a +1 bonus to maximum endurance, stamina, and focus.
 
 **Low-light Vision** Machina can see in both daylight and poorly lit areas with ease.
 

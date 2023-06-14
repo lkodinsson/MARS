@@ -5,6 +5,7 @@
 |:-|:-:|
 | [Adaptation](#adaptation) | 2 |
 | [Brave](#brave) | 2 |
+| [Dark Vision](#dark-vision) | 1 |
 | [Fabled](#rich-history) | 2 |
 | [Fungal Body](#fungal-body) | 2 |
 | [Graceful](#graceful) | 2 |
@@ -12,8 +13,9 @@
 | [Headstrong](#headstrong) | 2 |
 | [Iron Gut](#iron-gut) | 2 |
 | [Low-light Vision](#low-light-vision) | 1 |
-| [Natural Armour](#natural-armour) | Variable |
-| [Natural Weapon](#natural-weapon) | Variable |
+| [Natural Armour](#natural-armour) | 1, 2, or 3 |
+| [Natural Talent](#natural-talent) | 1 or 2 |
+| [Natural Weapon](#natural-weapon) | 1 or 2 |
 | [Niche](#niche) | 2 |
 | [Pain Tolerance](#pain-tolerance) | 2 |
 | [Regeneration](#regeneration) | 3 |
@@ -26,7 +28,7 @@
 
 **Point Cost:** 2
 
-Provides a +1 bonus to any one skill, but at the cost of a -1 penalty to another skill.
+Provides a +1 bonus to any one specified skill, but at the cost of a -1 penalty to another specified skill.
 
 ## Brave
 
@@ -34,11 +36,19 @@ Provides a +1 bonus to any one skill, but at the cost of a -1 penalty to another
 
 The creature gets advantage to willpower checks resist any effects that would cause them fear.
 
+## Dark Vision
+
+**Point Cost:** 1
+
+Can see in both areas devoid of light and poorly lit areas with ease, but cannot see in broad daylight.
+
 ## Construct
 
 **Point Cost:** 2
 
-The creature's body is constructed of inorganic materials and does not perform normal biological functions. The creature is no longer required to eat or sleep, and does not recover 1 health after a long rest. It can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if the construct would be magically repaired such as by the mend spell, it always recovers at least 1 health.
+The creature's body is constructed of various artificial materials and does not perform normal biological functions. The creature is no longer required to eat or sleep, and does not recover 1 health after a long rest. It can be repaired during a long rest with the craft skill the same way a normal creature would be treated by the medicine skill. Additionally, if the construct would be magically repaired such as by the mend spell, they always recover at least 1 health.
+
+The creature also gets natural armour as a part of its body, which can be modified like any other armour, or replaced by any other metal armour type. This natural armour only applies its armour rating or damage reduction if that value is better than any body armour that the creature wears. By default the natural armour provides 1 armour rating and 2 damage reduction. This armour is treated as having a cost of 15.
 
 ## Fabled
 
@@ -84,9 +94,9 @@ The creature can see in both daylight and poorly lit areas with ease.
 
 ## Natural Armour
 
-**Point Cost:** Variable
+**Point Cost:** 1, 2, or 3
 
-The creature gains a defensive bonus from a specified natural armour from one of the tables below. Natural armour provided by the body only applies their armour rating or damage reduction if that value is better than any armour that the creature wears.
+The creature gains a defensive bonus from a specified natural armour from one of the tables below. Natural armour provided by the body only applies their armour rating or damage reduction if that value is better than any body armour that the creature wears.
 
 ##### Table: Natural Body Armours
 | Name | Point<br/>Cost | AR | DR | Features |
@@ -99,17 +109,39 @@ The creature gains a defensive bonus from a specified natural armour from one of
 | Name | Point<br/>Cost | AR | DR | Features |
 |:-|:-:|:-:|:-:|:-|
 | Horns | 2 | 1 | - | Critical Defense, Cannot wear full helms |
-| Shell | 2 | - | - | +2 AR when attacked from behind |
+| Shell | 2 | - | - | +2 AR and DR when attacked from behind,<br/>DR applies half value against critical hits from behind |
+
+Additionally, the creature gets a bonus to their armour rating and damage reduction based on the total amount of experience they have.
+
+##### Table: Natural Armour Experience Bonus
+| Total<br/>EXP | AR<br/>Bonus | DR</br>Bonus |
+|:-:|:-:|:-:|
+| 50 | +1 | - |
+| 100 | +1 | +1 |
+| 150 | +2 | +1 |
+| 200 | +2 | +2 |
+| 250 | +3 | +2 |
+| 300 | +3 | +3 |
+
+## Natural Talent
+
+**Point Cost:** 1 or 2
+
+The creature gains any talent as if it was an ancestry ability. The point cost of that ability depends on its experience cost as a talent. If it costs 4 experience then it costs 1 point, if it costs 8 experience then it costs 2 points.
+
+If that creature then spends experience to acquire that talent again (if possible) they are treated as if they don't already have that talent for the purpose of spending experience.
+
+This ability can only be acquired once per unique talent.
 
 ## Natural Weapon
 
-**Point Cost:** Variable
+**Point Cost:** 1 or 2
 
 The creature gains the ability to attack with a specified natural weapon from the table below:
 
 ##### Table: Natural Weapons
 | Name | Point<br/>Cost | Damage | Crit | Type | Features |
-|:-|:-:|:-:|:-:|:-:|:-:|:-|
+|:-|:-:|:-:|:-:|:-:|:-|
 | Bite | 1 | STR+r6 P | +4 | Unarmed | Momentum |
 | Claws | 1 | STR+r4 P/S | +6 | Unarmed | Swift |
 | Horn | 1 | STR+r4 P | +6 | Unarmed | Bypass 1 |
@@ -120,8 +152,8 @@ The creature gains the ability to attack with a specified natural weapon from th
 Optionally, more powerful versions may also be acquired from the table below:
 
 ##### Table: Strong Natural Weapons
-| Name | Damage | Crit | Type | Features |
-|:-|:-:|:-:|:-:|:-:|:-:|:-|
+| Name | Point<br/>Cost | Damage | Crit | Type | Features |
+|:-|:-:|:-:|:-:|:-:|:-|
 | Strong Bite | 2 | STR+r8 P | +6 | Unarmed | Momentum, Swift |
 | Strong Claws | 2 | STR+r6 P/S | +8 | Unarmed | Cleave, Swift |
 | Strong Horn | 2 | STR+r6 P | +8 | Unarmed | Bypass 2 |
@@ -129,11 +161,23 @@ Optionally, more powerful versions may also be acquired from the table below:
 | Strong Tail | 2 | STR+r6 B/S | +8 | Unarmed | Nonlethal, Trip |
 | Strong Tusk | 2 | STR+r6 P | +8 | Unarmed | Bypass 1, Momentum |
 
+Additionally, the creature gets a bonus to their to hit and damage based on the total amount of experience they have.
+
+##### Table: Natural Armour Experience Bonus
+| Total<br/>EXP | <nobr>To Hit</nobr><br/>Bonus | Damage</br>Bonus |
+|:-:|:-:|:-:|
+| 50 | +1 | - |
+| 100 | +1 | +1 |
+| 150 | +2 | +1 |
+| 200 | +2 | +2 |
+| 250 | +3 | +2 |
+| 300 | +3 | +3 |
+
 ## Niche
 
 **Point Cost:** 2
 
-Provides a +1 bonus to a specific skill only while in a specific environment.
+Provides a +1 bonus to a specified skill only while in a specified environment.
 
 ## Pain Tolerance
 
@@ -169,4 +213,4 @@ Provides a +1 bonus to any one skill not provided by the creature's background.
 
 **Point Cost:** 2
 
-The creature can see in both daylight and poorly lit areas with ease, and get a +1 bonus to perception checks using smell to detect other creatures.
+The creature can see in both daylight and poorly lit areas with ease, and gets a +1 bonus to perception checks using smell to detect other creatures.

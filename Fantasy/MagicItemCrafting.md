@@ -36,21 +36,21 @@ When creating predetermined magic items, you simply follow the same rules as nor
 
 ## Base Magic Cost
 
-The cost for a magic items is found by combining two values together: the *base item cost* and the *base magic cost*. The base item cost is simply the cost of the item including any adjustments from [equipment properties](/Basic/Equipment.md#equipment-properties)), that will be given magic effects. The base magic cost is determined by the spell chosen for an effect and how it is used.
+The cost for a magic items is found by combining two values together: the *base item cost* and the *base magic cost*. The base item cost is simply the cost of the item including any adjustments from [equipment properties](/Basic/Equipment.md#equipment-properties). The base magic cost is determined by the spell chosen for an effect and how it is used.
 
 In its simplest form the base magic cost of an item is the focus cost of the spell chosen multiplied by its spell difficulty value.
 
-For example: if you choose the spell *darkness*, this would be 2 multiplied by 14, for a total of 28.
+For example: if you choose the spell *darkness*, this would be 2 multiplied by 15, for a total of 30.
 
 This value is then modified depending on how that spell is used in that item: as a *limited use*, *daily use*, or *continuous use* magic item.
 
 For both limited and daily use magic items, you multiply this value further by the number of uses. Limited use items get a discount, cutting the total in half. Daily use items cost even more, multiplying the total by a further multiple of 5.
 
-For example: for a *limited use* item that uses the spell *darkness* a total of 5 times, the previous total of 28 is multiplied by 5 then divided by 2. The new total becomes 70. If it was a *daily use* item usable 2 times a day, it would be 28 multiplied by 2 then multiplied by 5 again for a total of 280.
+For example: for a *limited use* item that uses the spell *darkness* a total of 5 times, the previous total of 30 is multiplied by 5 then divided by 2. The new total becomes 75. If it was a *daily use* item usable 2 times a day, it would be 30 multiplied by 2 then multiplied by 5 again for a total of 300.
 
 Continuous use items instead take the first total and multiply it by 25.
 
-For example: for a *continuous use* item that uses the spell *darkness*, the previous total of 28 is multiplied by 25 for a new total of 700.
+For example: for a *continuous use* item that uses the spell *darkness*, the previous total of 30 is multiplied by 25 for a new total of 750.
 
 ##### Table: Magical Item Costs
 | Modifier | Cost Formula |

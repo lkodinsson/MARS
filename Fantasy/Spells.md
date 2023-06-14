@@ -80,7 +80,7 @@ Increasing the size of a creature increases its Strength by 1 for each size incr
 
 Decreasing the size of a creature decreases its Strength by 1 for each size decrease. Dexterity is increased by 1, and an additional 1 for every two size decreases after the first. Speed is decreased by 1 for every two size decreases.
 
-For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength, -2 Dexterity, and +1 Speed. This would cost 2 additional focus (4 total) with an increased difficulty of 8 (22 total).
+For example: If your target was Medium sized and you increased it to Huge (three size increases) it would get +3 Strength, -2 Dexterity, and +1 Speed. This would cost 2 additional focus (4 total) with an increased difficulty of 8 (23 total).
 
 ##### Table: Alter Size Modifiers
 | Size<br/>Change | Focus<br/>Cost | Spell<br/>Difficulty | Strength | Dexterity | Speed |
@@ -112,7 +112,7 @@ You take the form of any animal you can imagine. Specifically, you transform int
 
 For example: If you are a Medium sized creature and you wanted to transform into a bear, which is a Very Large beast, it would cost you 4 focus with a difficulty of 14.
 
-While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. As this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making rolls (such as when rolling deflection, evasion, fortitude, and willpower).
+While transformed, your physical primary stats (Strength and Dexterity) temporarily become that of the chosen beast. Since this is a temporary change, your resource stats are not affected, but you will use your transformed Strength and Dexterity values when making rolls (such as when rolling deflection, evasion, fortitude, and willpower).
 
 Additionally, you acquire any natural weapons, abilities (but not talents), and even movement speed that beast might have. While in this form your physical equipment still exists and can still provide magical effects from attunement, but you are otherwise no longer considered to have your weapons and armour equipped.
 
@@ -120,6 +120,7 @@ For example: If you transformed into a bear, this would change your strength to 
 
 As an animal you lose the ability to speak normally and cast other spells. You may still speak to other animals that are similar to you and cast this spell to transform directly into other animals. Casting this spell in this way is treated as if casting it from your normal form.
 
+<!--***Critical:*** You maintain the ability to speak normally and cast other spells while transformed. Additionally, this spell does no longer requires concentration to be maintained.-->
 ***Graze:*** Lasts for half the duration, with a -2 penalty to the transformed physical stats.
 
 ## Arcane Missiles
@@ -739,7 +740,9 @@ Allows a creature to see, even if they are naturally blind, in any amount of lig
 **Target:** Self  
 **Duration:** 30 minutes (concentration, range of 100m+)
 
-You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around like a floating camera at a speed of 6m. You can move your body independantly but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye. The maximum range of this spell increases by 15m for every 1 your casting roll bypasses the difficulty, and reduced by 15m for every 1 it is below the difficulty.
+You project your sight as though it is coming from another body. This effect begins where your body is, but can be moved around at a speed of 6m. You can move your body independently but it will be very difficult if you cannot see your body at the same time. This projection cannot pass through solid objects, but can pass through very tiny openings. This projection can be seen by those under the effect of the Sight spell, and appears as a tiny floating glowing eye.
+
+The maximum range of this spell increases by 10m for every 1 your casting roll bypasses the difficulty, and reduced by 10m for every 1 it is below the difficulty.
 
 ## Sleep
 
@@ -761,7 +764,7 @@ When cast on creatures in combat, the active adrenaline in their body makes the 
 
 This spell's focus cost increases by 1 and difficulty increases by 2 for each additional creature you target.
 
-***Graze:*** Lasts for half the duration, and can only target a single creature or object.
+***Graze:*** Lasts for half the duration, and can only effect a single creature.
 
 ## Speak with Animals
 

@@ -9,22 +9,23 @@ All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB.md).
 Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Core/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character, with some content marked with their genre:
 
 * Character Creation
-	* [Ancestries](/Core/Ancestries.md)
-	* [Backgrounds](/Core/Backgrounds.md)
-	* [Archetypes](/Core/Archetypes.md)
+	* [Ancestries](/Core/Characters/Ancestries.md)
+	* [Backgrounds](/Core/Characters/Backgrounds.md)
+	* [Archetypes](/Core/Characters/Archetypes.md)
 	* [Skills](/Core/PHB.md#skills-1)
-	* [Traits](/Core/Traits.md)
+	* [Traits](/Core/Characters/Traits.md)
 * Character Abilities
-	* [Talents](/Core/Talents.md)
-	* [Maneuvers](/Core/Maneuvers.md)
-	* [Powers](/Core/Powers.md)
-		* [Powers List](/Core/PowersList.md)
-		* [Powers Index](/Core/PowersIndex.md)
-	* [Item Crafting](/Core/ItemCrafting.md)
-* Itemization
-	* [Equipment](/Core/Equipment.md)
-	* [Magic Equipment](/Core/MagicEquipment.md)
-		* [Artifact Equipment](/Core/ArtifactEquipment.md)
+	* [Talents](/Core/Characters/Talents.md)
+	* [Maneuvers](/Core/Characters/Maneuvers.md)
+	* [Spellcasting](/Core/Spellcasting.md)
+		* [Spells](/Core/Spells.md)
+		* [Spells Index](/Core/SpellsIndex.md)
+* Items
+	* [Equipment](/Core/Items/Equipment.md)
+		* [Item Crafting](/Core/Items/ItemCrafting.md)
+	* [Magic Equipment](/Core/Items/MagicEquipment.md)
+		* [Magic Item Crafting](/Core/Items/MagicItemCrafting.md)
+		* [Artifact Equipment](/Core/Items/ArtifactEquipment.md)
 <!--
 * Character Creation
 	* Ancestries
@@ -62,7 +63,7 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Bestiary
 	* [Beasts](/Core/Bestiary/Beasts.md)
 	* [Humanoids](/Core/Bestiary/Humanoid.md)
-	* [Magic Beasts](/Core/Bestiary/MagicBeasts.md)
+	* [Monsters](/Core/Bestiary/Monsters.md)
 <!--
 	* [Bestiary (Medieval)](/Medieval/Bestiary.md)
 	* [Bestiary (Fantasy)](/Fantasy/Bestiary.md)
@@ -74,6 +75,7 @@ The following rules are entirely optional, and their use is determined by the Ga
 
 * Customization
 	* [Custom Ancestries](/Advanced/Custom/Ancestries.md)
+		* [Ancestry Abilities](/Core/Characters/AncestryAbilities.md)
 	* [Custom Archetypes](/Advanced/Custom/Archetypes.md)
 	* [Custom Backgrounds](/Advanced/Custom/Backgrounds.md)
 * Extended Systems

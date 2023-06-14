@@ -6,7 +6,7 @@ Ancestries have several properties including: *stat modifiers*, *size*, *abiliti
 
 ## Stat Modifiers
 
-Modifiers to stats come in two forms: *balanced* or *specialized*. Most ancestries will usually have modifiers in a balanced form, giving +1 to two different primary stats. If a larger bonus is desired, a specialized form would provide a +2, +1, and a -1 to three different primary stats.
+Modifiers to stats come in two forms: *balanced* or *specialized*. Most ancestries will usually have modifiers in a balanced form, giving +1 to two different primary stats. If a larger bonus is desired, a specialized form would provide a +2, +1, and a -1 among three different primary stats.
 
 ## Size
 
@@ -14,11 +14,11 @@ The default size is medium which provides no changes to any stats. However, cust
 
 ## Abilities
 
-There are no default abilities for ancestries, and they are instead given 4 ancestry points to spend on abilities. Any ancestry points not spent remain unused after the creation process.
+There are no default abilities for ancestries, and they are instead given 4 ancestry points to spend on abilities. Any ancestry points not spent are lost after the creation process.
 
 Ancestry abilities can provide a large number of varying features that apply to all characters who share that ancestry. Most ancestry abilities are modifiers to stats, skills, or other abilities that mostly only work under special circumstances. Abilities that apply constant modifiers are usually more expensive.
 
-Click [here](/Advanced/AncestryAbilities.md) for the list of ancestry abilities.
+Click [here](/Core/AncestryAbilities.md) for the list of ancestry abilities.
 
 ## Speed
 

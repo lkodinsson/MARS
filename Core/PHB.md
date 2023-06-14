@@ -98,11 +98,9 @@ If at any point during the game you are required to perform math that results in
 
 ## Genres
 
-There are many different worlds and environments that can be played in, such as worlds featuring one or more of elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless amounts more.
+There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more.
 
-Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*.
-
-These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
+Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*. These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
 
 # Primary Stats
 
@@ -139,7 +137,9 @@ Resolve is the determination, intuition, and spirituality of your character. It 
 
 # Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry.
+
+The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
@@ -459,7 +459,7 @@ On a hit, you then roll your weapon's damage. Damage from successful hits are re
 On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
 -->
 
-Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions except reactions (such as by a readied action). This is known as the *multiple attack penalty*.
+Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions (such as maneuvers) except reactions (such as by a readied action). This is known as the *multiple attack penalty*.
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack. If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
 
@@ -468,11 +468,11 @@ Attacks made against enemies who cannot see you, or who are surrounded on two op
 **Stamina Cost:** 1  
 **Action Speed:** Free Reaction
 
-If you would be hit, you may use your shield to block an incoming attack in front of you. If you do, that damage is dealt to your shield's durability instead of you, and is reduced by the block value of that shield. Critical hits get half of their bonus damage against blocked hits.
+If you would be hit, you may use your shield to block an incoming attack in front of you. If you do, the shield is considered hit instead, and any damage taken is dealt to your shield's durability instead of you and is reduced by the block value of that shield. Critical hits get half of their bonus damage against blocked hits. Any on hit effects from that hit are given to your shield instead if possible, otherwise they cause no effect.
 
 If the shield would be dealt damage in excess of the shield's durability, the remaining damage is dealt directly to you as a successful hit reduced by your armour's damage reduction (to a minimum of 1).
 
-Shields with no durability are considered broken and cannot be used to block until they are repaired.
+Shields with no durability are considered broken and cannot be used to block or parry until they are repaired.
 
 #### Brandish
 
@@ -484,7 +484,7 @@ Choose which of your items you are wielding in your hands. This can be items fro
 
 **Action Speed:** None
 
-Before your turn begins, you may choose to delay your turn by moving the start of your turn to a later point in the turn order. This action can only be taken when your turn would begin, and only once each round. This action may even be taken while unconscious or dying. 
+Before your turn begins, you may choose to delay your turn by moving the start of your turn to a later point in the turn order. This action can only be taken when your turn would begin, and only once each round. This action may even be taken while unconscious or dying.
 
 #### Drop Prone
 
@@ -553,7 +553,7 @@ Skills can be performed as normal during any type of encounter. The exact durati
 
 # Damage
 
-When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction. No matter how much damage reduction a character has, the minimum amount of damage they must take is 1.
+When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction or by half if the hit that dealt damage was a graze (whichever reduces more damage). No matter how much damage reduction a character has, the minimum amount of damage they must take is 1.
 
 Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are only given the unconscious condition.
 

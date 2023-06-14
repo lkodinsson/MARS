@@ -14,13 +14,13 @@ Epic characters have their growth accelerated and receive double the experience 
 | 15 | 65 | r30 | Grandmaster |
 
 ##### Table: Toughness Steps & Cost Extended
-| Step Cost | Total Cost | Bonus<br/>Endurance |
-|:-:|:-:|:-:|
-| 13 | 13 | +22 |
-| 14 | 27 | +24 |
-| 15 | 42 | +26 |
-| 16 | 58 | +28 |
-| 17 | 75 | +30 |
+| Step Cost | Total Cost | Bonus<br/>Endurance | Rest<br/>Bonus |
+|:-:|:-:|:-:|:-:|
+| 13 | 13 | +22 | +11 |
+| 14 | 27 | +24 | +12 |
+| 15 | 42 | +26 | +13 |
+| 16 | 58 | +28 | +14 |
+| 17 | 75 | +30 | +15 |
 
 ##### Table: Primary Stat Steps & Cost Extended
 | Step Cost | Total Cost | Dice Step | Step Name |

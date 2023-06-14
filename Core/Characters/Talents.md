@@ -8,6 +8,7 @@
 | [Arcane Precision](#arcane-precision) | 8 | 4 | INT 11+, Arcana or Sorcery | Fantasy |
 | [Arcane Synthesis](#arcane-synthesis) | 8 | 4 | INT 11+, Arcana, Craft | Fantasy |
 | [Chaotic Magic](#chaotic-magic) | 8 | - | RES 11+, Can cast spells | Fantasy |
+| [Combat Adrenaline](#combat-adrenaline) | 8 | 4 | STR 11+, RES 11+, Athletics | Any |
 | [Craft Preparation](#craft-preparation) | 8 | 4 | INT 11+, Craft | Any |
 | [Danger Sense](#danger-sense) | 8 | - | DEX 11+, Perception | Any |
 | [Deduction](#deduction) | 4 | - | INT 11+, Perception | Any |
@@ -18,7 +19,7 @@
 | [Esoteric Will](#esoteric-will) | 8 | 4 | RES 11+, Can cast spells | Fantasy |
 | [Extra Maneuver](#extra-maneuver) | 4 | ∞ | Any combat skill | Any |
 | [Extra Spell](#extra-spell) | 4</br>or 8 | ∞ | Can cast spells | Fantasy |
-| [Fortune's Favour](#fortunes-favour) | 8 | 4 | DEX 13 or RES 13+ | Any |
+| [Fortune's Favour](#fortunes-favour) | 8 | 4 | DEX 13+ or RES 13+ | Any |
 | [Inspirational Charisma](#inspirational-charisma) | 8 | 4 | RES 11+, Charisma | Any |
 | [Intimidation](#intimidation) | 4 | - | STR 11+, Charisma | Any |
 | [Irrefutable Logic](#irrefutable-logic) | 4 | - | INT 11+, Charisma | Any |
@@ -29,18 +30,18 @@
 | [Mental Balance](#mental-balance) | 8 | - | INT 13+, Can cast spells | Fantasy |
 | [Metamagic](#metamagic) | 8 | 14 | INT 13+ or RES 13+, Can cast 5+ spells | Fantasy |
 | [Mobility](#mobility) | 8 | - | STR 13+, Athletics | Any |
-| [Natural Intuition](#natural-intuition) | 8 | - | INT 11+, Perception | Any |
 | [Nimble](#nimble) | 8 | - | DEX 13+, Agility | Any |
 | [Opportunist](#opportunist) | 8 | - | DEX 11+ or INT 11+, Opportunity Strike | Any |
 | [Polyglot](#polyglot) | 4 | - | INT 11+, Four languages | Any |
 | [Prepared Defense](#prepared-defense) | 8 | - | DEX 11+ or RES 11+, Any combat skill | Any |
 | [Rage](#rage) | 8 | 4 | STR 11+, RES 11+, Any combat skill | Any |
-| [Second Wind](#second-wind) | 8 | 4 | STR 11+, RES 11+, Athletics | Any |
+| [Second Wind](#second-wind) | 8 | - | DEX 11+, RES 11+, Athletics | Any |
 | [Sprinting](#sprinting) | 8 | - | STR 11+, DEX 11+, Athletics | Any |
 | [Steady Mind](#steady-mind) | 8 | - | INT 11+, RES 11+, Can cast spells | Fantasy |
 | [Teamwork](#teamwork) | 8 | - | INT 11+, Charisma | Any |
 | [Toughness](#toughness) | 4 | 9 | - | Any |
 | [Weightlifter](#weightlifter) | 4 | - | STR 13+, Athletics | Any |
+| [Wild Intuition](#wild-intuition) | 8 | - | INT 11+ or RES 11+, Perception | Any |
 | [Wild Magic](#wild-magic) | 8 | - | RES 11+, Can cast Animal Form | Fantasy |
 
 ## Always Prepared
@@ -48,7 +49,7 @@
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Sleight
 
-You may find any mundane item amongst your belongings as though you have always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent. Any items paid for with this ability cost 10% less. This ability can be used a total number of times based on its advancement.
+You may find any mundane item amongst your belongings as though you have always had it, but you must pay for the item normally. The item must be something you can easily carry and conceal, without causing you to become encumbered or requiring both hands to wield. If you don't have access to your belongings, then you can't use this talent. Any items paid for with this ability cost 10% less. This ability can be used a total number of times per rest based on its advancement.
 
 ##### Table: Always Prepared Steps & Cost
 | Step Cost | Total Cost | Ability Uses | Maximum Price<br/>(Before Discount) |
@@ -98,10 +99,10 @@ And with swift weapons:
 **Cost:** 8 EXP  
 **Requirements:** Max Intelligence 11+, Trained in Arcana or Sorcery
 
-After rolling to cast a spell using the arcana or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 2. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
+After rolling to cast a spell using the arcana or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 3. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
 
 ##### Table: Arcane Precision Steps & Cost
-| Step Cost | Total Cost | Ability Uses<r/>Per Spell |
+| Step Cost | Total Cost | Ability Uses<br/>Per Spell |
 |:-:|:-:|:-:|
 | 8 | 8 | 1/spell |
 | 9 | 17 | 2/spell |
@@ -115,7 +116,7 @@ After rolling to cast a spell using the arcana or sorcery skill, you may increas
 
 Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus and materials. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell. Items created using this talent must satisfy all other normal crafting requirements.
 
-All items created by this ability lose their effects if not used before a week has passed since their creation.
+All items created by this ability lose their effects if not used before a week has passed since their creation. Items can only contain one synthesized magic effect at a time. Using this ability on an item that already contains a synthesized magic effect will replace the old one.
 
 The advancement of this talent determines what types of items can be created.
 
@@ -236,6 +237,21 @@ Roll r10 to get category
 | 1 | Cancel the spell, lose 1 focus, and end your turn |
 -->
 
+## Combat Adrenaline
+
+**Cost:** 8 EXP  
+**Requirements:** Max Strength 11+, Max Resolve 11+, Trained in Athletics
+
+Once per turn as a swift action you may recover endurance equal to half of your maximum (rounded up). This ability can be used a total number of times per rest based on its advancement, but only once each turn.
+
+##### Table: Second Wind Steps & Cost
+| Step Cost | Total Cost | Ability Uses |
+|:-:|:-:|:-:|
+| 8 | 8 | 1/rest |
+| 9 | 17 | 2/rest |
+| 10 | 27 | 3/rest |
+| 11 | 38 | 4/rest |
+
 ## Craft Preparation
 
 **Cost:** 8 EXP  
@@ -342,7 +358,7 @@ This talent can be acquired any number of times.
 
 ## Extra Spell
 
-**Cost:** Variable  
+**Cost:** 4 EXP or 8 EXP  
 **Requirements:** Can cast spells
 
 When you acquire this talent you will learn a new spell for a spellcasting skill you already have. The highest tier spell you can learn with this talent is determined by the highest tier spell have learned from advancement. The cost to acquire this talent is determined by the tier of spell you learn.
@@ -370,7 +386,7 @@ This talent can be acquired any number of times.
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 13+ or Max Resolve 13+
 
-At any time you may gain advantage to your next skill check if you are trained in that skill. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail a skill check if you are trained in that skill, but only once per day. This ability does not recover any uses during a rest of any duration.
+At any time you may gain advantage to your next skill check if you are trained in that skill. This ability can be used a total number of times based on its advancement, but only once per roll. One use of this ability is recovered whenever you fail (not graze) a skill check if you are trained in that skill or if you are given the dying effect, but only once each day. This ability does not recover any uses during a rest of any duration.
 
 ##### Table: Fortune's Favour Steps & Cost
 | Step Cost | Total Cost | Ability Uses |
@@ -424,7 +440,7 @@ You may use your intelligence instead of your resolve when making charisma check
 
 **Cost:** 8 EXP
 
-You gain a second trait.
+You gain a second trait. This talent can only be acquired with permission from the Game Master.
 
 ## Long-distance Running
 
@@ -502,14 +518,6 @@ For triggered metamagics, any condition is valid so long as it is knowable by th
 
 Your speed is increased by 2m, and one of the move actions you take each turn is not affected by difficult terrain.
 
-## Natural Intuition
-
-**Cost:** 8 EXP
-
-**Requirements:** Max Intelligence 11+, Trained in Perception
-
-Your ability to notice and remember details has expanded your natural perceptions. You can always tell the time of day, what direction is north, and where the nearest source of running water is. These abilities persist even in conditions where they would otherwise not be possible.
-
 ## Nimble
 
 **Cost:** 8 EXP  
@@ -545,7 +553,7 @@ The first defensive maneuver that you use each round does not cost a reaction. A
 
 You gain an ability allowing you to fly into a rage at the cost of 2 focus as a swift action, giving you a temporary bonus to strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating. Additionally, half of your total damage reduction (rounded up) applies when you are critically hit (instead of zero damage reduction).
 
-Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way). Rage cannot be inerrupted or lost except by becoming unconscious or manually ending the rage.
+Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way). Rage cannot be interrupted or lost except by becoming unconscious or manually ending the rage.
 
 ##### Table: Rage Steps & Cost
 | Step Cost | Total Cost | Bonus |
@@ -558,17 +566,9 @@ Being in a rage requires that you maintain concentration on the rage. During any
 ## Second Wind
 
 **Cost:** 8 EXP  
-**Requirements:** Max Strength 11+, Max Resolve 11+, Trained in Athletics
+**Requirements:** Max Dexterity 11+, Max Resolve 11+, Trained in Athletics
 
-Once per turn as a swift action you may recover endurance equal to half of your maximum (rounded up). This ability can be used a total number of times based on its advancement, but only once each turn.
-
-##### Table: Second Wind Steps & Cost
-| Step Cost | Total Cost | Ability Uses |
-|:-:|:-:|:-:|
-| 8 | 8 | 1/rest |
-| 9 | 17 | 2/rest |
-| 10 | 27 | 3/rest |
-| 11 | 38 | 4/rest |
+As a swift action you may recover stamina to half of your maximum (rounded up). Additionally, any maneuvers you use during the same turn cost zero stamina. This ability can be used only once per rest.
 
 ## Sprinting
 
@@ -600,17 +600,17 @@ You get advantage when performing a skill check as a part of a group action for 
 You have an increased amount of endurance. This bonus starts at +4 and advances according to the following table:
 
 ##### Table: Toughness Steps & Cost
-| Step Cost | Total Cost | Bonus<br/>Endurance |
-|:-:|:-:|:-:|
-| 4 | 4 | +4 |
-| 5 | 9 | +6 |
-| 6 | 15 | +8 |
-| 7 | 22 | +10 |
-| 8 | 30 | +12 |
-| 9 | 39 | +14 |
-| 10 | 49 | +16 |
-| 11 | 60 | +18 |
-| 12 | 72 | +20 |
+| Step Cost | Total Cost | Bonus<br/>Endurance | Rest<br/>Bonus |
+|:-:|:-:|:-:|:-:|
+| 4 | 4 | +4 | +2 |
+| 5 | 9 | +6 | +3 |
+| 6 | 15 | +8 | +4 |
+| 7 | 22 | +10 | +5 |
+| 8 | 30 | +12 | +6 |
+| 9 | 39 | +14 | +7 |
+| 10 | 49 | +16 | +8 |
+| 11 | 60 | +18 | +9 |
+| 12 | 72 | +20 | +10 |
 
 Additionally, the amount of endurance recovered during both short and long rests is increased by an amount equal to half of this bonus.
 
@@ -620,6 +620,14 @@ Additionally, the amount of endurance recovered during both short and long rests
 **Requirements:** Max Strength 13+, Trained in Athletics
 
 You gain an advantage to athletics when attempting to move large objects, and your carrying capacity is determined as if you were one size larger.
+
+## Wild Intuition
+
+**Cost:** 8 EXP
+
+**Requirements:** Max Intelligence 11+ or Max Resolve 11+, Trained in Perception
+
+Your ability to notice and remember details has expanded your natural perceptions. You can always tell the time of day, what direction is north, and where the nearest source of running water is. These abilities persist even in conditions where they would otherwise not be possible.
 
 ## Wild Magic
 
