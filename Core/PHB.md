@@ -523,13 +523,13 @@ If your speed is reduced to 1m or less, you cannot move 1m as a free action. Thi
 
 Use a wielded item with the parry feature to defend against an attack, adding its parry value to your deflection. If the incoming attack grazes against your deflection roll, it is considered a failure instead.
 
-#### Ready
+#### Ready an Action
 
 **Action Speed:** Standard
 
 Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice.
 
-For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action.
+For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action. This can include spells, maneuvers, or any other special abilities.
 
 #### Rise From Prone
 

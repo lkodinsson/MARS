@@ -23,23 +23,23 @@
 | [Hook Parry](#hook-parry) | 1 | Reaction | None | Defensive | Finesse, Martial | Any |
 | [Intercept](#intercept) | 1 | Reaction | None | Defensive | Finesse, Martial, Unarmed | Any |
 | [Intercepting Strike](#intercepting-strike) | 1 | Reaction | Fortitude | Defensive | Finesse, Martial, Ranged, Unarmed | Any |
-| [Intimidating Strike](#intimidating-strike) | 2 | Standard | Willpower | Offensive | Martial, Unarmed | Any |
+| [Intimidating Strike](#intimidating-strike) | 1 | Standard | Willpower | Offensive | Martial, Unarmed | Any |
 | [Knock Down](#knock-down) | 1 | Standard | Fortitude | Offensive | Martial, Ranged, Unarmed | Any |
-| [Leap Srtike](#leap-strike) | 2 | Standard | None | Offensive | Finesse, Martial, Unarmed | Any |
+| [Leap Srtike](#leap-strike) | 1 | Standard | None | Offensive | Finesse, Martial, Unarmed | Any |
 | [Opportunity Strike](#opportunity-strike) | 1 | Reaction | None | Offensive | Finesse, Martial, Unarmed | Any |
-| [Penetrating Strike](#penetrating-strike) | 2 | Swift | None | Offensive | Finesse, Ranged | Any |
+| [Penetrating Strike](#penetrating-strike) | 1 | Swift | None | Offensive | Finesse, Ranged | Any |
 | [Pinning Shot](#pinning-shot) | 1 | Standard | Fortitude | Offensive | Ranged | Any |
 | [Point-blank Shot](#point-blank-shot) | 0 | Swift | None | Offensive | Ranged | Any |
 | [Poisonous Strike](#poisonous-strike) | 2 | Standard | Fortitude | Offensive | Finesse, Ranged | Any |
 | [Precise Strike](#precise-strike) | 1 | Swift | None | Offensive | Finesse, Ranged, Unarmed | Any |
-| [Provoke](#provoke) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
+| [Provoke](#provoke) | 0 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
 | [Push](#push) | 1 | Swift | Athletics | Tactical | Martial, Unarmed | Any |
 | [Quick Reload](#quick-reload) | 1 | Free | None | Tactical | Ranged | Any |
 | [Shield Crush](#shield-crush) | 1 | Swift | Fortitude | Offensive | Martial, Unarmed | Any |
 | [Spell Deflection](#spell-deflection) | 1 | Reaction | None | Defensive | Finesse, Martial, Ranged, Unarmed | Fantasy |
 | [Spell Evasion](#spell-evasion) | 1 | Reaction | None | Defensive | Finesse, Ranged, Unarmed | Fantasy |
 | [Spell Strike](#spell-strike) | 1 | Standard | None | Offensive | Finesse, Martial, Ranged, Unarmed | Fantasy |
-| [Taunt](#taunt) | 1 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
+| [Taunt](#taunt) | 0 | Swift | Willpower | Tactical | Finesse, Martial, Ranged, Unarmed | Any |
 | [Trip](#trip) | 1 | Standard | Agility | Offensive | Martial, Unarmed | Any |
 | [Triple Shot](#triple-shot) | 1 | Full-round | None | Offensive | Ranged | Any |
 | [Wild Strike](#wild-strike) | 1 | Swift | None | Offensive | Martial, Unarmed | Any |
@@ -78,6 +78,8 @@ Increase the bonus to +3 if you are at least exceptional (r12) in the Agility sk
 
 Make an attack with -2 to hit, then move backward 1m. Get +2 to armour rating against the first attack from the target for the duration.
 
+Increase the bonus to +3 if you are at least exceptional (r12) in the Agility skill.
+
 ## Battle Cry
 
 **Type:** Tactical  
@@ -104,6 +106,8 @@ Increase the bonus to +2 if you are at least exceptional (r12) in the Charisma s
 
 For the duration, you get +1 to armour rating.
 
+Increase the bonus to +2 if you are at least exceptional (r12) in the Athletics skill.
+
 You may spend an additional 1 stamina to double the bonus to armour rating. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
 
 ## Bullrush
@@ -114,7 +118,7 @@ You may spend an additional 1 stamina to double the bonus to armour rating. You 
 **Stamina Cost:** 2  
 **Action Speed:** Full-round
 
-Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage. If you also have the Knock Down maneuver, you may pay 1 more stamina to make an attack at the end of your movement as per the Knock Down maneuver. If you do, the bonus to hit and damage are reduced to +1.
+Move up to three times your speed in a straight line over a distance of at least 3m, and make a melee attack with +2 to hit and damage. If you also have the Knock Down maneuver, you may pay 1 more stamina to make an attack at the end of your movement as per the Knock Down maneuver. If you do, the bonus to hit and damage are reduced to zero.
 
 ## Concussive Strike
 
@@ -124,7 +128,7 @@ Move up to three times your speed in a straight line over a distance of at least
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-**Duration:** 1 Turn (if stunned)  
+**Duration:** 1 Round (if stunned)  
 **Resist:** Fortitude
 
 Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a -1 penalty to hit and damage. This attack always deals blunt damage. If successful and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
@@ -140,7 +144,9 @@ Make a melee attack. If the weapon you use does not deal blunt damage or you mak
 **Duration:** 2 Rounds  
 **Resist:** Fortitude
 
-Make an attack. If successful, the target has their movement speed reduced to half for the duration.
+Make an attack. If successful, the target has their movement speed reduced to half and gets -1 to hit with attacks for the duration. Additionally, if this maneuver was performed as a readied action, then the target cannot move for the rest of the turn that they were hit.
+
+Increase the penalty to -2 if you are at least exceptional (r12) in the Athletics skill.
 
 ## Dancing Strike
 
@@ -164,9 +170,7 @@ Make a melee attack. If successful, trade places with your target if they are wi
 
 **Resist:** Athletics
 
-Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take the item. Otherwise, they drop it up to 3m away.
-
-You cannot disarm a target of their shield or an unarmed weapon.
+Make a combat check with a -1 penalty against a target within melee range. If successful, the target loses one of the items in their hands. If you used the unarmed skill and have a free hand, you may instead take the item. Otherwise, they drop it up to 3m away. You cannot disarm a target of their shield or an unarmed weapon.
 
 ## Distracting Strike
 
@@ -247,7 +251,7 @@ Attacks from non-grappled characters against grappled targets are made with adva
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour rating as a bonus. If using a weapon that has the parry feature, if it has parry r6 or less, add +1 to this roll. Otherwise, add +2. If the incoming attack grazes against your combat roll, it is considered a failure instead.
+While wielding a weapon that can deal slashing damage, instead of using deflection to defend against an incoming attack, use your combat skill adding your armour rating as a bonus. If using a weapon that has the parry feature, if it has parry r6 or less, add +1 to this roll. Otherwise, add +2. If the incoming attack grazes against your combat roll, it is considered a failure to hit instead.
 
 ## Heavy Strike
 
@@ -298,10 +302,10 @@ Make an attack with +2 to hit against a target who is attacking an ally. This at
 **Type:** Offensive  
 **Specializations:** Martial, Unarmed
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Standard
 
-**Duration:** 1 Round  
+**Duration:** 2 Rounds  
 **Resist:** Willpower
 
 Make a charisma check against a target within melee range. If successful, the target gets -2 on all rolls that target their enemies for the duration. Then make a melee attack against that target.
@@ -323,7 +327,7 @@ Make an attack with -2 to hit. If successful, the target becomes prone.
 **Type:** Offensive  
 **Specializations:** Finesse, Martial, Unarmed
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Standard
 
 Make an agility check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
@@ -336,9 +340,7 @@ Make an agility check if leaping over an obstacle (1m between you and your targe
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-**Duration:** 1 Turn
-
-Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target is moving a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, the target cannot move for the rest of their turn (their movement is stopped at the earliest point that they moved through your attack range).
+Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target is moving a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, their movement is stopped at the earliest point that they moved through your attack range.
 
 This maneuver cannot be used while prone.
 
@@ -347,7 +349,7 @@ This maneuver cannot be used while prone.
 **Type:** Offensive  
 **Specializations:** Finesse, Ranged
 
-**Stamina Cost:** 2  
+**Stamina Cost:** 1  
 **Action Speed:** Swift
 
 Make an attack. Reduce your threshold to get a critical by 2 during that attack.
@@ -362,10 +364,10 @@ You may spend an additional 1 stamina to increase the critical threshold reducti
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-**Duration:** 1 Turn  
+**Duration:** 1 Round  
 **Resist:** Fortitude
 
-Make an attack with a projectile weapon. If successful, the target can't move on their next turn.
+Make an attack with a projectile weapon. If successful, the target cannot move for the duration.
 
 ## Point-blank Shot
 
@@ -385,7 +387,7 @@ Make an attack with a projectile weapon against a target 2m or closer. This atta
 **Stamina Cost:** 2  
 **Action Speed:** Standard
 
-**Duration:** 1 Turn  
+**Duration:** 1 Round  
 **Resist:** Fortitude (for reduced effect)
 
 Make an attack with a weapon. If successful, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may resist the sickness. If they fail, they lose 2 health, otherwise they lose 1 health and reduce the degree of effect of the sickness by 1.
@@ -394,7 +396,7 @@ If this effect is applied to a target that is already effected by this kind of p
 
 This maneuver may also be performed to pre-apply a single use poison to a weapon that inflicts the same effect. Instead, just make a medicine check to pre-determine the difficulty to resist the poison.
 
-Performing this maneuver can only be done with access to a pre-made poison, or materials that can be used to approximate a poison.
+Performing this maneuver can only be done with access to a pre-made poison or materials that can be used to approximate a poison.
 
 ## Precise Strike
 
@@ -413,7 +415,7 @@ You may spend an additional 1 stamina to double both the bonus and the penalty. 
 **Type:** Tactical  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
-**Stamina Cost:** 1  
+**Stamina Cost:** 0  
 **Action Speed:** Swift
 
 **Duration:** 1 Round  
@@ -485,14 +487,14 @@ Roll your evasion to resist a spell instead of making the normal resist roll. If
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-Make an attack with +1 to hit. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -3 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
+Make an attack with +1 to hit. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
 
 ## Taunt
 
 **Type:** Tactical  
 **Specializations:** Finesse, Martial, Ranged, Unarmed
 
-**Stamina Cost:** 1  
+**Stamina Cost:** 0  
 **Action Speed:** Swift
 
 **Duration:** 2 Rounds  
@@ -531,6 +533,6 @@ Make a three ranged attacks with a single attack roll with -3 to hit against thr
 
 **Duration:** 1 Round
 
-Make an attack with +1 to hit and damage, but you get -1 to your armour rating until your next turn.
+Make an attack with +1 to hit and damage, but you get -1 to your armour rating for the duration.
 
 You may spend an additional 1 stamina to double both the bonus and the penalty. You may only do this if you are at least exceptional (r12) in the skill providing you this maneuver.
