@@ -15,6 +15,18 @@
 
 ## Challenge Difficulties
 
+##### Table: Outcome vs Difficulty, Expanded
+| Difficulty | Fail | Graze | Success | Critical |
+|:-:|:-:|:-:|:-:|:-:|
+| <nobr>5 (Easy)</nobr> | -2 or less | -1~4 | 5~11 | 12 or higher |
+| <nobr>10 (Moderate)</nobr> | 3 or less | 4~9 | 10~16 | 17 or higher |
+| <nobr>15 (Hard)</nobr> | 8 or less | 9~14 | 15~21 | 22 or higher |
+| <nobr>20 (Challenging)</nobr> | 13 or less | 14~19 | 20~26 | 27 or higher |
+| <nobr>25 (Ambitious)</nobr> | 18 or less | 19~24 | 25~31 | 32 or higher |
+| <nobr>30 (Absurd)</nobr> | 23 or less | 24~29 | 30~36 | 37 or higher |
+| <nobr>40 (Improbable)</nobr> | 33 or less | 34~39 | 40~46 | 47 or higher |
+
+<!--
 ##### Table: Roll vs Difficulty as Outcomes, Expanded
 | Roll | 5 (Easy) | 10 (Moderate) | 15 (Hard) | 20 (Challenging) | 25 (Ambitious) | 30 (Absurd) | 40 (Improbable) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -58,6 +70,7 @@
 | 38 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
 | 39 | Critical | Critical | Critical | Critical | Critical | Critical | Graze |
 | 40 | Critical | Critical | Critical | Critical | Critical | Critical | Success |
+-->
 
 ## Common Tasks
 

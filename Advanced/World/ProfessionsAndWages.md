@@ -12,23 +12,28 @@ The Game Master might also opt to skip the skill check entirely and just provide
 
 Any money provided by working a real job is not going to be a lot of money compared to going on quests, heists, or other kinds of adventures. Regardless, it can help fill in the gaps. Making money in this way is usually done over extended periods of time, and does not require a skill check. Instead you will use your average roll. To determine your average roll, take half your maximum roll, add any bonuses, then add 1 for every two dice you would roll.
 
-The following values are calculated including any mandatory costs that a character might incur over a given period of time, such as food and shelter.
+Wages are calculated per day, then extrapolated over the period of time that your character is working. How much you make per day is equal to your roll multiplied by itself, divided by 10, then subtracting 2 (to a minimum of 0).
 
-### Medieval Wages
+Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn for an hour). For other circumstances, use your average roll (such as performing work over a whole week or month). The average person makes money assuming their average roll is 7, while specialized workers would have an average roll of 10 to 15.
 
-Wages in the medieval genre are calculated per day, then extrapolated over the period of time that your character is working. How much you make per day is equal to your roll multiplied by 2, then subtracting 10 (to a minimum of 0). This is the total amount of money made in copper. To remove the cost of living from the income calculation, don't subtract the 10 copper. Divide the total by 10 to get that value in silver instead. Typically, you would only roll if you are getting paid for a single errand (such as performing in an inn). For other circumstances, use your average roll (such as performing work over a week or month).
+The following table provides examples at each difficulty breakpoint, rather than for all possible average rolls:
 
-The average person makes money assuming their average roll is a 7, while specialized workers would have an average roll of 10 to 14.
+##### Table: Wages
+| Roll | Income/Hour | Income/Day<br/>(8 Hours) | Income/Week<br>(5 Days) | Income/Month<br/>(4 Weeks) | Income/Year<br/>(52 Weeks) |
+|:-:|:-:|:-:|:-:|:-:|:-|
+| 7 | 0.36 | 2.9 | 14.5 | 58 | 696 |
+| 10 | 1 | 8 | 40 | 160 | 1,920 |
+| 15 | 2.56 | 20.5 | 102.5 | 420 | 4,920 |
+| 20 | 4.75 | 38 | 190 | 760 | 9,120 |
+| 25 | 7.56 | 60.5 | 302.5 | 1,210 | 14,520 |
+| 30 | 11 | 88 | 440 | 1,760 | 21,120 |
 
-The following table provides examples at each difficulty breakpoint, rather than for all possible rolls:
+The following table represents an expected cost of living at various quality levels:
 
-##### Table: Medieval Wages, Minus Cost of Living
-| Roll | Income/Day | Income/Week | Income/Month<br/>(4 Weeks) |
-|:-:|:-:|:-:|:-:|
-| 7 | 4cp | 2sp 8cp | 11sp 2cp |
-| 10 | 1sp | 7sp | 28sp |
-| 14 | 1sp 8cp | 12sp 6cp | 50sp 4cp |
-| 19 | 2sp 8cp | 19sp 6cp | 78sp 4cp |
-| 25 | 4sp | 28sp | 112sp |
-| 32 | 5sp 4cp | 37sp 8cp | 151sp 2cp |
-| 40 | 7sp | 49sp | 196sp |
+##### Table: Cost of Living
+| Quality | Food<br/>(3 Meals) | Shelter<br/>(1 Day) | Total/Day | Total/Week | Total/Month | Total/Year |
+|:-|:-:|:-:|:-:|:-:|:-:|
+| Low | 0.3 | 0.5 | 0.8 | 5.6 | 22.4 | 268.8 |
+| Average | 0.9 | 1 | 1.9 | 13.3 | 53.2 | 638.4 |
+| High | 3 | 5 | 8 | 56 | 224 | 2,688 |
+| Very High | 9 | 10 | 19 | 133 | 532 | 6,384 |

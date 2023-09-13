@@ -26,7 +26,7 @@ DON'T MAKE TOO MUCH LORE (YOU CAN GO FOREVER)
 
 ### Scenarios
 
-Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of events that are happening in your world.
+Scenarios are a complete statement representing a conflict or call-to-action for players. These can be complicated or simple descriptions of broad events that are happening in your world.
 
 Example: A village is having their farms raided by nearby monsters, and they are in need of assistance if they are to continue feeding their population.
 
@@ -43,11 +43,11 @@ Many scenarios can even be prepared in advance, allowing for the creation of sto
 
 ### Scenes
 
-When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details given to be given for the explicit purpose of intentional interaction.
+When players are actively engaging with the world and exploring the scenario provided to them, they are considered in a scene. This is where players can engage with non-player characters to gather information, explore potentially dangerous areas, and enter into encounters with enemies. Scenes are expected to have their own challenges which, while being potential roadblocks, must all have solutions for the players to overcome. Although it can be nice to provide details to add depth to the world before your players, players will typically expect any details to be given for the explicit purpose of intentional interaction.
 
 Example: There is a room with a locked door. The players know that there is something behind this door they want. The door can be broken into, lock picked, or you can break into the room by climbing into the window from the outside. There is also a key to the door hidden in the room.
 
-Most of this direct interactive content isdetermined by answers to the questions that help build a scenario, such as who can be asked for information and what information they will provide.
+Most of this direct interactive content is determined by answers to the questions that help build a scenario, such as who can be asked for information and what information they will provide.
 
 #### Scenes: Questions
 

@@ -9,12 +9,11 @@
 	* [Primary Stats](#primary-stats)
 	* [Secondary Stats](#secondary-stats)
 	* [Skills](#skills-1)
-		* [Basic Skills](#basic-skills)
-		* [Complex Skills](#complex-skills)
-		* [Languages](#languages)
-		* [Combat Skills](#combat-skills)
-		* [Other Skills](#other-skills)
 		* [Skill Checks](#skill-checks)
+		* [Core Skills](#core-skills)
+		* [Combat Skills](#combat-skills)
+		* [Supernatural Skills](#supernatural-skills)
+		* [Languages](#languages)
 * Part 3: Encounters & Abilities
 	* [Encounters](#encounters)
 		* [Actions](#actions)
@@ -206,7 +205,7 @@ Your speed is a measurement of your average walking distance over six seconds. Y
 
 ### Size (SZ)
 
-Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres and settings may provide you with additional options for playing in different size categories. Your size may provide you with modifiers to some of your other stats.
+Size is measured in size categories. Most characters will normally be considered medium-sized, however, certain genres may provide you with additional options for playing in different size categories. Your size may provide you with modifiers to some of your other stats.
 
 ##### Table: Size & Size Modifiers
 | Size | Avg. Height | Avg. Weight | Strength | Dexterity | Speed |
@@ -221,7 +220,7 @@ Size is measured in size categories. Most characters will normally be considered
 
 # Skills
 
-Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
+Skills represent practice in various physical and mental abilities and are what make certain types of actions easier to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -236,6 +235,91 @@ Like primary stats, skill values are represented by roll values. All skills have
 | r16 | Accomplished |
 | r18 | Expert |
 | r20 | Master |
+
+## Skill Checks
+
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure.
+
+For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
+
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 7 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 7 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
+
+Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal.
+
+For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
+
+For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in anything other than a tie will determine one winner and one loser. Grazes are not possible in this type of opposed check.
+
+### Challenge Difficulty
+
+Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
+
+##### Table: Challenge Difficulties
+| Difficulty<br/>Value | Difficulty Name |
+|:-:|:-|
+| 5 | Easy |
+| 10 | Moderate |
+| 15 | Hard |
+| 20 | Challenging |
+| 25 | Ambitious |
+| 30 | Absurd |
+| 40 | Improbable |
+
+Below is a visualization of what you need to roll to meet various success thresholds for each difficulty value:
+
+##### Table: Outcome vs Difficulty
+| Difficulty | Fail | Graze | Success | Critical |
+|:-:|:-:|:-:|:-:|:-:|
+| <nobr>10 (Moderate)</nobr> | 3 or less | 4~9 | 10~16 | 17 or higher |
+| <nobr>15 (Hard)</nobr> | 8 or less | 9~14 | 15~21 | 22 or higher |
+| <nobr>20 (Challenging)</nobr> | 13 or less | 14~19 | 20~26 | 27 or higher |
+| <nobr>25 (Ambitious)</nobr> | 18 or less | 19~24 | 25~31 | 32 or higher |
+
+A more full table is available in the [appendix](/Core/Appendix.md#table-outcome-vs-difficulty-expanded)
+
+<!--
+For a visualization on what rolls represent different outcomes in relation to various difficulty values:
+
+##### Table: Roll vs Difficulty as Outcomes
+| Roll | 10<br/>(Moderate) | 15<br/>(Hard) | 20<br/>(Challenging) | 25<br/>(Ambitious) |
+|:-:|:-:|:-:|:-:|:-:|
+| 3 | Fail | Fail | Fail | Fail |
+| 5 | Graze | Fail | Fail | Fail |
+| 8 | Graze | Fail | Fail | Fail |
+| 10 | Success | Graze | Fail | Fail |
+| 13 | Success | Graze | Fail | Fail |
+| 15 | Success | Success | Graze | Fail |
+| 17 | Critical | Success | Graze | Fail
+| 18 | Critical | Success | Graze | Fail |
+| 20 | Critical | Success | Success | Graze |
+| 22 | Critical | Critical | Success | Graze |
+| 23 | Critical | Critical | Success | Graze |
+| 25 | Critical | Critical | Success | Success |
+
+A more full table is available in the [appendix](/Core/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
+-->
+
+### Skill Duration
+
+While most basic skills and actions can be performed in a matter of a couple seconds, some complex skills and actions cannot be performed so quickly. While it is expected that most complex actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
+
+### Advantage & Disadvantage
+
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
+
+Disadvantage works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
+
+Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
+
+### Group Actions
+
+Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best (or worst depending on the circumstance) result will be used.
+
+### Talents & Special Abilities
+
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
+
+For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
 ## Basic Skills
 
@@ -292,17 +376,9 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
-## Languages
-
-When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
-
-Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
-
-The availability of languages to your character are determined by the setting that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
-
 ## Combat Skills
 
-There are four main combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Although combat skills are complex skills, they are not required to make attacks. Attacks can be made with any weapon, even untrained, by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
+There are four main combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Attacks can be made with any weapon by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
 
 ### Finesse (DEX)
 
@@ -320,83 +396,25 @@ Ranged combat includes the use of all weapons that involve projectiles, such as 
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
 
-## Other Skills
+## Supernatural Skills
 
-There may be additional skills available depending on the genre you are playing.
+### Animism (RES)
 
-Click [here](/Core/FantasySkills.md) for the list of fantasy skills.  
-Click [here](/Core/Spellcasting.md) for the rules for fantasy spellcasting.
+### Faith (RES)
 
-## Skill Checks
+### Ki
 
-If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure.
+### Sorcery (RES)
 
-For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength.
+### Wizardry (INT)
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 7 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 7 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
+## Languages
 
-Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal.
+When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 
-For example: A character attacks another and the defender rolls deflection to defend against damage. If the attacker succeeds, they do full damage, but on a graze they do half damage.
+Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
-For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in a tie or lower are all considered failures. Grazes are not possible in this type of opposed check.
-
-### Challenge Difficulty
-
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
-
-##### Table: Challenge Difficulties
-| Difficulty<br/>Value | Difficulty Name |
-|:-:|:-|
-| 5 | Easy |
-| 10 | Moderate |
-| 15 | Hard |
-| 20 | Challenging |
-| 25 | Ambitious |
-| 30 | Absurd |
-| 40 | Improbable |
-
-For a visualization on what rolls represent different outcomes in relation to various difficulty values:
-
-##### Table: Roll vs Difficulty as Outcomes
-| Roll | | 10<br/>(Moderate) | 15<br/>(Hard) | 20<br/>(Challenging) | 25<br/>(Ambitious) |
-|:-:|:-:|:-:|:-:|:-:|
-| 3 | Fail | Fail | Fail | Fail |
-| 5 | Graze | Fail | Fail | Fail |
-| 8 | Graze | Fail | Fail | Fail |
-| 10 | Success | Graze | Fail | Fail |
-| 13 | Success | Graze | Fail | Fail |
-| 15 | Success | Success | Graze | Fail |
-| 17 | Critical | Success | Graze | Fail
-| 18 | Critical | Success | Graze | Fail |
-| 20 | Critical | Success | Success | Graze |
-| 22 | Critical | Critical | Success | Graze |
-| 23 | Critical | Critical | Success | Graze |
-| 25 | Critical | Critical | Success | Success |
-
-A more full table is available in the [appendix](/Core/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
-
-### Skill Duration
-
-While most basic skills and actions can be performed in a matter of a couple seconds, some complex skills and actions cannot be performed so quickly. While it is expected that most complex actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
-
-### Advantage & Disadvantage
-
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
-
-Disadvantage works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
-
-Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
-
-### Group Actions
-
-Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best (or worst) result will be used.
-
-### Talents & Special Abilities
-
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
-
-For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+The availability of languages to your character are determined by the genre that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
 
 # Encounters
 
@@ -408,24 +426,24 @@ Encounters are time-sensitive scenarios where each action you take matters. Enco
 
 Encounters from start to end follow this sequence:
 
-1. All characters roll initiative.
+1. All characters roll their initiative.
 2. If it is combat, determine which characters are aware of their opponents. If these characters are aware of their opponents, but not the other way around, they can act during a surprise round.
 3. Characters who are not surprised take turns in initiative order for their team during the surprise round.
 4. After the surprise round (if any), all characters take turns in initiative order for their team during regular rounds. This repeats until the encounter ends.
 
 ### Initiative
 
-When it comes time to begin an encounter each player will roll their initiative stat, which is their dexterity plus their resolve. The results rolled from highest to lowest determine turn order. If there are any ties, players can decide amongst each other who goes first.
+When it comes time to begin an encounter each player will roll their *initiative*, which is their *dexterity* plus their *resolve*. The team with the highest individual iniative roll goes first. On a tie, the Game Master decides who goes first (usually favouring the player team).
 
-If there are multiple teams in conflict (such as during a combat encounter), each team present will take turns, one character at a time. The team with the individial with the highest initiative will go first. For each team, the characters with the highest initiative will go first. Teams will take turns in this way until all of their characters have acted, then will do so again during the next round.
+If there are multiple teams in conflict (such as during a combat encounter), each team present will take turns, one character at a time. Teams will take turns in this way until all of their characters have acted, then will do so again during the next round. Players can choose to take their turns in any order, and may change the order in which they take their turns during each subsequent round.
 
 For example: Four players attempt to sneak up on two guards. They fail to be stealthy and alert the guards who begin to attack the players. All six characters will roll for initiative. One of the players rolled the highest initiative so their team will go first. Player #1 will act, then Guard #1, Player #2, Guard #2, Player #3, and finally Player #4. The team containing the players had more characters to act, but each team's members still get to act.
 
 ### Rounds
 
-Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. During each round characters will take turns as previously determined by their initiative rolls. Each character will perform up to their entire turn's worth of actions.
+Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. During each round each character will be able perform up to their entire turn's worth of actions.
 
-When the rules refer to a *full-round* or a number of rounds, this means from the start of the turn in which that duration began to the start of that turn in a future round. This means that a full-round effect ends before that character starts their next turn, but is still occuring before that turn.
+When the rules refer to a number of rounds, this means from the start of the turn in which that duration began to the start of a turn in a future round. This means that a one round long effect ends at the beginning of a character's next turn, but before they take any actions.
 
 ### Complex Challenges
 
@@ -435,11 +453,11 @@ Most basic combat scenarios can be considered complex challenges rather than tac
 
 ## Actions
 
-During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. The amount of your turn each action requires is based on their action speed. These speeds—in order from slowest to fastest—are: *extended*, *full-round*, *standard*, *swift*, and *free*.
+During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. This is called the *action speed* and is measured by a number of actions points ranging from 0 to 3, and each turn you will have 3 action points to spend on actions.
 
-Since a turn is six seconds long, we can also measure each action in seconds. Full-round, standard, and swift actions are each six, four, and two seconds long respectively. Free actions don't take up any time the first time you use one, but each additional free action on your turn is considered a swift action.
+The first time each turn that you perform an action with a speed of 0 it costs 0, however, additional actions with a speed of 0 have their cost increased to 1 for the rest of that turn.
 
-Extended actions take time that is longer than a single turn. Extended actions are only performed when their complete duration has been met. Once started they may be cancelled at any point in their duration, so long as it is your turn.
+Some actions may require more than 3 action points. If they do, it means they will take multiple turns to complete. Once started they may be cancelled at any point in their duration, so long as it is your turn.
 
 Additionally there are also *reactions* and *free reactions*. Reactions are special actions that do not take up a portion of your turn, but instead happen during another character's turn. You may only take a single reaction each round, and only if you meet the conditions to use that reaction. There is no limit on the number of free reactions that can be taken each round.
 
@@ -447,7 +465,7 @@ In addition to the following basic actions, characters may perform other special
 
 #### Attack
 
-**Action Speed:** Swift
+**Action Speed:** 1
 
 Make an attack on a target with one of your wielded weapons or with your bare hands.
 
@@ -476,19 +494,13 @@ Shields with no durability are considered broken and cannot be used to block or 
 
 #### Brandish
 
-**Action Speed:** Free
+**Action Speed:** 0
 
 Choose which of your items you are wielding in your hands. This can be items from your inventory, or items found in your immediate area.
 
-#### Delay
-
-**Action Speed:** None
-
-Before your turn begins, you may choose to delay your turn by moving the start of your turn to a later point in the turn order. This action can only be taken when your turn would begin, and only once each round. This action may even be taken while unconscious or dying.
-
 #### Drop Prone
 
-**Action Speed:** Free
+**Action Speed:** 0
 
 You become prone. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage. While prone your movement speed is halved.
 
@@ -508,13 +520,13 @@ This action covers most basic actions, like opening doors, activating wielded it
 #### Move
 
 **Stamina Cost:** 0 or 1  
-**Action Speed:** Swift or Free
+**Action Speed:** 0 or 1
 
-Move a distance up to your speed. If you move more than 1m, this is considered a swift action, otherwise, it is considered a free action. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
+Move a distance up to your speed. If you move more than 1m, this has an action speed of 1, otherwise it is 0. Additionally, this action costs 1 stamina if it is not the first time you have used it during your turn.
 
 If the terrain you are moving over is rough or difficult to navigate, then you can only move half as far over that terrain. If your speed is 1m or less, you can still move at least 1m over difficult terrain per move action.
 
-If your speed is reduced to 1m or less, you cannot move 1m as a free action. This includes moving 1m over difficut terrain, if your speed is reduced to 2m or less.
+If your speed is reduced to 1m or less, you cannot move 1m at an action speed of 0. This includes moving 1m over difficult terrain, if your speed is reduced to 2m or less.
 
 #### Parry
 
@@ -525,25 +537,25 @@ Use a wielded item with the parry feature to defend against an attack, adding it
 
 #### Ready an Action
 
-**Action Speed:** Standard
+**Action Speed:** 2
 
-Declare any standard, swift, or free action to use as a reaction given a specified trigger of your choice.
+Declare any action with a speed of 0 to 2 to use as a reaction given a specified trigger of your choice.
 
 For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action. This can include spells, maneuvers, or any other special abilities.
 
 #### Rise From Prone
 
-**Action Speed:** Swift
+**Action Speed:** 1
 
 You cancel the effects of prone. Ranged and melee attacks against you are made as normal, and your movement speed is restored.
 
 #### Seek Cover
 
-**Action Speed:** Swift
+**Action Speed:** 0 or 1
 
 If you are next to a barricade, or the edge of a wall, or some similar structure, you can seek cover behind that object. While being provided cover, you are considered to be partially concealed from ranged enemies until your next turn, giving disadvantage to ranged actions made against your deflection and evasion.
 
-You may also use this action as a free action if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
+You may also use this action at an action speed of 0 if you have moved more than once during your turn. If you do, you do not need to hide behind an obstacle to get the benefits; it is as though you are using your speed and movement to avoid being targeted from a distance.
 
 #### Use Skill
 
@@ -569,7 +581,7 @@ Damage that is halved or doubled multiple times are modified at an altered rate.
 
 There are three main categories of damage types: *physical*, *elemental*, and *typeless*.
 
-The majority of damage is dealt as physical damage, which has three types: *bludgeoning*, *piercing*, and *slashing*. Most sources of damage will deal one of these three types of damage. 
+The majority of damage is dealt as physical damage, which has three types: *bludgeoning*, *piercing*, and *slashing*. Most sources of damage will deal one of these three types of damage.
 
 Most other damage is dealt as elemental damage. By default, all elemental damage bypasses damage reduction unless otherwise specified, or it is blocked. The types of elemental damage are: *arcane*, *cold*, *electric*, *fire*, *radiant*, and *void*.
 
@@ -577,7 +589,7 @@ Any time a damage type is not listed as one of the physical or elemental damage 
 
 # Effects
 
-The duration of any given effect is determined by the source of that effect. Usually this means that most effects are temporary. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent.
+The duration of any given effect is determined by the source of that effect. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent. Most effects are typically temporary.
 
 Temporary effects that alter your primary stats, do not also alter your resource stats. They only change derived stats that rely on rolling that primary stat. Permanent effects that alter your primary stats, however, do alter your resource stats.
 
@@ -631,13 +643,13 @@ If a sickness effect does not specify a duration, that duration is assumed to be
 
 #### Stunned
 
-At the beginning of a stunned character's turn, they lose the stunned effect and a swift action. Until then, stunned characters cannot perform reactions.
+At the beginning of a stunned character's turn, they lose the stunned effect and 1 action point. Until then, stunned characters cannot perform reactions.
 
-A character can become stunned multiple times, causing them to lose more swift actions at the beginning of their turn. Regardless of how many times a character is stunned, they will entirely lose the stun effect when their turn begins.
+A character can become stunned multiple times, causing them to lose more action points at the beginning of their turn. Regardless of how many times a character is stunned, they will entirely lose the stun effect when their turn begins.
 
-For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose three swift actions (their whole turn), and no longer be stunned. They may still perform a free action.
+For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose 4 action points (their whole turn), and no longer be stunned. They may still perform an action with a speed of 0.
 
-If a character is in the middle of an extended action or readying an action and they become stunned, then that action becomes interrupted and is not performed.
+If a character is in the middle of an action or readying an action and they become stunned, then that action becomes interrupted and will not be performed.
 
 #### Unconscious
 
@@ -661,19 +673,19 @@ For example: You advanced your Unarmed skill and learned Heavy Strike. Since you
 
 Click [here](/Core/Maneuvers.md) for the list of maneuvers.
 
-Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. Typically offensive maneuvers perform attacks, defensive maneuvers can be used to defend yourself or others, and tactical maneuvers provide other forms of actions.
+Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. Typically, offensive maneuvers perform attacks, defensive maneuvers defend yourself or others, and tactical maneuvers provide special actions.
 
 ### Performing Maneuvers
 
 When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
 
-For example: You perform a Crippling Strike against a target. First you make an attack, then if the attack hits or grazes, the target rolls to resist. If your maneuver's roll to hit is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effects only lasts 1 round instead of 2.
+For example: You perform a Crippling Strike against a target. First you make an attack, then if the attack hits or grazes, the target rolls to resist. If your maneuver's roll to hit is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effect only lasts 1 round instead of 2.
 
 ### Improvising Maneuvers
 
-Although maneuvers must normally be learned in order to use, you can also improvise maneuvers. If you do improvise a maneuver, you perform the manuever as normal but with an additional cost of your choice: either the stamina cost is increased by 1, or the action speed becomes one action speed slower so long as it is a standard, swift, or free action.
+Although maneuvers must normally be learned in order to use, you may also improvise maneuvers. If you do improvise a maneuver, you perform the manuever as normal but with an additional cost of your choice: either the stamina cost is increased by 1, or the action speed is increased by 1 if it was from 0 to 2.
 
-For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so you perform it as a standard action instead of a swift action.
+For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so you perform it at a speed of 2 instead of 1.
 
 # Resting
 
@@ -705,7 +717,7 @@ An extended period up to about two hours containing a single simple activity, su
 
 A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
 
-Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate) or 15 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
+Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate). This is increased to 15 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
 
 Abilties that can be used a number of times per rest are restored after a complete long rest.
 
@@ -723,21 +735,21 @@ The process of creating a character is a series of small steps. A character is m
 
 ### Ancestry
 
-It is not guaranteed that a genre or setting has a multitude of racial options, but Humans are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a racial ability, and determine your size and movement speed.
+It is not guaranteed that a genre has a multitude of ancestry options, but Humans are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a ancestry ability, and determine your size and movement speed.
 
-Click [here](/Core/Ancestries.md) for the list of ancestries.
+Click [here](/Core/Characters/Ancestries.md) for the list of ancestries.
 
 ### Background
 
 Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
 
-Click [here](/Core/Backgrounds.md) for the list of backgrounds.
+Click [here](/Core/Characters/Backgrounds.md) for the list of backgrounds.
 
 ### Archetype
 
 Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
 
-Click [here](/Core/Archetypes.md) for the list of archetypes.
+Click [here](/Core/Characters/Archetypes.md) for the list of archetypes.
 
 ### Trait
 
@@ -745,7 +757,7 @@ Traits are unique abilities that only you possess. This part of character creati
 
 The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
 
-Click [here](/Core/Traits.md) for a list of example traits.
+Click [here](/Core/Characters/Traits.md) for a list of example traits.
 
 ### Starting Stats
 
@@ -763,35 +775,35 @@ Example: To find a lost family member; or to avenge a death.
 
 ## Equipment
 
-Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the setting you are playing in. For example: machine guns or flashlights are not a likely device to have in a medieval setting, but a torch or a sword is.
+Characters start with some degree of currency or equipment. Most items that a character can acquire and use are normal worldly items. The only restriction is if it meets the genre you are playing in. For example: machine guns or flashlights are not a likely device to have in a medieval genre, but a torch or a sword is.
 
 Although you can generally have any item imaginable, some items have predetermined statistics like weapons and armour.
 
-Click [here](/Core/Equipment.md) to see the rules and tables for equipment.  
-Click [here](/Core/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.  
-Click [here](/Core/ArtifactEquipment.md) to see the rules and tables for fantasy artifact equipment.
+Click [here](/Core/Items/Equipment.md) to see the rules and tables for equipment.  
+Click [here](/Core/Items/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.  
+Click [here](/Core/Items/ArtifactEquipment.md) to see the rules and tables for fantasy artifact equipment.
 
 ### Currency
 
-There are various types of currencies that represent the money your character needs to spend on items and goods. The exact specifications of which may depend on the setting and genre, including a specified baseline currency which are all fundamentally equivalent. This means that for the purposes of converting gameplay material between settings and genres you can convert these currencies equivalently. If in one setting the cost of an item is measured in dollars ($), and in another the cost is measured in silver pieces (sp), then those values are converted directly from dollars into silver pieces. Some settings and genres may have additional currencies that are measured relative to the baseline currency.
+There are various types of currencies that represent the money your character needs to spend on items and goods. All of the values of items are represented by a cost in generic unit of money. Different currencies have a value relative to the generic unit of money (which depend on the genre) including a specified baseline currency. In one genre the cost of an item may be measured in dollars ($) and in another the cost could measured in silver pieces (sp). Sometimes there may be additional currencies usable at the same time like nuyen (¥) or gold pieces (gp).
 
-All characters start with 50 units of starting money which they can spend on starting equipment.
+All characters start with 50 units of money which they can spend on starting equipment.
 
 ### Weapons
 
 Weapons are the means to inflict attacks upon opponents using combat skills. Weapons exist in multiple categories named after the combat skill required to use them. There is also a category of basic weapons, which can be used by anyone trained in any of the combat skills. Weapons will have both a listed damage roll value, and a damage type. Some creatures and armours may be weaker to certain damage types. Although unarmed attacks are not actually made with weapons, they are listed under the unarmed weapon category.
 
-Click [here](/Core/Equipment.md#weapons) for the rules for weapons and weapon features.
+Click [here](/Core/Items/Equipment.md#weapons) for the rules for weapons and weapon features.
 
 ### Armour
 
 Although a character can wear any amount of gear, such as clothes, gloves, boots, headgear, cloaks, accessories, and so on, only some of these items are considered *armour*. Armour exists in a few specific *armour slots* when worn: *body*, *head*, *arms*, *hands*, *shield*, *legs*, and *feet*. Armour items will have some minor features, but usually they also have an armour rating and a damage reduction. The values from all of your slots are added together to provide a total armour rating and damage reduction.
 
-Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all combat rolls, spellcasting rolls, dexterity skill checks, deflection, evasion, and speed.
+Some armours will have a strength value listed. This value is the recommended strength required to wear that armour. If your maximum strength does not meet the requirement, then you get a penalty equal to half of the difference (rounded up) known as the *armour penalty*. Only the highest armour penalty (from a single item) that you wear takes effect. Your armour penalty is applied to all dexterity skill checks (including attack rolls and evasion) and speed.
 
 For example: if you have a maximum strength of 11, and you are wearing a piece of armour with a strength requirement of 16, you will have a -3 armour penalty.
 
-Click [here](/Core/Equipment.md#armour) for the rules for armour and armour features.
+Click [here](/Core/Items/Equipment.md#armour) for the rules for armour and armour features.
 
 ### Equipment Properties
 
@@ -799,8 +811,8 @@ While individual listings for equipment have specific features, they can also ha
 
 In genres with magic equipment can also have magical properties with wide ranging effects. These can change how the item functions entirely or empower the user of the item.
 
-Click [here](/Core/Equipment.md#equipment-properties) for the rules on equipment properties.  
-Click [here](/Core/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
+Click [here](/Core/Items/Equipment.md#equipment-properties) for the rules on equipment properties.  
+Click [here](/Core/Items/MagicEquipment.md) to see the rules and tables for fantasy magic equipment.
 
 ### Carrying Capacity
 
@@ -827,7 +839,7 @@ Casual carrying of items over extended periods of time is different than momenta
 
 As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 
-The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 3 experience points at the end of every game session. For each player that met their character's motivations during that session, all players receive an additional 1 experience point. This bonus stacks for each player that met their motivations. If a major goal of the adventure is met then each player receives an additional 3 experience points. Additionally, the Game Master may award bonus experience for any other reason, either to all characters, or to individual characters.
+The rate at which characters gain experience is determined by what happens during a gaming session. As a baseline: each character receives 2 experience points at the end of every game session. For each player that met their character's motivations during that session, all players receive an additional 1 experience point. This bonus stacks for each player that met their motivations. If a major goal of the adventure is met then each player receives an additional 4 experience points. Additionally, the Game Master may award bonus experience for any other reason, either to all characters, or to individual characters.
 
 The spending of experience points to improve a character is done in between each game session. Players may only advance individual stats, skills, or talents, once each, at each opportunity.
 
@@ -835,26 +847,24 @@ Some Game Masters may require certain roleplaying events to occur for the advanc
 
 ### Improving Skills
 
-Improving a skill costs an amount of experience based on the skill step you are improving it to. An easy shortcut to determining the cost is to find the roll value that you will to improve a skill to, then take half that value.
+When you first acquire a new skill it costs 4 experience points. For each skill step beyond that, it will cost an amount of experience equal to half of the roll value of the skill step you are advancing to.
 
-For example: if you are improving a skill from a roll value of r8 to a roll value of r10 it will cost 5 experience points. The only exception to this is that the first time you acquire an complex skill it costs 4 experience instead of 2.
+For example: if you are improving a skill from a roll value of r8 to a roll value of r10, it will cost 5 experience points.
 
 ##### Table: Skill Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
 |:-:|:-:|:-:|:-|
-| 2 or 4<sup>1</sup> | 2 | r4 | Trained |
-| 3 | 5 | r6 | Adept |
-| 4 | 9 | r8 | Practiced |
-| 5 | 14 | r10 | Proficient |
-| 6 | 20 | r12 | Exceptional |
-| 7 | 27 | r14 | Disciplined |
-| 8 | 35 | r16 | Accomplished |
-| 9 | 44 | r18 | Expert |
-| 10 | 54 | r20 | Master |
+| 4 | 4 | r4 | Trained |
+| 3 | 7 | r6 | Adept |
+| 4 | 11 | r8 | Practiced |
+| 5 | 16 | r10 | Proficient |
+| 6 | 22 | r12 | Exceptional |
+| 7 | 29 | r14 | Disciplined |
+| 8 | 37 | r16 | Accomplished |
+| 9 | 46 | r18 | Expert |
+| 10 | 56 | r20 | Master |
 
-<sup>1</sup>Becoming trained in any complex skill costs 4 experience points, while basic skills cost 2.
-
-Languages cost half as much as other complex skills (rounded up):
+Languages cost half as much as other skills (rounded up):
 
 ##### Table: Language Steps & Cost
 | Step Cost | Total Cost | Roll Value | Step Name |
@@ -877,7 +887,7 @@ For example: if you have a *resolve* of r12, then the maximum that your *charism
 
 Skills can be advanced even further if that skill or its primary stat have any additive bonuses. Subtractive penalties do not reduce the maximum that a skill can be advanced.
 
-For example: if you have a *strength* of r10+2, and a +1 bonus to *athletics* then the maximum that your *athletics* skill can be advanced to is r16, which is 3 steps past r10.
+For example: if you have a *strength* of r10+2, and a +1 bonus to *athletics* then the maximum that your *athletics* skill can be advanced to is r16, which is 3 steps past the roll value of r10 from *strength*.
 
 This limitation does not apply to the advancement of language skills.
 

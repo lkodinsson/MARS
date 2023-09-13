@@ -4,15 +4,22 @@
 | Name | Primary Stat |
 |:-|:-:|
 | [Animism](#animism-res) | Resolve |
-| [Arcana](#arcana-int) | Intelligence |
 | [Faith](#faith-res) | Resolve |
 | [Ki](#ki) | Variable |
 | [Sorcery](#sorcery-res) | Resolve |
+| [Wizardry](#wizardry-int) | Intelligence |
 
-Click [here](/Basic/PHB.md#basic-skills) for the list of universal skills.  
+Click [here](/Core/PHB.md#basic-skills) for the list of universal skills.  
 Click [here](/Fantasy/Spellcasting.md) for the rules on spellcasting.  
 Click [here](/Fantasy/Spells.md) for the full list of spells and their descriptions.  
 Click [here](/Fantasy/SpellsIndex.md) for a list of spells sorted by specialization and tier.
+
+<!--
+refactor bonuses at:
+r8, r14, r20
+practied, disciplined, master
+for all skills
+-->
 
 ## Animism (RES)
 
@@ -20,28 +27,15 @@ Nature is a fundamental force that governs reality, and animism allows you to co
 
 Animists do not require or use scrolls or spell books. Nature itself teaches you how to wield it. You can only have one animism specialization, as they are fundamentally conflicting representations of animism. You acquire a new spell from your specialization when you advance your animism skill.
 
-As you advance in animism you also get bonus spells at specific ranks, regardless of the specialization you choose. These ranks are trained (r4), practiced (r8), exceptional (r12), and accomplished (r16). You get these spells in addition to the spells you learn from advancing normally.
+As you advance in animism you also get bonus spells at specific ranks depending on the specialization you choose. These ranks are trained (r4), practiced (r8), exceptional (r12), and accomplished (r16). You get these spells in addition to the spells you learn from advancing normally.
 
 ##### Table: Animism Bonus Spells
 | Roll Value | Step Name | Bonus Spell |
 |:-:|:-|:-|
 | r4 | Trained | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) |
 | r8 | Practiced | [Animal Form](/Fantasy/Spells.md#animal-form) |
-| r12 | Exceptional | Control Plants (?) |
-| r16 | Accomplished | Control Weather (?) |
-
-<!--
-##### Table: Animism Bonus Spells
-| Roll Value | Step Name | Bonus Spell |
-|:-:|:-|:-|
-| r6 | Adept | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) |
-| r10 | Proficient | [Animal Form](/Fantasy/Spells.md#animal-form) |
-| r16 | Accomplished | Control Plants (?) |
+| r14 | Disciplined | Control Plants (?) |
 | r20 | Master | Control Weather (?) |
-
-Probably no master bonus ???
-
--->
 
 ### Balance
 
@@ -54,46 +48,6 @@ All things must come to an end. This is the mantra of entropy, and you are an ag
 ### Harmony
 
 Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
-
-## Arcana (INT)
-
-Arcana is the educated wizard's style of spellcasting, and has five different specializations to choose from which are the five schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*.
-
-Since arcana is a book-learned style of spellcasting, it only functions well if you have a book containing scrolls of known spells. Scrolls are essentially a page's worth of spellcasting information on a single spell. As a practicing and inventive wizard, you acquire a new scroll of any spell matching your school when you advance your arcana skill (this represents how you learn spells).
-
-Although you will choose a school to train in, you may cast spells from any school (assuming you have scrolls for those spells). However, if you cast a spell from a school you are not trained in, then you will roll only your intelligence to cast that spell. You can take this skill multiple times to advance in different schools to avoid this limitation.
-
-Wizards are not entirely incapable if they don't have scrolls or their spell books to practice from. You may cast a spell in any school you are at least trained in (you must understand the basics of casting those spells without assistance). If you attempt to cast any spell that you don't have a scroll for, that spell is cast with disadvantage. If you have that spell learned directly from advancement, you may increase the focus cost of that spell by 1 to cast it as normal.
-
-Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement). The cost of these scrolls depends on the tier of the spell.
-
-##### Table: Scrolls Cost
-| Tier | Tier Name | Price |
-|:-:|:-:|:-:|
-| 1 | Cantrip | 20sp |
-| 2 | Lesser | 56sp |
-| 3 | Greater | 114sp |
-| 4 | Heroic | 200sp |
-
-### Augury
-
-Augurs are the types of wizards who like to know things and solve problems. Augury can be used to learn information that would otherwise be unavailable, or solve simple problems that might require the use of someone with specialized skills.
-
-### Conjuration
-
-Conjurors create illusions or magical tricks; they create effects that aren't real or have limited permanence. These types of effects are usually limited to things you can sense (see, hear, touch, taste, and smell).
-
-### Enchantment
-
-Enchanting is the process of using magic to alter how things function, or improve how they function. This type of magic can be used on both objects and people, and usually results in effects that appear obviously supernatural.
-
-### Evocation
-
-Evokers are normally known for one simple thing: destruction. It is true that evocation is a direct means to accessing destructive forces, but it can also be used to motivate and inspire. Evocation is really about activating deep emotions with the power of magic.
-
-### Transmutation
-
-Transmuters can change one thing into something else, or repair what is broken. Transmutation focuses on the alteration of physical things, and does not necessarily provide results that one would assume are of a magical nature.
 
 ## Faith (RES)
 
@@ -120,9 +74,9 @@ As you advance in faith you also get bonus spells at specific ranks, depending o
 ##### Table: Faith Bonus Spells
 | Roll Value | Step Name | Charity | Family | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| r6 | Adept | [Mend](/Fantasy/Spells.md#mend) | [Bless](/Fantasy/Spells.md#bless) | [Inspire](/Fantasy/Spells.md#inspire) | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | [Curse](/Fantasy/Spells.md#curse) | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | [Spirit Communion](/Fantasy/Spells.md#spirit-communion) | [Suggestion](/Fantasy/Spells.md#suggestion) |
-| r10 | Proficient | ? | ? | ? | ? | ? | ? | ? | ? |
-| r16 | Accomplished | ? | ? | ? | ? | ? | ? | ? | ? |
+| r8 | Practiced | [Mend](/Fantasy/Spells.md#mend) | [Bless](/Fantasy/Spells.md#bless) | [Inspire](/Fantasy/Spells.md#inspire) | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | [Curse](/Fantasy/Spells.md#curse) | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | [Spirit Communion](/Fantasy/Spells.md#spirit-communion) | [Suggestion](/Fantasy/Spells.md#suggestion) |
+| r14 | Discipline | ? | ? | ? | ? | ? | ? | ? | ? |
+| r20 | Master | ? | ? | ? | ? | ? | ? | ? | ? |
 
 ### Altruism
 
@@ -167,6 +121,16 @@ Control of the body, mastery of strength. Genki is the spirit of flesh and might
 | r10 | Proficient | 3 Endurance into 1 Stamina |
 | r16 | Accomplished | 2 Endurance into 1 Stamina |
 
+<!--
+##### Table: Genki Resource Conversion
+| Roll Value | Step Name | Resource<br/>Conversion |
+|:-:|:-|:-|
+| r4 | Trained | 5 Endurance into 1 Stamina |
+| r8 | Practiced | 4 Endurance into 1 Stamina |
+| r14 | Disciplined | 3 Endurance into 1 Stamina |
+| r20 | Master | 2 Endurance into 1 Stamina |
+-->
+
 ### Kiai "Projection" (DEX)
 
 Kiai is the spirit of your movement and the air you breathe, the air that feeds your body and mind. With the use of this aura your movements will become fast and effortless, the air around you will become an extension of your body.
@@ -177,6 +141,16 @@ Kiai is the spirit of your movement and the air you breathe, the air that feeds 
 | r6 | Adept | 4 Focus into 1 Stamina |
 | r10 | Proficient | 3 Focus into 1 Stamina |
 | r16 | Accomplished | 2 Focus into 1 Stamina |
+
+<!--
+##### Table: Kiai Resource Conversion
+| Roll Value | Step Name | Resource<br/>Conversion |
+|:-:|:-|:-|
+| r4 | Trained | 5 Focus into 1 Stamina |
+| r8 | Practiced | 4 Focus into 1 Stamina |
+| r14 | Disciplined | 3 Focus into 1 Stamina |
+| r20 | Master | 2 Focus into 1 Stamina |
+-->
 
 ### Shouki "Mind" (INT)
 
@@ -189,6 +163,16 @@ Mastery of mind allows you to rely on the power of your thoughts and consciousne
 | r10 | Proficient | 3 Stamina into 1 Focus |
 | r16 | Accomplished | 2 Stamina into 1 Focus |
 
+<!--
+##### Table: Shouki Resource Conversion
+| Roll Value | Step Name | Resource<br/>Conversion |
+|:-:|:-|:-|
+| r4 | Trained | 5 Stamina into 1 Focus |
+| r8 | Practiced | 4 Stamina into 1 Focus |
+| r14 | Disciplined | 3 Stamina into 1 Focus |
+| r20 | Master | 2 Stamina into 1 Focus |
+-->
+
 ### Yuuki "Courage" (RES)
 
 This is the spirit that holds your body and mind together to act as a single force. With the embodiment of courage you need not body nor mind alone to prove yourself.
@@ -200,11 +184,21 @@ This is the spirit that holds your body and mind together to act as a single for
 | r10 | Proficient | 1 Focus into 3 Endurance |
 | r16 | Accomplished | 1 Focus into 4 Endurance |
 
+<!--
+##### Table: Yuuki Resource Conversion
+| Roll Value | Step Name | Resource<br/>Conversion |
+|:-:|:-|:-|
+| r4 | Trained | 1 Focus into 2 Endurance |
+| r8 | Practiced | 1 Focus into 3 Endurance |
+| r14 | Disciplined | 1 Focus into 4 Endurance |
+| r20 | Master | 1 Focus into 5 Endurance |
+-->
+
 ## Sorcery (RES)
 
-Sorcery is the natural wizard's style of spellcasting. Those who wield magic in this way are often referred to as sorcerers rather than wizards. Rather than being described into mechanical categories, the specializations of sorcery are more philosophical. Sorcery has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may also choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any other bonuses of that spellcasting skill.
+Sorcery is the natural style of spellcasting. Rather than being described into mechanical categories, the specializations of sorcery are more philosophical. Sorcery has seven different specializations to choose from which are the seven elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may also choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any other bonuses of that spellcasting skill.
 
-Sorcerers do not require or use scrolls or spell books. The magic they wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your sorcery skill. You can take this skill multiple times to learn how to cast from different specializations. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the specialization you learned it from.
+Sorcerers do not require or use scrolls or spell books; the magic sorcerers wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your sorcery skill. You can take this skill multiple times to learn how to cast from different specializations. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the specialization you learned it from.
 
 Sorcerers have it a bit easier than others when it comes to casting spells. As you advance the sorcery skill, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are practiced (r8), exceptional (r12), accomplished (r16), and master (r20). All signature spells get a reduced difficulty to cast and focus cost based on your advancement. This reduction only applies to signature spells in the same specialization.
 
@@ -232,7 +226,18 @@ r10 -2/-1
 r14 -3/-1
 r18 -4/-2
 
-Probably that last one...
+OR...!
+r8  -1/-0
+r14 -2/-1
+r20 -3/-2
+
+##### Table: Sorcery Signature Spell Bonus
+| Roll Value | Step Name | Difficulty<br/>Reduction | Focus Cost<br/>Reduction |
+|:-:|:-|:-:|:-:|
+| r8 | Practiced | -1 | - |
+| r14 | Disciplined | -2 | -1 |
+| r20 | Master | -3 | -2 |
+
 -->
 
 ### Air
@@ -262,3 +267,43 @@ As a counter to light, darkness is about concealment. Darkness is not simply evi
 ### Arcane
 
 The power of arcane represents the space between space. Many things that one might describe as blatantly magical are more accurately arcane. Arcane is a powerful force that seems to defy the normal rules that might apply to the other elements.
+
+## Wizardry (INT)
+
+Wizardry is the educated style of spellcasting, and has five different specializations which are the five schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*. The knowledge of spells in this way is represented by written material called scrolls which are essentially a page's worth of information for casting a single spell.
+
+When you advance your wizardry skill you get both a spell learned from your specialization and a scroll of that spell. Having spells learned and having scrolls for spells both contribute to your ability to cast spells. There are three different ways to cast spells using wizardry: *casting a learned spell*, *using a spell scroll*, and *improvising a spell*.
+
+When you cast a learned spell or cast a spell using a scroll, you may use any specialization you have that the spell belongs to. If you have both the spell learned and have a scroll, it is cast normally. If you only meet one of these conditions, then that spell is cast with disadvantage. Anyone (even non-wizards) may attempt to use scrolls to cast spells in specializations that they do not have, but they will roll only their intelligence (and with the usual disadvantage). Similarly, wizards may also use scrolls to cast spells that they are not advanced enough to learn using their skill (with disadvantage).
+
+If a spell is not learned and a spell scroll is not available, spells may also be improvised. In this way, you may cast any spell from a specialization that you have. If you do, that spell is cast with double disadvantage.
+
+Scrolls can also be acquired by purchasing them from other wizards (including spells that you can't yet learn directly from advancement). The cost of these scrolls depends on the tier of the spell.
+
+##### Table: Scrolls Cost
+| Tier | Tier Name | Price |
+|:-:|:-:|:-:|
+| 1 | Cantrip | 20sp |
+| 2 | Lesser | 60sp |
+| 3 | Greater | 120sp |
+| 4 | Heroic | 200sp |
+
+### Augury
+
+Augurs are the types of wizards who like to know things and solve problems. Augury can be used to learn information that would otherwise be unavailable, or solve simple problems that might require the use of someone with specialized skills.
+
+### Conjuration
+
+Conjurors create illusions or magical tricks; they create effects that aren't real or have limited permanence. These types of effects are usually limited to things you can sense (see, hear, touch, taste, and smell).
+
+### Enchantment
+
+Enchanting is the process of using magic to alter how things function, or improve how they function. This type of magic can be used on both objects and people, and usually results in effects that appear obviously supernatural.
+
+### Evocation
+
+Evokers are normally known for one simple thing: destruction. It is true that evocation is a direct means to accessing destructive forces, but it can also be used to motivate and inspire. Evocation is really about activating deep emotions with the power of magic.
+
+### Transmutation
+
+Transmuters can change one thing into something else, or repair what is broken. Transmutation focuses on the alteration of physical things, and does not necessarily provide results that one would assume are of a magical nature.

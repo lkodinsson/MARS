@@ -6,13 +6,14 @@
 | [Adaptation](#adaptation) | 2 |
 | [Brave](#brave) | 2 |
 | [Dark Vision](#dark-vision) | 1 |
-| [Fabled](#rich-history) | 2 |
+| [Fabled](#fabled) | 2 |
 | [Fungal Body](#fungal-body) | 2 |
 | [Graceful](#graceful) | 2 |
 | [Grit](#grit) | 1 |
 | [Headstrong](#headstrong) | 2 |
 | [Iron Gut](#iron-gut) | 2 |
 | [Low-light Vision](#low-light-vision) | 1 |
+| [Magical](#magical) | 2, 3, or 4 |
 | [Natural Armour](#natural-armour) | 1, 2, or 3 |
 | [Natural Talent](#natural-talent) | 1 or 2 |
 | [Natural Weapon](#natural-weapon) | 1 or 2 |
@@ -92,6 +93,12 @@ The creature gets advantage to fortitude checks to resist any effects that would
 
 The creature can see in both daylight and poorly lit areas with ease.
 
+## Magical
+
+**Point Cost:** 2, 3, or 4
+
+The creature is magical in its very nature. Any natural armour and weapons the creature has are considered magical, and the creature gains the ability to cast one or more spells. The number of ancestry points on this ability determines the number of spells granted. One, two, or three spells are granted if 2, 3, or 4 points are spent, respectively. When casting a spell granted by this ancestry ability, willpower is used instead of the normal skill check.
+
 ## Natural Armour
 
 **Point Cost:** 1, 2, or 3
@@ -108,8 +115,8 @@ The creature gains a defensive bonus from a specified natural armour from one of
 ##### Table: Natural Additional Armours
 | Name | Point<br/>Cost | AR | DR | Features |
 |:-|:-:|:-:|:-:|:-|
-| Horns | 2 | 1 | - | Critical Defense, Cannot wear full helms |
-| Shell | 2 | - | - | +2 AR and DR when attacked from behind,<br/>DR applies half value against critical hits from behind |
+| Horns | 1 | 1 | - | Critical Defense, Cannot wear full helms |
+| Shell | 1 | - | - | +2 AR and DR when attacked from behind,<br/>DR applies half value against critical hits from behind |
 
 Additionally, the creature gets a bonus to their armour rating and damage reduction based on the total amount of experience they have.
 
@@ -163,7 +170,7 @@ Optionally, more powerful versions may also be acquired from the table below:
 
 Additionally, the creature gets a bonus to their to hit and damage based on the total amount of experience they have.
 
-##### Table: Natural Armour Experience Bonus
+##### Table: Natural Weapon Experience Bonus
 | Total<br/>EXP | <nobr>To Hit</nobr><br/>Bonus | Damage</br>Bonus |
 |:-:|:-:|:-:|
 | 50 | +1 | - |

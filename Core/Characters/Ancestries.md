@@ -116,7 +116,7 @@ Lupines are humanoid wolves with hardy, imposing builds. They live in tight-knit
 
 ## Machina
 
-Machina are quite rare, as they are not a naturally occuring creature. They are constructed typically by exceptional artificers and are usually found in their accompaniment or lost and abandoned.
+Machina are quite rare, as they are not naturally occuring creatures. They are typically constructed by exceptional artificers and are usually found in their accompaniment, if not found lost and abandoned.
 
 **Stats** Machina get a +1 bonus to each of any two different primary stats, plus any size modifiers.
 

@@ -596,6 +596,24 @@ Communicating in this way does not guarantee an understanding. Creatures must al
 
 ***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 
+## Physical Ward
+
+**Specializations:** Discipline, Earth, Enchantment, Genki, Militarism, Yuuki  
+**Spell Tier:** 2 (Lesser)
+
+**Action Speed:** Standard
+
+**Range:** Touch or 6m  
+**Target:** One creature  
+**Duration:** 5 minutes (concentration)  
+**Resist:** Willpower
+
+Provide a creature with your choice of protection versus one of: *blunt*, *piercing*, or *slashing*. For the duration, all attacks of that type deal half damage after any damage reduction.
+
+You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus all types.
+
+***Graze:*** Lasts for half the duration.
+
 ## Prestidigitation
 
 **Specializations:** Arcane, Authority, Conjuration, Darkness  
@@ -627,24 +645,6 @@ You restore a living creature to good health, removing negative conditions of a 
 ***Critical:*** Restore 2 health, and remove one of the following conditions: debilitation, sickness, sleep, burning, or blindness (1 week).  
 ***Success:*** Restore 1 health, and remove one of the following conditions: sickness, burning, or sleep.  
 ***Graze:*** Remove one of the following conditions: sickness, burning, or sleep.
-
-## Physical Ward
-
-**Specializations:** Discipline, Earth, Enchantment, Genki, Militarism, Yuuki  
-**Spell Tier:** 2 (Lesser)
-
-**Action Speed:** Standard
-
-**Range:** Touch or 6m  
-**Target:** One creature  
-**Duration:** 5 minutes (concentration)  
-**Resist:** Willpower
-
-Provide a creature with your choice of protection versus one of: *blunt*, *piercing*, or *slashing*. For the duration, all attacks of that type deal half damage after any damage reduction.
-
-You may choose an additional type of protection by increasing the focus cost by 1 and the spell's difficulty by 5. This may even be done twice to allow protection versus all types.
-
-***Graze:*** Lasts for half the duration.
 
 ## Seek Guidance
 

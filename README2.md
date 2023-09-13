@@ -22,37 +22,11 @@ Once you have learned the rules and are ready to create a character, you will ne
 		* [Spells Index](/Core/SpellsIndex.md)
 * Items
 	* [Equipment](/Core/Items/Equipment.md)
+		* [Equipment Properties](/Core/Items/EquipmentProperties.md)
 		* [Item Crafting](/Core/Items/ItemCrafting.md)
 	* [Magic Equipment](/Core/Items/MagicEquipment.md)
-		* [Magic Item Crafting](/Core/Items/MagicItemCrafting.md)
 		* [Artifact Equipment](/Core/Items/ArtifactEquipment.md)
-<!--
-* Character Creation
-	* Ancestries
-		* [Ancestries (Fantasy)](/Fantasy/Ancestries.md)
-	* Backgrounds
-		* [Backgrounds (Medieval)](/Medieval/Backgrounds.md)
-	* Archetypes
-		* [Archetypes (Medieval)](/Medieval/Archetypes.md)
-		* [Archetypes (Fantasy)](/Fantasy/Archetypes.md)
-	* [Skills](/Basic/PHB.md#skills-1)
-		* [Skills (Fantasy)](/Fantasy/Skills.md)
-	* [Traits](/Basic/Traits.md)
-* Character Abilities
-	* [Talents](/Basic/Talents.md)
-		* [Talents (Fantasy)](/Fantasy/Talents.md)
-	* [Maneuvers](/Basic/Maneuvers.md)
-		* [Maneuvers (Fantasy)](/Fantasy/Maneuvers.md)
-	* [Spellcasting](/Fantasy/Spellcasting.md)
-		* [Spells](/Fantasy/Spells.md)
-		* [Spells Index](/Fantasy/SpellsIndex.md)
-	* [Item Crafting](/Basic/ItemCrafting.md)
-		* [Magic Item Crafting (Fantasy)](/Fantasy/MagicItemCrafting.md)
-* [Items and Equipment](/Basic/Equipment.md)
-	* [Equipment (Medieval)](/Medieval/Equipment.md)
-	* [Magic Equipment (Fantasy)](/Fantasy/MagicEquipment.md)
-	* [Artifact Equipment (Fantasy)](/Fantasy/ArtifactEquipment.md)
--->
+		* [Magic Item Crafting](/Core/Items/MagicItemCrafting.md)
 
 # Game Mastering
 
@@ -62,12 +36,8 @@ Once you have learned the rules and are ready to create a character, you will ne
 
 * Bestiary
 	* [Beasts](/Core/Bestiary/Beasts.md)
-	* [Humanoids](/Core/Bestiary/Humanoid.md)
+	* [Humanoids](/Core/Bestiary/Humanoids.md)
 	* [Monsters](/Core/Bestiary/Monsters.md)
-<!--
-	* [Bestiary (Medieval)](/Medieval/Bestiary.md)
-	* [Bestiary (Fantasy)](/Fantasy/Bestiary.md)
--->
 
 # Advanced (Variant) Rules
 
@@ -81,14 +51,5 @@ The following rules are entirely optional, and their use is determined by the Ga
 * Extended Systems
 	* [Advanced Ailments](/Advanced/Extensions/AdvancedAilments.md)
 	* [Epic Characters](/Advanced/Extensions/EpicCharacters.md)
-	* [Professions and Wages](/Advanced/Extensions/ProfessionsAndWages.md)
-<!--
-* Customization
-	* [Custom Ancestries](/Advanced/CustomAncestries.md)
-	* [Custom Archetypes](/Advanced/CustomArchetypes.md)
-	* [Custom Backgrounds](/Advanced/CustomBackgrounds.md)
-* Extended Systems
-	* [Advanced Ailments](/Advanced/AdvancedAilments.md)
-	* [Epic Characters](/Advanced/EpicCharacters.md)
-	* [Professions and Wages](/Advanced/ProfessionsAndWages.md)
--->
+* World Systems
+	* [Professions and Wages](/Advanced/World/ProfessionsAndWages.md)

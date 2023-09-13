@@ -67,9 +67,9 @@ Uncommon | Medium monstrous humanoid
 
 ---
 
-**Spellcasting Skills** [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +3 (r6), [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +2 (r4)  
+**Spellcasting Skills** [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +3 (r6), [Wizardry (Augury)](/Fantasy/Skills.md#wizardry-int) +2 (r4)  
 **Spells: Faith** [Curse](/Fantasy/Spells.md#curse), [Ignite](/Fantasy/Spells.md#ignite), [Mend](/Fantasy/Spells.md#mend)  
-**Spells: Arcana** [Light](/Fantasy/Spells.md#light)
+**Spells: Wizardry** [Light](/Fantasy/Spells.md#light)
 
 ---
 
@@ -126,8 +126,8 @@ Uncommon | Medium humanoid
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +3 (r6)  
-**Spells: Arcana** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
+**Spellcasting Skills** [Wizardry (Augury)](/Fantasy/Skills.md#wizardry-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +3 (r6)  
+**Spells: Wizardry** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
 **Spells: Faith** [Curse](/Fantasy/Spells.md#curse), [Elemental Ward](/Fantasy/Spells.md#elemental-ward), [Guidance](/Fantasy/Spells.md#guidance)
 
 ---
@@ -158,8 +158,8 @@ Common | Medium humanoid
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +2 (r4)  
-**Spells: Arcana** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
+**Spellcasting Skills** [Wizardry (Augury)](/Fantasy/Skills.md#wizardry-int) +2 (r4), [Faith (Anarchy)](/Fantasy/Skills.md#faith-res) +2 (r4)  
+**Spells: Wizardry** [Mental Strike](/Fantasy/Spells.md#mental-strike)  
 **Spells: Faith** [Guidance](/Fantasy/Spells.md#guidance)
 
 ---

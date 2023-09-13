@@ -96,6 +96,7 @@ The denominations of currency are determined by their material. These materials 
 | Jewelry, copper | 2cp | - |
 | Jewelry, iron | 5cp | - |
 | Jewelry, silver | 2sp | - |
+| Jewelry, electrum | 50sp | - |
 | Jewelry, gold | 200sp | - |
 | Iron, by weight | 1sp | ½kg |
 
@@ -137,7 +138,7 @@ The denominations of currency are determined by their material. These materials 
 ##### Table: Medieval Ranged Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Sling | 2sp | STR+r6 B | +8 | Ranged | ½kg | Ranged 20m/400m, Versatile, Reload (Swift), Unfit 2m |
+| Sling | 2sp | STR+r6 B | +8 | Ranged | ½kg | Ranged 20m/400m, Versatile, Reload (Swift), Large |
 | Shortbow | 10sp | STR+r6 P | +8 | Ranged | 1½kg | Ranged 25m/275m, Two-Handed |
 | Longbow | 20sp | STR+r8 P | +8 | Ranged | 2½kg | Ranged 30m/330m, Two-Handed |
 
@@ -192,8 +193,6 @@ The denominations of currency are determined by their material. These materials 
 **Curved Sword** A single edged bladed weapon used for slashing usually featuring anywhere from a slight curvature to a very pronounced curvature in the blade. Alternate names for curved swords includes: *cutlass*, *dāo*, *dusack*, *falcata*, *falchion*, *khopesh*, *machete*, *makhaira*, *messer*, *military sabre*, *scimitar*, *shamshir*, *shotel*, *talwar*, or *wakizashi*.
 
 **Dagger** Similar to a knife, but designed more for use as a self-defense weapon given its light weight an ease of concealmeant. Alternate names for daggers include: *anelace*, *baselard*, *cinqueda*, *kopis*, *kris*, *kukri*, *pugio*, *qama*, or *tantō*.
-
-**Darts** A thrown weapon resembling a large arrow but with a weight near to the front end to maintain inertia. Alternate names for darts include: *martiobarbuli* or *plumbata*.
 
 **Dueling Sword** A long thin sword typically used as a self-defense weapon. Alternate names for dueling swords include: *basket-hilted sword*, *dueling sabre*, *rapier*, or *sidesword*.
 
@@ -254,6 +253,8 @@ The denominations of currency are determined by their material. These materials 
 **Thrusting Sword** Similar to a dueling sword but lacking a sharp edge, thrusting swords function similarly to thrusting daggers. Alternate names for thrusting swords include: *estoc*, *épée*, *foil*, or *koncerz*.
 
 **Unarmed** 
+
+**War Darts** A thrown weapon resembling a large arrow but with a weight near to the front end to maintain inertia. Alternate names for war darts include: *martiobarbuli* or *plumbata*.
 
 **Warhammer** A reinforced hammer slightly larger than normal featuring a spike on its other side. Alternate names for warhammers include: *horseman's pick*, *nadziak*, or *warpick*.
 

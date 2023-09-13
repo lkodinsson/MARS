@@ -55,7 +55,7 @@ Items of this kind are always items that require attunement. Potions and spellst
 
 # Scrolls
 
-While not technically a magic item, scrolls are pages that do contain information for casting spells. Scrolls are limited to spells available to the [arcana skill](/Fantasy/Skills.md#arcana-int). The cost of these scrolls depends on the tier of the spell.
+While not technically a magic item, scrolls are pages that do contain information for casting spells. Scrolls are limited to spells available to the [wizardry skill](/Fantasy/Skills.md#wizardry-int). The cost of these scrolls depends on the tier of the spell.
 
 ##### Table: Scrolls Cost
 | Tier | Tier Name | Price |

@@ -63,8 +63,8 @@ A wizard who is unaffiliated with any major organization. They can be found in o
 
 ---
 
-**Spellcasting Skills** [Arcana (Augury)](/Fantasy/Skills.md#arcana-int) +3 (r6), [Arcana (Transmutation)](/Fantasy/Skills.md#arcana-int) +5 (r10)  
-**Spells: Arcana** [Ignite](/Fantasy/Spells.md#ignite), [Light](/Fantasy/Spells.md#light), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)
+**Spellcasting Skills** [Wizardry (Augury)](/Fantasy/Skills.md#wizardry-int) +3 (r6), [Wizardry (Transmutation)](/Fantasy/Skills.md#wizardry-int) +5 (r10)  
+**Spells: Wizardry** [Ignite](/Fantasy/Spells.md#ignite), [Light](/Fantasy/Spells.md#light), [Magic Weapon](/Fantasy/Spells.md#magic-weapon), [Mend](/Fantasy/Spells.md#mend), [Restoration](/Fantasy/Spells.md#restoration), [Seek Guidance](/Fantasy/Spells.md#seek-guidance)
 
 ---
 

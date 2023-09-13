@@ -5,7 +5,7 @@
 	* [Entropy](#entropy)
 	* [Harmony](#harmony)
 	* [Bonus Spells](#bonus-spells)
-* [Arcana](#arcana)
+* [Wizardry](#wizardry)
 	* [Augury](#augury)
 	* [Conjuration](#conjuration)
 	* [Enchantment](#enchantment)
@@ -129,7 +129,7 @@
 | [Speak with Animals](/Fantasy/Spells.md#speak-with-animals) | Standard | None | Self | 24 hours | Yes | None | Trained (r4) |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None | Practiced (r8) |
 
-## Arcana
+## Wizardry
 
 ### Augury
 

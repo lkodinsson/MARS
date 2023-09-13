@@ -5,8 +5,8 @@
 |:-|:-:|:-:|:-|:-|
 | [Always Prepared](#always-prepared) | 8 | 4 | INT 11+, Sleight | Any |
 | [Ambidexterity](#ambidexterity) | 8 | 4 | DEX 11+, Any combat skill | Any |
-| [Arcane Precision](#arcane-precision) | 8 | 4 | INT 11+, Arcana or Sorcery | Fantasy |
-| [Arcane Synthesis](#arcane-synthesis) | 8 | 4 | INT 11+, Arcana, Craft | Fantasy |
+| [Arcane Precision](#arcane-precision) | 8 | 4 | INT 11+, Wizardry or Sorcery | Fantasy |
+| [Arcane Synthesis](#arcane-synthesis) | 8 | 4 | INT 11+, Wizardry, Craft | Fantasy |
 | [Chaotic Magic](#chaotic-magic) | 8 | - | RES 11+, Can cast spells | Fantasy |
 | [Combat Adrenaline](#combat-adrenaline) | 8 | 4 | STR 11+, RES 11+, Athletics | Any |
 | [Craft Preparation](#craft-preparation) | 8 | 4 | INT 11+, Craft | Any |
@@ -97,9 +97,9 @@ And with swift weapons:
 ## Arcane Precision
 
 **Cost:** 8 EXP  
-**Requirements:** Max Intelligence 11+, Trained in Arcana or Sorcery
+**Requirements:** Max Intelligence 11+, Trained in Wizardry or Sorcery
 
-After rolling to cast a spell using the arcana or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 3. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
+After rolling to cast a spell using the wizardry or sorcery skill, you may increase its focus cost by 1 to reduce its spellcasting difficulty by 3. This ability can only be used a limited number of times per spell cast, as determined by the advancement of this ability.
 
 ##### Table: Arcane Precision Steps & Cost
 | Step Cost | Total Cost | Ability Uses<br/>Per Spell |
@@ -112,7 +112,7 @@ After rolling to cast a spell using the arcana or sorcery skill, you may increas
 ## Arcane Synthesis
 
 **Cost:** 8 EXP  
-**Requirements:** Max Intelligence 11+, Trained in Arcana and Craft
+**Requirements:** Max Intelligence 11+, Trained in Wizardry and Craft
 
 Instead of making a craft check to craft a magic item, you may create an unstable version of that item as a swift action and by spending focus and materials. Both the material cost of that item, and focus cost, are determined by the item created. Creating items in this way does not count as casting a spell. Items created using this talent must satisfy all other normal crafting requirements.
 
@@ -420,7 +420,7 @@ The advancement of this talent determines the maximum assist bonus you can provi
 | 10 (Moderate) | +2 |
 | 15 (Hard) | +3 |
 | 20 (Challenging) | +4 |
-| 25 () | +5 |
+| 25 (Absurd) | +5 |
 
 ## Intimidation
 
@@ -485,31 +485,30 @@ You can maintain concentration on two spells instead of one.
 
 When you acquire this talent you will choose a metamagic category from the table below. This talent can be taken multiple times (once for each category).
 
-Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you must make adjustments to that spell to pay for the metamagic: a focus cost adjustment and a spellcasting difficulty adjustment. You will apply both of these adjustments, per each use of any metamagic.
+Before casting any spell, you may choose to modify it using any metamagic talents you have acquired. When you do, you will increase or decrease its focus cost for each use of any metamagic.
 
-Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the focus cost or spellcasting difficulty can only be applied half this many times each (a minimum of up to once), but still counts toward the total. You may apply the same metamagic more than once in this way.
+Each spell you cast can be modified by metamagics a combined number of times equal to the total number of metamagic talents you have. Metamagics that reduce the focus cost can only be applied half this many times each (a minimum of up to once each), but still counting toward the total maximum adjustments. You may apply the same metamagic more than once in this way.
 
-Spells cannot be adjusted by metamagics that change features they do not have. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, for it would result in no change.
+Spells cannot be adjusted by metamagics that change features they do not have. Similarly, spells cannot be adjusted simultaneously by metamagics that have opposite modifiers, like widened and reduced, or channelled and quickened.
 
-###### Table: Metamagic Categories & Modifiers
-| Metamagic | Focus Cost<br/>Adjustment | Difficulty<br/>Adjustment | Modifier |
-|:-|:-:|:-:|:-|
-| Bloodied | -1 | - | The spell causes you to lose 1 health |
-| Channelled | -1 | - | The spell is cast at one action speed slower (spells that are full-round or extended have their cast time doubled instead) |
-| Empowered | +1 | +2 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
-| Fickle | - | -1 | This spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Heightened | +1 | - | The spell gets +2 to its difficulty to resist |
-| Intensified | +1 | +2 | The spell inflicts effects to a degree of one higher |
-| Persistent | +1 | +2 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Quickened | +1 | +2 | The spell is cast at one action speed faster (spells that are extended have their cast time halved until they become full-round instead) |
-| Reaching | +1 | +2 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
-| Reactive | +1 | +2 | The spell can be cast as a reaction if it has a speed of swift or faster |
-| Reduced | - | -1 | This spell has its area or radius halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Shortened | - | -1 | This spell has its range halved (when you stack this metamagic it decreases from halved to thirded, then quartered, and so on) |
-| Triggered | +1 | - | The spell is cast, but its effects only occur when a specified trigger is met (holding this trigger requires concentration, lasting 24 hours, until concentration is lost or the spell is triggered) |
-| Widened | +2 | +2 | The spell has its area or radius doubled (when you stack this metamagic it increases from doubled to tripled, then quadrupled, and so on) |
+##### Table: Metamagics
+| Metamagic | Focus Cost Adjustment | Modifier |
+|:-|:-:|:-|
+| Bloodied | -1 | The spell causes you to lose 1 health |
+| Channelled | -1 | The spell is cast with one half more action cost (rounded up) (when you stack this metamagic it increases from one half more to doubled, to tripled, and so on) |
+| Empowered | +1 | The spell deals +4 damage or restores +4 endurance to each target (as per the spell) |
+| Fickle | - | The spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, to quartered, and so on) |
+| Heightened | +1 | The spell gets +3 to its difficulty to resist |
+| Intensified | +1 | The spell inflicts effects to a degree of one higher |
+| Persistent | +1 | The spell has its duration doubled (when you stack this metamagic it increases from doubled to tripled, to quadrupled, and so on) |
+| Quickened | +1 | The spell is cast with its action cost reduced by half (rounded down) (when you stack this metamagic it decreases from half to a quarter, to an eighth, and so on) |
+| Reaching | +1 | The spell has its range doubled, or increased to 3m if it had a range of touch (when you stack this metamagic it increases from doubled to tripled, to quadrupled, and so on) |
+| Reduced | - | The spell has its area or radius halved (when you stack this metamagic it decreases from halved to thirded, to quartered, and so on) |
+| Shortened | - | This spell has its ranged halved (when you stack this metamagic it decreases from halved to thirded, to quartered, and so on) |
+| Triggered<sup>1</sup> | +1 | The spell is cast, but its effects only occur when a specified trigger<sup>1</sup> is met (holding this trigger requires concentration, lasting 24 hours, until the concentration is lost or the spell is triggered) |
+| Widened | +2 | The spell has its area or radius doubled (when you stack this metamagic it decreases from halved to thirded, to quartered, and so on) |
 
-For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.
+<sup>1</sup> For triggered metamagics, any condition is valid so long as it is knowable by the user or provided by the context of the spell.
 
 ## Mobility
 
@@ -568,7 +567,7 @@ Being in a rage requires that you maintain concentration on the rage. During any
 **Cost:** 8 EXP  
 **Requirements:** Max Dexterity 11+, Max Resolve 11+, Trained in Athletics
 
-As a swift action you may recover stamina to half of your maximum (rounded up). Additionally, any maneuvers you use during the same turn cost zero stamina. This ability can be used only once per rest.
+As a swift action you may recover stamina equal to half of your maximum (rounded up). Additionally, any maneuvers you use during the same turn cost zero stamina. This ability can be used only once per rest.
 
 ## Sprinting
 
@@ -597,7 +596,7 @@ You get advantage when performing a skill check as a part of a group action for 
 
 **Cost:** 4 EXP
 
-You have an increased amount of endurance. This bonus starts at +4 and advances according to the following table:
+You have an increased amount of endurance and enduranced recovered during both short and long rests. These bonuses start at +4 and +2 and advance according to the following table:
 
 ##### Table: Toughness Steps & Cost
 | Step Cost | Total Cost | Bonus<br/>Endurance | Rest<br/>Bonus |
@@ -611,8 +610,6 @@ You have an increased amount of endurance. This bonus starts at +4 and advances 
 | 10 | 49 | +16 | +8 |
 | 11 | 60 | +18 | +9 |
 | 12 | 72 | +20 | +10 |
-
-Additionally, the amount of endurance recovered during both short and long rests is increased by an amount equal to half of this bonus.
 
 ## Weightlifter
 

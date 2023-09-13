@@ -1,6 +1,6 @@
-# Medieval Backgrounds
+# Backgrounds
 
-##### Table: Medieval Backgrounds
+##### Table: Backgrounds
 | Name | Skill Modifiers |
 |:-|:-|
 | [Acolyte](#acolyte) | Contacts +1, Knowledge +1 |
@@ -50,7 +50,7 @@ Charisma +1, Sleight +1
 
 ## Commoner
 
-Some people just live ordinary lives. They have friends, they perform average jobs, and have a baseline understanding of their world. Some people seek a varied world experience, rather than dedicating themselves to single worldly goal.
+Some people just live ordinary lives. They have friends, jobs, and a baseline understanding of their world. Some people seek a varied world experience, rather than dedicating themselves to single worldly goal.
 
 Any two basic skills +1
 

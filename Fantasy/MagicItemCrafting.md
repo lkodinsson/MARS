@@ -80,8 +80,8 @@ Scrolls cost the same to craft as they do to purchase. While this is true, makin
 | Tier | Tier Name | Price |
 |:-:|:-:|:-:|
 | 1 | Cantrip | 20sp |
-| 2 | Lesser | 56sp |
-| 3 | Greater | 114sp |
+| 2 | Lesser | 60sp |
+| 3 | Greater | 120sp |
 | 4 | Heroic | 200sp |
 
 # Limited Use Items
