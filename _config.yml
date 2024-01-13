@@ -61,6 +61,8 @@ liquid:
   strict_filters    : false
   strict_variables  : false
 
+#remote_theme        : sighingnow/jekyll-gitbook
+
 # Markdown Processors
 #kramdown:
 #  auto_ids          : true
