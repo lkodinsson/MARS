@@ -830,7 +830,7 @@ You make a simple request of a creature. If that creature can understand what yo
 
 You can manipulate any object or creature as you could manually with your hands, but from a distance. This includes moving objects, opening doors, and even carrying and making attacks with melee weapons from a distance (subject to all normal attack rules). This distance is limited by the range of this spell.
 
-If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength.
+If you attempt anything that would require the use of your strength, such as attack damage, or an athletics check, use the stat associated with the spellcasting skill used to cast this spell instead of your strength (usually intelligence or resolve).
 
 Any objects can only be moved a total distance equal to twice the range of this spell, per turn, unless they are thrown (and released from your telekinesis). Concentrating on this spell allows you to manipulate an object continuously without recasting this spell.
 

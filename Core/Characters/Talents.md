@@ -496,7 +496,7 @@ Spells cannot be adjusted by metamagics that change features they do not have. S
 |:-|:-:|:-|
 | Bloodied | -1 | The spell causes you to lose 1 health |
 | Channelled | -1 | The spell is cast with one half more action cost (rounded up) (when you stack this metamagic it increases from one half more to doubled, to tripled, and so on) |
-| Empowered | +1 | The spell deals +4 damage or restores +4 endurance to each target (as per the spell) |
+| Empowered | +1 | The spell deals +2 damage or restores +2 endurance to each target (as per the spell) |
 | Fickle | - | The spell has its duration halved (when you stack this metamagic it decreases from halved to thirded, to quartered, and so on) |
 | Heightened | +1 | The spell gets +3 to its difficulty to resist |
 | Intensified | +1 | The spell inflicts effects to a degree of one higher |
@@ -550,7 +550,9 @@ The first defensive maneuver that you use each round does not cost a reaction. A
 **Cost:** 8 EXP  
 **Requirements:** Max Strength 11+, Max Resolve 11+, Trained in any combat skill
 
-You gain an ability allowing you to fly into a rage at the cost of 2 focus as a swift action, giving you a temporary bonus to strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent, and come with an additional -2 penalty to armour rating. Additionally, half of your total damage reduction (rounded up) applies when you are critically hit (instead of zero damage reduction).
+You gain an ability allowing you to fly into a rage as a free action or reaction when certain conditions are met, giving you a temporary bonus to both strength and damage reduction. This damage reduction bonus is halved while wearing body armour (rounded up). These bonuses vary depending on the advancement of this talent. Additionally, while in a rage your total damage reduction applies even when you are critically hit (instead of zero damage reduction).
+
+Before you can enter a rage you must be reduced to an amount of endurance less than or equal to half of your maximum, or if you have taken any amount of damage directly to your health.
 
 Being in a rage requires that you maintain concentration on the rage. During any of your turns (except during a turn that you activate rage) you may choose to end the rage effect as a free action. At the end of each turn that the rage persists (except for turn the it is activated) you lose 1 stamina or take 1 damage (this damage cannot be prevented in any way). Rage cannot be interrupted or lost except by becoming unconscious or manually ending the rage.
 

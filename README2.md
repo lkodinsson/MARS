@@ -17,9 +17,9 @@ Once you have learned the rules and are ready to create a character, you will ne
 * Character Abilities
 	* [Talents](/Core/Characters/Talents.md)
 	* [Maneuvers](/Core/Characters/Maneuvers.md)
-	* [Spellcasting](/Core/Spellcasting.md)
-		* [Spells](/Core/Spells.md)
-		* [Spells Index](/Core/SpellsIndex.md)
+	* [Spellcasting](/Core/Characters/Spellcasting.md)
+		* [Spells](/Core/Characters/Spells.md)
+		* [Spells Index](/Core/Characters/SpellsIndex.md)
 * Items
 	* [Equipment](/Core/Items/Equipment.md)
 		* [Equipment Properties](/Core/Items/EquipmentProperties.md)

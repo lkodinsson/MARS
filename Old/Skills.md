@@ -75,7 +75,7 @@ As you advance in faith you also get bonus spells at specific ranks, depending o
 | Roll Value | Step Name | Charity | Family | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | r8 | Practiced | [Mend](/Fantasy/Spells.md#mend) | [Bless](/Fantasy/Spells.md#bless) | [Inspire](/Fantasy/Spells.md#inspire) | [Seek Guidance](/Fantasy/Spells.md#seek-guidance) | [Curse](/Fantasy/Spells.md#curse) | [Magic Weapon](/Fantasy/Spells.md#magic-weapon) | [Spirit Communion](/Fantasy/Spells.md#spirit-communion) | [Suggestion](/Fantasy/Spells.md#suggestion) |
-| r14 | Discipline | ? | ? | ? | ? | ? | ? | ? | ? |
+| r14 | Disciplined | ? | ? | ? | ? | ? | ? | ? | ? |
 | r20 | Master | ? | ? | ? | ? | ? | ? | ? | ? |
 
 ### Altruism
