@@ -1,12 +1,12 @@
 # What is MARS?
 
-**MARS** or **Modular Adventure Role-playing System** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the *Game Master* or GM) describes the events that occur, while the other players (the *characters*) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core/PHB.md#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
+**MARS** or **Modular Adventure Role-playing System** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the Game Master or GM) describes the events that occur, while the other players (the characters) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core/PHB.md#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
 
-# Learning to Play
+#### Learning to Play
 
-All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB). Additional information and reference tables can be found in the [**Appendix**](/Core/Appendix).
+All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB), with additional information and reference tables in the [**Appendix**](/Core/Appendix).
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the [**Creation and Advancement**](/Core/PHB/Creation_and_Advancement) chapter of the *Player's Handbook*. In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process.
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the final chapter of the Player's Handbook: [**Creation and Advancement**](/Core/PHB/Creation_and_Advancement). In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process.
 
 <!--
 * Character Creation
