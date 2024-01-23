@@ -17,19 +17,19 @@
 	- [Spells Index](/Core/Characters/SpellsIndex)
 - **Items**
 	- [Equipment](/Core/Items/Equipment)
-	- [Equipment Properties](/Core/Items/EquipmentProperties)
+	- [Equipment Properties](/Core/Items/Equipment_Properties)
 	- [Item Crafting](/Core/Items/ItemCrafting)
 	- [Magic Equipment](/Core/Items/MagicEquipment)
 	- [Artifact Equipment](/Core/Items/ArtifactEquipment)
 	- [Magic Item Crafting](/Core/Items/MagicItemCrafting)
 - **Customization**
 	- [Custom Ancestries](/Advanced/Custom/Ancestries)
-	- [Ancestry Abilities](/Core/Characters/AncestryAbilities)
+	- [Ancestry Abilities](/Core/Characters/Ancestry_Abilities)
 	- [Custom Archetypes](/Advanced/Custom/Archetypes)
 	- [Custom Backgrounds](/Advanced/Custom/Backgrounds)
 - **Extended Systems**
-	- [Advanced Ailments](/Advanced/Extensions/AdvancedAilments)
-	- [Epic Characters](/Advanced/Extensions/EpicCharacters)
+	- [Advanced Ailments](/Advanced/Extensions/Advanced_Ailments)
+	- [Epic Characters](/Advanced/Extensions/Epic_Characters)
 - **World Systems**
-	- [Professions and Wages](/Advanced/World/ProfessionsAndWages)
+	- [Professions and Wages](/Advanced/World/Professions_and_Wages)
 - [Appendix](/Core/Appendix)
