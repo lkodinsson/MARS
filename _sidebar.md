@@ -1,4 +1,5 @@
-* [What is MARS?](/)
+---
+	- [What is MARS?](https://mars.nebtown.info/)
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
 	- [Characters Features](/Core_Rules/Character_Features)
@@ -40,5 +41,6 @@
 	- [Effects](/Reference/Effects)
 	- [Glossary](/Reference/Glossary)
 	- [Appendix](/Reference/Appendix)
+---
 - **Links**
 	- [Docsify](https://docsify.js.org/)
