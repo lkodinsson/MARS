@@ -1,3 +1,4 @@
+---
 - [What is MARS?](/)
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
@@ -31,6 +32,7 @@
 - **Reference**
 	- [Ancestry Abilities](/Reference/Ancestry_Abilities)
 	- [Equipment Properties](/Reference/Equipment_Properties)
+	- [Effects](/Reference/Effects)
 	- [Glossary](/Reference/Glossary)
 	- [Appendix](/Reference/Appendix)
 ---

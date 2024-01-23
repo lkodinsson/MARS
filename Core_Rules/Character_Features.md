@@ -1,4 +1,4 @@
-# Characters
+# Character Features
 
 ## Primary Stats
 
