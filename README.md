@@ -6,7 +6,7 @@
 
 All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB). Additional information and reference tables can be found in the [**Appendix**](/Core/Appendix).
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Core/PHB#creating-a-character). In the sidebar there are links to various sources of information such as character ancestries, backgrounds, and archtypes.
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the [**Creation and Advancement**](/Core/PHB/Creation_and_Advancement) chapter of the *Player's Handbook*. In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process.
 
 <!--
 * Character Creation
