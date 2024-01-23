@@ -56,4 +56,4 @@ The following rules are entirely optional, and their use is determined by the Ga
 	* [Professions and Wages](/Advanced/World/ProfessionsAndWages.md)
 -->
 
-*[MARS](Modular Adventure Role-playing System)
+*[MARS]: Modular Adventure Role-playing System
