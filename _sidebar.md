@@ -1,5 +1,4 @@
----
-- [What is MARS?](/)
+* [What is MARS?](/)
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
 	- [Characters Features](/Core_Rules/Character_Features)
@@ -41,6 +40,5 @@
 	- [Effects](/Reference/Effects)
 	- [Glossary](/Reference/Glossary)
 	- [Appendix](/Reference/Appendix)
----
-- Links
+- **Links**
 	- [Docsify](https://docsify.js.org/)
