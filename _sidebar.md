@@ -1,5 +1,5 @@
 ---
-	- [What is MARS?](https://mars.nebtown.info/)
+- [What is MARS?](https://mars.nebtown.info/)
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
 	- [Characters Features](/Core_Rules/Character_Features)
