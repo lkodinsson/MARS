@@ -27,8 +27,14 @@
 - **Extended Systems**
 	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)
 	- [Epic Characters](/Extended_Systems/Epic_Characters)
+- **Game Master's Guide**
+	- [World Building](/GMG/World_Building)
 - **World Systems**
 	- [Professions and Wages](/World_Systems/Professions_and_Wages)
+- **Bestiary**
+	- [Beasts](/Bestiary/Beasts)
+	- [Monsters](/Bestiary/Monsters)
+	- [Humanoids](/Bestiary/Humanoids)
 - **Reference**
 	- [Ancestry Abilities](/Reference/Ancestry_Abilities)
 	- [Equipment Properties](/Reference/Equipment_Properties)
@@ -37,4 +43,4 @@
 	- [Appendix](/Reference/Appendix)
 ---
 - Links
-	- [Docsify](https://github.com/docsifyjs/docsify)
+	- [Docsify](https://docsify.js.org/)
