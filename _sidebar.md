@@ -1,31 +1,35 @@
-- [Introduction](README)
-- [Player's Handbook](Core/PHB)
-- Character Creation
+- [What is MARS?](/)
+- [Player's Handbook](/Core/PHB)
+	- [1. Introduction](/Core/PHB/Introduction)
+	- [2. Characters](/Core/PHB/Characters)
+	- [3. Encounters and Abilities](/Core/PHB/Encounters_and_Abilities)
+	- [4. Creation and Advancement](/Core/PHB/Creation_and_Advancement)
+- **Character Features**
 	- [Ancestries](/Core/Characters/Ancestries)
 	- [Backgrounds](/Core/Characters/Backgrounds)
 	- [Archetypes](/Core/Characters/Archetypes)
-	- [Skills](/Core/PHB#skills-1)
+	- Skills
 	- [Traits](/Core/Characters/Traits)
-- Character Abilities
 	- [Talents](/Core/Characters/Talents)
 	- [Maneuvers](/Core/Characters/Maneuvers)
 	- [Spellcasting](/Core/Characters/Spellcasting)
-		- [Spells](/Core/Characters/Spells)
-		- [Spells Index](/Core/Characters/SpellsIndex)
-- Items
+	- [Spells](/Core/Characters/Spells)
+	- [Spells Index](/Core/Characters/SpellsIndex)
+- **Items**
 	- [Equipment](/Core/Items/Equipment)
-		- [Equipment Properties](/Core/Items/EquipmentProperties)
-		- [Item Crafting](/Core/Items/ItemCrafting)
+	- [Equipment Properties](/Core/Items/EquipmentProperties)
+	- [Item Crafting](/Core/Items/ItemCrafting)
 	- [Magic Equipment](/Core/Items/MagicEquipment)
-		- [Artifact Equipment](/Core/Items/ArtifactEquipment)
-		- [Magic Item Crafting](/Core/Items/MagicItemCrafting)
-- Customization
+	- [Artifact Equipment](/Core/Items/ArtifactEquipment)
+	- [Magic Item Crafting](/Core/Items/MagicItemCrafting)
+- **Customization**
 	- [Custom Ancestries](/Advanced/Custom/Ancestries)
-		- [Ancestry Abilities](/Core/Characters/AncestryAbilities)
+	- [Ancestry Abilities](/Core/Characters/AncestryAbilities)
 	- [Custom Archetypes](/Advanced/Custom/Archetypes)
 	- [Custom Backgrounds](/Advanced/Custom/Backgrounds)
-- Extended Systems
+- **Extended Systems**
 	- [Advanced Ailments](/Advanced/Extensions/AdvancedAilments)
 	- [Epic Characters](/Advanced/Extensions/EpicCharacters)
-- World Systems
+- **World Systems**
 	- [Professions and Wages](/Advanced/World/ProfessionsAndWages)
+- [Appendix](/Core/Appendix)

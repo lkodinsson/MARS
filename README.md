@@ -1,13 +1,14 @@
-# Introduction
+# What is MARS?
 
-The **Modular Adventure Role-playing System** or **MARS** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the *Game Master* or GM) describes the events that occur, while the other players (the *characters*) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core/PHB.md#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
+**MARS** or **Modular Adventure Role-playing System** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the *Game Master* or GM) describes the events that occur, while the other players (the *characters*) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core/PHB.md#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
 
 # Learning to Play
 
-All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB.md). Additional information and reference tables can be found in the [**Appendix**](/Core/Appendix.md).
+All of the cores rules are defined in the [**Player's Handbook**](/Core/PHB). Additional information and reference tables can be found in the [**Appendix**](/Core/Appendix).
 
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Core/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character, with some content marked with their genre:
+Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Core/PHB#creating-a-character). In the sidebar there are links to various sources of information such as character ancestries, backgrounds, and archtypes.
 
+<!--
 * Character Creation
 	* [Ancestries](/Core/Characters/Ancestries.md)
 	* [Backgrounds](/Core/Characters/Backgrounds.md)
@@ -53,3 +54,4 @@ The following rules are entirely optional, and their use is determined by the Ga
 	* [Epic Characters](/Advanced/Extensions/EpicCharacters.md)
 * World Systems
 	* [Professions and Wages](/Advanced/World/ProfessionsAndWages.md)
+-->
