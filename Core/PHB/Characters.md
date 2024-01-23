@@ -1,6 +1,6 @@
-Characters are made up of several parts, such as stats and skills, which allow them to interact with the game world. 
+# Characters
 
-# Primary Stats
+## Primary Stats
 
 Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
 
@@ -33,7 +33,7 @@ Intelligence determines how well your character learns and reasons, is for those
 
 Resolve is the determination, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate effectively with others.
 
-# Secondary Stats
+## Secondary Stats
 
 Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry.
 
@@ -117,7 +117,7 @@ Size is measured in size categories. Most characters will normally be considered
 | Very Large | 2½m~3m | 90kg~250kg | +2 | -1 | +1 |
 | Huge | 3m~4m | 150kg~500kg | +3 | -2 | +1 |
 
-# Skills
+## Skills
 
 Skills represent practice in various physical and mental abilities and are what make certain types of actions easier to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
 
@@ -135,7 +135,7 @@ Skills represent practice in various physical and mental abilities and are what 
 | r18 | Expert |
 | r20 | Master |
 
-## Skill Checks
+### Skill Checks
 
 If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure.
 
@@ -149,7 +149,7 @@ For example: A character attacks another and the defender rolls deflection to de
 
 For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in anything other than a tie will determine one winner and one loser. Grazes are not possible in this type of opposed check.
 
-### Challenge Difficulty
+#### Challenge Difficulty
 
 Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
 
@@ -220,39 +220,39 @@ Under normal circumstances you will dictate what you do rather than specifying t
 
 For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
-## Basic Skills
+### Basic Skills
 
 All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *agility*, *athletics*, *charisma*, *knowledge*, and *perception*.
 
-### Agility (DEX)
+#### Agility (DEX)
 
 Light and fast movement are the work of agility. This skill allows you to perform dives, flips, walk silently, hide in dark areas, and squeeze into tight spaces.
 
-### Athletics (STR)
+#### Athletics (STR)
 
 You use the strength of your body to manipulate the world around you and move within it. Athletics includes lifting, climbing, swimming, and jumping, among other physical activities.
 
-### Charisma (RES)
+#### Charisma (RES)
 
 The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion. The use of charisma is not limited to coercing others to follow your lead, it also includes the effort to get others to appeal to your genuine interest.
 
-### Knowledge (INT)
+#### Knowledge (INT)
 
 Knowledge represents your ability to recall information. It can be anything from the widely available to the potentially unknown, such as historical events, people, or organizations to secret societies, or the occult. Primarly this skill is used to recall information linked to your character's background and other skills. Recalling information outside your character's expertise is much more difficult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity.
 
-### Perception (DEX)
+#### Perception (DEX)
 
 Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps. This skill covers the use of all major senses. Even if one sense is limited, it may still be possible to use your other senses to make up for it. 
 
-## Complex Skills
+### Complex Skills
 
 Unlike basic skills, a character must be at least trained in an complex skill to use it unless their ancestry or background provides a bonus to that skill. Some additional genres provide their own complex skills, but regardless of genre there are five main complex skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered complex skills.
 
-### Contacts (RES)
+#### Contacts (RES)
 
 Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill may even used to determine if you already have an existing rapport with newly introduced non-player characters.
 
-### Craft (INT)
+#### Craft (INT)
 
 Adventurers may often find themselves in unexpected situations. Crafting can allow for the improvisational construction of traps and tools, for tying strong knots, and even the repair of damaged items. While not necessarily a craft itself, it can even be used to appraise the quality of goods and equipment, or learn how to use unrecognizable equipment.
 
@@ -261,53 +261,53 @@ This skill can also be used to make higher quality custom equipment. When doing 
 Click [here](/Core/ItemCrafting.md) to go the page dedicated to item crafting.  
 Click [here](/Core/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
 
-### Medicine (INT)
+#### Medicine (INT)
 
 This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall information on medicines and herbs.
 
-### Sleight (DEX)
+#### Sleight (DEX)
 
 Whether its traps, locks, pockets, or just fancy tricks, all such things are within your grasp. While this skill is generally used for everything a thief would do, it can also be used to conceal objects and perform tricks. This skill is also used to construct disguises for to hiding in plain sight.
 
-### Wild Empathy (RES)
+#### Wild Empathy (RES)
 
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone.
 
 While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
 
-## Combat Skills
+### Combat Skills
 
 There are four main combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Attacks can be made with any weapon by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
 
-### Finesse (DEX)
+#### Finesse (DEX)
 
 Combat with small or precise weapons. This skill is dedicated to utilizing fast attacks to constantly threaten opponents and find openings and weak spots.
 
-### Martial (DEX)
+#### Martial (DEX)
 
 Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
 
-### Ranged (DEX)
+#### Ranged (DEX)
 
 Ranged combat includes the use of all weapons that involve projectiles, such as bows, guns, and throwing weapons.
 
-### Unarmed (DEX)
+#### Unarmed (DEX)
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
 
-## Supernatural Skills
+### Supernatural Skills
 
-### Animism (RES)
+#### Animism (RES)
 
-### Faith (RES)
+#### Faith (RES)
 
-### Ki
+#### Ki
 
-### Sorcery (RES)
+#### Sorcery (RES)
 
-### Wizardry (INT)
+#### Wizardry (INT)
 
-## Languages
+### Languages
 
 When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 

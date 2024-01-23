@@ -1,4 +1,6 @@
-# Creating a Character
+# Creation and Advancement
+
+## Creating a Character
 
 The process of creating a character is a series of small steps. A character is made up of a few aspects: *ancestry*, *background*, *archetype*, and *trait*. As a reminder, whenever you assign any stat or skill a roll value, it does not mean to roll those dice and assign it the resulting value. It means that you assign it the roll value itself. This represents what you roll when you use that stat or skill.
 
@@ -104,7 +106,7 @@ If a character exceeds their light capacity they become encumbered (getting a di
 
 Casual carrying of items over extended periods of time is different than momentary displays of physical ability. Typically you can expect that someone can lift items near their heavy capacity over a very short distance, and push or drag something weighing four times that amount over a moderate distance (up to ten times that amount if assisted by wheels).
 
-# Advancing a Character
+## Advancing a Character
 
 As you play the game your character will acquire experience points. These points can then be spent to improve your character's stats and skills, and to acquire new talents. Total experience points gained and total experience points spent are tracked separately.
 

@@ -1,4 +1,6 @@
-# Encounters
+# Encounters and Abilities
+
+## Encounters
 
 Encounters are time-sensitive scenarios where each action you take matters. Encounters typically begin in a few different ways:
 
@@ -13,7 +15,7 @@ Encounters from start to end follow this sequence:
 3. Characters who are not surprised take turns in initiative order for their team during the surprise round.
 4. After the surprise round (if any), all characters take turns in initiative order for their team during regular rounds. This repeats until the encounter ends.
 
-### Initiative
+#### Initiative
 
 When it comes time to begin an encounter each player will roll their *initiative*, which is their *dexterity* plus their *resolve*. The team with the highest individual iniative roll goes first. On a tie, the Game Master decides who goes first (usually favouring the player team).
 
@@ -21,19 +23,19 @@ If there are multiple teams in conflict (such as during a combat encounter), eac
 
 For example: Four players attempt to sneak up on two guards. They fail to be stealthy and alert the guards who begin to attack the players. All six characters will roll for initiative. One of the players rolled the highest initiative so their team will go first. Player #1 will act, then Guard #1, Player #2, Guard #2, Player #3, and finally Player #4. The team containing the players had more characters to act, but each team's members still get to act.
 
-### Rounds
+#### Rounds
 
 Each round represents about six seconds in the game world, meaning there are 10 rounds in a minute. During each round each character will be able perform up to their entire turn's worth of actions.
 
 When the rules refer to a number of rounds, this means from the start of the turn in which that duration began to the start of a turn in a future round. This means that a one round long effect ends at the beginning of a character's next turn, but before they take any actions.
 
-### Complex Challenges
+#### Complex Challenges
 
 Some encounters are considered complex challenges: there is a limited amount of time to complete them, or a series of skill checks are required to overcome them. In these encounters the exact duration of a player's turn is abstract and non-specific. Since players will usually be performing skill checks, the average duration of a turn is the average time it takes to perform all of the player's skill checks and minor actions (assuming they all take about the same amount of time).
 
 Most basic combat scenarios can be considered complex challenges rather than tactical combat encounters. In these situations it is more common for simple enemies to go down in a single hit, while elite enemies will require more significant damage before becoming defeated.
 
-## Actions
+### Actions
 
 During an encounter with more concrete turn length (such as a tactical combat), any action that you take uses a specific portion of your turn. This is called the *action speed* and is measured by a number of actions points ranging from 0 to 3, and each turn you will have 3 action points to spend on actions.
 
@@ -145,7 +147,7 @@ You may also use this action at an action speed of 0 if you have moved more than
 
 Skills can be performed as normal during any type of encounter. The exact duration that a skill takes to perform is the same as it would be during any complex challenge. Some skills may take more than a few minutes to complete. This means that most characters who attempt to use complex skills during an encounter may find themselves unable to perform other actions until the action is completed (unless they leave their attempt as incomplete).
 
-# Damage
+## Damage
 
 When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction or by half if the hit that dealt damage was a graze (whichever reduces more damage). No matter how much damage reduction a character has, the minimum amount of damage they must take is 1.
 
@@ -159,7 +161,7 @@ For example: breaking a door with an axe would be an Athletics or Martial check 
 
 Damage that is halved or doubled multiple times are modified at an altered rate. If damage would be halved twice, it is instead reduced into a third. If it would be halved again, it is reduced to a quarter, and so on. Similarly, if damage is doubled twice, it is instead increased to a triple. If it would be douled again, it is increased to a quadruple, and so on.
 
-## Damage Types
+### Damage Types
 
 There are three main categories of damage types: *physical*, *elemental*, and *typeless*.
 
@@ -169,7 +171,7 @@ Most other damage is dealt as elemental damage. By default, all elemental damage
 
 Any time a damage type is not listed as one of the physical or elemental damage types it can be considered typeless damage. Since typeless damage effectively has no type, it will always bypass all damage reduction. Typeless damage is very rare.
 
-# Effects
+## Effects
 
 The duration of any given effect is determined by the source of that effect. Unless otherwise specified by the source of the effect, or the effect itself, the effect is permanent. Most effects are typically temporary.
 
@@ -237,13 +239,13 @@ If a character is in the middle of an action or readying an action and they beco
 
 Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual. When a character becomes unconscious they also become prone.
 
-# Concentration
+## Concentration
 
 Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
 
 Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If successful, the concentration is maintained. If the source does not have a difficulty value, then make the check against a difficulty of 10 instead.
 
-# Maneuvers
+## Maneuvers
 
 Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
 
@@ -269,7 +271,7 @@ Although maneuvers must normally be learned in order to use, you may also improv
 
 For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so you perform it at a speed of 2 instead of 1.
 
-# Resting
+## Resting
 
 At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and focus). In order to restore these resources, you need to rest. There are two different types of rest: the short rest and the long rest. Depending on the type of rest performed, you will recover a different amount of spent resources.
 

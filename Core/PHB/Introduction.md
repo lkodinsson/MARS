@@ -1,10 +1,12 @@
-# The Basics
+# Introduction
+
+## The Basics
 
 **MARS** features many similarities to other role-playing game systems. You will control a character that is defined by several abstract features. These features are called *stats*, *skills*, *talents*, and *traits*. Stats and skills are represented by dice or numbers, while talents and traits represent special abilities or actions that a character can perform. As players progress they will be awarded experience points that they can spend to improve the stats and skills of their character, or to acquire new talents.
 
 As a player you will interact inside a world controlled by a Game Master who determines certain properties about the world, such as the genre and setting. The genre of a world determines a lot of its core features like what types of abilities characters can use, what types of characters you will expect to play as and interact with, and what type of technology is present in that world.
 
-## Roll Value
+### Roll Value
 
 Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, and roll value is more of a shorthand representation. Normal dice notation may become long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
 
@@ -39,23 +41,23 @@ Below is a table for visualization (with a more full table available in the [app
 
 Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus any modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above.
 
-## Stats
+### Stats
 
 Stats represent the innate capabilities of a character. There are two types of stats: *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are more specific properties of a character. While primary stats are something a character simply has, secondary stats are derived from other sources (such as primary stats).
 
-## Skills
+### Skills
 
 Skills represent what your character is practiced in. Like primary stats, skills are represented by a roll value. The two types of skills are *basic skills* and *complex skills*. Basic skills are tasks that anyone can perform, while complex skills can only be performed by characters that are at least trained in that skill. Some of the complex skills that a character can learn depend on the genre you are playing in. While someone who can cast spells might be more typical of a fantasy genre, it would not be as common in a modern genre.
 
-## Talents
+### Talents
 
 Talents are powerful abilities that characters can learn. They usually provide you the ability to perform unique actions that are not simple enough to be performed by skills, or are modifiers to how a character performs their normal abilities. Most talents that can be acquired are dependant on the type of genre you are playing (similar to complex skills).
 
-## Traits
+### Traits
 
 Traits are unique abilities that usually only belong to a single character. They are often an ability that a character can perform, or something they have that affects their life. They are opportunities to roleplay in a way that uniquely fits your character and help them differentiate from other characters that would otherwise be very similar to them.
 
-# Playing the Game
+## Playing the Game
 
 Typically game sessions go as follows: the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses to the next scene. Through the act of description and exposition, your characters and the world they inhabit become alive.
 
@@ -65,7 +67,7 @@ While describing what your character does, try not to detail the results of your
 
 If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
 
-## Genres
+### Genres
 
 There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more.
 
