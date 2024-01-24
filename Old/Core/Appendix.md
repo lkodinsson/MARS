@@ -176,7 +176,7 @@ The following tables are example tasks at various difficulties for some of the b
 
 Below is a table to use as a reference for converting roll values to dice notation.
 
-##### Table: Roll Values from r2 to r40
+##### Table: Roll Values, Expanded
 | Roll Value | Dice to Roll | Passive Value | Total Dice |
 |:-:|:-|:-:|:-:|
 | r2 | 1d2 (coin) | 1 | 1 |

@@ -8,39 +8,35 @@ As a player you will interact inside a world controlled by a Game Master who det
 
 ### Roll Value
 
-Most roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*. Some characteristics or numbers may be represented by this roll value. The main difference in this notation is that while common dice notation will specify exactly what dice to roll, and roll value is more of a shorthand representation. Normal dice notation may become long and complicated, such as: *2d10+1d6+1d4+1*. This is difficult to read, so roll value is designed to be shorter, easier to read, and represent a whole group of dice to roll.
+Most roleplaying games typically use standard [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*, which is used to represent many of the game's numeric values. It is used as a shorthand for one or more dice that you will roll when you need to perform any game action using whatever stat, skill, talent, or ability, that has that roll value.
 
-Roll value will typically have one or two numbers: *r14+1*. The first number following the *r* represents the roll value, and therefore what dice to roll, and the second value represents a numerical modifier as a plus or minus. Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size.
+Roll values will typically have one or two numbers like so: *r14+1*. The first number following the *r* represents the roll value--and therefore what dice to roll--and the second value represents a numerical modifier as a plus or minus. Below is a table for visualization (with a more full table available in the [appendix](/Reference/Appendix#roll-values)):
 
-For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
+> ##### Table: Roll Values
+> | Roll Value | Dice to Roll | Number of Dice |
+> |:-:|:-|:-:|
+> | r4 | 1d4 | 1 |
+> | r6 | 1d6 | 1 |
+> | r8 | 1d8 | 1 |
+> | r10 | 1d10 | 1 |
+> | r12 | 1d12 | 1 |
+> | r14 | 1d10+1d4 | 2 |
+> | r16 | 1d10+1d6 | 2 |
+> | r18 | 1d10+1d8 | 2 |
+> | r20 | 2d10 | 2 |
+> | r22 | 1d12+1d10 | 2 |
+> | r24 | 2d10+1d4 | 3 |
+> | r26 | 2d10+1d6 | 3 |
+> | r28 | 2d10+1d8 | 3 |
+> | r30 | 3d10 | 3 |
 
-There is only one exception to this: if you get a remainder of 2 then you upgrade one of those ten-sided-dice to a twelve-sided-die instead.
+Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
 
-For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
+There is only one exception to this is: if you get a remainder of 2 then you upgrade one of those ten-sided-dice to a twelve-sided-die instead of rolling an additional die. For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
 
-Whenever you add multiple roll values together, they merge into a combined roll value: *r14* plus *r8* equals *r22*.
+Whenever you add multiple roll values together, they merge into a combined roll value. For example: *r14* plus *r8* equals *r22*.
 
-Below is a table for visualization (with a more full table available in the [appendix](/Core/Appendix.md#roll-values)):
-
-| Roll Value | Dice to Roll | Number of Dice |
-|:-:|:-|:-:|
-| r4 | 1d4 | 1 |
-| r6 | 1d6 | 1 |
-| r8 | 1d8 | 1 |
-| r10 | 1d10 | 1 |
-| r12 | 1d12 | 1 |
-| r14 | 1d10+1d4 | 2 |
-| r16 | 1d10+1d6 | 2 |
-| r18 | 1d10+1d8 | 2 |
-| r20 | 2d10 | 2 |
-| r22 | 1d12+1d10 | 2 |
-| r24 | 2d10+1d4 | 3 |
-| r26 | 2d10+1d6 | 3 |
-| r28 | 2d10+1d8 | 3 |
-| r30 | 3d10 | 3 |
-
-Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus any modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above.
-
+<!--
 ### Stats
 
 Stats represent the innate capabilities of a character. There are two types of stats: *primary stats* and *secondary stats*. Primary stats are represented by a roll value, and represent how well a character can perform universal tasks. Secondary stats are represented by either a roll value or flat numbers and are more specific properties of a character. While primary stats are something a character simply has, secondary stats are derived from other sources (such as primary stats).
@@ -56,6 +52,7 @@ Talents are powerful abilities that characters can learn. They usually provide y
 ### Traits
 
 Traits are unique abilities that usually only belong to a single character. They are often an ability that a character can perform, or something they have that affects their life. They are opportunities to roleplay in a way that uniquely fits your character and help them differentiate from other characters that would otherwise be very similar to them.
+-->
 
 ## Playing the Game
 
