@@ -4,9 +4,7 @@
 
 #### Learning to Play
 
-All of the cores rules are defined in the [**Player's Handbook**](/Core_Rules/Introduction), with additional information and reference tables in the [**Appendix**](/Reference/Appendix).
-
-Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the final chapter of the Player's Handbook: [**Creation and Advancement**](/Core/PHB/Creation_and_Advancement). In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process.
+The first chapter, [**Introduction**](/Core_Rules/Introduction), is a great place to start with learning the rules of the game. Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the fourth chapter of the core rules: [**Creation and Advancement**](/Core_Rules/Creation_and_Advancement). In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process. For additional minor details there is also the reference section, especially the [**Appendix**](/Reference/Appendix) which contains several expanded tables, as well as some examples of tasks you might expect to perform with character skills (and how difficult they are).
 
 <!--
 * Character Creation

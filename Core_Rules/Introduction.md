@@ -6,29 +6,29 @@
 
 As a player you will interact inside a world controlled by a Game Master who determines certain properties about the world, such as the genre and setting. The genre of a world determines a lot of its core features like what types of abilities characters can use, what types of characters you will expect to play as and interact with, and what type of technology is present in that world.
 
-### Roll Value
+## Roll Value
 
 Most roleplaying games typically use standard [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*, which is used to represent many of the game's numeric values. It is used as a shorthand for one or more dice that you will roll when you need to perform any game action using whatever stat, skill, talent, or ability, that has that roll value.
 
 Roll values will typically have one or two numbers like so: *r14+1*. The first number following the *r* represents the roll value--and therefore what dice to roll--and the second value represents a numerical modifier as a plus or minus. Below is a table for visualization (with a more full table available in the [appendix](/Reference/Appendix#roll-values)):
 
-> ##### Table: Roll Values
-> | Roll Value | Dice to Roll | Number of Dice |
-> |:-:|:-|:-:|
-> | r4 | 1d4 | 1 |
-> | r6 | 1d6 | 1 |
-> | r8 | 1d8 | 1 |
-> | r10 | 1d10 | 1 |
-> | r12 | 1d12 | 1 |
-> | r14 | 1d10+1d4 | 2 |
-> | r16 | 1d10+1d6 | 2 |
-> | r18 | 1d10+1d8 | 2 |
-> | r20 | 2d10 | 2 |
-> | r22 | 1d12+1d10 | 2 |
-> | r24 | 2d10+1d4 | 3 |
-> | r26 | 2d10+1d6 | 3 |
-> | r28 | 2d10+1d8 | 3 |
-> | r30 | 3d10 | 3 |
+##### Table: Roll Values
+| Roll Value | Dice to Roll | Number of Dice |
+|:-:|:-|:-:|
+| r4 | 1d4 | 1 |
+| r6 | 1d6 | 1 |
+| r8 | 1d8 | 1 |
+| r10 | 1d10 | 1 |
+| r12 | 1d12 | 1 |
+| r14 | 1d10+1d4 | 2 |
+| r16 | 1d10+1d6 | 2 |
+| r18 | 1d10+1d8 | 2 |
+| r20 | 2d10 | 2 |
+| r22 | 1d12+1d10 | 2 |
+| r24 | 2d10+1d4 | 3 |
+| r26 | 2d10+1d6 | 3 |
+| r28 | 2d10+1d8 | 3 |
+| r30 | 3d10 | 3 |
 
 Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
 
@@ -64,7 +64,7 @@ While describing what your character does, try not to detail the results of your
 
 If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
 
-### Genres
+## Genres
 
 There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more.
 

@@ -5,27 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-
-  <!-- Replace with your own title and description. -->
   <title>Modular Adventure Role-playing System</title>
   <meta name="description" content="MARS is a generic role-playing system similar to the popular Dungeons & Dragons role-playing system.">
   
   <!-- Default Theme (see https://docsify.js.org/#/themes) -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   
-  <!-- Themeable -->
-  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">-->
-  
   <!-- DarkLight Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css">
-
-  <!--
-  <style>
-     :root {
-       /* style */
-     }
-   </style>
-   -->
 </head>
 
 <body>
@@ -45,19 +32,18 @@
 
       // Search Plugin Configuration
       search: {
+		paths: 'auto',
         placeholder: 'Type to search',
         noData: 'No matches found.',
         // Headline depth, 1 - 6
-        depth: 2,
+        depth: 3,
+		hideOtherSidebarContent: true,
       },
 	  
-	  // Themeable
-	  /*
-	  themeable: {
-          readyTransition : true, // default
-          responsiveTables: true  // default
-      },
-	  */
+	  // Mustache Configuration
+	  mustache: {
+		noPackage: true
+	  },
 	  
 	  // DarkLight Theme
 	  darklightTheme: {
@@ -100,21 +86,26 @@
   </script>
 
   <!-- Required -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-  <!--<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>-->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!--<script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>-->
 
   <!-- Default Plugins -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <!--<script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>-->
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   
   <!-- Pagination -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   
   <!-- DarkLight Theme -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+  
+  <!-- Markdown Mustache -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
   
   <!-- Disabled -->
-  <!--<script src="https://cdn.jsdelivr.net/npm/docsify-example-panels"></script>-->
+  <!--<script src="//cdn.jsdelivr.net/npm/docsify-example-panels"></script>-->
   <!--<script src="./plugins/docsify-glossary.min.js"></script>-->
 
 </body>

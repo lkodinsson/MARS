@@ -169,12 +169,12 @@ Below is a visualization of what you need to roll to meet various success thresh
 ##### Table: Outcome vs Difficulty
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>10 (Moderate)</nobr> | 3 or less | 4~9 | 10~16 | 17 or higher |
-| <nobr>15 (Hard)</nobr> | 8 or less | 9~14 | 15~21 | 22 or higher |
-| <nobr>20 (Challenging)</nobr> | 13 or less | 14~19 | 20~26 | 27 or higher |
-| <nobr>25 (Ambitious)</nobr> | 18 or less | 19~24 | 25~31 | 32 or higher |
+| <nobr>10 (Moderate)</nobr> | <nobr>3 or less</nobr> | 4~9 | 10~16 | <nobr>17 or higher</nobr> |
+| <nobr>15 (Hard)</nobr> | <nobr>8 or less</nobr> | 9~14 | 15~21 | <nobr>22 or higher</nobr> |
+| <nobr>20 (Challenging)</nobr> | <nobr>13 or less</nobr> | 14~19 | 20~26 | <nobr>27 or higher</nobr> |
+| <nobr>25 (Ambitious)</nobr> | <nobr>18 or less</nobr> | 19~24 | 25~31 | <nobr>32 or higher</nobr> |
 
-A more full table is available in the [appendix](/Core/Appendix.md#table-outcome-vs-difficulty-expanded)
+A more full table is available in the [appendix](/Reference/Appendix#table-outcome-vs-difficulty-expanded)
 
 <!--
 For a visualization on what rolls represent different outcomes in relation to various difficulty values:
