@@ -2,7 +2,7 @@
 
 ## Primary Stats
 
-Each character has four Primary Stats that are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
+Each character has four *primary stats* which are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
 
 ##### Table: Primary Stat Steps
 | Roll Value | Step Name |
@@ -17,6 +17,7 @@ Each character has four Primary Stats that are used to derive other stats and ab
 
 Characters typically start with stats ranging from below average (r8) to above average (r12).
 
+<!--
 ### Strength (STR)
 
 Strength measures physical power, and general vitality. This stat is important for atheletes, labourers, and those who engage in physical contests.
@@ -32,13 +33,13 @@ Intelligence determines how well your character learns and reasons, is for those
 ### Resolve (RES)
 
 Resolve is the determination, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate effectively with others.
+-->
 
 ## Secondary Stats
 
-Characters have several secondary stats: *health*, *endurance*, *stamina*, *focus*, *initiative*, *armour rating*, *damage reduction*, *deflection*, *evasion*, *fortitude*, *willpower*, *speed*, and *size*. These stats are typically calculated based on your primary stats. Armour rating and damage reduction are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry.
+Characters also have several *secondary stats*: *health*, *endurance*, *stamina*, *focus*, *fortitude*, *initiative*, *willpower*, *deflection*, *evasion*, *speed*, and *size*. These stats are derived from other sources, such as your primary stats, other character features, and your equipment. For example: *armour rating* and *damage reduction* are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
-The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
-
+<!--
 ##### Table: Secondary Stats
 | Secondary Stat | Formula |
 |:-|:-:|
@@ -46,14 +47,32 @@ The first four of the secondary stats (health, endurance, stamina, and focus) ar
 | Endurance (ED) | Max RES |
 | Stamina (ST) | Max DEX |
 | Focus (FP) | Max INT |
+| Fortitude (FORT) | STR + RES |
 | Initiative (INIT) | DEX + RES |
+| Willpower (WILL) | INT + RES |
 | Deflection (DEF) | RES + AR |
 | Evasion (EVA) | DEX + AR |
-| Fortitude (FORT) | STR + RES |
-| Willpower (WILL) | INT + RES |
 
 For example: if you have a strength of r12, then you have a maximum strength of 12 and therefore 12 health.
+-->
 
+#### Resources
+
+Some secondary stats act as resources, and managing these resources allows that character to survive difficult circumstances and perform exceptional abilities. All resource stats are represent by *maximum* and *current* values, where the amount of that resource you can have is limited by its maximum, and may be spent until they run out. *Health* and *endurance* are used to measure how well your character is surviving damage and physical stress, with endurance being easy to recover and health being difficult to recover. The other two resources are spent to perform special abilities, with *stamina* being used for physical abilities and *focus* being used for mental abilities.
+
+#### Reflexes
+
+When things happen to and around your character, some stats are used to measure your character's response to those events. These stats are basically a form of reflex. *Fortitude* prepares your body for a physical challenge, *initiative* prepares the body to move and detect, and *willpower* prepares the mind to assess or resist influence. In some cases the Game Master may even secretly resolve the use of your character's reflexes (especially initiative), if there is any potential that an outcome should be a secret to your character.
+
+#### Defenses
+
+In contrast to reflexes, the defensive stats of *deflection* and *evasion* are active and decided by player choice. In more direct combat encounters, you will have the choice when attacked to use your choice of deflection or evasion. Deflection being the option to take the threat head on, and evasion allowing you the chance to avoid it entirely. Evasion can be the safer option, but it also requires that you spend your stamina.
+
+#### Innate
+
+There are also simplier innate features like the movement *speed* and physical *size* of characters. Different character ancestries are the primary source for differentiation between these stats, as opposed to primary stats which influence the other secondary stats. These stats also offer more descriptive elements of a character, as size can actually modify several other character stats like strength and speed as well.
+
+<!--
 ### Health (HP)
 
 Health, or hit points, are an abstraction representing how healthy a character is at the current moment. Any damage taken to your health represents a serious injury.
@@ -116,10 +135,11 @@ Size is measured in size categories. Most characters will normally be considered
 | Large | 2m~2½m | 60kg~150kg | +1 | -1 | - |
 | Very Large | 2½m~3m | 90kg~250kg | +2 | -1 | +1 |
 | Huge | 3m~4m | 150kg~500kg | +3 | -2 | +1 |
+-->
 
 ## Skills
 
-Skills represent practice in various physical and mental abilities and are what make certain types of actions easier to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
+Skills represent practice in various physical and mental abilities and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -137,15 +157,11 @@ Skills represent practice in various physical and mental abilities and are what 
 
 ### Skill Checks
 
-If you have taken an action and success is not guaranteed, you will need to make a *skill check*. To do so you will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure.
-
-For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. You will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure. For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
 
 Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 7 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 7 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
 
-Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal.
-
-For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
+Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
 For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in anything other than a tie will determine one winner and one loser. Grazes are not possible in this type of opposed check.
 
@@ -204,21 +220,17 @@ While most basic skills and actions can be performed in a matter of a couple sec
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with advantage. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result.
+Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with *advantage*. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result. *Disadvantage* works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
 
-Disadvantage works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
-
-Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require just as many sources of disadvantage to entirely cancel out.
+Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require amount of disadvantage to entirely cancel out.
 
 ### Group Actions
 
-Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best (or worst depending on the circumstance) result will be used.
+Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best or worst (depending on the circumstance) result will be used.
 
 ### Talents & Special Abilities
 
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what you are using, and then describe what your character does as it performs that action.
-
-For example: You might say, *"I jump across the pit,"* and you would need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* and you might need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
 ### Basic Skills
 
