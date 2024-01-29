@@ -30,9 +30,9 @@ Most roleplaying games typically use standard [dice notation](https://en.wikiped
 
 <sup>Click [here](/Appendix/Expanded_Tables#table-roll-values-expanded) for an expanded table.</sup>
 
-Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
+Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice. There is only one exception to this is: if you get a remainder of 2 then you upgrade one of those ten-sided-dice to a twelve-sided-die instead of rolling an additional die. For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
 
-There is only one exception to this is: if you get a remainder of 2 then you upgrade one of those ten-sided-dice to a twelve-sided-die instead of rolling an additional die. For example: A roll value of 22 would be a ten-sided-die and a twelve-sided-die.
+Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 22 would have a passive value of 11. If it was r22+2, then it would have a passive value of 13.
 
 Whenever you add multiple roll values together, they merge into a combined roll value. For example: *r14* plus *r8* equals *r22*.
 
