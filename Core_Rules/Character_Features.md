@@ -70,7 +70,7 @@ In contrast to reflexes, the defensive stats of *deflection* and *evasion* are a
 
 #### Innate
 
-There are also simplier innate features like the movement *speed* and physical *size* of characters. Different character ancestries are the primary source for differentiation between these stats, as opposed to primary stats which influence the other secondary stats. These stats also offer more descriptive elements of a character, as size can actually modify several other character stats like strength and speed as well.
+There are also simplier innate features like the movement *speed* and physical *size* of characters. Different character ancestries are the primary source for these stats, as opposed to primary stats which influence the other secondary stats.
 
 <!--
 ### Health (HP)
@@ -139,7 +139,7 @@ Size is measured in size categories. Most characters will normally be considered
 
 ## Skills
 
-Skills represent practice in various physical and mental abilities and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name). Rolling dice to determine the outcome of a skill is called a skill check.
+Skills represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name).
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -159,11 +159,9 @@ Skills represent practice in various physical and mental abilities and make cert
 
 If you have taken an action and success is not guaranteed, you will need to make a *skill check*. You will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure. For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling at least 7 above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll at least 7 below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficult value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
-Some circumstances may require a contest between two sources, such as an attacker against a defender. These are called *opposed checks* as both sides are comparing their skills. In cases where one is simply creating a difficulty value for the other, all things function as normal. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
-
-For other types of opposed checks where only one side can win (such as an arm wrestling contest), any comparisons that result in anything other than a tie will determine one winner and one loser. Grazes are not possible in this type of opposed check.
+In other circumstances where two characters are making a comparison of the same skill, those characters will instead need to make *opposed checks*. The results of an opposed check basically only have success or failure for the opposing characters, with the exception of ties. Grazes are not possible in opposed checks. For example: two characters want to compare physical ability and engage in an arm wrestling contest. They will both make athletics checks, with the character rolling highest winning the arm wrestle.
 
 #### Challenge Difficulty
 
@@ -179,16 +177,17 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 25 | Ambitious |
 | 30 | Absurd |
 | 40 | Improbable |
+<!--| 50 | Impossible |-->
 
 Below is a visualization of what you need to roll to meet various success thresholds for each difficulty value:
 
 ##### Table: Outcome vs Difficulty
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>10 (Moderate)</nobr> | <nobr>3 or less</nobr> | 4~9 | 10~16 | <nobr>17 or higher</nobr> |
-| <nobr>15 (Hard)</nobr> | <nobr>8 or less</nobr> | 9~14 | 15~21 | <nobr>22 or higher</nobr> |
-| <nobr>20 (Challenging)</nobr> | <nobr>13 or less</nobr> | 14~19 | 20~26 | <nobr>27 or higher</nobr> |
-| <nobr>25 (Ambitious)</nobr> | <nobr>18 or less</nobr> | 19~24 | 25~31 | <nobr>32 or higher</nobr> |
+| <nobr>10 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~9 | 10~19 | <nobr>20 or higher</nobr> |
+| <nobr>15 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~14 | 15~24 | <nobr>25 or higher</nobr> |
+| <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
+| <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
 
 A more full table is available in the [appendix](/Reference/Appendix#table-outcome-vs-difficulty-expanded)
 

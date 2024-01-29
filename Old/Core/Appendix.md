@@ -18,13 +18,14 @@
 ##### Table: Outcome vs Difficulty, Expanded
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>5 (Easy)</nobr> | -2 or less | -1~4 | 5~11 | 12 or higher |
-| <nobr>10 (Moderate)</nobr> | 3 or less | 4~9 | 10~16 | 17 or higher |
-| <nobr>15 (Hard)</nobr> | 8 or less | 9~14 | 15~21 | 22 or higher |
-| <nobr>20 (Challenging)</nobr> | 13 or less | 14~19 | 20~26 | 27 or higher |
-| <nobr>25 (Ambitious)</nobr> | 18 or less | 19~24 | 25~31 | 32 or higher |
-| <nobr>30 (Absurd)</nobr> | 23 or less | 24~29 | 30~36 | 37 or higher |
-| <nobr>40 (Improbable)</nobr> | 33 or less | 34~39 | 40~46 | 47 or higher |
+| <nobr>5 (Easy)</nobr> | <nobr>0 or less</nobr> | 1~4 | 5~14 | <nobr>15 or higher</nobr> |
+| <nobr>10 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~9 | 10~19 | <nobr>20 or higher</nobr> |
+| <nobr>15 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~14 | 15~24 | <nobr>25 or higher</nobr> |
+| <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
+| <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
+| <nobr>30 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~29 | 30~39 | <nobr>40 or higher</nobr> |
+| <nobr>40 (Improbable)</nobr> | <nobr>35 or less</nobr> | 36~39 | 40~49 | <nobr>50 or higher</nobr> |
+<!--| <nobr>50 (Impossible)</nobr> | <nobr>45 or less</nobr> | 46~49 | 50~59 | <nobr>60 or higher</nobr> |-->
 
 <!--
 ##### Table: Roll vs Difficulty as Outcomes, Expanded

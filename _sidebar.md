@@ -14,7 +14,7 @@
 	- [Talents](/Features/Talents)
 	- [Maneuvers](/Features/Maneuvers)
 	- [Spells](/Features/Spells)
-	- [Powers](/Features/Powers)
+<!--	- [Powers](/Features/Powers)-->
 - **Items**
 	- [Currencies](/Items/Currencies)
 	- [Basic Goods](/Items/Basic_Goods)
@@ -35,12 +35,15 @@
 	- [Beasts](/Bestiary/Beasts)
 	- [Monsters](/Bestiary/Monsters)
 	- [Humanoids](/Bestiary/Humanoids)
-- **Reference**
-	- [Ancestry Abilities](/Reference/Ancestry_Abilities)
-	- [Equipment Properties](/Reference/Equipment_Properties)
-	- [Effects](/Reference/Effects)
-	- [Glossary](/Reference/Glossary)
-	- [Appendix](/Reference/Appendix)
+- **Appendix**
+	- [Changelog](/Appendix/Changelog)
+	- [Glossary](/Appendix/Glossary)
+	- [Effects](/Appendix/Effects)
+	- [Spells Index](/Appendix/Spells_Index)
+<!--	- [Powers Index](/Appendix/Powers_Index)-->
+	- [Ancestry Abilities](/Appendix/Ancestry_Abilities)
+	- [Equipment Properties](/Appendix/Equipment_Properties)
+	- [Expanded Tables](/Appendix/Expanded_Tables)
 ---
 - **Links**
 	- [Docsify](https://docsify.js.org/)
