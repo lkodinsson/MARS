@@ -11,7 +11,6 @@ As a player you will interact inside a world controlled by a Game Master who det
 Most roleplaying games typically use standard [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*, which is used to represent many of the game's numeric values. It is used as a shorthand for one or more dice that you will roll when you need to perform any game action using whatever stat, skill, talent, or ability, that has that roll value. Roll values will typically have one or two numbers like so: *r14+1*. The first number following the *r* represents the roll value--and therefore what dice to roll--and the second value represents a numerical modifier as a plus or minus.
 
 ##### Table: Roll Values
-<sup>Click [here](/Appendix/Expanded_Tables#table-roll-values-expanded) for an expanded table in the appendix.</sup>
 | Roll Value | Dice to Roll | Number of Dice |
 |:-:|:-|:-:|
 | r4 | 1d4 | 1 |
@@ -28,6 +27,8 @@ Most roleplaying games typically use standard [dice notation](https://en.wikiped
 | r26 | 2d10+1d6 | 3 |
 | r28 | 2d10+1d8 | 3 |
 | r30 | 3d10 | 3 |
+
+<sup>Click [here](/Appendix/Expanded_Tables#table-roll-values-expanded) for an expanded table.</sup>
 
 Basically, you count the number of tens in the roll value, then roll that many ten-sided-dice. Any remainder left over is rolled as a die of that size. Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 14 would be a ten-sided-die and a four-sided-die, while a roll value of r20 would be two ten-sided-dice.
 
