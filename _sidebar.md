@@ -1,49 +1,65 @@
 ---
-- [What is MARS?](/)
+<!--	- [What is MARS?](/)-->
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
 	- [Characters Features](/Core_Rules/Character_Features)
-	- [Encounters and Abilities](/Core_Rules/Encounters_and_Abilities)
-	- [Creation and Advancement](/Core_Rules/Creation_and_Advancement)
+	- [Encounters and Abilities](/Core_Rules/Encounters_and_Abilities)*
+	- [Creation and Advancement](/Core_Rules/Creation_and_Advancement)*
+<!--	- [Sample Characters](/Core_Rules/Sample_Characters)*-->
+---
 - **Features**
-	- [Ancestries](/Features/Ancestries)
-	- [Backgrounds](/Features/Backgrounds)
-	- [Archetypes](/Features/Archetypes)
-	- [Skills](/Features/Skills)
-	- [Traits](/Features/Traits)
-	- [Talents](/Features/Talents)
-	- [Maneuvers](/Features/Maneuvers)
-	- [Spells](/Features/Spells)
+	- [Traits](/Features/Traits)*
+	- [Ancestries](/Features/Ancestries)*
+	- [Backgrounds](/Features/Backgrounds)*
+	- [Archetypes](/Features/Archetypes)*
+	- [Talents](/Features/Talents)*
+	- [Skills](/Features/Skills)*
+	- [Maneuvers](/Features/Maneuvers)*
+	- [Spells](/Features/Spells)*
 <!--	- [Powers](/Features/Powers)-->
-- **Items**
-	- [Currencies](/Items/Currencies)
-	- [Basic Goods](/Items/Basic_Goods)
-	- [Equipment](/Items/Equipment)
-	- [Item Crafting](/Items/Item_Crafting)
+- **Equipment**
+	- [Currencies](/Equipment/Currencies)*
+	- [Basic Goods](/Equipment/Basic_Goods)*
+	- [Items](/Equipment/Items)*
+	- [Services](/Equipment/Services)*
+---
 - **Customization**
-	- [Custom Ancestries](/Customization/Custom_Ancestries)
-	- [Custom Archetypes](/Customization/Custom_Archetypes)
-	- [Custom Backgrounds](/Customization/Custom_Backgrounds)
+	- [Custom Ancestries](/Customization/Custom_Ancestries)*
+	- [Custom Backgrounds](/Customization/Custom_Backgrounds)*
+	- [Custom Archetypes](/Customization/Custom_Archetypes)*
+	- [Item Crafting](/Equipment/Item_Crafting)*
 - **Extended Systems**
-	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)
-	- [Epic Characters](/Extended_Systems/Epic_Characters)
+	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)*
+	- [Epic Characters](/Extended_Systems/Epic_Characters)*
+<!--
+---
 - **Game Master's Guide**
 	- [World Building](/GMG/World_Building)
+	- [Sample Adventures](/GMG/Sample_Adventures)
 - **World Systems**
 	- [Professions and Wages](/World_Systems/Professions_and_Wages)
 - **Bestiary**
 	- [Beasts](/Bestiary/Beasts)
 	- [Monsters](/Bestiary/Monsters)
 	- [Humanoids](/Bestiary/Humanoids)
+-->
+---
 - **Appendix**
-	- [Changelog](/Appendix/Changelog)
-	- [Glossary](/Appendix/Glossary)
-	- [Effects](/Appendix/Effects)
-	- [Spells Index](/Appendix/Spells_Index)
+	- [Changelog](/Appendix/Changelog)*
+	- [Glossary](/Appendix/Glossary)*
+	- [Actions](/Appendix/Actions)
+	- [Conditions](/Appendix/Conditions)
+<!--	- [Spells Index](/Appendix/Spells_Index)-->
 <!--	- [Powers Index](/Appendix/Powers_Index)-->
-	- [Ancestry Abilities](/Appendix/Ancestry_Abilities)
-	- [Equipment Properties](/Appendix/Equipment_Properties)
+	- [Ancestry Abilities](/Appendix/Ancestry_Abilities)*
+	- [Equipment Properties](/Appendix/Equipment_Properties)*
 	- [Expanded Tables](/Appendix/Expanded_Tables)
 ---
-- **Links**
+- **Resources and Community**
+	- [Community](/Community)*
+	- [License](/License)
+	- [Contact](/Contact)
+	- [Support Me](https://https://ko-fi.com/lkodinsson/)
+---
+- **Other Links**
 	- [Docsify](https://docsify.js.org/)

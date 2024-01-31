@@ -1,6 +1,10 @@
 # Character Features
 
-## Primary Stats
+## Stats
+
+Stats are numerical and fundamental properties of a character, especially physical properties. Stats are split into two categories, *primary stats* and *secondary stats*. Respectively, these stats describe the broad and narrow features of a character.
+
+### Primary Stats
 
 Each character has four *primary stats* which are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
 
@@ -35,7 +39,7 @@ Intelligence determines how well your character learns and reasons, is for those
 Resolve is the determination, intuition, and spirituality of your character. It is primarily used for characters who want to persevere through pure force of will, practice the arts or business, or communicate effectively with others.
 -->
 
-## Secondary Stats
+### Secondary Stats
 
 Characters also have several *secondary stats*: *health*, *endurance*, *stamina*, *focus*, *fortitude*, *initiative*, *willpower*, *deflection*, *evasion*, *speed*, and *size*. These stats are derived from other sources, such as your primary stats, other character features, and your equipment. For example: *armour rating* and *damage reduction* are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
@@ -139,7 +143,7 @@ Size is measured in size categories. Most characters will normally be considered
 
 ## Skills
 
-Skills represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill whenever it is performed (listed next to that skill's name).
+Skills represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill together whenever they are performed.
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -155,17 +159,17 @@ Skills represent practice in performing various groups of tasks and make certain
 | r18 | Expert |
 | r20 | Master |
 
+All characters can use *any* skill even in they are not trained in that skill. If you do, then you will only get any roll value from that skill's associated stat, because untrained skills have no roll value provided. This means that it is very difficult to succeed with any skills untrained, as the difference between trained and untrained is largest individual gap.
+
 ### Skill Checks
 
 If you have taken an action and success is not guaranteed, you will need to make a *skill check*. You will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure. For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
-
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost, or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficult value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
 In other circumstances where two characters are making a comparison of the same skill, those characters will instead need to make *opposed checks*. The results of an opposed check basically only have success or failure for the opposing characters, with the exception of ties. Grazes are not possible in opposed checks. For example: two characters want to compare physical ability and engage in an arm wrestling contest. They will both make athletics checks, with the character rolling highest winning the arm wrestle.
 
 #### Challenge Difficulty
 
-Various challenges will come at various difficulties. These difficulties are represented by a name and a value. Most challenges requiring you to roll dice will exist within the *moderate* to *ambitious* difficulty range (although more difficult challenges may present themselves) as described by the following table:
+Challenges exist at various difficulties represented by a name and a value. The names of these difficulties can be used as a rough metric for determining the difficulty of any challenge, most of which will exist within the *easy* to *challenging* difficulty range. Anything considered a difficulty of *ambitious* or harder is much rarer.
 
 ##### Table: Challenge Difficulties
 | Difficulty<br/>Value | Difficulty Name |
@@ -179,7 +183,7 @@ Various challenges will come at various difficulties. These difficulties are rep
 | 40 | Improbable |
 <!--| 50 | Impossible |-->
 
-Below is a visualization of what you need to roll to meet various success thresholds for each difficulty value:
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficult value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
 ##### Table: Outcome vs Difficulty
 | Difficulty | Fail | Graze | Success | Critical |
@@ -189,139 +193,50 @@ Below is a visualization of what you need to roll to meet various success thresh
 | <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
 | <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
 
-A more full table is available in the [appendix](/Reference/Appendix#table-outcome-vs-difficulty-expanded)
+<sup>Click [here](/Appendix/Expanded_Tables#outcome-vs-difficulty-expanded) for an expanded table.</sup>
 
 <!--
-For a visualization on what rolls represent different outcomes in relation to various difficulty values:
-
-##### Table: Roll vs Difficulty as Outcomes
-| Roll | 10<br/>(Moderate) | 15<br/>(Hard) | 20<br/>(Challenging) | 25<br/>(Ambitious) |
-|:-:|:-:|:-:|:-:|:-:|
-| 3 | Fail | Fail | Fail | Fail |
-| 5 | Graze | Fail | Fail | Fail |
-| 8 | Graze | Fail | Fail | Fail |
-| 10 | Success | Graze | Fail | Fail |
-| 13 | Success | Graze | Fail | Fail |
-| 15 | Success | Success | Graze | Fail |
-| 17 | Critical | Success | Graze | Fail
-| 18 | Critical | Success | Graze | Fail |
-| 20 | Critical | Success | Success | Graze |
-| 22 | Critical | Critical | Success | Graze |
-| 23 | Critical | Critical | Success | Graze |
-| 25 | Critical | Critical | Success | Success |
-
-A more full table is available in the [appendix](/Core/Appendix.md#table-roll-vs-difficulty-as-outcomes-expanded).
--->
-
 ### Skill Duration
 
 While most basic skills and actions can be performed in a matter of a couple seconds, some complex skills and actions cannot be performed so quickly. While it is expected that most complex actions that a character can take (as a result of skill checks) may take at least a few minutes, the exact duration is up to the Game Master based on the circumstances of the skill check. Some actions may even take several hours.
+-->
 
 ### Advantage & Disadvantage
 
-Occasionally, circumstance, clever roleplaying, or one of your abilities will provide you with *advantage*. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result. *Disadvantage* works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
+Occasionally, circumstance, clever roleplaying, or the use of one of your abilities will provide you with *advantage*. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result. *Disadvantage* works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
 
 Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require amount of disadvantage to entirely cancel out.
 
-### Group Actions
+### Types of Skills
 
-Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best or worst (depending on the circumstance) result will be used.
+Skills fit into several categories, each one interacting primarily with different parts of the game. *General skills* affect most actions that your character takes in all parts of the game. *Combat skills* and *supernatural skills*, provide more unique benefits depending on the skill and for more niche circumstances. *Languages* are also a skill that a character has, but in most cases player characters will usually all have access to the same base language (called *common*) to simplify player to player communication.
 
-### Talents & Special Abilities
+<sup>Click [here](/Appendix/Skills) for the rules for each individual skill.</sup>
 
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, however, these aspects of your character are more under you control. In this circumstance it is more appropriate to declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* and you might need to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+#### General Skills
 
-### Basic Skills
+The majority of skills that exist are general skills, each one fulfilling a different niche. Each of the primary stats has their own grouping of three general skills that they work together with, except for strength which one has one: *athletics*. For dexterity, intelligence, and resolve, they have in order: *agility*, *perception*, and *sleight*, then *craft*, *knowledge*, and *medicine*, and finally *charisma*, *contacts*, and *wild empathy*.
 
-All characters can perform all basic skills, even if they are not trained in them. There are five basic skills: *agility*, *athletics*, *charisma*, *knowledge*, and *perception*.
+#### Combat Skills
 
-#### Agility (DEX)
+Making attacks with a character requires the use of combat skills, all of which use dexterity as their associated stat: *unarmed*, *archery*, *finesse*, and *martial*. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons are flexible enough that they can also be used with multiple different combat skills. Combat skills also provide characters with special abilities called *maneuvers*.
 
-Light and fast movement are the work of agility. This skill allows you to perform dives, flips, walk silently, hide in dark areas, and squeeze into tight spaces.
+<!-- Firearms skills? Light Firearms, Heavy Firearms? -->
 
-#### Athletics (STR)
+#### Supernatural Skills
 
-You use the strength of your body to manipulate the world around you and move within it. Athletics includes lifting, climbing, swimming, and jumping, among other physical activities.
+Supernatural skills represent the ability to perform special abilities outside of the scope of normal physical interactions. This can mean casting spells, psychic projection, or even super hero powers: *animism*, *faith*, *ki*, *sorcery*, and *wizardry*. These types of skills have the most uniquely powerful effects but also the most advanced rules.
 
-#### Charisma (RES)
+<!-- Psionics, Powers -->
 
-The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion. The use of charisma is not limited to coercing others to follow your lead, it also includes the effort to get others to appeal to your genuine interest.
-
-#### Knowledge (INT)
-
-Knowledge represents your ability to recall information. It can be anything from the widely available to the potentially unknown, such as historical events, people, or organizations to secret societies, or the occult. Primarly this skill is used to recall information linked to your character's background and other skills. Recalling information outside your character's expertise is much more difficult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity.
-
-#### Perception (DEX)
-
-Perception is used to track animals, monsters, or people, to detect stealthy individuals, or find hidden secrets and traps. This skill covers the use of all major senses. Even if one sense is limited, it may still be possible to use your other senses to make up for it. 
-
-### Complex Skills
-
-Unlike basic skills, a character must be at least trained in an complex skill to use it unless their ancestry or background provides a bonus to that skill. Some additional genres provide their own complex skills, but regardless of genre there are five main complex skills: *contacts*, *craft*, *medicine*, *sleight*, and *wild empathy*. All additional types of skills, such as combat skills, spellcasting skills, and even languages are also considered complex skills.
-
-#### Contacts (RES)
-
-Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill may even used to determine if you already have an existing rapport with newly introduced non-player characters.
-
-#### Craft (INT)
-
-Adventurers may often find themselves in unexpected situations. Crafting can allow for the improvisational construction of traps and tools, for tying strong knots, and even the repair of damaged items. While not necessarily a craft itself, it can even be used to appraise the quality of goods and equipment, or learn how to use unrecognizable equipment.
-
-This skill can also be used to make higher quality custom equipment. When doing so, it will require that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that relates to the type of items you are crafting. If you do not possess some measure of these things, you can always work together with other characters.
-
-Click [here](/Core/ItemCrafting.md) to go the page dedicated to item crafting.  
-Click [here](/Core/MagicItemCrafting.md) to go the page dedicated to magic item crafting.
-
-#### Medicine (INT)
-
-This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall information on medicines and herbs.
-
-#### Sleight (DEX)
-
-Whether its traps, locks, pockets, or just fancy tricks, all such things are within your grasp. While this skill is generally used for everything a thief would do, it can also be used to conceal objects and perform tricks. This skill is also used to construct disguises for to hiding in plain sight.
-
-#### Wild Empathy (RES)
-
-In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone.
-
-While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests.
-
-### Combat Skills
-
-There are four main combat skills: *finesse*, *martial*, *ranged*, and *unarmed*. Attacks can be made with any weapon by rolling your dexterity to hit with those weapons. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons can be used by multiple skills, which are called cross-skill weapons.
-
-#### Finesse (DEX)
-
-Combat with small or precise weapons. This skill is dedicated to utilizing fast attacks to constantly threaten opponents and find openings and weak spots.
-
-#### Martial (DEX)
-
-Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in Finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier.
-
-#### Ranged (DEX)
-
-Ranged combat includes the use of all weapons that involve projectiles, such as bows, guns, and throwing weapons.
-
-#### Unarmed (DEX)
-
-Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon.
-
-### Supernatural Skills
-
-#### Animism (RES)
-
-#### Faith (RES)
-
-#### Ki
-
-#### Sorcery (RES)
-
-#### Wizardry (INT)
-
-### Languages
+#### Languages
 
 When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
-The availability of languages to your character are determined by the genre that you are in. Usually there is a "common" language that all characters speak, with individual languages for some subgroups. In the fantasy genre it is common for most monstrous creatures to also share an "outsider" language between them.
+## Talents & Other Abilities
+
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+
+Talents are acquired similar to skills, but rather than being represented by a roll value and used with an associated stat, talents are just a special ability. Their entire function is encompassed by what you can do with them or how they modify the overall function of your character.

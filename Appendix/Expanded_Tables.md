@@ -24,6 +24,8 @@
 | r38 | 3d10+1d8 | 19 | 4 |
 | r40 | 4d10 | 20 | 4 |
 
+<sup>Click [here](/Core_Rules/Introduction#table-roll-values) for the original table.</sup>
+
 ##### Table: Outcome vs Difficulty, Expanded
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
@@ -35,3 +37,5 @@
 | <nobr>30 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~29 | 30~39 | <nobr>40 or higher</nobr> |
 | <nobr>40 (Improbable)</nobr> | <nobr>35 or less</nobr> | 36~39 | 40~49 | <nobr>50 or higher</nobr> |
 <!--| <nobr>50 (Impossible)</nobr> | <nobr>45 or less</nobr> | 46~49 | 50~59 | <nobr>60 or higher</nobr> |-->
+
+<sup>Click [here](/Core_Rules/Character_Features#table-outcome-vs-difficulty) for the original table.</sup>

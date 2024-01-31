@@ -340,7 +340,7 @@ Make an agility check if leaping over an obstacle (1m between you and your targe
 **Stamina Cost:** 1  
 **Action Speed:** Reaction
 
-Make a melee attack with +2 to hit against a target moving through your attack range. This maneuver can only be used if the target is moving a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, their movement is stopped at the earliest point that they moved through your attack range.
+Make a melee attack<!-- with +2 to hit--> against a target moving through your attack range. This maneuver can only be used if the target is moving a distance greater than 1m through your attack range, but not if that movement is from an evade action or defensive maneuver. If this attack hits, their movement is stopped at the earliest point that they moved through your attack range.
 
 This maneuver cannot be used while prone.
 

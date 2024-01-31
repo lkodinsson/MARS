@@ -1,55 +1,13 @@
 # What is MARS?
 
-**MARS** or **Modular Adventure Role-playing System** is a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the Game Master or GM) describes the events that occur, while the other players (the characters) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core_Rules/Introduction#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
+**MARS** or **Modular Adventure Role-playing System** is free a [generic role-playing system](https://en.wikipedia.org/wiki/Generic_role-playing_game_system). One player (the Game Master or GM) describes the events that occur, while the other players (the characters) describe the actions they take. Difficult actions may require dice rolls to determine their success, with some tasks being more difficult than others. Many roleplaying games typically use [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll, while MARS uses a modified version of dice notation called [roll value](/Core_Rules/Introduction#roll-value). MARS can be played in various genres, and has optional variant rules to suit your group's playstyle.
 
 #### Learning to Play
 
-The first chapter, [Introduction](/Core_Rules/Introduction), is a great place to start with learning the rules of the game. Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the fourth chapter of the core rules: [Creation and Advancement](/Core_Rules/Creation_and_Advancement). In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process. For additional minor details there is also the appendix section with a [glossary](/Appendix/Glossary), [expanded tables](Appendix/Expanded_Tables), <!-- a [changelog](/Appendix/Changelog), -->, and other information (also in the sidebar).
+The first chapter, [Introduction](/Core_Rules/Introduction), is a great place to start with learning the rules of the game. Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in the fourth chapter of the core rules: [Creation and Advancement](/Core_Rules/Creation_and_Advancement). In the sidebar there are links to information on the various character features (such as ancestries, backgrounds, and archetypes), as well as equipment, to help with this process. For additional minor details there is also the appendix section with a [glossary](/Appendix/Glossary), [expanded tables](Appendix/Expanded_Tables),<!-- a [changelog](/Appendix/Changelog),--> and other information (also in the sidebar).
 
-<!--
-* Character Creation
-	* [Ancestries](/Core/Characters/Ancestries.md)
-	* [Backgrounds](/Core/Characters/Backgrounds.md)
-	* [Archetypes](/Core/Characters/Archetypes.md)
-	* [Skills](/Core/PHB.md#skills-1)
-	* [Traits](/Core/Characters/Traits.md)
-* Character Abilities
-	* [Talents](/Core/Characters/Talents.md)
-	* [Maneuvers](/Core/Characters/Maneuvers.md)
-	* [Spellcasting](/Core/Characters/Spellcasting.md)
-		* [Spells](/Core/Characters/Spells.md)
-		* [Spells Index](/Core/Characters/SpellsIndex.md)
-* Items
-	* [Equipment](/Core/Items/Equipment.md)
-		* [Equipment Properties](/Core/Items/EquipmentProperties.md)
-		* [Item Crafting](/Core/Items/ItemCrafting.md)
-	* [Magic Equipment](/Core/Items/MagicEquipment.md)
-		* [Artifact Equipment](/Core/Items/ArtifactEquipment.md)
-		* [Magic Item Crafting](/Core/Items/MagicItemCrafting.md)
+For those that want more advanced rules systems there is an entire subsection for optional rules designed to expand various parts of the game's systems available in the sidebar. For example: [Epic Characters](/Extended_Systems/Epic_Characters) is a ruleset modification that allows you to extend the limits of character advancement to play more powerful characters like demigods or super heroes by providing more experience as rewards and increasing the maximum limit of stats and skills.
 
-# Game Mastering
+#### Contributing
 
-[**Game Master's Guide**](/Core/GMG.md)
-
-## Reference Material
-
-* Bestiary
-	* [Beasts](/Core/Bestiary/Beasts.md)
-	* [Humanoids](/Core/Bestiary/Humanoids.md)
-	* [Monsters](/Core/Bestiary/Monsters.md)
-
-# Advanced (Variant) Rules
-
-The following rules are entirely optional, and their use is determined by the Game Master.
-
-* Customization
-	* [Custom Ancestries](/Advanced/Custom/Ancestries.md)
-		* [Ancestry Abilities](/Core/Characters/AncestryAbilities.md)
-	* [Custom Archetypes](/Advanced/Custom/Archetypes.md)
-	* [Custom Backgrounds](/Advanced/Custom/Backgrounds.md)
-* Extended Systems
-	* [Advanced Ailments](/Advanced/Extensions/AdvancedAilments.md)
-	* [Epic Characters](/Advanced/Extensions/EpicCharacters.md)
-* World Systems
-	* [Professions and Wages](/Advanced/World/ProfessionsAndWages.md)
--->
+If you would like to help improve this system please see the [contact](/Contact) page where you can send me an email or suggest changes on the github page. You can also send me a donation on [Ko-Fi](https://ko-fi.com/lkodinsson) to help support me financially. If you would prefer to create your own content please see the [licensing](/License) page. I am also available to help freelance custom content or adapt existing content using the system.<!-- For existing works created by the community check out [this](/Community) page.-->
