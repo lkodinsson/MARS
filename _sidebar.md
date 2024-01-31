@@ -31,16 +31,16 @@
 - **Extended Systems**
 	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
 	- [Epic Characters](/Extended_Systems/Epic_Characters)<!---->
-<!--	---
-	- **Game Master's Guide**
-	- [World Building](/GMG/World_Building)
-	- [Sample Adventures](/GMG/Sample_Adventures)
+---
+- **Game Master's Guide**
+	- [World Building](/GMG/World_Building)<!---->
+	- [Sample Adventures](/GMG/Sample_Adventures)<!---->
 - **World Systems**
-	- [Professions and Wages](/World_Systems/Professions_and_Wages)
+	- [Professions and Wages](/World_Systems/Professions_and_Wages)<!---->
 - **Bestiary**
-	- [Beasts](/Bestiary/Beasts)
-	- [Monsters](/Bestiary/Monsters)
-	- [Humanoids](/Bestiary/Humanoids)-->
+	- [Beasts](/Bestiary/Beasts)<!---->
+	- [Monsters](/Bestiary/Monsters)<!---->
+	- [Humanoids](/Bestiary/Humanoids)<!---->
 ---
 - **Appendix**
 	- [Changelog](/Appendix/Changelog)<!---->
