@@ -53,8 +53,9 @@
 	- [Equipment Properties](/Appendix/Equipment_Properties)<!---->
 	- [Expanded Tables](/Appendix/Expanded_Tables)
 ---
-- **Resources and Community**
-	- [Community](/Community)<!---->
+- **Resources**
+<!--	- [Community](/Community)-->
+<!--	- [Store](/Store)-->
 	- [License](/License)
 	- [Contact Info](/Contact_Info)
 	- [Support Me](https://ko-fi.com/lkodinsson/)
