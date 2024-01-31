@@ -31,9 +31,8 @@
 - **Extended Systems**
 	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
 	- [Epic Characters](/Extended_Systems/Epic_Characters)<!---->
-<!--
----
-- **Game Master's Guide**
+<!--	---
+	- **Game Master's Guide**
 	- [World Building](/GMG/World_Building)
 	- [Sample Adventures](/GMG/Sample_Adventures)
 - **World Systems**
@@ -41,8 +40,7 @@
 - **Bestiary**
 	- [Beasts](/Bestiary/Beasts)
 	- [Monsters](/Bestiary/Monsters)
-	- [Humanoids](/Bestiary/Humanoids)
--->
+	- [Humanoids](/Bestiary/Humanoids)-->
 ---
 - **Appendix**
 	- [Changelog](/Appendix/Changelog)<!---->
