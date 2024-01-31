@@ -5,7 +5,7 @@
 	- [Characters Features](/Core_Rules/Character_Features)
 	- [Encounters and Abilities](/Core_Rules/Encounters_and_Abilities)<!---->
 	- [Creation and Advancement](/Core_Rules/Creation_and_Advancement)<!---->
-<!--	- [Sample Characters](/Core_Rules/Sample_Characters)*-->
+<!--	- [Sample Characters](/Core_Rules/Sample_Characters)-->
 ---
 - **Features**
 	- [Traits](/Features/Traits)<!---->
@@ -27,14 +27,14 @@
 	- [Custom Ancestries](/Customization/Custom_Ancestries)<!---->
 	- [Custom Backgrounds](/Customization/Custom_Backgrounds)<!---->
 	- [Custom Archetypes](/Customization/Custom_Archetypes)<!---->
-	- [Item Crafting](/Equipment/Item_Crafting)<!---->
+	- [Item Crafting](/Customization/Item_Crafting)<!---->
 - **Extended Systems**
 	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
 	- [Epic Characters](/Extended_Systems/Epic_Characters)<!---->
 ---
 - **Game Master's Guide**
 	- [World Building](/GMG/World_Building)<!---->
-	- [Sample Adventures](/GMG/Sample_Adventures)<!---->
+<!--	- [Sample Adventures](/GMG/Sample_Adventures)-->
 - **World Systems**
 	- [Professions and Wages](/World_Systems/Professions_and_Wages)<!---->
 - **Bestiary**

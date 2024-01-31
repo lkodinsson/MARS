@@ -183,7 +183,7 @@ Challenges exist at various difficulties represented by a name and a value. The 
 | 40 | Improbable |
 <!--| 50 | Impossible |-->
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficult value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficulty value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
 ##### Table: Outcome vs Difficulty
 | Difficulty | Fail | Graze | Success | Critical |
@@ -193,7 +193,7 @@ Given a roll against any difficulty value, there are multiple possible outcomes:
 | <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
 | <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
 
-<sup>Click [here](/Appendix/Expanded_Tables#outcome-vs-difficulty-expanded) for an expanded table.</sup>
+<sup>Click [here](/Appendix/Expanded_Tables#table-outcome-vs-difficulty-expanded) for an expanded table.</sup>
 
 <!--
 ### Skill Duration
@@ -237,6 +237,6 @@ Whenever your character tries to read, write, speak, or listen to a language tha
 
 ## Talents & Other Abilities
 
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast the spell Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
 Talents are acquired similar to skills, but rather than being represented by a roll value and used with an associated stat, talents are just a special ability. Their entire function is encompassed by what you can do with them or how they modify the overall function of your character.

@@ -36,6 +36,7 @@ Light and fast movement are the work of agility. This skill allows you to perfor
 | Squeezing through a tight space as a Large sized character | 20 (Challenging) |
 | Balancing on slippery surface | 10 (Moderate) |
 | Walking across a beam | 10 (Moderate) |
+| Walking across a slippery beam | 15 (Hard) |
 | Walking a tightrope | 20 (Challenging) |
 | Falling 3m safely | 10 (Moderate) |
 | Falling 5m safely | 15 (Hard) |
@@ -70,6 +71,7 @@ You use the strength of your body to manipulate the world around you and move wi
 The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion. The use of charisma is not limited to coercing others to follow your lead, it also includes the effort to get others to appeal to your genuine interest.
 
 ##### Table: Charisma Common Tasks
+| Task | Difficulty |
 |:-|:-|
 | Convincing a below average or gullible person of a lie | 5 (Easy) |
 | Convincing an average person of a lie | 10 (Moderate) |
@@ -82,6 +84,7 @@ The capacity to convince others to follow your lead, whether that means through 
 Sometimes you just know someone who can get what you need done, and if you don't, maybe you know how to find one. In a city or town there's always that somebody. This skill can be used to find people in urban areas where tracking them with perception can't get the job done. It is likely that this task may involve bribes or threats. This skill may even used to determine if you already have an existing rapport with newly introduced non-player characters.
 
 ##### Table: Contacts Common Tasks
+| Task | Difficulty |
 |:-|:-|
 | ? | ? () |
 | ? | ? () |
@@ -117,6 +120,7 @@ This skill can also be used to make higher quality custom equipment. When doing 
 Knowledge represents your ability to recall information. It can be anything from the widely available to the potentially unknown, such as historical events, people, or organizations to secret societies, or the occult. Primarly this skill is used to recall information linked to your character's background and other skills. Recalling information outside your character's expertise is much more difficult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity.
 
 ##### Table: Knowledge Common Tasks
+| Task | Difficulty |
 |:-|:-|
 | ? | ? () |
 | ? | ? () |
@@ -185,6 +189,7 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone. While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals who don't, might respond to simple gestures that can signal basic requests. This includes commanding domesticated animals like cattle and horses.
 
 ##### Table: Wild Empathy Common Tasks
+| Task | Difficulty |
 |:-|:-|
 | ? | ? () |
 | ? | ? () |
