@@ -58,8 +58,8 @@
 - **Resources and Community**
 	- [Community](/Community)<!---->
 	- [License](/License)
-	- [Contact](/Contact)
-	- [Support Me](https://https://ko-fi.com/lkodinsson/)
+	- [Contact Info](/Contact_Info)
+	- [Support Me](https://ko-fi.com/lkodinsson/)
 ---
 - **Other Links**
 	- [Docsify](https://docsify.js.org/)

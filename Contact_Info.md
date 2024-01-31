@@ -1,6 +1,6 @@
-# Contact
+# Contact Info
 
-My name is Loki Karolius Odinsson.
+Hello! 😊 My name is Loki Karolius Odinsson.
 
 If you want to contact me you can [send me an email](mailto:tcjantzen@gmail.com?subject=RE%3AMARS).
 
