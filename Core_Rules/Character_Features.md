@@ -211,6 +211,8 @@ Paired instances of advantage and disadvantage cancel each other out. If you hav
 
 Skills fit into several categories, each one interacting primarily with different parts of the game. *General skills* affect most actions that your character takes in all parts of the game. *Combat skills* and *supernatural skills*, provide more unique benefits depending on the skill and for more niche circumstances. *Languages* are also a skill that a character has, but in most cases player characters will usually all have access to the same base language (called *common*) to simplify player to player communication.
 
+In the rules for each individual skill, they are each given a table detailing common tasks that you should expect along with that task's difficulty. Additionally, each skill is also broadly applicable to any other tasks not listed that fall within that skill's description. Some skills are very widely applicable like *athletics* and *agility* for nearly all physical tasks, *knowledge* for most mental tasks, and *charisma* for most social tasks. Other skills like *contancts* or *craft* have a much more narrow degree of application, yet can still be very useful.
+
 <sup>Click [here](/Appendix/Skills) for the rules for each individual skill.</sup>
 
 #### General Skills
@@ -219,7 +221,7 @@ The majority of skills that exist are general skills, each one fulfilling a diff
 
 #### Combat Skills
 
-Making attacks with a character requires the use of combat skills, all of which use dexterity as their associated stat: *unarmed*, *archery*, *finesse*, and *martial*. Making attacks with higher accuracy requires training, and each combat skill improves different categories of weapons. Some weapons are flexible enough that they can also be used with multiple different combat skills. Combat skills also provide characters with special abilities called *maneuvers*.
+Making attacks with a character requires the use of combat skills, all of which use dexterity as their associated stat: *unarmed*, *archery*, *finesse*, and *martial*. Making attacks with various weapons requires specialized training so each combat skill improves different categories of weapons, although some weapons are flexible enough that they can also be used with multiple different combat skills. Combat skills also provide characters with special abilities called *maneuvers*.
 
 <!-- Firearms skills? Light Firearms, Heavy Firearms? -->
 
@@ -235,8 +237,12 @@ When characters are created they are considered native speakers of their startin
 
 Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
 
-## Talents & Other Abilities
+## Talents & Special Abilities
 
 Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast the spell Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
 
 Talents are acquired similar to skills, but rather than being represented by a roll value and used with an associated stat, talents are just a special ability. Their entire function is encompassed by what you can do with them or how they modify the overall function of your character.
+
+## Traits
+
+Traits are special abilities unique to you, and are generally actions you can take or things that you possess. They provide opportunities to roleplay in a unique way and help make your character stand out from other similar characters. Traits can be mundane or supernatural, mechanical or descriptive, and they are a collaborative design decided by both you and your Game Master.

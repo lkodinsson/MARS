@@ -26,7 +26,7 @@ A debilitation is an effect that applies to one of your stats. Debilitated stats
 
 #### Dying
 
-When a character is given the dying effect they are also become unconscious. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty equal to their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and grazes count as neither a success or failure. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
+When a character is given the dying effect they also become unconscious. At the start of each turn that a character is dying, they must make a fortitude check versus a difficulty value equal to their negative health. If that character succeeds three times, they lose the dying condition, but remain unconscious. If they fail three times, they die. Criticals count as two successes, and grazes count as neither a success or failure. Successes and failures do not need to be consecutive. Stabilized characters remain at negative health. At the end of every round that a character is dying they lose one more health.
 
 ---
 
@@ -50,7 +50,7 @@ Overencumbered characters suffer the same effects as encumbered characters, but 
 
 #### Prone
 
-Prone characters are either kneeling or laying down on the ground. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage. You must spend a swift action to stand up from being prone.
+Prone characters are either kneeling or laying down on the ground. Ranged attacks against prone characters are made with disadvantage, but melee attacks are made with advantage. You must spend a one action to stand up from being prone.
 
 ---
 
@@ -62,17 +62,13 @@ For example: If you have a sickness of 3 and you take a long rest, you will reco
 
 Multiple sickness effects do not add their degree of effect together, instead only apply a penalty based on the strongest sickness effect. Multiple sources of sickness are still tracked separately.
 
-If a sickness effect does not specify a duration, that duration is assumed to be 1 week. After reaching this duration the sickened character will roll a fortitude check to resist the sickness. If successful, the degree of effect is reduced by 1. If no difficulty is specified, it is assumed to be 10 (moderate).
+If a sickness effect does not specify a duration, that duration is assumed to be 1 day. After reaching this duration the sickened character will roll a fortitude check to resist the sickness. If successful, the degree of effect is reduced by 1. If no difficulty is specified, it is assumed to be 10 (moderate).
 
 ---
 
 #### Stunned
 
-At the beginning of a stunned character's turn, they lose the stunned effect and 1 action point. Until then, stunned characters cannot perform reactions.
-
-A character can become stunned multiple times, causing them to lose more action points at the beginning of their turn. Regardless of how many times a character is stunned, they will entirely lose the stun effect when their turn begins.
-
-For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose 4 action points (their whole turn), and no longer be stunned. They may still perform an action with a speed of 0.
+At the beginning of a stunned character's turn, they lose the stunned effect and one action. Until then, stunned characters cannot perform reactions. A character can become stunned multiple times, causing them to lose more actions at the beginning of their turn. Regardless of how many times a character is stunned, they will entirely lose the stun effect when their turn begins. For example: A character manages to become stunned four times before their next turn. At the beginning of their turn they will lose four actions (more than their whole turn), and no longer be stunned. They may still perform a free action.
 
 If a character is in the middle of an action or readying an action and they become stunned, then that action becomes interrupted and will not be performed.
 
@@ -80,4 +76,4 @@ If a character is in the middle of an action or readying an action and they beco
 
 #### Unconscious
 
-Unconscious characters can perform no actions. Loud noises or other disrupting behaviour may awaken an unconscious individual. When a character becomes unconscious they also become prone.
+Unconscious characters cannot perform actions. Loud noises or other disrupting behaviour may awaken an unconscious individual. When a character becomes unconscious they also become prone.
