@@ -3,20 +3,20 @@
 - **Core Rules**
 	- [Introduction](/Core_Rules/Introduction)
 	- [Characters Features](/Core_Rules/Character_Features)
-	- [Encounters and Abilities](/Core_Rules/Encounters_and_Abilities)<!---->
-	- [Creation and Advancement](/Core_Rules/Creation_and_Advancement)<!---->
+	- [Encounters and Abilities](/Core_Rules/Encounters_and_Abilities)
+	- [Creating a Character](/Core_Rules/Creating_a_Character)<!---->
+	- [Advancing a Character](/Core_Rules/Advancing_a_Character)<!---->
 <!--	- [Sample Characters](/Core_Rules/Sample_Characters)-->
 ---
 - **Features**
-	- [Traits](/Features/Traits)<!---->
+	- [Archetypes](/Features/Archetypes)<!---->
 	- [Ancestries](/Features/Ancestries)<!---->
 	- [Backgrounds](/Features/Backgrounds)<!---->
-	- [Archetypes](/Features/Archetypes)<!---->
+	- [Traits](/Features/Traits)<!---->
+	- [Skills](/Features/Skills)
 	- [Talents](/Features/Talents)<!---->
-	- [Skills](/Features/Skills)<!---->
 	- [Maneuvers](/Features/Maneuvers)<!---->
-	- [Spells](/Features/Spells)<!---->
-<!--	- [Powers](/Features/Powers)-->
+	- [Powers](/Features/Powers)<!---->
 - **Equipment**
 	- [Currencies](/Equipment/Currencies)<!---->
 	- [Basic Goods](/Equipment/Basic_Goods)<!---->
@@ -24,18 +24,20 @@
 	- [Services](/Equipment/Services)<!---->
 ---
 - **Customization**
+	- [Custom Archetypes](/Customization/Custom_Archetypes)
 	- [Custom Ancestries](/Customization/Custom_Ancestries)<!---->
 	- [Custom Backgrounds](/Customization/Custom_Backgrounds)<!---->
-	- [Custom Archetypes](/Customization/Custom_Archetypes)<!---->
 	- [Item Crafting](/Customization/Item_Crafting)<!---->
 - **Extended Systems**
-	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
+	- [Character Flaws](/Extended_Systems/Character_Flaws)<!---->
 	- [Epic Characters](/Extended_Systems/Epic_Characters)<!---->
+	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
 ---
 - **Game Master's Guide**
-	- [World Building](/GMG/World_Building)<!---->
+	- [Running an Adventure](/GMG/Running_an_Adventure)<!---->
 <!--	- [Sample Adventures](/GMG/Sample_Adventures)-->
 - **World Systems**
+	- [World Building](/World_Systems/World_Building)<!---->
 	- [Professions and Wages](/World_Systems/Professions_and_Wages)<!---->
 - **Bestiary**
 	- [Beasts](/Bestiary/Beasts)<!---->
@@ -47,9 +49,8 @@
 	- [Glossary](/Appendix/Glossary)<!---->
 	- [Actions](/Appendix/Actions)
 	- [Conditions](/Appendix/Conditions)
-<!--	- [Spells Index](/Appendix/Spells_Index)-->
-<!--	- [Powers Index](/Appendix/Powers_Index)-->
 	- [Ancestry Abilities](/Appendix/Ancestry_Abilities)<!---->
+<!--	- [Powers Index](/Appendix/Powers_Index)-->
 	- [Equipment Properties](/Appendix/Equipment_Properties)<!---->
 	- [Expanded Tables](/Appendix/Expanded_Tables)
 ---

@@ -114,7 +114,7 @@ Body, mind, and spirit are the domains of monks. Through meditation and constant
 
 ## Ranger
 
-Some people prefer to live among nature, where insight is a key component to survival and understanding. Survival in nature requires a keen eye and a sharp mind; those who call themselves rangers have a strong ability to solve puzzles or understand complicated mysteries.
+Some people prefer to live among nature, where insight is a key component to survival and understanding. Survival in nature requires a keen eye and a sharp mind; those who call themselves rangers have a strong ability to solve puzzles or understand complicated mysteries and a personal association with nature. Rangers are often found acting as guardians or managers of a natural wildlife habitat.
 
 **Skills** [Agility](/Core/PHB.md#agility-dex) or [Athletics](/Core/PHB.md#athletics-str) (r6), [Medicine](/Core/PHB.md#medicine-int) (r6), [Perception](/Core/PHB.md#perception-dex) (r6), [Finesse](/Core/PHB.md#finesse-dex), [Martial](/Core/PHB.md#martial-dex), or [Ranged](/Core/PHB.md#ranged-dex) (r6), [Wild Empathy](/Core/PHB.md#wild-empathy-res) (r6)  
 **Maneuvers** Rangers start with one maneuver.  
@@ -150,7 +150,7 @@ Theurges are powerful spellcasters dedicated to the pursuit of occult mastery. I
 
 ## Warmage
 
-Where fighters might represent more varied martial roles, warmages are trained specifically for war. Empires prefer to employ warmages due to their affiliation with the military, rather than wizards who are more likely to seek their own interests.
+Where fighters might represent more varied martial roles, warmages are trained more specifically for war. Empires prefer to employ warmages due to their affiliation with the military, rather than wizards who are more likely to seek their own interests. While warmages lack the diplomatic tact of their fighter counterparts, they are still capable of administering general medicine.
 
 **Skills** [Athletics](/Core/PHB.md#athletics-str) (r6), [Wizardry (Enchantment or Transmutation)](/Fantasy/Skills.md#wizardry-int) (r6), [Finesse](/Core/PHB.md#finesse-dex), [Martial](/Core/PHB.md#martial-dex), or [Ranged](/Core/PHB.md#ranged-dex) (r6), [Medicine](/Core/PHB.md#medicine-int) (r6), [Perception](/Core/PHB.md#perception-dex) (r6)  
 **Maneuvers** Warmages start with one maneuver.  

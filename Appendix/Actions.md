@@ -24,9 +24,9 @@
 
 **Action Type:** One Action
 
-Make an attack on a target with one of your wielded weapons or with your bare hands. When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze or better is considered a hit.
+Make an attack on a target with one of your wielded weapons or with your bare hands. When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze, success, or critical, are all considered a hit, and a failure is considered a miss.
 
-On a hit, you then roll your weapon's damage. Damage from successful hits are reduced by the target's damage reduction. Damage from grazing hits are reduced by half (rounded up) or the target's damage reduction (whichever reduces more damage). The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
+On a hit, you then roll your weapon's damage. Damage from successful hits are reduced by the target's damage reduction. Damage from grazing hits are reduced by 5 in addition to the target's damage reduction. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
 
 Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions (such as maneuvers) except for reactions (such as by a readied action). This is known as the *multiple attack penalty*.
 
@@ -43,7 +43,7 @@ On a hit, you then roll your weapon's damage. Both grazing hits and successful h
 **Action Type:** Free Reaction  
 **Stamina Cost:** 1
 
-If you have been hit by an attack in front of you, you may use your shield to absorb the damage. If you do, the shield is considered to be hit instead of you. Any damage taken is then dealt to your shield's durability which is reduced by the block value of that shield. Just like from normal attacks, damage from grazing hits are reduced by half (rounded up) or the shield's block value (whichever reduces more damage). Critical hits do not deal bonus damage to the shield, but instead simply ignore the block value. Any on hit effects from that hit are given to your shield instead of you if possible, otherwise they cause no effect.
+If you have been hit by an attack in front of you, you may use your shield to absorb the damage. If you do, the shield is considered to be hit instead of you. Any damage taken is then dealt to your shield's durability which is reduced by the block value of that shield. Similar to normal attacks, damage from grazing hits are reduced by 5 in addition to the shield's block value. Critical hits do not deal bonus damage to the shield, but instead simply ignore the block value. Any on hit effects from that hit are given to your shield instead of you if possible, otherwise they cause no effect.
 
 If the shield would be dealt damage in excess of the shield's durability, the remaining damage is dealt directly to you as if it was damage from a successful hit, which is then reduced by your armour's damage reduction as normal (to a minimum of 1). Shields with no durability are considered broken and cannot be used to block (or parry) until they are repaired.
 
@@ -72,7 +72,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Action Time:** Reaction or Free Reaction  
 **Stamina Cost:** 1
 
-As a free reaction you may roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, the attack is considered a failure instead of a graze. After you evade, you may drop prone. Instead of dropping prone you may move up to 1m, but the evade must be done as a normal reaction (instead of a free reaction).
+As a free reaction you may roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, then the incoming attack is considered a failure instead of a graze. After you evade, you may drop prone. Instead of dropping prone you may move up to 1m, but the evade must be done as a normal reaction (instead of a free reaction).
 
 ---
 
@@ -99,7 +99,7 @@ If the terrain you are moving over is rough or difficult to navigate, then you c
 **Action Type:** Free Reaction  
 **Stamina Cost:** 1
 
-Use a wielded item with the parry feature to defend against an attack, adding its parry value to your deflection. If the incoming attack grazes against your deflection roll, it is considered a failure instead.
+Use a wielded item with the parry feature to defend against an attack, adding its parry value to your deflection. If the incoming attack grazes against your deflection roll, then the incoming attack is considered a failure instead of a graze.
 
 ---
 

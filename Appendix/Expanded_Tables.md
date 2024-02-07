@@ -23,19 +23,51 @@
 | r36 | 3d10+1d6 | 18 | 4 |
 | r38 | 3d10+1d8 | 19 | 4 |
 | r40 | 4d10 | 20 | 4 |
+| r42 | 1d12+3d10 | 21 | 4 |
+| r44 | 4d10+1d4 | 22 | 5 |
+| r46 | 4d10+1d6 | 23 | 5 |
+| r48 | 4d10+1d8 | 24 | 5 |
+| r50 | 5d10 | 25 | 5 |
+| r52 | 1d12+4d10 | 26 | 5 |
+| r54 | 5d10+1d4 | 27 | 6 |
+| r56 | 5d10+1d6 | 28 | 6 |
+| r58 | 5d10+1d8 | 29 | 6 |
+| r60 | 6d10 | 30 | 6 |
 
 <sup>Click [here](/Core_Rules/Introduction#table-roll-values) for the original table.</sup>
 
+<!--
+##### Table: Primary Stat Steps, Expanded
+| Roll Value | Step Name |
+|:-:|:-|
+| 0 | Nonexistant |
+| r2 | Powerless |
+| r4 | Terrible |
+| r6 | Weak |
+| r8 | Below Average |
+| r10 | Average |
+| r12 | Above Average |
+| r14 | Great |
+| r16 | Superb |
+| r18 | Powerful |
+| r20 | Epic |
+
+<sup>Click [here](/Core_Rules/Character_Features#table-primary-stat-steps) for the original table.</sup>
+-->
+
+<!--
 ##### Table: Outcome vs Difficulty, Expanded
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>5 (Easy)</nobr> | <nobr>0 or less</nobr> | 1~4 | 5~14 | <nobr>15 or higher</nobr> |
-| <nobr>10 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~9 | 10~19 | <nobr>20 or higher</nobr> |
-| <nobr>15 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~14 | 15~24 | <nobr>25 or higher</nobr> |
-| <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
-| <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
-| <nobr>30 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~29 | 30~39 | <nobr>40 or higher</nobr> |
-| <nobr>40 (Improbable)</nobr> | <nobr>35 or less</nobr> | 36~39 | 40~49 | <nobr>50 or higher</nobr> |
-<!--| <nobr>50 (Impossible)</nobr> | <nobr>45 or less</nobr> | 46~49 | 50~59 | <nobr>60 or higher</nobr> |-->
+| <nobr>5 (Very Easy)</nobr> | <nobr>-5 or less</nobr> | -4~4 | 5~14 | <nobr>15 or higher</nobr> |
+| <nobr>10 (Easy)</nobr> | <nobr>0 or less</nobr> | 1~9 | 10~19 | <nobr>20 or higher</nobr> |
+| <nobr>15 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~14 | 15~24 | <nobr>25 or higher</nobr> |
+| <nobr>20 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~19 | 20~29 | <nobr>30 or higher</nobr> |
+| <nobr>25 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~24 | 25~34 | <nobr>35 or higher</nobr> |
+| <nobr>30 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~29 | 30~39 | <nobr>40 or higher</nobr> |
+| <nobr>35 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~34 | 35~44 | <nobr>45 or higher</nobr> |
+| <nobr>40 (Improbable)</nobr> | <nobr>30 or less</nobr> | 31~39 | 40~49 | <nobr>50 or higher</nobr> |
+| <nobr>50 (Impossible)</nobr> | <nobr>40 or less</nobr> | 41~49 | 50~59 | <nobr>60 or higher</nobr> |
 
 <sup>Click [here](/Core_Rules/Character_Features#table-outcome-vs-difficulty) for the original table.</sup>
+-->

@@ -34,7 +34,7 @@ Basically, you count the number of tens in the roll value, then roll that many t
 
 Roll values can also be estimated using what is called a *passive value*, which is equal to half of the roll value, plus or minus the modifiers. This value is always slightly below your average expected roll, making it a useful tool for estimating what you can expect to roll above. For example: A roll value of 22 would have a passive value of 11. If it was r22+2, then it would have a passive value of 13.
 
-Whenever you add multiple roll values together, they merge into a combined roll value. For example: *r14* plus *r8* equals *r22*.
+Whenever you use multiple roll values at once you do not roll them separately. Instead you add them together and they merge into a combined roll value. For example: *r14* plus *r8* becomes *r22*.
 
 <!--
 ### Stats
@@ -56,16 +56,26 @@ Traits are unique abilities that usually only belong to a single character. They
 
 ## Playing the Game
 
-Typically game sessions go as follows: the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses to the next scene. Through the act of description and exposition, your characters and the world they inhabit become alive.
+Typically in a game session the Game Master describes the scene, the players describe their actions, the Game Master describes the results of those actions, and then the game progresses to the next scene. Through the act of description and exposition, your characters and the world they inhabit become alive.
 
-It is important to focus more on describing what it is your character does, rather than declaring the exact game action your character takes. It is more up to the Game Master to decide what actual game actions you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game.
+It is important to focus more on describing what it is your character does, rather than declaring the exact game action your character takes. It is more up to the Game Master to decide what actual game actions you perform, or what skill is required to overcome a challenge. This provides more freedom to narrate your character's intentions, rather than strictly adhering to gamified actions like a traditional board game. While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Dice may be rolled to determine the outcome of that action if the outcome is uncertain or failure carries potential consequence. The Game Master is otherwise responsible for deciding the results of your actions.
 
-While describing what your character does, try not to detail the results of your character's actions, only the actions themselves. Dice may be rolled to determine the outcome of that action if the outcome is uncertain or failure carries potential consequence. The Game Master is otherwise responsible for deciding the results of your actions.
+Often you will need to make numerical comparisons or add and subtract small values. If at any point during the game you are required to divide any numbers, the resulting number is always rounded down unless otherwise specified.
 
-If at any point during the game you are required to perform math that results in a decimal, that number is always rounded down unless otherwise specified.
+#### Archetypes, Backgrounds, and Ancestries
+
+Each character is made out of various parts that each define who they are, what they do, what they know, and where they come from. Archetypes provide the bulk of what a character is capable of, while their background and their ancestry primarily determine their history. Each of these properties come together to influence many of your character's stats which determine how well they can perform their various abilities.
+
+#### Traits and Motivations
+
+When you create a character you also get to design two unique properties of that character. Traits are abilities that only your character can perform, and motivations are the reason your character takes any actions at all. Together these features work to provide a unique play experience, even if your character shares the same archetype, background, and/or ancestry as another.
+
+#### Adventures and Rewards
+
+Each adventure that character participates in is both prepared by and controlled by the Game Master. The goal of an adventure is to provide both risks and opportunities for characters to express themselves by rising to the challenges presented. In addition to the various material rewards like treasures and special items, acting according to your character's motivation also provides bonus experience both to you and another character. Experience points can then be spent to improve and acquire new abilities.
 
 ## Genres
 
-There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more.
+There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more. Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*. These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
 
-Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*. These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
+Various parts of the game's content such as playable character archetypes, backgrounds, and ancestries, will have genres listed next to their entries to signal their intended play genre. However, this is not a hard limitation and Game Masters are free to mix and match any of the game's content as they see fit.

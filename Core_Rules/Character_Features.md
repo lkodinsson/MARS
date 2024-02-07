@@ -6,7 +6,7 @@ Stats are numerical and fundamental properties of a character, especially physic
 
 ### Primary Stats
 
-Each character has four *primary stats* which are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20.
+Each character has four *primary stats* which are used to derive other stats and abilities. These stats are: *strength*, *dexterity*, *intelligence*, and *resolve*. All primary stats are represented by roll values usually ranging from r8 to r20, with characters starting with values ranging from below average (r8) to above average (r12).
 
 ##### Table: Primary Stat Steps
 | Roll Value | Step Name |
@@ -19,7 +19,9 @@ Each character has four *primary stats* which are used to derive other stats and
 | r18 | Powerful |
 | r20 | Epic |
 
-Characters typically start with stats ranging from below average (r8) to above average (r12).
+<!--
+<sup>Click [here](/Appendix/Expanded_Tables#table-primary-stat-steps-expanded) for an expanded table.</sup>
+-->
 
 <!--
 ### Strength (STR)
@@ -141,6 +143,8 @@ Size is measured in size categories. Most characters will normally be considered
 | Huge | 3m~4m | 150kg~500kg | +3 | -2 | +1 |
 -->
 
+## Archetypes
+
 ## Skills
 
 Skills represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill together whenever they are performed.
@@ -174,26 +178,34 @@ Challenges exist at various difficulties represented by a name and a value. The 
 ##### Table: Challenge Difficulties
 | Difficulty<br/>Value | Difficulty Name |
 |:-:|:-|
-| 5 | Easy |
-| 10 | Moderate |
-| 15 | Hard |
-| 20 | Challenging |
-| 25 | Ambitious |
-| 30 | Absurd |
+| 5 | Very Easy |
+| 10 | Easy |
+| 15 | Moderate |
+| 20 | Hard |
+| 25 | Challenging |
+| 30 | Ambitious |
+| 35 | Absurd |
 | 40 | Improbable |
 <!--| 50 | Impossible |-->
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 5 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: sometimes it is a success with a cost or a failure with a positive benefit. Typically when characters interact, one is rolling to set the difficulty value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 10 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: often it is a success with a cost but it can sometimes be failure with a positive benefit. Typically when characters interact, one is rolling to set the difficulty value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
 
-##### Table: Outcome vs Difficulty
+##### Table: Outcome vs Difficulty, Expanded
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>10 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~9 | 10~19 | <nobr>20 or higher</nobr> |
-| <nobr>15 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~14 | 15~24 | <nobr>25 or higher</nobr> |
-| <nobr>20 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~19 | 20~29 | <nobr>30 or higher</nobr> |
-| <nobr>25 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~24 | 25~34 | <nobr>35 or higher</nobr> |
+| <nobr>5 (Very Easy)</nobr> | <nobr>-5 or less</nobr> | -4~4 | 5~14 | <nobr>15 or higher</nobr> |
+| <nobr>10 (Easy)</nobr> | <nobr>0 or less</nobr> | 1~9 | 10~19 | <nobr>20 or higher</nobr> |
+| <nobr>15 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~14 | 15~24 | <nobr>25 or higher</nobr> |
+| <nobr>20 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~19 | 20~29 | <nobr>30 or higher</nobr> |
+| <nobr>25 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~24 | 25~34 | <nobr>35 or higher</nobr> |
+| <nobr>30 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~29 | 30~39 | <nobr>40 or higher</nobr> |
+| <nobr>35 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~34 | 35~44 | <nobr>45 or higher</nobr> |
+| <nobr>40 (Improbable)</nobr> | <nobr>30 or less</nobr> | 31~39 | 40~49 | <nobr>50 or higher</nobr> |
+<!--| <nobr>50 (Impossible)</nobr> | <nobr>40 or less</nobr> | 41~49 | 50~59 | <nobr>60 or higher</nobr> |-->
 
+<!--
 <sup>Click [here](/Appendix/Expanded_Tables#table-outcome-vs-difficulty-expanded) for an expanded table.</sup>
+-->
 
 <!--
 ### Skill Duration
@@ -205,13 +217,13 @@ While most basic skills and actions can be performed in a matter of a couple sec
 
 Occasionally, circumstance, clever roleplaying, or the use of one of your abilities will provide you with *advantage*. For each source of advantage you have to a roll, you may reroll a die of your choice and keep the better result. *Disadvantage* works similarly to advantage, but instead of keeping the better result you must keep the worst result. The die that you reroll when you have disadvantage is the die with the greatest result.
 
-Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require amount of disadvantage to entirely cancel out.
+Paired instances of advantage and disadvantage cancel each other out. If you have multiple sources granting advantage, it would require an equal amount of disadvantage to entirely cancel out.
 
 ### Types of Skills
 
-Skills fit into several categories, each one interacting primarily with different parts of the game. *General skills* affect most actions that your character takes in all parts of the game. *Combat skills* and *supernatural skills*, provide more unique benefits depending on the skill and for more niche circumstances. *Languages* are also a skill that a character has, but in most cases player characters will usually all have access to the same base language (called *common*) to simplify player to player communication.
+Skills fit into several categories, each one interacting primarily with different parts of the game. *General skills* affect most actions that your character takes in all parts of the game. *Combat skills*, *power skills*, and *spellcasting skills* all provide different special abilities depending on the skill and for more niche circumstances. *Languages* are also represented by a skill that a character has, but in most cases player characters will all have access to the same base language (called *common*) to simplify player to player communication. 
 
-In the rules for each individual skill, they are each given a table detailing common tasks that you should expect along with that task's difficulty. Additionally, each skill is also broadly applicable to any other tasks not listed that fall within that skill's description. Some skills are very widely applicable like *athletics* and *agility* for nearly all physical tasks, *knowledge* for most mental tasks, and *charisma* for most social tasks. Other skills like *contancts* or *craft* have a much more narrow degree of application, yet can still be very useful.
+In the rules for each individual skill, they are each given a table detailing common tasks that you should expect along with that task's difficulty. Additionally, each skill is also broadly applicable to any other tasks not listed that fall within that skill's description. Some skills are very widely applicable like *athletics* and *agility* for nearly all physical tasks, *knowledge* for most mental tasks, and *charisma* for most social tasks. Other skills like *contacts* or *craft* have a much more narrow degree of application, yet can still be very useful.
 
 <sup>Click [here](/Appendix/Skills) for the rules for each individual skill.</sup>
 
@@ -225,23 +237,37 @@ Making attacks with a character requires the use of combat skills, all of which 
 
 <!-- Firearms skills? Light Firearms, Heavy Firearms? -->
 
-#### Supernatural Skills
+#### Power Skills
 
-Supernatural skills represent the ability to perform special abilities outside of the scope of normal physical interactions. This can mean casting spells, psychic projection, or even super hero powers: *animism*, *faith*, *ki*, *sorcery*, and *wizardry*. These types of skills have the most uniquely powerful effects but also the most advanced rules.
+*Powers* are special abilites that allow you to perform supernatural feats beyond the normal physical limitations of your character. They either are an extension of the mind or the body: *psionics* or *super*. These abilities are both acquired and performed similar to maneuvers like from combat skills. Power skills each have their own special rules, making these types of skills the most complicated but also versatile skills available to characters. Each of these skills also come with their own sub-categories called specializations to further differentiate characters and their abilities.
 
-<!-- Psionics, Powers -->
+#### Spellcasting Skills
+
+Powers also come in another form called *spells* which are performed by spellcasting skills: *animism*, *faith*, *ki*, *sorcery*, and *wizardry*. Both spells and spellcasting skills operate the same as powers and power skills, but with one minor difference: the manifestation of these powers come from a magical source instead of being an extension of your physical body. This means that while spells are considered magical, the normal powers are not. Various other powers and abilities will interact differently with each other depending on whether they are magical or non-magical.
 
 #### Languages
 
+?
+
+<!--
+*Languages* are also represented by a skill that a character has, but in most cases player characters will all have access to the same base language (called *common*) to simplify player to player communication.
+
 When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
 
-Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a Language check. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
+Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a skill check with that language. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
+-->
 
-## Talents & Special Abilities
+## Ancestries
 
-Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast the spell Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+?
 
-Talents are acquired similar to skills, but rather than being represented by a roll value and used with an associated stat, talents are just a special ability. Their entire function is encompassed by what you can do with them or how they modify the overall function of your character.
+## Backgrounds
+
+?
+
+## Talents
+
+Talents are acquired similar to skills, but rather than being represented by a roll value and used with an associated stat, talents are just a special ability. Their entire function is encompassed by what you can do with them or how they modify the overall function of your character. Archetypes which define the basis of a character's abilities will automatically provide one or two talents to new characters.
 
 ## Traits
 

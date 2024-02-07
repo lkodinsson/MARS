@@ -26,7 +26,7 @@ Each round represents about six seconds in the game world, meaning there are 10 
 In other cases, encounters which can be better described as complex challenges do not require an exact duration of a player's turn. Instead, there is simply a series of challenges to overcome in a given time frame. In this way, players are simply performing a serious of skill checks in addition to any other minor actions (assuming all player's spend roughly the same amount of time.)
 
 <!-- The most basic combat scenarios may be considered complex challenges rather than tactical combat encounters if the results of that combat have minimal consequences. This can allow those combats to be more narrative than tactical. In these situations it is more common for simple enemies to go down in a single hit, while elite enemies will require more significant damage before becoming defeated. -->
-<!-- The above information is probably more useful in a GMG than here. -->
+<!-- The above information is probably more useful in a GMG rather than here. -->
 
 ## Actions
 
@@ -38,13 +38,21 @@ Actions provided from sources like from skills, talents, maneuvers, or spells, w
 
 <sup>Click [here](/Appendix/Actions) for the list of actions.</sup>
 
+Under normal circumstances you will dictate what you do rather than specifying the exact game action you take. In the case of talents or other special abilities, these aspects of your character are more under you control. Instead you declare exactly what ability you are using, and then describe what your character does as it performs that action. For example: You might say, *"I jump across the pit,"* which may require you to roll an athletics check to succeed. Alternatively, you could instead say, *"I cast the spell Feather Fall then jump across the pit,"* and it might make it easy enough that you don't need to roll at all.
+
 #### Group Actions
 
 Sometimes multiple players will want to perform the same type of action. In this case, they will all roll the same skill check for that action, but only the best or worst (depending on the circumstance) result will be used. For example: If multiple characters are searching a room for an secret door or hidden object, only one of them needs to succeed. However, if multiple characters are trying to remain quiet to not be detected, all of them may need to succeed.
 
+## Concentration
+
+Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
+
+Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If successful, the concentration is maintained. If the source does not have a difficulty value, then make the check against a difficulty of 15 instead. On a graze, concentration to maintain that effect is reduced to a limited duration of one round (or 6 seconds). If so, the concentration can be reset by reactivating the ability which provided the effect before the duration is met.
+
 ## Damage
 
-When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by their damage reduction or by half if the hit that dealt damage was a graze (whichever reduces more damage). No matter how much damage reduction a character has, the minimum amount of damage they must take is 1. Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are only given the unconscious condition.
+When a character is hit by an attack, trap, or by any means, they will take damage. Before any damage is dealt, it is reduced by the character's damage reduction. No matter how much damage reduction a character has, the minimum amount of damage they must take is 1. Any damage dealt to a character is taken first to their endurance, and then the difference to their health if no endurance remains. When a character is dealt damage, if they would then have zero endurance and are reduced to less than zero health (health can be negative), that character is given the dying condition. If they are reduced to exactly zero health, they are only given the unconscious condition.
 
 Attacks made by weapons with the nonlethal feature cause a creature to be given the unconscious condition instead of the dying condition when applicable. If nonlethal attacks bring a character to negative health equal to their maximum health, then they are given the dying condition.
 
@@ -64,82 +72,82 @@ Temporary conditions that alter your primary stats, do not also alter your resou
 
 In contrast, permanent condition that alter your primary stats do alter your resource stats. For example: If you were given a permanent disease or injury giving you a -2 to your strength, then you would need to reduce your maximum health (as well as your athletics, fortitude, and damage rolls).
 
-## Concentration
-
-Some abilities or effects may require you to maintain *concentration*. Concentration can only be used to maintain a single ability or effect at a time. If at any point you are required to maintain concentration on multiple effects at once, you must choose one to maintain and the rest to lose. In a way concentration acts like a limited resource, but you never lose the ability to concentrate by spending it.
-
-Concentration requires an active and conscious mind. If at any point you become unconscious, you automatically lose your concentration. If you become stunned, you may make a willpower check against the source that provided the stun. If successful, the concentration is maintained. If the source does not have a difficulty value, then make the check against a difficulty of 10 instead.
+<sup>Click [here](/Appendix/Conditions) for the list of conditions.</sup>
 
 ## Maneuvers
 
-Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers.
+Maneuvers are special abilities acquired by advancing combat skills. Each combat skill has access to different maneuvers, each being considered maneuver specialization. Maneuvers have various types: *offensive*, *defensive*, or *tactical*. Typically, offensive maneuvers perform attacks, defensive maneuvers defend yourself or others, and tactical maneuvers provide special actions.
 
-### Acquiring Maneuvers
+<sup>Click [here](/Features/Maneuvers) for the list of maneuvers.</sup>
 
-Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. These specializations match the combat skills. You gain additional maneuvers for every two rank advancements beyond the first rank in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could also be learned by that skill.
+<!--
+#### Acquiring Maneuvers
 
-For example: You advanced your Unarmed skill and learned Heavy Strike. Since you are also trained in Martial, you can also use Heavy Strike with the Martial skill.
+Whenever you become trained in a new combat skill, you acquire a maneuver from that specialization. These specializations match the combat skills. You gain additional maneuvers for every two rank advancements beyond the first rank in the same skill. Maneuvers cost stamina and can only be used once each round. Any characters that start with combat skills also start with maneuvers based on their advancement in that skill. Maneuvers gained from advancing one combat skill can be used by your other combat skills, so long as they could also be learned by that skill. For example: You advanced your Unarmed skill and learned Heavy Strike. Since you are also trained in Martial, you can also use Heavy Strike with the Martial skill.
 
-Click [here](/Core/Maneuvers.md) for the list of maneuvers.
+<sup>Click [here](/Features/Maneuvers.md) for the list of maneuvers.</sup>
+-->
 
-Maneuvers also have a listed type, which can be one of: *offensive*, *defensive*, or *tactical*. Typically, offensive maneuvers perform attacks, defensive maneuvers defend yourself or others, and tactical maneuvers provide special actions.
+#### Performing Maneuvers
 
-### Performing Maneuvers
+Normally, before a maneuver can be performed it must first be learned by advancing the relevant combat skill. This occurs both during character creation and later during character advancement. Performing a maneuver usually has two parts: an attack and an effect. Each maneuver will list the order these things occur and how they interact with the target. Effects can be resisted by the target similar to how attacks can be defended. They will roll the stat or skill listed for the resist against your attack roll. If your attack roll grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise the effect is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made against the target even if they resist the effects of the maneuver. For example: You perform a Crippling Strike against a target. First you make an attack, then if the attack hits, the target rolls to resist. If your maneuver's roll to hit is a 12 and the defender's resist is a 13, the maneuver grazed against their resist. Crippling Strike's effect only lasts 1 round instead of 2.
 
-When you perform a maneuver on a target it may have a chance for the target to resist the effects of that maneuver. They will roll the skill or stat listed to make an opposed check against your attack roll. If the attacker grazes against the resist, the effects are applied at half duration (if any, rounded down). Otherwise it is simply considered a failure instead, and the defender suffers no effects. Any attacks are still made on the target even if they resist the effects of the maneuver.
+#### Improvising Maneuvers
 
-For example: You perform a Crippling Strike against a target. First you make an attack, then if the attack hits or grazes, the target rolls to resist. If your maneuver's roll to hit is a 12 and the defender's resist is a 14, the maneuver grazed against their resist. Crippling Strike's effect only lasts 1 round instead of 2.
+Although maneuvers must normally be learned in order to use, you may also improvise unlearned maneuvers. If you do improvise a maneuver, you perform the maneuver as normal but with an additional cost of your choice: either the stamina cost is increased by 1, or the action type is reduced by one action (if possible). For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so it takes two actions instead of one action to use.
 
-### Improvising Maneuvers
+In essence, all maneuvers are generally available to all characters, but doing so is very inefficient for the untrained. There are very few maneuvers that cannot be improvised.
 
-Although maneuvers must normally be learned in order to use, you may also improvise maneuvers. If you do improvise a maneuver, you perform the manuever as normal but with an additional cost of your choice: either the stamina cost is increased by 1, or the action speed is increased by 1 if it was from 0 to 2.
+## Powers
 
-For example: You do not have the Feint maneuver, but intend to improvise it. You do not want to waste any stamina, so you perform it at a speed of 2 instead of 1.
+Powers function very similarly to maneuvers, but are instead manipulations of reality using either magic or some other kind of supernatural influence. There are various different skills that provide powers and each skill has its own list of specializations that have access to different abilities. Many of these specializations do share some of these abilities which means different sources can provide what are essentially the same supernatural effects, even if one is magic and the other not.
 
-## Supernatural Abilities
+<sup>Click [here](/Features/Powers) for the list of powers.</sup>
 
-### Acquiring Supernatural Abilities
+#### Performing Powers
 
-### Performing Supernatural Abilities
+Although there are many different ways to acquire powers they are all performed the same way:
 
-## Resting
+1. Wait for the complete action time required to use the power.
+2. Roll your skill and stat versus the power's difficulty.
+3. Regardless of success, spend focus equal to that power's cost.
+4. The targets (if any) may roll to resist the effects of that power (if allowed).
+5. Perform the effects of that power based on your degree of success versus the target's resist.
 
-At some point during an adventure you may find yourself low on your resources (health, endurance, stamina, and focus). In order to restore these resources, you need to rest. There are two different types of rest: the short rest and the long rest. Depending on the type of rest performed, you will recover a different amount of spent resources.
+Most powers have varying degrees of success based on how well you rolled the same as normal skill checks: *failure*, *graze*, *success*, and *critical success*. Regardless of your degree of success, you may choose to downgrade the success of your ability (your roll is still the same, but you can choose a lower success category). Failure to perform an ability not only causes it to not perform its intended effect, but also causes additional unintended effects. The exact nature of these effects are determined by the Game Master based on the ability attempted. The lowest degree of success you can choose to perform is a graze (you cannot choose to downgrade to a failure). <!--If a power does not specify reduced effects as a graze, then grazes are considered failures instead.-->
 
-##### Table: Rest Recovery Rates
-| Resource | Short Rest | Long Rest |
+If the targets of your power choose to resist, they roll the appropriate stat or skill as specified by that power against the roll you already made to use it. If the targets of that power are granted future opportunities to resist, they will continue to roll resist checks against that same value. Unless a power states otherwise, if it grazes against a resist roll, all effects are negated. Powers that deal damage typically deal reduced damage when grazing against a target's resistance (like attacks) with all other effects being negated.
+
+Additional powers used during the same turn get a -3 penalty for each power used before it in the same turn. This is known as the *multiple power penalty*. Powers used as a reaction are exempt from this penalty (such as by a readied action).
+
+## Recovering
+
+At some point during an adventure you may find yourself low on your resources, and you will need to spend time recovering. There are two different ways to recover: *breaks* and *rests*. Each method will recover a different amount of your spent resources.
+
+##### Table: Recovery Rates
+| Resource | Break | Rest |
 |:-|:-:|:-:|
 | Health | None | 1 |
-| Endurance | Min FORT | Max FORT ×½ |
-| Stamina | Min INIT | Max INIT ×½ |
-| Focus | Min WILL | Max WILL ×½ |
+| Endurance | Minimum Fortitude | Passive Fortitude |
+| Stamina | Minimum Initiative | Passive Initiative |
+| Focus | Minimum Willpower | Passive Willpower |
 
-You can calculate the minimum of a stat by counting the number of dice you would roll and then adding any bonuses.
+You can calculate the minimum by counting the number of dice you would roll plus or minus any modifiers. Similarly, the passive value is half of the roll value plus or minus any modifiers. For example: If you have a fortitude of r22+1, that would be a ten-sided-die and a twelve-sided-die. Two dice plus the modifier of 1 results in a minimum roll that is 3. Half of the roll value is 11 plus the modifier of 1 results in a passive value of 12.
 
-For example: If you have a Fortitude of r22+1, that would be a ten-sided-die and a twelve-sided-die. Two dice plus the modifier of 1 results in a minimum roll that is 3. 
+If the amount of a resource recovered would be greater than the maximum amount you can have of that resource type, it will recover up to your maximum instead. For example: If you have a maximum stamina of 10, but your passive initiative is 12, then you will only ever recover up to 10 stamina during a rest.
 
-If the amount of a resource recovered during a rest would be greater than the maximum amount you can have of that resource type, it would recover that amount instead.
+#### Breaks
 
-For example: If you have a maximum Stamina of 10, but half your maximum Initiative is 12, then you will only ever recover up to 10 Stamina during a long rest.
+A break is basically a short amount of time to relax from strenuous activity. Whenever you go to relax, meditate, or make simple preparations over a period of thirty minutes to an hour, that may be considered a break. An extended period up to about two hours containing a single simple activity, such as performing research or crafting an item with a very low difficulty (of 5 or less) can also be considered a break.
 
-#### Short Rest
+Breaks can only be taken up to two times each day (in between rests).
 
-A short rest is basically a break from strenuous activity. Whenever you take a break to relax, meditate, or make preparations over a period of thirty minutes to an hour, that may be considered a short rest.
+Characters can only physically rest so often and are limited to a number of rests per day. A long rest is effectively sleep and each character must take one long rest each day.  Short rests are optional, and a character may take up to two short rests each day.
 
-An extended period up to about two hours containing a single simple activity, such as performing research or crafting an item with a very low difficulty (of 5 or less) can also be considered a short rest.
+#### Rests
 
-#### Long Rest
+A rest occurs when you sleep uninterrupted for approximately eight hours. If a rest is interrupted part way, then it is considered incomplete and only half of the normal resources are recovered instead. The rest may be resumed within two hours to complete the rest and recover the remaining resources. For the purpose of recovering resources, any breaks not taken during the day are also considered to be taken during the rest, and any abilties that can be used a number of times per rest are also restored after a complete rest. For example: If you took a single break (of the two permitted), then took a rest at the end of the day, you would recover your resources during that rest as if it was combined with the remaining break. If you didn't take any breaks during the day, then it would be as if you took two breaks and rested at the same time.
 
-A long rest requires about eight hours of sleep. If a long rest is interrupted part way, then it is considered incomplete and only half of the normal resources are restored. The long rest may be resumed to restore the remaining resources.
+Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of another character before they take a rest by using the medicine skill against a difficulty of 15 (Moderate). This is increased to 20 (Hard) if that character currently has negative health. If successful, the amount of health that character recovers during that rest is increased by 1 (to 2).
 
-Characters with substantial wounds will require substantial rest to recover. Characters may treat the wounds of a character performing a long rest by using the medicine skill against a difficulty of 10 (Moderate). This is increased to 15 (Hard) if they have negative health. If successful, the amount of health that character recovers during that long rest is increased by 1 (to 2).
-
-Abilties that can be used a number of times per rest are restored after a complete long rest.
-
-For the purpose of recovering resources, any short rests not taken during the day are considered taken during a long rest.
-
-For example: If you took a single short rest (of the two permitted), then took a long rest at the end of the day, you would recover your resources during that long rest as if it was combined with an additional short rest. If you didn't take any short rests during the day, then it would be as if all of your rests were combined.
-
-#### Rest Limitations
-
-Characters can only physically rest so often and are limited to a number of rests per day. A long rest is effectively sleep and each character must take one long rest each day. Tracking exhaustion for sleepless nights is an [optional rule](/Advanced/AdvancedAilments.md#fatigue). Short rests are optional, and a character may take up to two short rests each day.
+Rests can only be taken once each day (usually at night). Tracking exhaustion for sleepless nights is an [optional rule](/Extended_Systems/Advanced_Ailments#fatigue), but it is recommended.
